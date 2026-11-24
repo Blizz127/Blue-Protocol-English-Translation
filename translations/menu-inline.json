@@ -1,0 +1,1293 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "key_sha256": "01d2c96efdaa1690180117b58b0580686c8d7083e50d982a708b9dea684dde39",
+      "english": "Suppress UI Interruptions"
+    },
+    {
+      "key_sha256": "0231da352e57d6b44f3885cb92bff331c51f43164867b6cd7c1cd65abba1a777",
+      "english": "Ability Type"
+    },
+    {
+      "key_sha256": "026212a904d09b2cbb8a2a6f43e9e6c3eff99b5bf26737dfeca116382866f3b5",
+      "english": "You can unlock it from My Page\non the official website"
+    },
+    {
+      "key_sha256": "038777d7f4264124f249e552e93fcb89a9013b98b79320ab4ceb1a76159d23cb",
+      "english": "Size"
+    },
+    {
+      "key_sha256": "045aa6e65ab69238e2054944f8332164c4b9c2f237ee0e834a6fce525dbe2638",
+      "english": "View Probabilities"
+    },
+    {
+      "key_sha256": "04d7f300986de38858644c6d99be7d0047be6692707a8c07feaff2d298a9b822",
+      "english": "Expression"
+    },
+    {
+      "key_sha256": "05086d40a27336033097a13d306f8e45e934f1a6e15d65b12fa6dc30198e8315",
+      "english": "Increased Number of Items Obtained from Treasure Chests"
+    },
+    {
+      "key_sha256": "0564e5fa23272c3768edf5372e65589e6eaf789edc5fd25f90aba1a05248ff4a",
+      "english": "Active Enemies:"
+    },
+    {
+      "key_sha256": "05f15eeb62be2d5d015e0cce735e8ea01e9c533d076fa09b068d6d6ccaa125d8",
+      "english": "0 min remaining"
+    },
+    {
+      "key_sha256": "099327dfb0db9a06ba72de4502670a6a0503cc230c06aec5ac3dff165fdb73d2",
+      "english": "Description of On-Screen Elements"
+    },
+    {
+      "key_sha256": "0a47866210ffb33715a7ad5f5ecef6c1b9c1fe59fdd8f99804b570d3bfd17c28",
+      "english": "Preparing to Craft"
+    },
+    {
+      "key_sha256": "0a9f36de91d23d586737c2f8be44af39f923a0f1f65199c3809807e057bfa5e3",
+      "english": "Tickets Required"
+    },
+    {
+      "key_sha256": "0b01ac046fc2f7c78bc7caba4d4c40ddda3581c9c87eeb8fc0385382db28b662",
+      "english": "Facing"
+    },
+    {
+      "key_sha256": "0c172dae794e72f6287ab0fd5b357b2fec9df405f6c7726695d409d73f567663",
+      "english": "Disable Speech Bubbles"
+    },
+    {
+      "key_sha256": "0de61b1b84673bcd115683b72db8e0ca989e2aa993ae063e815f35bc46f6b8aa",
+      "english": "Paid Only"
+    },
+    {
+      "key_sha256": "0f020b143535d8f0b426e836f69d3a201591ca464a547c1ed291bf951cbefe7f",
+      "english": "※Rankings may take some time to update.\n※Tied records are displayed in the order they were received."
+    },
+    {
+      "key_sha256": "0fd1bc0e35f497504358fdebb79eebac4f243e3e8542ab392418db1eac694ab9",
+      "english": "6 digits"
+    },
+    {
+      "key_sha256": "10d50d8f65938e3ca1022edf3d64b867493c66546f2ba42d390dd3f11cb00882",
+      "english": "Premium Shop"
+    },
+    {
+      "key_sha256": "1186837e06e3a7d2a990b60f5c321246348a247cebebf0e345d6de555f446e56",
+      "english": "Enter via the\nCommand Menu!"
+    },
+    {
+      "key_sha256": "13da3f48fde5e3a72756644dc60a5783f7b878d89749c2b3e62eecf4c556b755",
+      "english": "Sudden Death Arena"
+    },
+    {
+      "key_sha256": "147d6ec01f39c9893f80d3cf0b3c788a1c6c0a38f30fb93fb543f15eaeede64e",
+      "english": "Paid Only"
+    },
+    {
+      "key_sha256": "1492b487cad5ae3d589fa699adcd807b790d28faa6832d261b7810dc115c8da4",
+      "english": "Unlock Chance on Great Success"
+    },
+    {
+      "key_sha256": "15b0e522228ba9fe1335dc1fdc570a650dd4789a4af3db5b9f1e74d7db941176",
+      "english": "Completion Reward"
+    },
+    {
+      "key_sha256": "16d49a74eb74919c5a496d928e7a9be2e49abdd458bb176b3bd897593f3c89f1",
+      "english": "Show Base Plate"
+    },
+    {
+      "key_sha256": "17b5936d3af7f1a98fdc7e9a73659b281fc272e98d9a147ebbc364835934bccc",
+      "english": "※You cannot use a coupon you issued yourself.\r\n※Please do not paste coupons into chat."
+    },
+    {
+      "key_sha256": "18274849656a10dfd3f67a8c7aa721089aa91da527f795d6d7e013a2d8056742",
+      "english": "[Left Click] Reel in  [A/D] Tilt the rod left/right"
+    },
+    {
+      "key_sha256": "18d7818eb9705072293e889c7d0f5689b8e9b733483b0fecfba81ef373c54ce5",
+      "english": "Equipment effect active: {name}"
+    },
+    {
+      "key_sha256": "19df3732ba18d461caa1cce097085e48b1462dc51cea1be7552bb4ba79a8e0c3",
+      "english": "Description"
+    },
+    {
+      "key_sha256": "1a10744c8207fddc323d920303b92a872babd0ac749c1c4be1dc1a0cb102f3d3",
+      "english": "Suggested Battle Score"
+    },
+    {
+      "key_sha256": "1a7a248a9943a412b3272f555cc28c797b90c8712df805b94b7d4ff87a541248",
+      "english": "Can only be changed in Options on the title screen."
+    },
+    {
+      "key_sha256": "1a826336ee950984908eda00317b4ab581036ba94274e9cb5a8cbc5fc547f16e",
+      "english": "Show a confirmation dialog when exiting Photo Mode"
+    },
+    {
+      "key_sha256": "1ac7449730ca50b8b7d265222d5327ab67e13fcc8d1ed1844a2c46e4cc959096",
+      "english": "Like Button Hidden"
+    },
+    {
+      "key_sha256": "1ad1f3d24ff6f87329418b8f32dfb6c9f5e69b51489b64b1e9ac10ef9c9b6702",
+      "english": "You can save, edit, and load Battle Sets.\r\nFrom the Command Menu, you can load only items stored in your Equipment Bag."
+    },
+    {
+      "key_sha256": "1ce6b4135c8f4608947af554d49f5cd7a7a436e67a137123dfeef66c63b80d03",
+      "english": "Clear Reward Effect 2x"
+    },
+    {
+      "key_sha256": "1dd3c834e1eece7453efdd1ec7febcb8a554c3ffe4aa440559112381db115e31",
+      "english": "Complete Point Quests to raise your rank\nand earn rewards."
+    },
+    {
+      "key_sha256": "202bb34e7b5be94d9a588156b329ffc7f7f2a6cdd9d6a1a30718085a09c7185e",
+      "english": "Confirm Purchase"
+    },
+    {
+      "key_sha256": "20c6ed6e5bdaa116e0e0f8f66e44eaa39e2e1d38c6d71ec6a6512689fa231da7",
+      "english": "Cannot be combined with other tickets"
+    },
+    {
+      "key_sha256": "22ef833cc89dc0bb1edf4942eabf316a84fcaf65e21f6b5669c71ad6c5f0add2",
+      "english": "Server not found"
+    },
+    {
+      "key_sha256": "2353975451bd70ac8ed438d8154ea9de5d7440a393c1d18eec49c9782f19a20a",
+      "english": "Create Avatar"
+    },
+    {
+      "key_sha256": "23c2342407167305a2f5bf4a4bda36f4560eef56ac0c0b2ea902263b8541a7fa",
+      "english": "Processing"
+    },
+    {
+      "key_sha256": "2604fa917f5fce58d844c85e4c3224ce0feff69d482d2ef8affa0b0fdbfc5ace",
+      "english": "Craft Items and Enhance Weapons"
+    },
+    {
+      "key_sha256": "26719b1d615211a87969452a71f2209560cf629860712baf47a70ae2539a4825",
+      "english": "Sales Deadline"
+    },
+    {
+      "key_sha256": "268b43d096bdc4a626eb510e6ad6c6538bc5b5ddc4bff2af87569edfee26b7f6",
+      "english": "↑Unread Messages"
+    },
+    {
+      "key_sha256": "26b01bf2d243db3ca7fe2ad159c04014538a67c0b8319d7c1678041615f6ab3a",
+      "english": "Use materials and engrams\nto create new weapons and items"
+    },
+    {
+      "key_sha256": "26b3b0fe1f1756d39cb0e679b4dfb9219848912f84add8d8fa39d3941d0f9f02",
+      "english": "Cannot start because the entry requirements are not met."
+    },
+    {
+      "key_sha256": "277550368b0923eb3353babb58868aa9d10266111da3711cb45531cc2e3a4865",
+      "english": "Turn this feature ON?"
+    },
+    {
+      "key_sha256": "2827e3098da349486d8a5459ef6e9ec3e5e181f7240d5e046c3cb6861d752d83",
+      "english": "Sale proceeds"
+    },
+    {
+      "key_sha256": "29bf1aa1bb3a6c58c29ca47f00041d0e1bf82023fecc10bd60934eb9fc3c8112",
+      "english": "Inner Imagine"
+    },
+    {
+      "key_sha256": "2a543644c78d1dcdf8f089354d47eea67fec50b1b87aa525e6a80e1d997cab37",
+      "english": "Available for Parties Anytime"
+    },
+    {
+      "key_sha256": "2b4b5fdf61f17b2c395440b066d1702cfb967ea1bc54157aa7a490c1a949bd4b",
+      "english": "Summoning"
+    },
+    {
+      "key_sha256": "2c0e59b3c2edf50637c8d8e3d3a19db023f5924a2a77992aa33230c77d65f13f",
+      "english": "Party mission\nin progress"
+    },
+    {
+      "key_sha256": "2c56c1aad7cc8fe37df6fc8f8b583559c673511e56e3b8986fb412fc5f52edf0",
+      "english": "Dungeon Overview"
+    },
+    {
+      "key_sha256": "2c65607f8fde5513577139dbcee40844d15c757f507ee804f5c05332571e0fb3",
+      "english": "※Rankings may take some time to update."
+    },
+    {
+      "key_sha256": "2d6b944a6498ad06e012c25f447df9eaa87d68bc283436f53dae2a837b966b72",
+      "english": "Main Perk"
+    },
+    {
+      "key_sha256": "2d8736a2595ecfea419f3016aa2f5fb451e62b1b25fd504d371deba5ad7fab50",
+      "english": "Send Adventurer Card"
+    },
+    {
+      "key_sha256": "2db277df40b69cd46f9785809c5fca146e292b529633fc5e66a817fd05b24706",
+      "english": "Turning this feature OFF removes restrictions on some features, including those listed below."
+    },
+    {
+      "key_sha256": "2deadb5aa1c9fc3112210f2da407262fc458aba50f7da70960860a758fbdd955",
+      "english": "You were invited\nto a party"
+    },
+    {
+      "key_sha256": "2e6626c4a1cd23c90168d69100a70d2d89cc1caaad344ba53e5cf281d72a5635",
+      "english": "Perk Details"
+    },
+    {
+      "key_sha256": "2e98d780c747b32bcd8253bfba8cf73bef45d0b96acccc6dd39a06fdde81c5a7",
+      "english": "Preparing..."
+    },
+    {
+      "key_sha256": "2f36a66606c2a3b98d0ae377e8000cb2c235ae2512f087b9862c07929d07a0a4",
+      "english": "Unlock Chance on Great Success"
+    },
+    {
+      "key_sha256": "2f5ef8463843333a9e57b4f8c6bc3b57c0226e8b2a3a3fe579c1f04c48b8f2bb",
+      "english": "Available for Parties Anytime"
+    },
+    {
+      "key_sha256": "2ff2ae78fd02898bcfa9b2a834a17aa07bdc2dccf5efd086adc735558e4875b5",
+      "english": "Trad Series Set"
+    },
+    {
+      "key_sha256": "3032fc287dbbd8891e955d47a941b190801521b5ed105d30f1603048fccce13f",
+      "english": "Your current stats"
+    },
+    {
+      "key_sha256": "3038facae4ae73307ddbbe45eb9bfc2f414181f2e3f9ebade2a806af9e94a1ba",
+      "english": "Note"
+    },
+    {
+      "key_sha256": "30fc42f7089b02ad597f9d7f6099ffe7f368669a8d38a33802b86c76412b7120",
+      "english": "Slot"
+    },
+    {
+      "key_sha256": "31108375791505b3b3637b519c3498a9ac9015bf7d9b9c99eedcffb1a5400792",
+      "english": "Suppress UI Interruptions"
+    },
+    {
+      "key_sha256": "3133b90b0e7a0d24849105b9fc99190b7dfe9392483fb2b66ca813f8f08acf3f",
+      "english": "Disbanding because the host has left."
+    },
+    {
+      "key_sha256": "317117162c751369a8bcd9aa244c934a37a92b125a008fd030ca73c067612e4d",
+      "english": "Sales Deadline"
+    },
+    {
+      "key_sha256": "31a0d705ae9fcfaac3f87c6c785dae29d7beafdf58927fce4d45353284867131",
+      "english": "Time Attack - Dragon's Claw Valley"
+    },
+    {
+      "key_sha256": "3208267070db6a9ad6aa747cb17ac04faa9c1983abd93c0a6fabec5fb13469f4",
+      "english": "Team Name"
+    },
+    {
+      "key_sha256": "3339dd75deebeb52a432ff504eaf2e6f0c6a12a8825485951169e86939f27076",
+      "english": "You have learned a Tactical Ability.\r\nSwitching becomes available when the Tactical Skill reaches level Ⅲ."
+    },
+    {
+      "key_sha256": "33ae2999d30ac5d0fd59b24262ff2e6925d66cd548c0c0a809128036ec3f5347",
+      "english": "Floor Reached"
+    },
+    {
+      "key_sha256": "33e630967f562f3ee810b5b52d94c87239cddc14fece1d18c1b8adfd67652f30",
+      "english": "Fixed"
+    },
+    {
+      "key_sha256": "3426ede8eabe62b1b2465322b3a89c87da70c0746232f052dff7aa611ea52676",
+      "english": "Drop Rate"
+    },
+    {
+      "key_sha256": "3547f3864c352cbd0f797d9ed8948dd772edd3772dcc9b4ae9f2b3248a5ea35e",
+      "english": "MISSION\r\nMatchmaking in progress [K]"
+    },
+    {
+      "key_sha256": "3607dd4ccfabe08fc4e73ed5a265a4100dcf1db684a103dbdc5cc6d07ee8a9c7",
+      "english": "Detailed Controls"
+    },
+    {
+      "key_sha256": "36f2af734afb48cd3f86ad4269dc5b6db289419bf64c874f4ae54171f23c950a",
+      "english": "Stamina Drain Reduction Potion"
+    },
+    {
+      "key_sha256": "3718196d6be0604a243509bfde2be612d253cd8d2081ffba477de350136d85e6",
+      "english": "Projected Stats at Max Limit Break"
+    },
+    {
+      "key_sha256": "3751022c2a756f2622d95219bc65952cd1267a4bf3c55b4dc8b37709dea773e3",
+      "english": "Ability Slot Details"
+    },
+    {
+      "key_sha256": "3c128d486ce3faaad0b37b84cda3af60160a80c90e31b5a8504d8aa7ac13d903",
+      "english": "Drop Rate"
+    },
+    {
+      "key_sha256": "3c64266adbd3363006761f655154c7c104a4e5bc3efcf081eb1e5b33deb9f1b1",
+      "english": "Suggested Battle Score"
+    },
+    {
+      "key_sha256": "3d4b84bd9c8c18d6a44f78b7db297397449169387d136def8c76e1a2f53543ef",
+      "english": "Not Set"
+    },
+    {
+      "key_sha256": "3e313902cb7890b7c6e2f3dba0485784adec8146ecd4132b3f07dc089fcc2d33",
+      "english": "Screenshot"
+    },
+    {
+      "key_sha256": "3e6336ec764cc612e948646ca027357744ed26158781ab77aa5e3ed300d7aa09",
+      "english": "Show nearby players at fishing spots"
+    },
+    {
+      "key_sha256": "3efb25e3636507f326c0363252b4c7b33363d1680d78dee0363d5d0d5b493abf",
+      "english": "Explored Locations"
+    },
+    {
+      "key_sha256": "3f7884014e3bc66894562eeecbc9c8e8ad3e6d7eb3db3852fa27d415699fe320",
+      "english": "Face"
+    },
+    {
+      "key_sha256": "4028fd7fb893597ff7baeb92aa405c843a88746a2497098f112d657adbb9cfa6",
+      "english": "Turn this feature OFF?"
+    },
+    {
+      "key_sha256": "418dae67203bc3c2b04992310443ec59e27b173ae27e3a38ae69abb7d85d91db",
+      "english": "Enable control-mode help on the battle HUD."
+    },
+    {
+      "key_sha256": "4285d478b3ed8c34cec65974146efc7179ef180ad7a578ed287407477c992b43",
+      "english": "Mission Details"
+    },
+    {
+      "key_sha256": "42e53c36d3292b2a5cfe8a441df9e50f8b4aa7680b64cb2d56b142b8f6cfce47",
+      "english": "Required Slots"
+    },
+    {
+      "key_sha256": "434a4186ed78461f4f6d5d92ef1bda796e50dee8466f3bc74ccca15735a41810",
+      "english": "Your bag and storage are full, so the following rewards\r\nwere sent to your inbox by letter"
+    },
+    {
+      "key_sha256": "46be77d63e466e425c66dbc0be4ffe1e1992c0901965c922f1f30461078014a9",
+      "english": "No Expiration"
+    },
+    {
+      "key_sha256": "46c9cf06339a323e7f87426edc81f477332a8e46468ef84d53544d898a28cfcc",
+      "english": "Move Individual Elements"
+    },
+    {
+      "key_sha256": "47d0fc82b05fc7cf73ecbccd0ec45754b4f3fd4d4c827bc20565c921e4f7765d",
+      "english": "Cycle {LapCount}\nSTEP {Num}\nGuaranteed\nreward!"
+    },
+    {
+      "key_sha256": "494e3f9c03f1b05ff37644d98fc4e19a3c9a0ca783ae012670a5215931deab9a",
+      "english": "Could not obtain the item because Item Storage is full"
+    },
+    {
+      "key_sha256": "49bc3993a80a848b4c72da516f7fcf47e4675de69106e8385f99736dc774c97b",
+      "english": "Quest List"
+    },
+    {
+      "key_sha256": "4ae9c63b72e1a07aecc31e05c48059b9dd45a6d58e81fcab805b52f5c098eabc",
+      "english": "Current Adventurer Rank:"
+    },
+    {
+      "key_sha256": "4bd87376c72e57b0bc9a894833a6d6dc3c56c95cb00f32ddf1e1e6601e88b189",
+      "english": "Sprint Series Set"
+    },
+    {
+      "key_sha256": "4bec2c2603ea03b3347472036e2452a5429f2ea03dc8d1ba2a90f2e8e44669de",
+      "english": "Destroyer"
+    },
+    {
+      "key_sha256": "4c47724899daf0125f81355b45afe58b35563fadc08291578dcd01dc3534681d",
+      "english": "Sales Deadline"
+    },
+    {
+      "key_sha256": "4d4ae4601059dd0dca64b0e13e63ac1643f768136c0f0209db6012957791d86e",
+      "english": "Ability Details"
+    },
+    {
+      "key_sha256": "4e5a4c688506ee6e89a4c1dcfbe67f64a5c82a4026401a0611ae63a2addc811b",
+      "english": "Unlock Conditions"
+    },
+    {
+      "key_sha256": "4e75baa0de37eb8cf5e6f9b5ab17d5f5dcdb686218a70e509ad89d3a50095f1b",
+      "english": "No Expiration"
+    },
+    {
+      "key_sha256": "4f907c98d4bf05da54de9d51a03b8b73f52bdb55eeb204e15e69d500a03341a4",
+      "english": "Extra Quests"
+    },
+    {
+      "key_sha256": "4fb13e8b5af87e35a61118b90443c1649353d9056a9f3c2ffbaacbccc561d72c",
+      "english": "This Item type is not supported in storage."
+    },
+    {
+      "key_sha256": "50b8b40fc6ee76ec0d692fc0180a551d093c74e36349720808d85978de7caa09",
+      "english": "Top  Bottom  Shoes  Hat"
+    },
+    {
+      "key_sha256": "520ba01281ce6ff4738531722839c300212a9386caf043748419f7f9d3a4138d",
+      "english": "Solid Series Set"
+    },
+    {
+      "key_sha256": "53286c764dafa0e7019ec41698c68b76c56478cc6e3368f6cb7e6898618a9b63",
+      "english": "Show Weapons in Town"
+    },
+    {
+      "key_sha256": "533636b46172f97d5551720d6c1d924d9dd4257320eb9ed73a7cca733af6f41f",
+      "english": "Accepting Expeditions"
+    },
+    {
+      "key_sha256": "5385e28c11800fe445a7198732364ece0bf618c9b1ad7a9b85d53417cd632fd3",
+      "english": "Highest Floor Reached"
+    },
+    {
+      "key_sha256": "55e9df653e29c8ab5300166bed08d1ad20342bb928cad2b5de4f44ef1040d603",
+      "english": "You have been invited\r\nto a guild"
+    },
+    {
+      "key_sha256": "563ca4e5fe23ac43774399c3ff5d64ed8c781de5cedabcfc4fc3c13742d5d064",
+      "english": "Cutscene in Progress"
+    },
+    {
+      "key_sha256": "57b5281548372cb772d1c219e17e40c989bd3be093979ae7198072c2b60f1f2c",
+      "english": "Habitat"
+    },
+    {
+      "key_sha256": "57e8d5fe347ed5a87b1ccd04786b4312119267b89443f6c6da6bed2745a72ea4",
+      "english": "Coupon"
+    },
+    {
+      "key_sha256": "58684bb5d594180afa3fae931cc24a01d925b1c778030f2db42cd7c0fd53ccea",
+      "english": "Use 1 ticket to\r\nfinish the expedition\r\nand claim its rewards."
+    },
+    {
+      "key_sha256": "59f7a0cbeaad5e14be6d8d8950dceaa79d60050a59e44743c500e33d43765a38",
+      "english": "Failed to log in with your Bandai Namco ID."
+    },
+    {
+      "key_sha256": "5a303a0057d563688f6aba78d83de1f317fa66cda8b58e67c07b713d08a7c6d5",
+      "english": "Reward Items"
+    },
+    {
+      "key_sha256": "5acaca88679a94e5fe4e3e2c86914c709344cc56f7574909c4e0f06193a11c11",
+      "english": "No record yet\r\nComplete a challenge at the Testing Grounds to update it"
+    },
+    {
+      "key_sha256": "5c44fcb6e3174e8561cb41acb14791277fd8389d57c2b5bd8f98e99292980201",
+      "english": "Reopen"
+    },
+    {
+      "key_sha256": "5d894b2fe79b0e61b19d53ce2c1d60f91facbd7630a3faf266739af795188f77",
+      "english": "+Shift to post repeatedly"
+    },
+    {
+      "key_sha256": "5dd4845fbc72c9a087ba556d0943b4177779b933fa49505a70783f17f603af6a",
+      "english": "Select one player and press the Like button"
+    },
+    {
+      "key_sha256": "5f9f228e2eba88f5b9cd3560c1637442613750d2565fed92067597256b0ba83f",
+      "english": "No audio device found.\r\nCannot configure settings."
+    },
+    {
+      "key_sha256": "600b11cd2cef0f03f2f97e650fe676d52f7ce24963d319e33747c181de0f2d82",
+      "english": "Allow tokens (such as Luno) that exceed the limit\nto be lost"
+    },
+    {
+      "key_sha256": "60325bcb594002310ddd6edab67fb380a6ada07db27bd936033a9ae95c7ee43e",
+      "english": "Half-Open"
+    },
+    {
+      "key_sha256": "61a673711271edb4c64f1d99e1f2f3d6e2c1bfa75e03c39d0648da78362bc848",
+      "english": "Swap the controller's confirm and cancel buttons"
+    },
+    {
+      "key_sha256": "61bdb1ceb5117ef6883f662dffab79107c7ec36719cfbdf676a347bfe4b0e806",
+      "english": "When purchasing an eligible product,\r\nuse another player's coupon\r\nto receive a discounted price.\r\nShare your issued coupons with others on social media."
+    },
+    {
+      "key_sha256": "62b6450866c182c05efa2f383b620201dcbf3e63acf473359516e3b6921edcd7",
+      "english": "Dismantling Complete"
+    },
+    {
+      "key_sha256": "656fe6caed1faea3a1b3d1078263644e01f727158d676146aaecbb3fb33fa292",
+      "english": "Switch Pose"
+    },
+    {
+      "key_sha256": "67f17a611e859a4150574d50ca3301ead1eac2070c3c06c24957be1a87de4ce1",
+      "english": "Summon Skill"
+    },
+    {
+      "key_sha256": "6a4ed9173f0adefd0809173cc57d3cd5cbf4dbd79c6e7210887467a874d9d11c",
+      "english": "Increased Crafting Great Success Rate"
+    },
+    {
+      "key_sha256": "6a727c5744cde0dc6127a62c144d63fa727b55fe4a43c15dafd76080f2e267dc",
+      "english": "Switch"
+    },
+    {
+      "key_sha256": "6a88672c02afa96a41d3e46e929cbd7e24ec9f872e3ab184d7f73c218f58e874",
+      "english": "Delete this data?"
+    },
+    {
+      "key_sha256": "6b1206c21e7bc243fb44694e6bd5710e65f210b22325cfeddcd33076a4c0fd0b",
+      "english": "Unknown Character"
+    },
+    {
+      "key_sha256": "6c5ff5df42cc479d977be8d41e5af8cd3c8cfdcf612af27a34ffc4f50b5d1162",
+      "english": "Possession Skill"
+    },
+    {
+      "key_sha256": "6c9d0ef28b03fcd8267fa7d12ab6a4c89ec7a76e79ba54aa42a14ae59dd34ac4",
+      "english": "No players found"
+    },
+    {
+      "key_sha256": "6cad5bc41d8e4be140c9ab94b486b3d349ba9efa429b9080cd0996b7296c66e8",
+      "english": "Completion Status\r\nby Rank"
+    },
+    {
+      "key_sha256": "6cbc448a8386b1f3377ff389c16758c490db87465ea4ae4a396242ff8bd02557",
+      "english": "Even Distribution"
+    },
+    {
+      "key_sha256": "6ccf020af136bc7058e768064ff7324fcfa1073f5db6fc149114acdecffb92c5",
+      "english": "Select a key to assign to the bookmark"
+    },
+    {
+      "key_sha256": "6d0bbfa83b32d3a555b04517f5c764d51d6de7c1ddb0bf1355169a08bced20f6",
+      "english": "Can Be Summoned"
+    },
+    {
+      "key_sha256": "6f4ae2d2133fd49a13f01b676b3c3b8e11c5797b0f3d74a4b6bbec319f125f8b",
+      "english": "Combo Count"
+    },
+    {
+      "key_sha256": "70327d58cb64247af0a8a1d55a9f3e0cf02bf30f101fff2db1019b3f28d37b62",
+      "english": "Once obtained, you will be able to use this title."
+    },
+    {
+      "key_sha256": "733f231396c3e895a8607c52d080652c5a1bc927bf9a405b083dd270400eb628",
+      "english": "0 min"
+    },
+    {
+      "key_sha256": "735b12fd0b07e794445dceab5520d39025febaa1791ea4e5385acd9ea440f5fb",
+      "english": "Floor Reached"
+    },
+    {
+      "key_sha256": "755e171ed7d3aaae7b5239fe5714379ba30bc4a5b4856fbcb3afc600b3dce035",
+      "english": "Suppress UI Interruptions"
+    },
+    {
+      "key_sha256": "7602feecbb9eb9e107a582a599106100a5762c1c8a9eee4650a56e990cdcbc95",
+      "english": "Show My Weapon Effects"
+    },
+    {
+      "key_sha256": "76194c39ea6bad2a878e0a5cb0355fe61e31b32451e3575120ab485fbadcab4e",
+      "english": "Drinking Liquid Memories together strengthens their effects.\r\nYou cannot drink one while its effect is active."
+    },
+    {
+      "key_sha256": "7623c36a4a2770b0b087401f17a1e5e13a18264a5d90f6870fd67e8e077bced5",
+      "english": "Dye will be consumed to apply these settings. Proceed?"
+    },
+    {
+      "key_sha256": "7715e9d44ef62ba656c000e282a5b37b8bd14df6fda0ddfa01a3ca154e644a83",
+      "english": "Summoning"
+    },
+    {
+      "key_sha256": "77f7a1938dd8af7fb1f39d1c7428a145578303ac3d8db84839f2da4a065e6e81",
+      "english": "You cannot revive yourself while inside a battle area.\r\nYou must be rescued by an ally or wait until the battle ends."
+    },
+    {
+      "key_sha256": "7924b6015a1e14a7885350b686ba53ffdac97fcfc83c7034aada01e8502e575a",
+      "english": "Effect Count"
+    },
+    {
+      "key_sha256": "798ba0b3489c94a691e4cd23af432daffbfadbb46baf6bbab9c972d6cf53bbd6",
+      "english": "Closed"
+    },
+    {
+      "key_sha256": "79b5f8f4dbdf4a835d636fd618ef222c116bcdb2a86768a0da07b4ecf650a7b8",
+      "english": "Random Distribution"
+    },
+    {
+      "key_sha256": "7aef835d65cc78e393735c8ef9b4d05dd49b3480ef51e60eddd8ae309e68ff42",
+      "english": "Show Weapons in Town"
+    },
+    {
+      "key_sha256": "7c39de365152d58a5f9919c79df07c81a2d86536f61babc4b76b472867eb72cb",
+      "english": "Extreme"
+    },
+    {
+      "key_sha256": "7c41c4f1b9eaeb5eb26cd673db5f747d787f07540d641e0a5393e3c7c5fb60ef",
+      "english": "Available Revives:"
+    },
+    {
+      "key_sha256": "7c4759b8fe178838c9bfff3e242ca88e32c9cd829f90369240c87f73eade655c",
+      "english": "Party\nTransferring"
+    },
+    {
+      "key_sha256": "7caee4070184f3f2e1704a5a333b6bee18e48f385f49f2eaed1115023693e4f6",
+      "english": "Unlock Chance on Success"
+    },
+    {
+      "key_sha256": "7d093c234034e1eb45609d5e4f9ea147cace0629f0e2e011321b166c72d3286f",
+      "english": "Possession Skill"
+    },
+    {
+      "key_sha256": "7d118acfd2a366f7dc7f6d57e37c107f39144df635644da7a6e36f2a184bf930",
+      "english": "Disband the guild?\nAll information will be deleted and cannot be restored.\nProceed?"
+    },
+    {
+      "key_sha256": "7d20a72ccb2422c889c1ebd6b21215a1115374a3e6776fbbb9a6a07734a5c645",
+      "english": "Look at Camera"
+    },
+    {
+      "key_sha256": "7d7c24965f5f4de7bdab7fe2bae872786676ef0ef4d91ce632862ee1bef52e4c",
+      "english": "Battle Effects Display Settings"
+    },
+    {
+      "key_sha256": "8026ce574144c329395a26fee8c7de0d66d30a72b92e7beb1d06c192104fdd42",
+      "english": "You can forward mail to a character once 7 days have passed since you became friends."
+    },
+    {
+      "key_sha256": "808ddd477c12a37003b76003f35afb0282ac17b220c5ab89f55bb5cd264426ec",
+      "english": "Increase transparency of objects near the camera (except in Photo Mode)"
+    },
+    {
+      "key_sha256": "811b1987403e5c50b7cf58766d9285c811b39029f73e54a55f903ea54962ca10",
+      "english": "You will not receive rewards, regardless of elapsed time."
+    },
+    {
+      "key_sha256": "82604e2449749af8fd2ea27198d85c18b2cd44455b864462f16bb0ccedc183df",
+      "english": "Overall Power"
+    },
+    {
+      "key_sha256": "8291e02e7f257f62bc23f2915cd8e68c0017c4c0cb18c548d2d71b5c40d8dd2f",
+      "english": "Proficiency"
+    },
+    {
+      "key_sha256": "83749040907f334bc196ff7eac0982a68e493ddccff05f0808e51562089f5cd3",
+      "english": "Resolution settings"
+    },
+    {
+      "key_sha256": "837fe07c190ec3dab6beda7458073568eee5e0206c1d2b85a0d05931af76e655",
+      "english": "Completion Ticket"
+    },
+    {
+      "key_sha256": "83ad79f631779592c86e31f67c09e9053a5b7d5567d25a3cf7ce4df33877ef99",
+      "english": "Confirm Use"
+    },
+    {
+      "key_sha256": "8418060a1442a1b6ae2f966513612ec5155e54c5fa9129013df6adc609a46743",
+      "english": "Reset outfit"
+    },
+    {
+      "key_sha256": "8759467d4ac4e5738e9a7bcc1d9a50300ba529ed2daabcbe5177c85f18d1643d",
+      "english": "Family Name"
+    },
+    {
+      "key_sha256": "8888ec1626507b3a9cb4ad5d658da843b9c2e202327740796d4f00a0f2cff103",
+      "english": "Claimed rewards are sent to your inbox."
+    },
+    {
+      "key_sha256": "89223e0a4cfd1f19e39601d8bf28e16030ce825d85da8367a420886bdcbc1e27",
+      "english": "Required Slots"
+    },
+    {
+      "key_sha256": "896f538310e8ba66370b54f48a126da6bb08ab982e5d6764ed3612efbc6da701",
+      "english": "0 players found"
+    },
+    {
+      "key_sha256": "8a2be07642ec15b10ef456a39a9023704fce9f31649a635213433205b96d540a",
+      "english": "Reason Unavailable"
+    },
+    {
+      "key_sha256": "8adf95d8d1a7f6b26065b280a6816b164226c6ef10beda9e0491fa1834522996",
+      "english": "Atmosphere"
+    },
+    {
+      "key_sha256": "8b17c136b9712131b221abc303c328e24c04d7b2bdb618cfaa7317254f80d8c7",
+      "english": "Learn Tactical Ability"
+    },
+    {
+      "key_sha256": "8b7152ed7b9d1853c4ac6c6be2b6bbf8128f4a9df94dcc4f680544051ec9f2dd",
+      "english": "Quit game"
+    },
+    {
+      "key_sha256": "8cee54a75a70c7bed27d7a743c7a18a782bfc9bd557c8fed4696e3c8440a758d",
+      "english": "Perk Value"
+    },
+    {
+      "key_sha256": "8e1d9cf94ef4cdc3efbf752ef57ee7a80a974c4ce5873f8a1bfc22ce1a813757",
+      "english": "Suppress UI Interruptions"
+    },
+    {
+      "key_sha256": "8fa7472a8f803c9c341a4e6d9110b890e859e0eee77fbd3fa91f42c381c5c289",
+      "english": "※This character's possessions will be lost\n※You can cancel deletion within 24 hours if your Adventurer Rank is ○ or higher"
+    },
+    {
+      "key_sha256": "9072c7a024e6e33c5007d5e7429ae50201e64638fe0d8fc4a26fc37d4858bec7",
+      "english": "Can only be changed from the title screen"
+    },
+    {
+      "key_sha256": "919a719cac8fada47c17a2c4ad2720be9873a8cc7ce6dae67b1ecef5681ca998",
+      "english": "Show My Weapon Effects to Others"
+    },
+    {
+      "key_sha256": "93099f8b19c9c4a69497640ed2dee3dded5a5dd4d59a234eca10d02c1f6fd779",
+      "english": "Total Damage Dealt"
+    },
+    {
+      "key_sha256": "93ae101ecc1a930abdf6de030b38987e17b8964bd57c09cde4e1a6731b9344d5",
+      "english": "Disclaimer"
+    },
+    {
+      "key_sha256": "94d7584d7e81c2d3b851de380d2b1f2be5b2a2e26dec03e8750d93873be3e84f",
+      "english": "Individual Total Contribution"
+    },
+    {
+      "key_sha256": "9519be6184387c6cde804ef57624400c1a8cb7c97d9076f373e70c74c943a687",
+      "english": "No Expiration"
+    },
+    {
+      "key_sha256": "95d3b9f3f7021d0fe908635b77cd2e099f12fa78e3c33dede15542c2d6c4f0d3",
+      "english": "Take on missions to unlock new expedition destinations.\r\nTry Investigation and Advanced Investigation missions."
+    },
+    {
+      "key_sha256": "96befe40f1444691332eed6f540d7290dc04059ba9f5a87f64bf0333713c16dc",
+      "english": "No Expiration"
+    },
+    {
+      "key_sha256": "975ff70fa954420fd7412ab3e13b422c20a557202a586e7e13e3bfc9a13810d9",
+      "english": "Rank Points"
+    },
+    {
+      "key_sha256": "981036e34ab07a66fbc61c7dcd5dc6d589a45de22cdeea14f2ff82d6e83cc520",
+      "english": "Background Transparency"
+    },
+    {
+      "key_sha256": "99c581b15b1d7d94f7fd50676a91eacdc196a573831592999bede5af3e106f98",
+      "english": "Error"
+    },
+    {
+      "key_sha256": "9a092043056c8b6d94d57915f46100484584e0a6cfc3eb04bc9592cde275c605",
+      "english": "Quest List"
+    },
+    {
+      "key_sha256": "9b9b30eccdcbe6ec79bd4548139f629758f7eb5fb630ad49aff2a6744f98faf3",
+      "english": "Claim"
+    },
+    {
+      "key_sha256": "9c7d94f6f5c0efcfd659ff04b743416949089eb20cc5dfcfbcaa6a14f6a1e8fe",
+      "english": "{mission_type}: Completed {mission_name}."
+    },
+    {
+      "key_sha256": "9d7f2ba3675b1fabb297fa93a70c200f357df1477e2d69b882b4d3fc55681fcc",
+      "english": "Team Tag"
+    },
+    {
+      "key_sha256": "9d84799a838dde623b270ffce25480a696696bda4cf8171184ea3d58fb8f6c5b",
+      "english": "No players found"
+    },
+    {
+      "key_sha256": "9e975d940e06ec8d7a432f291622642e25566f30298a1e9dc8f261c63f8e8b49",
+      "english": "Permanent Skill"
+    },
+    {
+      "key_sha256": "9feed3b29beffd8d02f156fe00dbf4eff986ac11b7a9fa6eb027c664dd4c1214",
+      "english": "Purchase Complete"
+    },
+    {
+      "key_sha256": "a1139e732500ca2bfa5943d60b45a4f65606ec02e4147f61819b3ab72249d6f5",
+      "english": "[Left Click] Set the hook"
+    },
+    {
+      "key_sha256": "a1264fe257788486a02b147d9360df8b4f4ded3d3e6fbcfa2ca56ad25fc0bb56",
+      "english": "Gathering..."
+    },
+    {
+      "key_sha256": "a1d7cc54cca6ffb4421ea38144091590878e6da3a5bb8973476ed59e5d5d1054",
+      "english": "Samrazad Oasis"
+    },
+    {
+      "key_sha256": "a1fca16033eb2176f30c2268bb12e4c5cfb562e8116820bc89919c6506c49fb2",
+      "english": "Progress "
+    },
+    {
+      "key_sha256": "a27505bef8a3529330e1e34b5308981dd1a2d62941049298b99fc7a0e3bd7333",
+      "english": "Are you sure you want to delete?"
+    },
+    {
+      "key_sha256": "a2928e68c1cdab506b94b8e40ddfaf5bb400707cae5266a607e569b93d7e6f1b",
+      "english": "Spending Limit"
+    },
+    {
+      "key_sha256": "a3d133c9a0d43f9bee562239ad35cfd371856a884b86ea8179d5765ff35313f1",
+      "english": "The shop is currently undergoing maintenance.\nPlease see the official website for details.\nLayout assumes about 20 characters × 4 lines.\naaaaaaaaaaaaaaaaaaaa"
+    },
+    {
+      "key_sha256": "a6ad2521c2ff8c3dc62ae76ac860ab9189da136eee4f0bbb4f77af581a11c9a2",
+      "english": "Window Size"
+    },
+    {
+      "key_sha256": "a713e7b1546ca64916c705ab5ddca8e93fc26f93a36e361b4700b33b645e1126",
+      "english": "Time Attack - Dragon's Claw Valley"
+    },
+    {
+      "key_sha256": "a7957a19bbd72383d0da84a5c891fdf4ee89001ee47d1a53ef66b86943b1f88d",
+      "english": "Occupied Slots"
+    },
+    {
+      "key_sha256": "a8d4c77f8ba0be2925e8c59b10acab025dea9e5e11b90c675bf47b2243aa7727",
+      "english": "Box Contents"
+    },
+    {
+      "key_sha256": "a98815c4e2f9a50421d760dd9510cbb2b1b93aa32d480e3a1af4a2d801feb730",
+      "english": "Take Photo"
+    },
+    {
+      "key_sha256": "a9998890bcaf8518c3f1a2201e6298a17522f8dc91e68bbaaaadfc22859af4b0",
+      "english": "When this feature is ON, interaction is limited to PlayStation® players who also have it ON. You cannot interact with players who have it OFF or use other platforms.\r\nSome features, including those below, will be restricted."
+    },
+    {
+      "key_sha256": "ab944e4fb30b55c7beac993203bab657b3246a52c9cf3983fb1efec0038b0010",
+      "english": "A party transfer\r\nhas been requested."
+    },
+    {
+      "key_sha256": "aba92ecc4a8434437935d47e699fdb4ae6de04521f471b625eee2dcfd9948075",
+      "english": "Switch Pose"
+    },
+    {
+      "key_sha256": "abf0dabd8d52e2ed54e0d1b749f6a6cd169680f83dc22172891f291542d01281",
+      "english": "Purchase a Premium Pass\nto earn special rewards!"
+    },
+    {
+      "key_sha256": "acb1900c340e17ffa146c30ee69be95eb0ab7b17f6e8ecba3c1363a6063d682c",
+      "english": "Required Soul Rank"
+    },
+    {
+      "key_sha256": "acdd17eefd60cae75d6eb249a108d53519da31fa3a4aee47935f36a10d11515f",
+      "english": "It got away..."
+    },
+    {
+      "key_sha256": "ad1d7316dae19add0429b88aa48c37d31eda6f05b2ba1c75212afa10d45c3d83",
+      "english": "Invitation Received"
+    },
+    {
+      "key_sha256": "adde564fe2100d01755154623dd277d9a3557e1003a789850d748698f670b857",
+      "english": "Near Limit"
+    },
+    {
+      "key_sha256": "ae1d5cb8acd0383ca474588d8ef434cb9eb3886ce8aa277f62a05df9d0b55b99",
+      "english": "You can use a ticket to activate\nLiquid Memory you are short of."
+    },
+    {
+      "key_sha256": "b093673d11063e59631f740399bb32f4294287e07d711ac7044189e89c5b176b",
+      "english": "Standard Version"
+    },
+    {
+      "key_sha256": "b391e615afd0a4de4e210e9ee9b90b263df493b796d84cb44abd94a2b7b426d7",
+      "english": "[Enter] Chat Mode"
+    },
+    {
+      "key_sha256": "b40c5493912739986ac284a6ef4968f2b034ae8879258f7e8e4ca467c655076c",
+      "english": "Interaction restricted: Interact only with PlayStation® players"
+    },
+    {
+      "key_sha256": "b46e908f08e005a3ecb517efc4b534836714ccb18c66adcb316ab5680a37cc66",
+      "english": "Sub Perk"
+    },
+    {
+      "key_sha256": "b541332657f5b7cb1cf61cefddaf22bd5dff2b4cb025eea070441d9dc7ce21a8",
+      "english": "Purchase Season Pass Ranks"
+    },
+    {
+      "key_sha256": "b6795481665aeb21cfbb20b58858b6be30f87de08430ba0fe072d70df83b8164",
+      "english": "Screenshot Notifications"
+    },
+    {
+      "key_sha256": "b81129e9a196ffbc07cfdc619077cb1dbfaa599b14642021cb5831adddec0c4f",
+      "english": "Help Display ON"
+    },
+    {
+      "key_sha256": "b82f07c516b6c46159a6ff2cbf8135d25e3b375c513bf23c638261000693c579",
+      "english": "[Enter] Chat Mode"
+    },
+    {
+      "key_sha256": "b84ca3baab8c1093dcf41bef1cbcfb56b07e8ea2acd605e36d2c134f783e8d72",
+      "english": "Watcher Series Set"
+    },
+    {
+      "key_sha256": "b887ab21e2923786f41ea767723254f1542c0b990522af4ad149e2de449751db",
+      "english": "Disable Speech Bubbles"
+    },
+    {
+      "key_sha256": "b93d19e7bf4ba5531017e56a54deda870ecb48aef56e5c97f5d26fc950a8b2de",
+      "english": "Time Remaining:"
+    },
+    {
+      "key_sha256": "ba4adc6b10ca8f31268491a790a74bf0a6d48266d98d7df7db3c598ab4291343",
+      "english": "※ Free dyes are used first"
+    },
+    {
+      "key_sha256": "babe0bdded4442bed90f046a8c0826b44e945f7418a1bfc0864efe457fce9053",
+      "english": "For experienced action game players"
+    },
+    {
+      "key_sha256": "bae05ec38b7a83a4084ce63321bffc7fdb7e81213350cd516dc8dbdaaceb4738",
+      "english": "Protected"
+    },
+    {
+      "key_sha256": "bb5f160d7a18b796fb4d72dfd0c69333eadaf6edef49194c59e1a5e31c661581",
+      "english": "Recommended Battle Score"
+    },
+    {
+      "key_sha256": "bbe76376d3bce19cbef62393990b75f19d3e0e583d0d777fc4b211fa520d9b20",
+      "english": "Use the Recruitment List at the top of the screen or Party Now at the top right\nto join a party, or invite nearby players\nto form your own party."
+    },
+    {
+      "key_sha256": "bc0656693f725415c1ab9dc5edb9014e8179f54ada1dfa46c98c8b79fc925162",
+      "english": "Until the Next Dungeon Expedition Appears"
+    },
+    {
+      "key_sha256": "bc6af20cbd43dbd284b021fba72de5353383304140f98c6cca7ea648d1c98f2c",
+      "english": "Hue"
+    },
+    {
+      "key_sha256": "bc8976d158f479378a167fb5370fee00528a307caeff5a37fbb2172ac9d60a75",
+      "english": "Description"
+    },
+    {
+      "key_sha256": "be7d809b69890fb4ca072d9b391f74882a2fa7c0bc31144c7b34b49444cc3924",
+      "english": "Sync"
+    },
+    {
+      "key_sha256": "c03e0898d5bd10e0a483079aecbcffbcbcfd330abbde0444c47bd6f44793e0c2",
+      "english": "Like Already Sent"
+    },
+    {
+      "key_sha256": "c074b0148b164ec10bf95aa198929c442446abf09f75fe977dc7ed9f6a194dab",
+      "english": "Screen shake during actions"
+    },
+    {
+      "key_sha256": "c08e3dcf4d54f1f7d50c55087e898cc4a0e6ca26bb3bbafe90110d4c17e969cd",
+      "english": "Go to Official Website"
+    },
+    {
+      "key_sha256": "c0e845ddbc095c8408b1c0697a3a422852c79916ffe9e7c730963225b7544b2e",
+      "english": "Sales Deadline"
+    },
+    {
+      "key_sha256": "c1a150084e1167aacca12a2b067d7475178c25c7045d464a4a0d5b9866f997bc",
+      "english": "Restrictions on player interaction"
+    },
+    {
+      "key_sha256": "c2364026be398ed8c05a5066e424dd3d0fc06e5bf9f5152fbfb306ced2d5d64d",
+      "english": "[Left Click] Reel in  [A/D] Tilt the rod left/right"
+    },
+    {
+      "key_sha256": "c25743783b982d35e7133148f00fc9a4943f83af574532a8a4d1536f7172199b",
+      "english": "Comment field"
+    },
+    {
+      "key_sha256": "c279c6f9f25c29aee81be19ecf36ede8ba8bfdaa4a2cda2e29bcc755cc699f60",
+      "english": "{KeyString} or higher"
+    },
+    {
+      "key_sha256": "c2ca37f5a66f010a444e64c86773280d6cbfd40cd2fef0ec0e7b204a6e23158f",
+      "english": "Number of Slots"
+    },
+    {
+      "key_sha256": "c3397d91bae68bacd3d9fd7718d9aac18468726fab5e73917b2c889d20046a26",
+      "english": "Top  Bottom  Shoes  Hat"
+    },
+    {
+      "key_sha256": "c466903218241606f059c8869e5f69f38a1f4994d6789834d1e9c272908027e6",
+      "english": "That key is already in use.\r\nRemove its binding in Options."
+    },
+    {
+      "key_sha256": "c61fc2061393acec37d2e4927ad56b38cb3251bc0906963e70dc1432863e5db1",
+      "english": "Current Location"
+    },
+    {
+      "key_sha256": "c6c4e7c7fc2196c017cb40314041a673b3b82e24b1d1c3e6fb7fd6102ff275a2",
+      "english": "Restore all HP"
+    },
+    {
+      "key_sha256": "c6d786a5a011f5952155ca8055d3207da8110dbad2b3adae788a987894ed468c",
+      "english": "Mission Details"
+    },
+    {
+      "key_sha256": "c998c94dc9c708228c8e18e4b3df07b1092a6bb3744b72d36a4eb3be98c3a35b",
+      "english": "Age Restriction"
+    },
+    {
+      "key_sha256": "cb7d01e55bfd2d7caa5a53267ec9c2819e90dc77168a9a49adc07cee62e12f53",
+      "english": "Shape"
+    },
+    {
+      "key_sha256": "ccb842308d36c59033823dcf8dba68e0c044a15767975432035e9330f247aa3f",
+      "english": "Support Bonus"
+    },
+    {
+      "key_sha256": "cec415b29a7e605bdd7023d4c06a5e7b81209c8ecf17db625bac55c10363ac24",
+      "english": "※Learnable at class level {level}"
+    },
+    {
+      "key_sha256": "cf89638958be55f4f580401a5cbab66b48e765a4e393f30fc7bf670488553c6c",
+      "english": "Hide HUD when taking screenshots"
+    },
+    {
+      "key_sha256": "cfeb4f2c37bbeaad2dbfe94c5412f0e69b3b8370f561a5a2adfb947a7a585892",
+      "english": "Purchase Requirements"
+    },
+    {
+      "key_sha256": "d12724c821d4c35f1d46275e657be5f8137744d76316e8b95a9bbc40b28a8c30",
+      "english": "Party Now ON"
+    },
+    {
+      "key_sha256": "d17534e0fcc52ee4d0e49d41a183bf150ddbc0c748ed50c644301bef90f29f2c",
+      "english": "Select a Mount Imagine to send on an expedition"
+    },
+    {
+      "key_sha256": "d2b647d05c0aff50d1b5817179d648692ea5762f8554819ad6351ee1f5145fb3",
+      "english": "Show Other Players' Weapon Effects"
+    },
+    {
+      "key_sha256": "d2c5fe681ac45cfa53683ef067f215aa3935843617640bf545c3db7625dde9a2",
+      "english": "(Shared Ability)"
+    },
+    {
+      "key_sha256": "d33cb918da350b58e518ab84d49b7bf18457660dce0ae62681f6edea84b3da62",
+      "english": "No requests available.\r\nAdditional dungeon requests appear each time your total\r\nexpedition time passes another 500-hour mark."
+    },
+    {
+      "key_sha256": "d41d4dd2f41a54a776035f831b5474752f94706ec3d399c6a3fcfb8ba21d9619",
+      "english": "Edit the battle HUD layout\n※HUD layouts are edited on a dedicated screen"
+    },
+    {
+      "key_sha256": "d55df7b776e61fd2b49c084d35c82359d17413b1648a9147b0b24364772871a3",
+      "english": "[Left Click] Cast    [F] Stop Fishing"
+    },
+    {
+      "key_sha256": "d5e4e6d588c37f4a47c3343e792cff89e2f8cbacbef0205a7581d9a8db9e4e60",
+      "english": "Payment Selection"
+    },
+    {
+      "key_sha256": "d62e57ab5fbe1be90fe075038c7ab91ac47f4fa03171173b00321fbf32b006b6",
+      "english": "Bonus Damage to Goblins"
+    },
+    {
+      "key_sha256": "d69ec6662714f8530629f40f6dde311be9cb4ed1654d20413e4f7110731acc6d",
+      "english": "Exit the game?"
+    },
+    {
+      "key_sha256": "d726c16d378afd97ac198207528bc9a3e00cf8e499e625b4464945f9e6ae33f1",
+      "english": "[Left Click] Set the hook"
+    },
+    {
+      "key_sha256": "d8e120b9fdcfbe6abecfb2781ded5a14821740be7a2e95be0cbbd783d11c45fc",
+      "english": "Please include the logs when reporting bugs."
+    },
+    {
+      "key_sha256": "d928cb213cd8c81441d33fda58a44c6b69a938aa832151815c8c122bd081fe83",
+      "english": "Show Grid"
+    },
+    {
+      "key_sha256": "daefd4435d057276131e522dc7392efc5e4addbc86a8708a6daa507ca52c59b6",
+      "english": "Team Name"
+    },
+    {
+      "key_sha256": "db020fd87659f678e0dafdbe43fae0d9499350556a97f918a3819167b365f908",
+      "english": "Opacity"
+    },
+    {
+      "key_sha256": "dbb097738a8ec6c18985e2b86bbfca5e24a66063bb53edab4de97a3588f3cb67",
+      "english": "Use Rose Orbs to unlock additional character slots.\nUnlocked slots remain available even if you delete a character."
+    },
+    {
+      "key_sha256": "dbc3a2ac5ec18c5c70de7d9a01659ac2fd70ecdbe8cf5fe2c207a4144ef45905",
+      "english": "The following payment services\nare supported."
+    },
+    {
+      "key_sha256": "dbe63796807c4d754b290362fdba1688bd7fc74a6f3be0542c8ffde19d0cc597",
+      "english": "Waiting for Other Members"
+    },
+    {
+      "key_sha256": "dfbc6195f75c9c89a76d39e9268059dbd44ac1af73077effcfeae036299a422d",
+      "english": "Feature Unlock Quests"
+    },
+    {
+      "key_sha256": "e05bec33891f5d0fa0a1776db0b0eaa2b4147d8e75a5de671ea86f3c34f04267",
+      "english": "Raid"
+    },
+    {
+      "key_sha256": "e087336a641c44f6c73b7838d72c5677ba2d2c90a45f17e489ed96721960a1c5",
+      "english": "No audio device found.\r\nCannot configure settings."
+    },
+    {
+      "key_sha256": "e08967e6005092e0871ecdc5f66d570e9dba9186dcfd94c4fe1ca2138bda1688",
+      "english": "Top Up"
+    },
+    {
+      "key_sha256": "e118ae3bad515b37c95049564439535704e676adb96bb4d4b382f61628d5ae55",
+      "english": "Select an item on the left to assign it to a shortcut."
+    },
+    {
+      "key_sha256": "e40283a73bffeaf320e677ed5a48e8103a5a7bef79eb8e44b4227f93be18f902",
+      "english": "Can Send Like"
+    },
+    {
+      "key_sha256": "e46fcc8d1abb9e0f9d22bb8e6817238d29c804ee912a233ba6ec1b5fe40ca875",
+      "english": "The expedition has finished. You can claim its rewards."
+    },
+    {
+      "key_sha256": "e4704ed954ab6dc5055a1f27b8b7c1e66dd0ccbbc1b0de86d640087adfbb282c",
+      "english": "Battle Set"
+    },
+    {
+      "key_sha256": "e4ca4794602ec2282c5a9b78022ea9b2a37f559885aa094a4c5e373dadc51312",
+      "english": "Suppress UI Interruptions"
+    },
+    {
+      "key_sha256": "e533673f5d62eabdee1e659fc64f4bc6f4cc1176c56a45ab50c0c8975a98fe14",
+      "english": "Change interaction restrictions: interact only with PlayStation® players"
+    },
+    {
+      "key_sha256": "e65574dbbd3098f549466bbd17851757ce97791c24bffa9318beef27518eeb4c",
+      "english": "Select a list"
+    },
+    {
+      "key_sha256": "e72892151014fb1798dd2e9b8c24c3cf7c4f47e81121d6f061d13a7f1f8ebee5",
+      "english": "Quest List"
+    },
+    {
+      "key_sha256": "e9fd87511a2e3ae114282830f17235b6d3fd8d35e06c13c016e7f99002233688",
+      "english": "Minimum Party Battle Score"
+    },
+    {
+      "key_sha256": "ea1525c125f00e77f35448f0afbcb760c68f617b7fb801d6e5ab64abbeb8064a",
+      "english": "Bonus Damage to Goblins"
+    },
+    {
+      "key_sha256": "ec46ca3e2bf0e0f60a0a3fca0b72c6dae002206c7211975bffe601b680c25bdc",
+      "english": "Choose an ability boost."
+    },
+    {
+      "key_sha256": "ed3c80f144e57378ddcf3c79d3dcac3daa8fee7078d35c8fe70ebb85a8b1b903",
+      "english": "Expression"
+    },
+    {
+      "key_sha256": "edd933222e779d4dab05504aab3841e45919a872abfbb40e4cf7dd3361f4a2db",
+      "english": "Perk Details"
+    },
+    {
+      "key_sha256": "eecfb7fb61fb343fd1a98b8e19ec5afe2c1091eaad5ea4d63ee8c44594ebe012",
+      "english": "This guide collects help topics you have already seen.\r\nIt also covers class skills and the effects of buffs and debuffs.\r\nEntries are grouped by category. Enter a term you want to know about\r\nto search the available topics.\r\nIf you have questions, check the Travel Guide first."
+    },
+    {
+      "key_sha256": "ef75e5a937a3fd9b0a73b8a9916a1cf0d3d761feed3f362dbcd8255bc2b626a0",
+      "english": "Select an item to exchange for."
+    },
+    {
+      "key_sha256": "f021292f681abf111987fd9e8b54bf7401ecfaa4bed502a0b4d278e6cc740b2c",
+      "english": "Expansions cannot be canceled.\r\nFree Rose Orbs are spent first. Expansions cannot be canceled.\r\nFree Rose Orbs are spent first.g"
+    },
+    {
+      "key_sha256": "f096e73dc855c855247bded09de1f12a7c22e2122ae72e771543cf6945373efb",
+      "english": "Delete Automatically"
+    },
+    {
+      "key_sha256": "f0996e9422d71003457904e12e68c9938630cdbcfbe74eb4886565ef363bc191",
+      "english": "[Resets daily]"
+    },
+    {
+      "key_sha256": "f0a182ae041a5ad2b808eb65618601607acb59c8feaffb7ef19b125b19d11de8",
+      "english": "Effect Value Details"
+    },
+    {
+      "key_sha256": "f0d68b4683fef011b84f3f808dfa78733c31c4d62b0c63e2a8b202f605c3af65",
+      "english": "Perk Details"
+    },
+    {
+      "key_sha256": "f36adffd6d55400f9f57862c07e0be9fd23ae9d66f4d3a958623bb88e55181ea",
+      "english": "Weekly Quests update every Thursday at 09:00 AM."
+    },
+    {
+      "key_sha256": "f3f72faad55ce8a96ccacab3169a68c3d856c71597991298ff37b063685395a3",
+      "english": "View Probabilities"
+    },
+    {
+      "key_sha256": "f41794e28fd0f4890786cd050d87980d46ed97703f5fe40b22d1d7f3145efa28",
+      "english": "Spend Rose Orbs to increase your Season Pass rank.\r\nEarn rewards appropriate to your rank."
+    },
+    {
+      "key_sha256": "f422d3a0039799e6b06a0b39beb4a79a34a2f8147c3beef4837c2e36300ae295",
+      "english": "Weapon effect settings"
+    },
+    {
+      "key_sha256": "f4bb5215e7877ed17743816a709990af8499a03beda4f900fce9cbdc68b8642d",
+      "english": "Mission Details"
+    },
+    {
+      "key_sha256": "f5925e026b48587d0437cdaf320127aa059aa8d4e8358ff4ae4f6407feb4f8b5",
+      "english": "Bookmark List"
+    },
+    {
+      "key_sha256": "f5d49173e987f7bb8e4dd0c9e0f8eff9ddfa943a95589251b126968dc4547c21",
+      "english": "Personal Contribution Count"
+    },
+    {
+      "key_sha256": "f5ee6b5027fe7f67059984474077cb5fc1cc7e3857fd567f3a7404694d6491b9",
+      "english": "Screenshot logo position"
+    },
+    {
+      "key_sha256": "f734e8c71b53d3392b30fcac434c80cdb1aae7a6e6f8058db4825c248de8d6a3",
+      "english": "After unlocking this feature, you can create a team or search by Team ID\r\nat the Team Reception\r\nin Asterliese."
+    },
+    {
+      "key_sha256": "f8c2f0372519a45c585602b6c168ca9c7e23f4db99e86a8a6ae3a9ee7946e01b",
+      "english": "Learned Tactical Skills"
+    },
+    {
+      "key_sha256": "f8cba3e66eae16b5e5808d733c7f7603efc901702c6ee8886c6caef85ad73a60",
+      "english": "Change interaction restrictions: interact only with PlayStation® players"
+    },
+    {
+      "key_sha256": "f9ae846ddee5d23c04c690babd14ef2156b9675c2f4c80db43a25ed5703dc134",
+      "english": "Projected Stats at Max Limit Break"
+    },
+    {
+      "key_sha256": "f9e41b0712bab72f4b7f445ab594833c1466e05f2be23edce7c47b63285bc92b",
+      "english": "Recommended Battle Score"
+    },
+    {
+      "key_sha256": "fc72d681efbccc28eb3125b5fc0bfe42a6f42467464658739ee1ca126a488091",
+      "english": "Check a list to display it on the HUD."
+    },
+    {
+      "key_sha256": "fcd0cd87ebb2fcaa21d6a07b0983884d7cb881dd6602b238a72d96c05bae0114",
+      "english": "Earn rewards based on how many times your issued coupons are used.\r\nRewards earned are automatically sent to your inbox by letter."
+    },
+    {
+      "key_sha256": "fd89f571dcc52a1f18041d9b382b2e2ac1b98f9c8fc31385cb3b219eb566d8fd",
+      "english": "Time until restriction is lifted: {Day} days {Hour} hours {Minute} minutes"
+    },
+    {
+      "key_sha256": "fdede3485af1a8b8d96b5cafd628cfeb05cbba75ba353a280fb143e0172a9462",
+      "english": "Urban Series Set"
+    },
+    {
+      "key_sha256": "fe436008874dbc0d94300cbed489d4edc86a65ca2ac735a428bf212e4760cb75",
+      "english": "Tickets Owned"
+    },
+    {
+      "key_sha256": "ff0651801b647834d0c8462fae54407c3ecf6f66c0125680e7365b5b6b17de95",
+      "english": "Note"
+    },
+    {
+      "key_sha256": "ffadb32fd11eb1484d9d4562172a0dfd576e8c82b243e50a73def681b89febd7",
+      "english": "Instance, Offline"
+    }
+  ]
+}

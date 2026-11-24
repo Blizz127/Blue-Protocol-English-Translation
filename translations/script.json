@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "key_sha256": "00f32bb582a18f264f2833ec0af3cea45584bbe53829054e837dfe262f9229cf",
+      "english": "I hear there's a pretty tough monster to the southwest.\\nIt's probably the one that destroyed the town here, too..."
+    },
+    {
+      "key_sha256": "71a14cd376e401b310eac096f250551ce381c1caadffc02301aca05292be92bc",
+      "english": "Be careful if you're going to explore around here."
+    },
+    {
+      "key_sha256": "bf0e3d63c58fdb87b07651b3dc0f39863d3010b51426f1238cdff8922b6a2984",
+      "english": "That shadow headed southwest from Rietze...\\nI don't know how to put it... but it gave me a really bad feeling..."
+    },
+    {
+      "key_sha256": "fac9e103a9f4bef0671f93b2b6f65d0b4deccd3a625a59c28b5316e9ee7e38f1",
+      "english": "There's a hut beside the nearby bridge.\\nI saw a strange shadow on my way there."
+    }
+  ]
+}

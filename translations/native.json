@@ -1,0 +1,1312 @@
+{
+  "schema_version": 1,
+  "tables": [
+    {
+      "uasset_sha256": "0983ac5d2d28ffa96fa40765197562fab27afce2e7e108e2fca8d2ad33f9b0d2",
+      "uexp_sha256": "87e76e93d32269832aaee42fcb73af2db9c040b88168e9029b5408b24a7ab2e6",
+      "rows": [
+        {
+          "ordinal": 42,
+          "source_sha256": "ce9b1c7acccfeb5c3caf1d84092203636df6b959007f44ce7abc358e87488022",
+          "english": "Click to play."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "0f318eb6c1941784892cddbeaaf6a851bafa855f29c50585cb22b9b9fdd2609a",
+      "uexp_sha256": "1267fa1e75c35d61c9c7fa47b109df44d90641a4f91913e9406ef811becde5a0",
+      "rows": [
+        {
+          "ordinal": 129,
+          "source_sha256": "bab61dece9285f9a8818f032279285baf3f73dd1ad866f9202c44c04b921255b",
+          "english": "A king among beasts, it unleashes utter destruction with its charges and shock waves. As immovable as the earth itself, it attacks relentlessly with enough force to shatter mountains. Once it begins its rampage, slaying it is the only way to stop it, leaving no choice but a desperate fight to the death."
+        },
+        {
+          "ordinal": 139,
+          "source_sha256": "1f478ec88f5ae91f63e113758ea9376aed40796323e8e17086c9c736e5aef2a2",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nIt uses the combat experience accumulated over its many years of operation to improve its own capabilities. With overwhelming firepower, it can dominate vast areas and annihilate entire armies without allowing a single foe to escape."
+        },
+        {
+          "ordinal": 140,
+          "source_sha256": "eddcc0deba9d4af7898ce9a7727030d0b7d0aeea951b98cef97699d4b15cdf6f",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nIt does more than adapt to extreme cold. It releases such intense cold that it chills its surroundings, creating conditions that favor it. It will stop at nothing to bring down its target, relentlessly attacking until its prey is cornered."
+        },
+        {
+          "ordinal": 163,
+          "source_sha256": "9e002db9d962092646406e82904c4f5f0ef80eb733a8b8ef42dbb14b4fb6992f",
+          "english": "A species of agile carnivore that races across the grasslands in packs.\nA Land Fox variant adapted to life on the harsh tundra. Its exceptionally keen hearing lets it pinpoint the sounds of small animals hidden beneath the snow. Even a human holding their breath is easily detected."
+        },
+        {
+          "ordinal": 164,
+          "source_sha256": "3d35360161c0daf9dba2d2f31caabc1556917b77810eb55e70a65155623240ba",
+          "english": "A species of agile carnivore that races across the grasslands in packs.\nIt has survived the fierce struggle for life in the snowy mountains by giving free rein to its fighting instincts. It is also cunning, and is said to have learned to manipulate dark engrams to challenge larger creatures despite its small size."
+        },
+        {
+          "ordinal": 168,
+          "source_sha256": "da7db9a749e5c8cada0391b5438ded5b0b3871b61df470dacce76ef31124724f",
+          "english": "The lord of the snowy mountains, commanding the beasts that dwell in the frozen wilds.\nProud and fearless, it challenges even dragons to battle. The flames within its body are said to burn away everything, from freezing winds to the mightiest foes."
+        },
+        {
+          "ordinal": 175,
+          "source_sha256": "c6719f98e2a536892d7888d9c379e0ac715f09a61ec6c519ee88f918176fe2aa",
+          "english": "A monster resembling a lizard larger than a human.\nA Lizard Ghost that has evolved to survive in frozen lands. It conceals itself by mimicking the surrounding rocks and ice, then hunts prey that passes nearby. Its jaws are powerful enough to crush the frozen carcasses of other creatures."
+        },
+        {
+          "ordinal": 226,
+          "source_sha256": "b0201bb050e1a0e7364199284f5044316a946b846eaac88cbcae0b8ea6ede301",
+          "english": "A bird of prey monster that hunts even large animals.\nA Landhawk variant that makes its territory in bitterly cold lands. Its dense plumage offers excellent insulation, allowing it to soar undisturbed through any weather. It is not uncommon for one to burst from a raging blizzard and carry off its prey."
+        },
+        {
+          "ordinal": 233,
+          "source_sha256": "718796167c96d54cda616f5b6b8d74e4409b5c92741b04f62f0a764b85f033e1",
+          "english": "A bird of prey monster that hunts even large animals.\nA mysterious Landhawk that roams the skies of the ice world. Its face is badly damaged, and ice engrams spill from its scars. It has reportedly displayed the strange behavior of using these engrams to whip up a blizzard and hide within it."
+        },
+        {
+          "ordinal": 243,
+          "source_sha256": "3e7b8fd1a82916d59ffb8cf3352ca909ff67baee745f64f7cb0125ad46c35bab",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nSinister engrams seep through the gaps between scales far harder than steel. Its blazing stare is said to make even the mightiest warriors tremble. Only by overcoming that terror can one earn the right to face it in battle."
+        },
+        {
+          "ordinal": 262,
+          "source_sha256": "66bdfc493c6ec51a60f260b0dd62bb18061b5cc7ba062602b2b5abb3ad21e2c3",
+          "english": "A mysterious creature of unknown origin.\nIt can be found in regions blanketed by wind and snow. Known for shimmering like an aurora, it is said to bring good fortune to anyone who encounters it. One theory even claims it has a bit of a cold."
+        },
+        {
+          "ordinal": 309,
+          "source_sha256": "c72ed5df490f6bb9880b6a0c132494216cd8ddcea4044731861cbc876c26b625",
+          "english": "An outlaw who makes a hideout outside towns or deep in the mountains.\nSaid to have once held a respectable position before being cast out for wrongdoing. Far too intelligent and skilled for an ordinary bandit, this foe can overwhelm anyone who lets their guard down."
+        },
+        {
+          "ordinal": 340,
+          "source_sha256": "2c25adeceb273af69cd47740f5679d703598f8028a27561312c8dfdd8c7098db",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nThe bitter regrets of nameless heroes brought down by schemes, plots, and conspiracies have coalesced into a dark, burning mass. Hesitate for even an instant, and its overwhelming storm of attacks will sweep you away. Those who give in to fear can scarcely fight it at all."
+        },
+        {
+          "ordinal": 346,
+          "source_sha256": "ad54aa84ee8b89dc959221eb209fc072d9571875f2c5003a6e5d629a84c36c4e",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nThe fire engrams pouring from it generate such intense heat that it seems liable to melt its own body. Even its gaze is said to ignite what it falls upon. Only those with exceptional resolve and skill can hope to confront it."
+        },
+        {
+          "ordinal": 361,
+          "source_sha256": "52c998a26a0d58029a692b46ecea352f03e76726d13515b71cb9cb27fcfa5228",
+          "english": "A Dragon Tribe warrior with an imposing physique and overwhelming strength.\nThough immature and lacking in intellect, it can rival even Voldigen in a contest of raw power. Its brutish nature makes it impossible to stop once it rampages, crushing everything in its path."
+        },
+        {
+          "ordinal": 365,
+          "source_sha256": "bdfc62f19a1a4d824054eaeb7588e34b520f4c0224bba7fb1fd2eeaa887502c2",
+          "english": "A grotesque monster said to have been \"born of flame and calamity.\" The hellfire within spills out to engulf its immense body, yet loses none of its fury as it burns everything around it. A symbol of ill omen, its very appearance is feared as \"a harbinger of terrible disaster.\""
+        },
+        {
+          "ordinal": 366,
+          "source_sha256": "1e7f60e3cf1dc5143a8ebd20fcf5c922c2110edfaa26b13f2711368de9dde682",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nBuffeted by a cruel fate, it destroys all around it as its anguished cries echo through the air. The sight is both terrifying and tragic. Perhaps someone who has attained true strength can free it from its suffering."
+        },
+        {
+          "ordinal": 369,
+          "source_sha256": "b63ad42f6f38f73055a0020eee1ce9f8d1974d728479bb5cde2a95f0497ef8ad",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nMuch of its nature remains a mystery, but there is no doubt that it wields immense strength. Some of the calamities described in ancient legends may well refer to the devastation wrought by its varied and ferocious attacks."
+        },
+        {
+          "ordinal": 371,
+          "source_sha256": "7431bb201ecbd61176aaf2226fa6367710881c6e84f1df6f7f73a38e9ce41121",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nIts firepower and mobility have both been greatly improved. Enhanced for more tactical deployment, it can launch wide-area attacks and charges. It can adapt to any situation and is devastating in battles of annihilation."
+        },
+        {
+          "ordinal": 375,
+          "source_sha256": "0d9ca9629bd32ef78bb963d67292266301c4cbb9781759bb07b46ff8f33d873c",
+          "english": "The mightiest Dragon King, whose name resounds across the planet Regnas.\nSo powerful and terrifying that none may even approach, it is an absolute threat. Across the thousands of years of dragon history, past and future alike, no equal exists."
+        },
+        {
+          "ordinal": 383,
+          "source_sha256": "1737eeea74df299675d9aa5d17e2c33396a12d8c6b61ca2684d675112f6c0542",
+          "english": "A mysterious warrior of unknown origins.\nOnce hailed as a hero powerful enough to change the course of the world, they are now a shadow of their former self. Their skill, however, remains undiminished. They have become a demon, beheading one enemy after another with lightning speed."
+        },
+        {
+          "ordinal": 384,
+          "source_sha256": "2cb3b0da2070199f9dec1be9389138e2ede1cd0f8f9ec1e799d50c75e7caf24e",
+          "english": "An extremely dangerous being that rampages with extraordinary power.\nIts strength is said to exceed the bounds of humanity. Look away for an instant, and your head may already be falling. The way it slaughters its enemies without a word may indeed be beyond anything human."
+        },
+        {
+          "ordinal": 386,
+          "source_sha256": "3bdb9e469c52591a342910b142adee98373cd9623a661d122753a5bcb1a25366",
+          "english": "A powerful monster known to have inhabited Koaniani Forest since ancient times. Its appearances cause such devastation that they are counted among the forest's natural disasters. It is remembered as one of the greatest threats in the forest's long history. Anyone who faces it must be prepared to overcome the fury of nature itself."
+        },
+        {
+          "ordinal": 387,
+          "source_sha256": "7932d1046d1511e21e246fe600db5a0f2d4b47f9049e2c2c4b559b497be47ce2",
+          "english": "They skim the ground as though mowing down undergrowth, attacking their prey in swarms. They appear near Forest Reapers and slip in attacks to cover the openings left by their massive companions. Leaving them unchecked can turn a battle into an unexpectedly difficult fight."
+        },
+        {
+          "ordinal": 388,
+          "source_sha256": "8643565263d7bba47490a34eed1f4879d64a4977d5641e26e89ac207f69372bc",
+          "english": "Always appears lurking in the Forest Reaper's shadow, relying on its intimidating presence. It is rarely a threat on its own, but its interference during a fight with the Forest Reaper is both troublesome and extremely dangerous."
+        },
+        {
+          "ordinal": 389,
+          "source_sha256": "90c8b4799a279cba1b738ea768b8c207fbd22d20c925a13103c20d76f674d0cf",
+          "english": "A Forest Reaper transformed by the vast stores of ice engrams accumulated within its body. It scatters ice and snow from its massive frame like a raging blizzard, making even an approach difficult. It freezes all life, shrouding the forest in the silence of death. It is said that nothing moves in its wake."
+        },
+        {
+          "ordinal": 391,
+          "source_sha256": "cc28153137b73e3e34e537d254cb7462613ddab8fca1be4036383c74eb359f59",
+          "english": "A Tiny Reaper cloaked in ice engrams. It releases cold air to stagger its enemies and make escape easier. It usually hides behind other monsters and rarely ventures to the front."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "1114cacf74609d7dc4ff675d30d772b8ae69d2363bd00a53ef28100b408b3969",
+      "uexp_sha256": "e0f579af6d3db72cc68e58e738c4303cf997a9a7fe6ea568e40fb120d9bf2b05",
+      "rows": [
+        {
+          "ordinal": 182,
+          "source_sha256": "dd9a3407f072ffda25863a3059e8d772ea6f27cea6bd6636c027912c5431abc0",
+          "english": "Tia"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "115bbd3d3d2e7229e7b5d67eb07153d3053dbfda4f15943f2946dba30adea730",
+      "uexp_sha256": "9c57ecde3ef8ebd0b148a8d567580bbd52348b051f29e86782b25ec39d774770",
+      "rows": [
+        {
+          "ordinal": 134,
+          "source_sha256": "047b87c6f353b6279198bbda0c59acf29544697dc4d681faa9e0df33b5eeae82",
+          "english": "Area Targeting Control Type"
+        },
+        {
+          "ordinal": 135,
+          "source_sha256": "3717a8d47ca6c7fd77418b799c4bb3b09c27b1b1fdcf6e3951bf3e442ea730f3",
+          "english": "Old Type"
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "870ef465d5515709f11204975f37589e7df666286172aa16b0af5ff2a7ab669d",
+          "english": "New Type"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "16ca48b810f416cf8a674e1ec8f9d9386bca30397b63963ddd72a698f907ca24",
+      "uexp_sha256": "6c1cf6ec2a3492a2ae583b423d4d038839f1c38b7b8cfd119f44b55f6e3d4ff4",
+      "rows": [
+        {
+          "ordinal": 128,
+          "source_sha256": "b06126d80cc8ad6c0a0de3fcee620cdb5865784ca18cd0f187fcdb4a81c06a2c",
+          "english": "Menacing Dragon Ridge"
+        },
+        {
+          "ordinal": 129,
+          "source_sha256": "84a67f34d07049b16a59303d396e6b89fcfdc5f27f9b4f1510f11cab182a3e80",
+          "english": "A mountainous region in the northern Granville Ice World.\nFierce blizzards and active volcanoes make this land so harsh\nthat it is said no living creature can survive here.\nDeep within towers the sacred Mount Bernardus, a place so remote\nthat it is known as the end of the world."
+        },
+        {
+          "ordinal": 130,
+          "source_sha256": "ad7e9b357e5a8e42d87f7b13a3eb65dbd6911e3aba01e504f77d391adddf3777",
+          "english": "White Dragon Snowfield"
+        },
+        {
+          "ordinal": 131,
+          "source_sha256": "0b5c31044fcb1f75246fd0e698fe09d7afd0b4cbf0fd18b4af09821130d61d34",
+          "english": "A snowy region in the southern Granville Ice World.\nDespite its relentless winds, snow, and bitter cold,\nit is considered one of the more manageable parts of the Granville Ice World.\nKnown as the home of dragonkind, it is avoided by most people."
+        },
+        {
+          "ordinal": 132,
+          "source_sha256": "b3aa61e6bd41706a147cfc16776f511c22d96e40ebaa959b00a8b438baf96b6d",
+          "english": "Stellar Aurora"
+        },
+        {
+          "ordinal": 133,
+          "source_sha256": "7f6160ee34eb5e7b850aa7f3bb804d7fdf2552b714ee3c43a1afa5119d8a1167",
+          "english": "Beautiful ribbons of light stream across the night sky over the Granville Ice World.\nKnown as the Stellar Aurora, this phenomenon remains shrouded in mystery.\nIt only occurs rarely, so if you see it,\ntry taking a picture in Photo Mode."
+        },
+        {
+          "ordinal": 137,
+          "source_sha256": "4697b6ada7fd7994f0141a0ea2cf23bd62ce28ba0a3798d556a62a884710334a",
+          "english": "In some areas, a blizzard begins\nwhen a named enemy appears.\nDefeating the named enemy within the time limit\ncauses special gathering spots to appear for a limited time."
+        },
+        {
+          "ordinal": 140,
+          "source_sha256": "aa59b9c5f8a2cedc9812153108a67913c908e1ab98658cb210f446908bfd1518",
+          "english": "Breakable Ice"
+        },
+        {
+          "ordinal": 141,
+          "source_sha256": "0572ac020bc6f09ce6761e08076a90774c5f518624842a01dc2de2b3a4cbfdd1",
+          "english": "Breakable ice gradually cracks when attacked or stood upon,\nand eventually shatters, leaving a hole.\nFalling through a hole may force you to take a detour,\nbut it can also lead you to hidden gathering points."
+        },
+        {
+          "ordinal": 227,
+          "source_sha256": "229be68e906e9b7e4404392eca014401beaa67816edefd0c6c4f41895c2b770a",
+          "english": "The Forest Reaper is a raid boss that inflicts players\nwith a special status ailment called Dead Count.\n\nUse the Throwing Action\nto increase your remaining Dead Count."
+        },
+        {
+          "ordinal": 228,
+          "source_sha256": "f898637a8173f65415ac368d9b653bd4d6b0bf8d429b391d0423f473d55fa9aa",
+          "english": "Time Bomb"
+        },
+        {
+          "ordinal": 229,
+          "source_sha256": "7f4295706b63e3365411666e9be69bd173d1fa439cf513b4a6d952d6dc12a271",
+          "english": "A Time Bomb explodes after a set time, dealing heavy elemental damage\nacross a wide area to players only.\nThe explosion cannot be stopped, so protect yourself with Guardian Shield.\n※ T-Skills and dodging cannot prevent damage from the explosion."
+        },
+        {
+          "ordinal": 230,
+          "source_sha256": "6ff78e11d770d169edaaec8bb9d7e39b2878379aff097e0537c7ba3379935017",
+          "english": "Mission Repeat Support"
+        },
+        {
+          "ordinal": 231,
+          "source_sha256": "ef5abea57b419261f7e6669aa4c6165e85fb45461e991a774dd028c74f9627bd",
+          "english": "If matchmaking cannot find enough players for an Investigation mission\nor Rush Battle, the mission will begin with Imagine companions such as Feste\nfilling the empty slots.\n(They are replaced when other players join the mission.)"
+        },
+        {
+          "ordinal": 295,
+          "source_sha256": "b65a8196c242a271187fa08a97ab66dfd728ca9d34e7a73c6c046c4f7140aaa9",
+          "english": "While this effect is active, a counter appears that decreases\neach time an enemy damages you. Reaching 0 incapacitates you.\nYou cannot be revived by other players and must immediately respawn,\nwhich inflicts \"Loss.\"\n* \"Dead Count\" cannot be prevented or removed."
+        },
+        {
+          "ordinal": 297,
+          "source_sha256": "13275e816728b759668610937e3a45be4af80e02cccc8f89b5221ebdd9ad870e",
+          "english": "While this effect is active, you cannot recover to your maximum HP.\n* \"Loss\" cannot be prevented or removed."
+        },
+        {
+          "ordinal": 298,
+          "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
+          "english": "Throwing Actions"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "186370a43b2726a753b5a0588467c2a89ff3919f73f270eb87e2945d74a0d2ee",
+      "uexp_sha256": "f4d7662df16fcd62879efd6ce5fccfc554939c9bf068e532fd15986ccc9b55e7",
+      "rows": [
+        {
+          "ordinal": 105,
+          "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
+          "english": "Raise Your Adventurer Rank"
+        },
+        {
+          "ordinal": 150,
+          "source_sha256": "98acc1a77170acebe28e8a16a05de99a4006cb3551c0e20cb670e7d7d6a24c8b",
+          "english": "Stats"
+        },
+        {
+          "ordinal": 153,
+          "source_sha256": "1b0e61fc91d62c910f00fb128594f81d7a976d5f71c9e549f28138952d754d63",
+          "english": "Mount Equipment"
+        },
+        {
+          "ordinal": 399,
+          "source_sha256": "648540884d6f394980186d88b1d50d81898879c726eac57716cfbe87523a7116",
+          "english": "Turning Your Character in Place"
+        },
+        {
+          "ordinal": 405,
+          "source_sha256": "850377f1901d26e99bcd1136482e02411a82b0a6a44c7929afad776a79e9bb66",
+          "english": "Being revived by another player\nwill not leave you weakened.\nIf you see an incapacitated player,\nbe sure to help them back up."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "18d73ce2531c5cc26e2f6f789a936930a2bd293f3617102ffb677bd3e14925a5",
+      "uexp_sha256": "68c295a6b016243c90f6892043eae15efd405de9c6b1a6ef74f207797f0b8c8f",
+      "rows": [
+        {
+          "ordinal": 28,
+          "source_sha256": "1036e1174f03f7b1a5e12e402414c597bd81395e11a43cd68d4385a9e2c132f3",
+          "english": "Critical Rate Up for 40 seconds!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "9dcb7090e9416dc118db8782acf8c26cdde15915f68ac85a3b5e99949f5e020f",
+          "english": "Regen for 40 seconds!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "6ae4046bcbc33e392ef2cd25b07d89956213fe7f9a4fea129a4efd1a94ead032",
+          "english": "Hit the target with a throwable item"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "1ed0ebda8072b5ab5155d092bc1b0eb3bdea5797aa6c3589f12d6c2ebea2e5c6",
+      "uexp_sha256": "309527ae8082e9537bb98449ddd1192a0035612732658c5457313b0dabae7f2e",
+      "rows": [
+        {
+          "ordinal": 54,
+          "source_sha256": "f05f3aabef5c762dd0d6912b56c885a6789f0125bca45a897e93303dc3636591",
+          "english": "Reduces damage taken and elemental buildup from earth attacks."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "3557d69ca30faae1cd50b5c0211c2f78de4898cc981e8d1632db2ff1df1572b7",
+      "uexp_sha256": "88b8c13f2790dc83d0ebcadde80a132c7b80cade1555b2c60f881e9fc0986ecb",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "119be7940257609a9acc4a0fbd679501392ddf7cb1c489947173841bac499eb6",
+          "english": "Obtained\n{achievement}"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "366a9b6504be5fe31f95849f5ec08693c03f53a514f06861ddc87bc2d2b3a4cd",
+      "uexp_sha256": "e004f3f2a79fd9587992eb3f1188d6b7204e0d8e30b79a3632594bbe4161aca9",
+      "rows": [
+        {
+          "ordinal": 15,
+          "source_sha256": "2b979b0c79f66519bf45c87ec0782b752ba670df0120976aa5a737da207a790b",
+          "english": "Extra Battle Imagine"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "41c199471b1b3cc30997268c1f19f6c234705de76d8a735eefccb759e1f6ea3e",
+      "uexp_sha256": "0732e93798c1cd93420b851946cf558abb484039ab1121b5f63c65cb0b8f5cf0",
+      "rows": [
+        {
+          "ordinal": 129,
+          "source_sha256": "c3cffd0839bce535225e9416cc43164216afc6edc22d84a6e533a23247d10faf",
+          "english": "Earth Resistance Up"
+        },
+        {
+          "ordinal": 209,
+          "source_sha256": "90ec441ad312f07db4dd2d3e706257bfe254b09b60f94b832029079579c11ac1",
+          "english": "Death Sentence"
+        },
+        {
+          "ordinal": 213,
+          "source_sha256": "4b2c181920b31d161e950c4dfc3e51b8dfd6ab499d3435021dc0cc8596e2b7e5",
+          "english": "Super Guts"
+        },
+        {
+          "ordinal": 215,
+          "source_sha256": "65d0898837e5c4cbd962cda7b65cb9923f5bee166d0eff1b51babcd06da70736",
+          "english": "Encore"
+        },
+        {
+          "ordinal": 217,
+          "source_sha256": "839b4afffaac92d33e0663ae9ae595e42217e52782c5a5d9fdd2d4529d95162a",
+          "english": "Last Song"
+        },
+        {
+          "ordinal": 219,
+          "source_sha256": "44d44b20fc07d8df62a5c086fa84e2c883729a429cf49305f048d5e9143091d0",
+          "english": "Quick Mode"
+        },
+        {
+          "ordinal": 221,
+          "source_sha256": "73164bd2dcd92f796e86d910a0053039f0dddbca506ab48a0e8a2bf0cefe100c",
+          "english": "Healing Mode"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "5712870b73a97d1e3c0d2b2ceb5d9ba472c537eb11626e13328c9b49553dddf8",
+      "uexp_sha256": "8cd7024423e0e552f7d457cb8257049019edc04909131bc45a6827dfdd9c236d",
+      "rows": [
+        {
+          "ordinal": 48,
+          "source_sha256": "3099de34d39dfdb8b14dc6544ea43d95c65da8869f660026db3b68c7d57fdcbb",
+          "english": "All entries have been marked as read."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "c228193c92f029ec1bf8e80e30e3e1f97b77445e0e00f9cb2498c6154d369cb8",
+          "english": "All entries have already been read."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "3b66cd0fde1b961318625fc6de82e3971c57aaca603f66609808cd5ca7cb883f",
+          "english": "You still have unclaimed rewards."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "7352435c63430f64a36b688447da491eed18aef16150fa4516d37fa69533b276",
+          "english": "You cannot obtain any more {ItemName}. The amount exceeding the limit was lost."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "5f557f6214cf7098acc551a783317cfdb7506dc6dffcab97343b28504ff87f16",
+      "uexp_sha256": "640f60c6711f388e7d63a0d59f05f2f6144c7a00dbeac94fb62ed617515d2330",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "a748edfcf1feaedc08827680219a92c593c7e82860bd077571337f9ec2d84072",
+          "english": "Unable to change {target}."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "69c35531abf3dfad492c14186f4c7f6d4da172ba0a01a9b720f2c8886c1843c8",
+      "uexp_sha256": "652b4084c430eb02cd4e56bdba93730795f5a180db1274afadc2b7397eb2f41d",
+      "rows": [
+        {
+          "ordinal": 129,
+          "source_sha256": "c3cffd0839bce535225e9416cc43164216afc6edc22d84a6e533a23247d10faf",
+          "english": "Earth Resistance Up"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "6bfa3e3ac6d7865765bbdce9fec00c2063fef37b9a3b758b9d5cd45b44afd10e",
+      "uexp_sha256": "b5b877e7250c0d8ceee5a093c1b3524e83c06aacf3b8e91ba657d8bed2638469",
+      "rows": [
+        {
+          "ordinal": 15,
+          "source_sha256": "0b8dec579c1a222aed76725ac30dca454aa074e1dcac998ab7343cb43fe95587",
+          "english": "Congratulations! You've reached Adventurer Rank 7.\nI look forward to seeing what you do next."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "7278290c7f0452eaff7780d85ad8b7b99432e3a5a5dbe215f9f3f7510a79ab1e",
+      "uexp_sha256": "2f8d7e9d4c5fbb4cf027737625ef268398853af7fb81fbdba1bc76c7f2c33b19",
+      "rows": [
+        {
+          "ordinal": 11,
+          "source_sha256": "61e29e2485a1f769f7293f8a113a11b801ce15d8763a94a5b143cf8e02877870",
+          "english": "Not enough Engram stacks."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "754acdd671d1884eff5feeac866390e27d320b5a2064c038c825c44b7a154a99",
+      "uexp_sha256": "4202fa409c4038e25e9974f2d532efad4443e552cc803eefe353306ef1d31a11",
+      "rows": [
+        {
+          "ordinal": 52,
+          "source_sha256": "c1bf6f054dee5f2ff34fac2207a57a6911cbcc1ff6eb3fd6f3290b4288723669",
+          "english": "The names engraved here\nwill endure far into the future."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "78f9f19bbac01e2901955c0d1eb998defaea1b8c1a4baeb7ac4b9efa74875414",
+      "uexp_sha256": "9598c4840ee134af460712b2a9f5518c319dc432ddf4f607643ec08d48e80b40",
+      "rows": [
+        {
+          "ordinal": 54,
+          "source_sha256": "c3cffd0839bce535225e9416cc43164216afc6edc22d84a6e533a23247d10faf",
+          "english": "Earth Resistance Up"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "86514a177f617a6c8015c62691337cbabec580fbe88e90816d5176a33ed1e099",
+      "uexp_sha256": "0c9b4af6229d31ebb9e69cb09557c3f40bc5dcfa06cf0e6f0fbc233d5997f24c",
+      "rows": [
+        {
+          "ordinal": 49,
+          "source_sha256": "bc997f450a6b63cafdd2af07db4a051bfd3a5d5e680751b8ad182785c540c8a6",
+          "english": "[Bonus Contents]"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "a823188427189c2c2877edd047740912d0038b9202a5e8120914cdedaf5cb2b4",
+      "uexp_sha256": "9369ef6532f0154596a5b37aeea6202f4b23a6cfe190d8c0e3a5bc3b9157e660",
+      "rows": [
+        {
+          "ordinal": 42,
+          "source_sha256": "cb28b5237e7d3e6b626e69747a9e8b0d5047c73ea4e8a681b690ec30bbd306bf",
+          "english": "Valmlant"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "ff606737370898c747519c067e34dd53d413d84dff2a904c5e15c11ef5eb77ec",
+          "english": "Wanderer's Windbreak"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "42ace206100e8e131502fa88ab99fe8d1a57d5a51454386ff7c7a63befa57069",
+          "english": "Gunners' Inspection Station"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "beda9f64e378d242db5511b35ada3ac21bf63236354fcd9b118fbcae5ff0ea6a",
+          "english": "Spirits' Rest"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "adf3005bddbf02bff6bcd4f94c5efc84d168074ee3de59fcc19cee3b444fcde0",
+      "uexp_sha256": "e569f9f0e54f6eb6a2a00a64b378a1642912a51304a93ec8d9bcf985f6b9a9ef",
+      "rows": [
+        {
+          "ordinal": 45,
+          "source_sha256": "98b00ac1483382c64442f824dfa62147f8d176cb51b1951df4f641ed0f88a1b3",
+          "english": "  Upcoming Event"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b9d64b1846d4b03cca26075de69e4b83a8afa33863fdcfac2350d1708baf7ac9",
+      "uexp_sha256": "002b414b96e0bd3aa7b9f1a0ce01aeb1556f58782e382a5c9809e2d79217907f",
+      "rows": [
+        {
+          "ordinal": 27,
+          "source_sha256": "ac429de4afe07798ae63b12a45b3f00062b4227f78398932b9b48644f2b83be2",
+          "english": "[ <key action=\"Interaction\"/> ] Pick Up"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "767c7b547411d6e09d50078459a19046a8b9739650bb27a4a9479c7e855ebd15",
+          "english": "[ <key action=\"Interaction\"/> ] Enter Olden Armory: Free Exploration"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "6946da18b690250896cd8d49e309301a304d528b7ef9ef14090f3bdd8d639f9b",
+          "english": "[ <key action=\"Interaction\"/> ] Enter Tower Rock Mine Ruins: Free Exploration"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "9cfb2c532eacb52649485cab9ec65e0ffbe3ae8e9ec46f4169d16995a2ab4d4d",
+          "english": "[ <key action=\"Interaction\"/> ] Enter Meadow of Lamentation: Free Exploration"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "442755b6b29f53c35850571a8f9bd9f9962eeadbd3e7b92a5b85ffe04f913ecb",
+          "english": "[ <key action=\"Interaction\"/> ] Travel to Granville Ice World: White Dragon Snowfield"
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "2e70586855d4cbb84aefa7e3a54142d1659dda464030eb015e3fe4ed88162c27",
+          "english": "[ <key action=\"Interaction\"/> ] Travel to Granville Ice World: Menacing Dragon Ridge"
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "442755b6b29f53c35850571a8f9bd9f9962eeadbd3e7b92a5b85ffe04f913ecb",
+          "english": "[ <key action=\"Interaction\"/> ] Travel to Granville Ice World: White Dragon Snowfield"
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "2e70586855d4cbb84aefa7e3a54142d1659dda464030eb015e3fe4ed88162c27",
+          "english": "[ <key action=\"Interaction\"/> ] Travel to Granville Ice World: Menacing Dragon Ridge"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "bf296ed04f3ddcdb0a906f15c1f029f5f07bbd24e5c2f644ee8dc92ca7112f97",
+      "uexp_sha256": "5e64f749c9a6cc807a9e2cc29f1ffe294394567bda15f69daa17ef12840d2168",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "fefdbd3d94f7cc254dfb668b6148eee4e1eaaa33d472d837fa08da299c34db67",
+          "english": "Starts in"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ca43e79823285f36df8a27eb4ce66fdbae69ade7291047cf5461575415b5f465",
+      "uexp_sha256": "85f9dc5c596fed785dddcb01d0592e1827b49f4a32263ffed39993214bb552d4",
+      "rows": [
+        {
+          "ordinal": 593,
+          "source_sha256": "3ffdfd694e9510809737f4d8ff199b66718f6600b050d21896ad72237eea48e9",
+          "english": "The Truth About the Imagine Seed"
+        },
+        {
+          "ordinal": 594,
+          "source_sha256": "bd71e022377127177cb89f1f1f525e1ed8132453c03ef151e7857a8f77275845",
+          "english": "A Message from Avninte"
+        },
+        {
+          "ordinal": 595,
+          "source_sha256": "e28aded42a9eff0a7452fccdb4de8da1bc4bea206a59fceb92218c9ecf47dc99",
+          "english": "Tales of the Dragons"
+        },
+        {
+          "ordinal": 596,
+          "source_sha256": "0bad113392b0cb7699c57f04956035d55c70a2c9d7350a74b54d126c84ff74bf",
+          "english": "Farewell to Kapakuku"
+        },
+        {
+          "ordinal": 598,
+          "source_sha256": "d7d8381c0106a51b2926b154e9517389a1db1c64e0178614bbe643105f237150",
+          "english": "A Reaction from the Shell?"
+        },
+        {
+          "ordinal": 599,
+          "source_sha256": "0804bce4dc0f32686518d524bb3f5cfc618ed7b6043faf6a4f85e1f46a8096ae",
+          "english": "The Mysterious Bapharian Weapon"
+        },
+        {
+          "ordinal": 601,
+          "source_sha256": "37ceea9a139c90851a0b86420f5663bedf971ef8251730a858d406578573eb51",
+          "english": "Apologies and Thanks"
+        },
+        {
+          "ordinal": 602,
+          "source_sha256": "da4dfb158d58b355bc0439dce17aea2b314482c34f73f539060b3918da71a718",
+          "english": "Amid Uncertainty"
+        },
+        {
+          "ordinal": 603,
+          "source_sha256": "f33ab05bd3fa91900443252644ad26572190f968062b9d8619b8886bc75add83",
+          "english": "A Scarred Village"
+        },
+        {
+          "ordinal": 604,
+          "source_sha256": "7abc1a6256ffbb8533b43ee6ff416ad6f4f30af2db11ff5864c028057e8c0a30",
+          "english": "An Odd Turn of Events"
+        },
+        {
+          "ordinal": 605,
+          "source_sha256": "fb8e698618da6ee242bcdd594355b463d7a843320b178d76335c127164ed24c0",
+          "english": "Treasure of the Dragons"
+        },
+        {
+          "ordinal": 606,
+          "source_sha256": "5b9bc74ef0fdd1bf1c906cb4acd0233a0e645ef8977703afbee248117212b41f",
+          "english": "An Illness Caused by Engram Deficiency"
+        },
+        {
+          "ordinal": 608,
+          "source_sha256": "1b3f7eee157bfc6a64b0fa901f50de664e186cef633051c0bf3c5bc8e52bbbbd",
+          "english": "A Place with an Engram Reading"
+        },
+        {
+          "ordinal": 609,
+          "source_sha256": "d74acaf237a9ea485ed746777c766ba1c678d1ad371445f7f19372a89af4cb39",
+          "english": "Forward Base"
+        },
+        {
+          "ordinal": 610,
+          "source_sha256": "d5ddc687e73055a24e0be3dbcd76891e447f4c274091584c05600d2ced8ddf44",
+          "english": "A Moment of Mercy"
+        },
+        {
+          "ordinal": 611,
+          "source_sha256": "dcaf61c04906e93e056ae9a3d1e6d9a7b0cb4879e1656d0246f09017a3b30898",
+          "english": "A Reason to Fight"
+        },
+        {
+          "ordinal": 612,
+          "source_sha256": "a35d4c0d290175f227ae0949e6ca6233283514232e1c3c3bebf701feb9b37223",
+          "english": "Voldigen's Whereabouts"
+        },
+        {
+          "ordinal": 613,
+          "source_sha256": "8a6954e73799900f60ab9588854aeaece227045ccf4d27e928a9350c9f035dbc",
+          "english": "A Thunderous Roar"
+        },
+        {
+          "ordinal": 614,
+          "source_sha256": "61c6ac911158726d96f9041097d48d5df3f8b2c8f17c89feff7f7c01426f1362",
+          "english": "An Attack by Bapharian Weapons"
+        },
+        {
+          "ordinal": 615,
+          "source_sha256": "5f2761a76fea32341d4c8dd6b3efe09339f3d17e4b9afdf6fac574f5b25d6e70",
+          "english": "Battle Against Bapharian Weapons"
+        },
+        {
+          "ordinal": 616,
+          "source_sha256": "0a276b47315a2b96dee01c9c5ced866a98cc743b44509fefcedaadfc41bbfec9",
+          "english": "Fighting Alone"
+        },
+        {
+          "ordinal": 617,
+          "source_sha256": "866da80297577004d6af06c94280ec6c3c18a1ffda48ed3933ac344cb211bedf",
+          "english": "Disposing of Bapharian Weapons"
+        },
+        {
+          "ordinal": 618,
+          "source_sha256": "e87540a68c0a8488c9eeca8b77b7dad9e04b70d455a258d91bf34c26648362d2",
+          "english": "The Command Unit's Whereabouts"
+        },
+        {
+          "ordinal": 620,
+          "source_sha256": "5270ba45f1ce0aa23200ebfdc0615daa77e8507385668f71459a63ad4fb70b80",
+          "english": "Command Unit"
+        },
+        {
+          "ordinal": 622,
+          "source_sha256": "e92b7ef94e37ca49051352cb661e797974ec1d1cf802bdc07bb464c0bf9b43e0",
+          "english": "Everyone's Resolve"
+        },
+        {
+          "ordinal": 623,
+          "source_sha256": "684b4c9ce2ff1f58d5d7492cd58aeb51940e3a52dc3eb29be0e09967dedf64b6",
+          "english": "To the Dragon King"
+        },
+        {
+          "ordinal": 624,
+          "source_sha256": "ea6f43b25bbd286a8431b8267db2cbd02b7206fcf541ad4c7ed195a057d30ca7",
+          "english": "Meeting with Voldigen"
+        },
+        {
+          "ordinal": 625,
+          "source_sha256": "6c82dbd389ad90c5862bc64e103065281b2245817a45a6fe128ce37d8def7682",
+          "english": "Suddenly Alone"
+        },
+        {
+          "ordinal": 627,
+          "source_sha256": "22d8e3354c903c15f34527cca4e708fc5066b2ec0e4bd67b516f8274c454dc8d",
+          "english": "An Unavoidable Battle"
+        },
+        {
+          "ordinal": 628,
+          "source_sha256": "74f06248ba89fe5c0400e0c3a739cefa7ee558115e6b0242b2525f159190be71",
+          "english": "Thinking of the Future"
+        },
+        {
+          "ordinal": 630,
+          "source_sha256": "f79988fb3a6e2a7c18c160cd1d7b1a125fe6df5dcbd58af0069181b4628dd614",
+          "english": "For the Future of the Dragons"
+        },
+        {
+          "ordinal": 631,
+          "source_sha256": "c00faaf496163d8b836f33e4252753e5d506d91dd833addba6465a040daeede8",
+          "english": "Avninte's Secret"
+        },
+        {
+          "ordinal": 632,
+          "source_sha256": "cc5e4e041181111af6829e6712030fc6223e74172c7736c5b7bb4cd3d47caa67",
+          "english": "The Mysterious Girl's Song"
+        },
+        {
+          "ordinal": 633,
+          "source_sha256": "74ad0016ac85f9f07ac6036a20ba642616092c721dfdf6c86996ed6bedba0385",
+          "english": "Supreme Dragon King Voldigen"
+        },
+        {
+          "ordinal": 634,
+          "source_sha256": "07b5c275bcd9994892855b92625c3c314cd41a6e996de82698b3a6a0f1346120",
+          "english": "Voldigen's Final Moments"
+        },
+        {
+          "ordinal": 635,
+          "source_sha256": "8acacdaae3cc87c2a17cacb538f27d57c2f1aacd9cadf94a96c614e80c260aad",
+          "english": "Reclaiming the Avaritia Shell"
+        },
+        {
+          "ordinal": 637,
+          "source_sha256": "0c54323045418e183b727253769c33f9787e2fd7927625c18ee72bdd8f3b994b",
+          "english": "What Comes After..."
+        },
+        {
+          "ordinal": 638,
+          "source_sha256": "85186ed547d8ccdcd7cfbfa28172e6df6339e30adec3b59f87b9c96f1589f297",
+          "english": "Confession"
+        },
+        {
+          "ordinal": 791,
+          "source_sha256": "042a83f0e2879ee622be72ea3c3cd91540593baaa7315d326945862ac2d9d87a",
+          "english": "Behind the Wanderlust 1"
+        },
+        {
+          "ordinal": 792,
+          "source_sha256": "34711f66f32fed4b47aafad6ba7d699e14c1b52f1352a044ae4144d8fc5547da",
+          "english": "Behind the Wanderlust 2"
+        },
+        {
+          "ordinal": 793,
+          "source_sha256": "6aea9083a3378d508799c9062acad6dc7e15a4e6ccf0f7540cd5fc355d037cd7",
+          "english": "Behind the Wanderlust 3"
+        },
+        {
+          "ordinal": 794,
+          "source_sha256": "0a5164027faad94bda1313f564c89465f05e279026aa96948676afc35113f719",
+          "english": "Behind the Wanderlust 4"
+        },
+        {
+          "ordinal": 795,
+          "source_sha256": "758cbf13b9011965d6b48e32c1456f33fe51cad80f52827967132fc9828b3ba2",
+          "english": "Behind the Wanderlust 5"
+        },
+        {
+          "ordinal": 796,
+          "source_sha256": "ff9a0f5a6ecd201076696158ce8c29bef7ba0a2c7f08f7398d222a97654884b6",
+          "english": "Behind the Wanderlust 6"
+        },
+        {
+          "ordinal": 797,
+          "source_sha256": "5a94d538c930714c8f8251d4f45c454cc46eb66edf7b936e4fad9daa2d619ca7",
+          "english": "Behind the Wanderlust 7"
+        },
+        {
+          "ordinal": 798,
+          "source_sha256": "f442ba2a1a5b1b2a57b444bc94c7d25a00f360ed8d9305fd8d3e13f672622f8c",
+          "english": "Light of the Next Generation 1"
+        },
+        {
+          "ordinal": 799,
+          "source_sha256": "3b5e038b7c652fe9a20fbed092018b874c91602bba60abf898835060419b23fd",
+          "english": "Light of the Next Generation 2"
+        },
+        {
+          "ordinal": 800,
+          "source_sha256": "ca6ee44887ea7ad5a099f64feae8b7938a0d7cac40d2af9d2fc6c7a28632cfdb",
+          "english": "Light of the Next Generation 3"
+        },
+        {
+          "ordinal": 801,
+          "source_sha256": "8fea8b43c7f95fb4cfa643801ebaacd874a6da621fae5b7b3696e2b1d81b77e8",
+          "english": "Light of the Next Generation 4"
+        },
+        {
+          "ordinal": 802,
+          "source_sha256": "5984791389c068ff888e80c6cc82ab964db985ffcdae98a05a09bf3bebc97798",
+          "english": "Light of the Next Generation 5"
+        },
+        {
+          "ordinal": 803,
+          "source_sha256": "362743420e1d7749afa14a37b64cfb5d1f32abee75a62fb8b4a514209aa1f392",
+          "english": "A Promise to the Future 1"
+        },
+        {
+          "ordinal": 804,
+          "source_sha256": "642f90c40226368d88d2dd2866d9ff7704028fa512c3a8b0a1bb82334477b48d",
+          "english": "A Promise to the Future 2"
+        },
+        {
+          "ordinal": 805,
+          "source_sha256": "25b64c8e6e714e204990539cc4fb1fe2351be205ac13dfd3f202a966bf1eba62",
+          "english": "A Promise to the Future 3"
+        },
+        {
+          "ordinal": 806,
+          "source_sha256": "b722fc6de8f1a14bf4c3da4dd256f1b7467360eb520f93fcee7c562be274d7d6",
+          "english": "A Promise to the Future 4"
+        },
+        {
+          "ordinal": 807,
+          "source_sha256": "bf22d0a2288a670f2699de06401b8ef6091ea3ece80f88102c2dfe179dbd312a",
+          "english": "A Promise to the Future 5"
+        },
+        {
+          "ordinal": 808,
+          "source_sha256": "5a16f48cb3d7f32305aedecb9b118fd4b9e9ed495589fdee8407ce91637dc2a1",
+          "english": "A Promise to the Future 6"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d36196ac577cfca30a20435d48fb3ea0ca2af569255775c32cfe733e7d4c2985",
+      "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
+      "rows": [
+        {
+          "ordinal": 80,
+          "source_sha256": "c26bc32b98ded7873874de943bb0ceb535ba261eaef3ece96d827263bddb0bd0",
+          "english": "Failed to claim your login bonus. Please try changing maps again."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "c7594b35545e0b7cca3514a6551980e0fee018b53a7c76023c3d633cef28a7b7",
+          "english": "Failed to retrieve your Character Card information."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "b9eeb611e470f99304f03d2743986e6da5bcf721e74edcda90d8962596e5aeca",
+          "english": "Do not show this again"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d4ccd96ff9ef99c84eb7a86b3a95bd7bf717397c88ac60d82d2f63047b30499c",
+      "uexp_sha256": "da1015ad305fa521d20163f999fb573d309ad2226ca05ed607876ce46fdd77b9",
+      "rows": [
+        {
+          "ordinal": 226,
+          "source_sha256": "ad7e9b357e5a8e42d87f7b13a3eb65dbd6911e3aba01e504f77d391adddf3777",
+          "english": "White Dragon Snowfield"
+        },
+        {
+          "ordinal": 228,
+          "source_sha256": "b06126d80cc8ad6c0a0de3fcee620cdb5865784ca18cd0f187fcdb4a81c06a2c",
+          "english": "Menacing Dragon Ridge"
+        },
+        {
+          "ordinal": 230,
+          "source_sha256": "cb28b5237e7d3e6b626e69747a9e8b0d5047c73ea4e8a681b690ec30bbd306bf",
+          "english": "Valmlant"
+        },
+        {
+          "ordinal": 232,
+          "source_sha256": "d2a6bf377243d6ef3bb1ebc91a4f7ed838267cd3198d35ad4f94d250498d6e0e",
+          "english": "Precipice Bridge"
+        },
+        {
+          "ordinal": 234,
+          "source_sha256": "d2a6bf377243d6ef3bb1ebc91a4f7ed838267cd3198d35ad4f94d250498d6e0e",
+          "english": "Precipice Bridge"
+        },
+        {
+          "ordinal": 236,
+          "source_sha256": "c686eb571b9bc5e8985892435d6a675f24537d8ef7742f05accd7b3288329275",
+          "english": "Drifters' Lost Vista"
+        },
+        {
+          "ordinal": 238,
+          "source_sha256": "97de236ab4929c77848f5a8ce8794e956d00684486f9fa929e66c714621cfdfe",
+          "english": "Scrap Iron Gravestone"
+        },
+        {
+          "ordinal": 240,
+          "source_sha256": "f3f1bc5eb17c15522d938b19c2bd3385bbac3d58206c765295390efb6e9400bd",
+          "english": "Snow Ravine of Calamity's End"
+        },
+        {
+          "ordinal": 242,
+          "source_sha256": "6501a18aee3a87912c52690e4c844875892e7adda2cb7056aa681e583a03773e",
+          "english": "Bitter Wind Cliffs"
+        },
+        {
+          "ordinal": 244,
+          "source_sha256": "149193a9d90c5c03b6e1fa6fdf28a92487e06ba835072d57041eda900f95a5b3",
+          "english": "Merciless Dragon Den"
+        },
+        {
+          "ordinal": 246,
+          "source_sha256": "560d9656668a41632899429d4e86d1a3059bb57523966330c0d92ede14adb314",
+          "english": "Dragon Cavern of Woe"
+        },
+        {
+          "ordinal": 248,
+          "source_sha256": "5ef8879256c95f90ccc847030a2cdf46381344f59379f5e47bf9da99d036da26",
+          "english": "Lone Peak Maratuk"
+        },
+        {
+          "ordinal": 250,
+          "source_sha256": "4cb1abea49205727e9a7305e4c3ddda02ee39a397ff8700198e758a017a4c29e",
+          "english": "Sacred Mount Bernardus"
+        },
+        {
+          "ordinal": 316,
+          "source_sha256": "e12a5e8e2edf1b19482e6dcde7d34a9928d2c2327c0133bec14cd5a96ac22d13",
+          "english": "Audience with the Dragon King: Far North of the Dark Dragon"
+        },
+        {
+          "ordinal": 348,
+          "source_sha256": "c7f4e27dd4039eb8b4f350824d9ed5b6f3990c0cb9a313263d813fe44bf5ee4f",
+          "english": "Tower Rock Mine Ruins (Free Exploration)"
+        },
+        {
+          "ordinal": 483,
+          "source_sha256": "715600aa156520e08ce4141ae847e390629afa7aa500ec0eec8261a999d03a2b",
+          "english": "Forest of Oblivion - Investigation"
+        },
+        {
+          "ordinal": 561,
+          "source_sha256": "ad7e9b357e5a8e42d87f7b13a3eb65dbd6911e3aba01e504f77d391adddf3777",
+          "english": "White Dragon Snowfield"
+        },
+        {
+          "ordinal": 562,
+          "source_sha256": "289753dbb761ece96067e8345b5d621861078ab3b5f51495fca4d7521a234180",
+          "english": "Valmlant Outskirts"
+        },
+        {
+          "ordinal": 563,
+          "source_sha256": "f0681f80d94e02f5a2ef073e8c9391d93cbf3b2145fbf64e1d917e351165c20f",
+          "english": "Sacred Mount Bernardus"
+        },
+        {
+          "ordinal": 581,
+          "source_sha256": "87c98cac04aea54d5dcade1c39066a8c5b40eace556504f122a7e46b5a460bd1",
+          "english": "Rush Battle Rank 8"
+        },
+        {
+          "ordinal": 615,
+          "source_sha256": "c5c96194e9580547f4b949979bf079fa8f1ca30dbaa5c0bd1af3642b58e2ab77",
+          "english": "EX Rush 5th Stage: Heavenly Spear"
+        },
+        {
+          "ordinal": 657,
+          "source_sha256": "07dd1a1ce1a35e5a6e26015d0a8f32ff823cc9e05a9c709ea0ce6cdb0f7446ed",
+          "english": "Stormy Earth: Sandworm Invasion 4"
+        },
+        {
+          "ordinal": 658,
+          "source_sha256": "c3d52899f0f43efbb99785feceb85829341227edc5cfab56e1dc3f4ddc5e53eb",
+          "english": "Abyssal Skeleton Field - Frenzied Rupture Descends 2"
+        },
+        {
+          "ordinal": 728,
+          "source_sha256": "ff606737370898c747519c067e34dd53d413d84dff2a904c5e15c11ef5eb77ec",
+          "english": "Wanderer's Windbreak"
+        },
+        {
+          "ordinal": 736,
+          "source_sha256": "42ace206100e8e131502fa88ab99fe8d1a57d5a51454386ff7c7a63befa57069",
+          "english": "Gunners' Inspection Station"
+        },
+        {
+          "ordinal": 795,
+          "source_sha256": "d6c8e4facbe7061db33e66f77e4229d57bcae96b0832f44dc2e0ab66d9827aca",
+          "english": "Sudden Death Battle II - Raging Waves"
+        },
+        {
+          "ordinal": 796,
+          "source_sha256": "00af81fd9635690b7f2f6f7daa6d78a678478201146e47cc835b923b3740eb3a",
+          "english": "Sudden Death Battle II - Violet Lightning"
+        },
+        {
+          "ordinal": 806,
+          "source_sha256": "9d2a351c446a6e54c5e0291c5aff5bdf98a9cee63f598364295a7e3f88c39bbb",
+          "english": "V Arena II - Party"
+        },
+        {
+          "ordinal": 810,
+          "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
+          "english": "Throwing Actions"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d6726dad7c2831a5ddb5623f71104200f411672a51ac55e976b59177ea690df1",
+      "uexp_sha256": "7f7cf4b7e536a4df0a5cf35a820d26de4c9206cffd7ea8ffa9532ac55d28d236",
+      "rows": [
+        {
+          "ordinal": 15,
+          "source_sha256": "0b8dec579c1a222aed76725ac30dca454aa074e1dcac998ab7343cb43fe95587",
+          "english": "Congratulations! You've reached Adventurer Rank 7.\nI look forward to seeing what you do next."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "dcad9f60f12c2f74a0a443c08d1f81978306752b8f1ba73f73521a95234cd7d3",
+      "uexp_sha256": "34f84518250badd84b6fbce6bdef997e9bb09d862a8b08d1fb09dd9ca94046f4",
+      "rows": [
+        {
+          "ordinal": 54,
+          "source_sha256": "74c15b8647f369c73592181d1487c08a1c05faef3a2bb386a4c0792243dc9b5d",
+          "english": "{Name}, one last push! "
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "e709c3b3008bb4a767c9a8218bc2013fa34542d78942eae8fbc4f403e14826a0",
+      "uexp_sha256": "3fd0e03805be8306541fc654e50981f7fb0804473f4e332b8d8944985d7ae1d2",
+      "rows": [
+        {
+          "ordinal": 60,
+          "source_sha256": "24865fe750b96dc9b90740758da0087c5ac7f9fde95705f0fc53bb250c24f48a",
+          "english": "Reaper Family"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "349309772c9d6e1844b64011cce4c3f94fec505cdccd3e5a755987159e1ed1cf",
+          "english": "Forcoil Family"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "e869d3b30862cdf67ec47b7918cf41ddf3eea4f60917a3064d84cc5db728d95f",
+      "uexp_sha256": "3c1294e8bd882ae82c6b6c9da643c9acdd4a13dd43dcdf5a3079835b8445bd15",
+      "rows": [
+        {
+          "ordinal": 105,
+          "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
+          "english": "Raise Your Adventurer Rank"
+        },
+        {
+          "ordinal": 150,
+          "source_sha256": "98acc1a77170acebe28e8a16a05de99a4006cb3551c0e20cb670e7d7d6a24c8b",
+          "english": "Stats"
+        },
+        {
+          "ordinal": 153,
+          "source_sha256": "1b0e61fc91d62c910f00fb128594f81d7a976d5f71c9e549f28138952d754d63",
+          "english": "Mount Equipment"
+        },
+        {
+          "ordinal": 436,
+          "source_sha256": "648540884d6f394980186d88b1d50d81898879c726eac57716cfbe87523a7116",
+          "english": "Turning Your Character in Place"
+        },
+        {
+          "ordinal": 442,
+          "source_sha256": "a602d81fe625f640b8d417a8aac08c5517e6c1c1214fd60629eff5da8b3fc078",
+          "english": "1  Dead Count\nWhile active, a counter decreases each time you take damage from an enemy.\nWhen the counter reaches 0, you become incapacitated.\nYou cannot be rescued and will be revived immediately.\nYou receive \"Loss\" when revived.\n* Dead Count cannot be prevented or removed.\n  You are also revived immediately if an enemy defeats you while it is active.\n\n2  Loss\nWhile active, you cannot recover to your maximum HP.\n* Loss cannot be prevented or removed."
+        },
+        {
+          "ordinal": 624,
+          "source_sha256": "e9e3aa2d41687b4eac396cd379034a0842518e3fe4d353552a4cd0ca33bfc1b1",
+          "english": "You can now challenge \"Sudden Death Battle II\"\nfrom the Missions screen.\n\nTaking damage in this mission immediately incapacitates you,\nso choose suitable skills and equipment before taking it on."
+        },
+        {
+          "ordinal": 691,
+          "source_sha256": "ecc7dcbda2194129eb04f770b3df4baf3f322dbece7c6be11da6e839fcdf9b37",
+          "english": "Plug Bonus Missions under Matching Support\nspecialize in Ability Plug rewards.\nThe higher your Adventurer Rank,\nthe better the effects and the more Ability Plugs you receive.\n\nYou can also use a Support Benefit claim\nto receive even more Ability Plugs."
+        },
+        {
+          "ordinal": 692,
+          "source_sha256": "a4622f357b389e0e4794a3f28383366a3b0e70042bcd1bf5a1a45b8edcd37743",
+          "english": "Plug Bonus Mission matchmaking selects a mission\nat random from Rush Battles you have already cleared.\nIf no destination is available, your current class level\nand Battle Score do not meet any eligible mission's requirements.\nClear a regular Rush Battle first."
+        },
+        {
+          "ordinal": 796,
+          "source_sha256": "34e4827c89d0bbf8e556d7e08b3ba1af1438f5f81e166c276d90abfbac623c4c",
+          "english": "You can also earn bonus survey points by meeting certain conditions.\nCheck Event Effects for details."
+        },
+        {
+          "ordinal": 806,
+          "source_sha256": "5b208d7691c7367f9c12e0fafa86c7b49ea12c7f6ed79b5fb556ea7ca3b6227d",
+          "english": "The Forest Reaper is a raid boss that inflicts players\nwith a special status ailment called Dead Count.\n※ Dead Count cannot be prevented or removed.\n\nThis boss summons Reaper-type enemies.\nUse the items dropped by these enemies\nto perform the Throwing Action\nand increase your remaining Dead Count.\n\nFor more information on Dead Count and the Throwing Action,\nsee Battle and Controls in the Travel Guide."
+        },
+        {
+          "ordinal": 807,
+          "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
+          "english": "Throwing Actions"
+        },
+        {
+          "ordinal": 809,
+          "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
+          "english": "Throwing Actions"
+        },
+        {
+          "ordinal": 810,
+          "source_sha256": "344951e63ca0add0b578fd37d48bdd18a26b291a7756e7757c7f9075e2126d4f",
+          "english": "The Throwing Action lets you pick up and throw certain items\nfound in the field.\nHitting an enemy with an item deals damage.\n\nIn this mission, successfully using the Throwing Action\nagainst the Forest Reaper\nincreases your remaining Dead Count.\n(Throwing items are dropped by the Reaper-type enemies\n  summoned by the Forest Reaper.)"
+        },
+        {
+          "ordinal": 811,
+          "source_sha256": "e04defb2dc1cc2c69f2d09db79a78690912255b31de2d1b90556b5a5d00b203b",
+          "english": "Pick up/Drop: <span color=\"Action\">[</><key color=\"Action\" action=\"Interaction\"/><span color=\"Action\">]</>\nThrow: <span color=\"Action\">[</><key color=\"Action\" action=\"MainAction\"/><span color=\"Action\">]</>\n*You will drop the item if you are staggered.\n\nIf you have trouble aiming at an enemy,\nuse <span color=\"Action\">[</><key color=\"Action\" action=\"Lockon\"/><span color=\"Action\">]</> to lock on."
+        },
+        {
+          "ordinal": 812,
+          "source_sha256": "51ae8d89b5122d65d138370cacba8e2ba524a0522f79fd35df6a424bcbfb7243",
+          "english": "New Actions"
+        },
+        {
+          "ordinal": 814,
+          "source_sha256": "2b979b0c79f66519bf45c87ec0782b752ba670df0120976aa5a737da207a790b",
+          "english": "Extra Battle Imagine"
+        },
+        {
+          "ordinal": 815,
+          "source_sha256": "a2b255ab18dcfaad3e366a1ff97c389d47cba808d3e9366c8a237b7785f3e385",
+          "english": "Extra Battle Imagine have more powerful summoning skills\nthan ordinary Battle Imagine.\n\nThey are only available through certain methods, such as exchanging\nBP Points, GC, or Imagine Relief."
+        },
+        {
+          "ordinal": 816,
+          "source_sha256": "aa59b9c5f8a2cedc9812153108a67913c908e1ab98658cb210f446908bfd1518",
+          "english": "Breakable Ice"
+        },
+        {
+          "ordinal": 817,
+          "source_sha256": "52a048e851f5cc84b49c0ed6a21ad7256d270eaa5e84680788c3160374119faf",
+          "english": "Breakable ice gradually cracks when attacked or stood upon,\nand eventually shatters, leaving a hole.\n\nFalling through a hole may force you to take a detour,\nbut it can also lead you to hidden gathering points.\n\nOver time, the holes freeze over again."
+        },
+        {
+          "ordinal": 819,
+          "source_sha256": "b4713c589c5d525ff33c010648cda8b28576c21ad44e4156a87cb80c8808a350",
+          "english": "In some areas, a blizzard begins\nwhen a named enemy appears.\n\nVisibility is poor during a blizzard, making combat dangerous.\nHowever, defeating the named enemy within the time limit\ncauses special gathering spots to appear for a limited time.\n\n* If you fail to defeat the named enemy before time runs out,\n  the blizzard will stop, but no gathering spots will appear."
+        },
+        {
+          "ordinal": 820,
+          "source_sha256": "f898637a8173f65415ac368d9b653bd4d6b0bf8d429b391d0423f473d55fa9aa",
+          "english": "Time Bomb"
+        },
+        {
+          "ordinal": 821,
+          "source_sha256": "b0cdd9181da4311f6a628efff49cb811432f6a520d42ba69cd7914a4adbf9915",
+          "english": "A Time Bomb explodes after a set time, dealing heavy elemental damage\nacross a wide area to players only.\n\nIt begins to glow when activated,\nshining brighter as the explosion draws closer.\nThe explosion cannot be stopped, so protect yourself with Guardian Shield.\n※ T-Skills and dodging cannot prevent\n  damage from the explosion."
+        },
+        {
+          "ordinal": 822,
+          "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
+          "english": "Throwing Actions"
+        },
+        {
+          "ordinal": 824,
+          "source_sha256": "956f62ff4030b1e59bc02277b618691b54028c338e726718996c46920c999653",
+          "english": "Granville Ice World Survey Event"
+        },
+        {
+          "ordinal": 827,
+          "source_sha256": "da9816674447beb47af9cec21dcff897b6cb3bae25b1b00a080fcbc98bfcc036",
+          "english": "Find the Fève"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f12a70447e9253600eed25a42f426641906a888b86f739686d39bf4d4d24e804",
+      "uexp_sha256": "a7cf08fa3b05a0eff9e544a9ddc1c6337ed5cee1dd9f38fffe4b8ba41c1551fa",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "3ebc44652217b0b2b5a6a8453fe43899acc2f6d0ac92438f59f30840af98a030",
+          "english": "Defeat the powerful monster!"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "3ebc44652217b0b2b5a6a8453fe43899acc2f6d0ac92438f59f30840af98a030",
+          "english": "Defeat the powerful monster!"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "465b08653c55a7dc6fe353d2967540315b91a15adac59235686dec8981856802",
+          "english": "Defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "d45379b629d2dda6dd6617ebd58e815ccb5533092a54cb11c743ef081cc4a1b9",
+          "english": "Quickly defeat the boss within the time limit!"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "53a2d149497aea7a2bd1e54e3eb0a490b1a8eff964431d5cb57f85b1cc31a5e1",
+          "english": "Defeat the Demidragon!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "fed03194b1a734f3bd29073663ead84a4b3f1e14655336e7ab037cc4c651247a",
+      "uexp_sha256": "ec7558e36d8a53f0130fe6b6f7d9ce43edf3bad602820257394cda71388679ad",
+      "rows": [
+        {
+          "ordinal": 9,
+          "source_sha256": "eb820ee95730a2c6a7baedb03c2190e313b4718abfeec785d3c45d00af9082f6",
+          "english": "The Silent City lies ahead.\nThese ruins are overseen by the Church of Bapharia."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "21d80e7a1eccfe0ba3684e4afdcf596713de3110245f2a9e3521e0696e6b2f4c",
+          "english": "The ruins of an old town are visible inside,\nbut the entrance is sealed, preventing entry."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "dac64f8e3717b63f952c8b7a0190f19c087ada4963a730f52cd2304bf8b0f0e8",
+          "english": "The sentry gives you a stern look.\nIt would be best to back away quietly."
+        }
+      ]
+    }
+  ]
+}

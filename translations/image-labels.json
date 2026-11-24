@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "key_sha256": "0f0ca751cd3dfe8f3ef29a5d96fed61a0cd1921d9510f86e3dc9306a6a0fb402",
+      "english": "Use Consumable"
+    },
+    {
+      "key_sha256": "1300eabda6f1072961f6386bbacd045b9009b9dc609590d19be8e586df6da133",
+      "english": "Use Consumable"
+    },
+    {
+      "key_sha256": "13b5d75d219377e0f64cef4f7fb20effb10e20e92385aa1df313596b577a6c6a",
+      "english": "Increased GC from Mission Rewards"
+    },
+    {
+      "key_sha256": "2af62d4be10d80e042b61ca35b84ee9d3ee49cfae44396cb3657d95f683d2a7a",
+      "english": "Chat Log 3"
+    },
+    {
+      "key_sha256": "38defdcc1d74a1027bd628d5ef59ba3c414795f0ed661b03ce05a68203578f6d",
+      "english": "Weapon Crafting Luno Discount"
+    },
+    {
+      "key_sha256": "4fe6ecdd149dc4be4a04322f465dc6f4ada226e63e918eac6e42c09a7293a2d3",
+      "english": "Element Buildup"
+    },
+    {
+      "key_sha256": "510cb42ad1c00dd3bae62fb022c7fab19cd57328746cc55b8d719cba139dd54c",
+      "english": "Chat Log 1"
+    },
+    {
+      "key_sha256": "6092bd0ccf2ce0c1a8371321ee7395a466ae299795125a7fbc0000b150924c40",
+      "english": "If you feel unwell while playing, stop immediately."
+    },
+    {
+      "key_sha256": "62d65e4f1199e0fce7c72c230b1b2ac5026fe4585d668d7ce80fba9b74829487",
+      "english": "Party Chain"
+    },
+    {
+      "key_sha256": "7192c56edeaeca643dcc2b6cd6765f2fde364b04aabcb11877157ec173dcff90",
+      "english": "Lock-on Target Info"
+    },
+    {
+      "key_sha256": "7b08cfa2eb7b22697eedbb7b00f4ea12ccdac8bf5b2244b85084690df54b7cfa",
+      "english": "Aggro Alert"
+    },
+    {
+      "key_sha256": "7fb3f1b517eced9e954e62269a8b629a82c1b4ce770ddc0856b8ef522ed84183",
+      "english": "Chat Log 2"
+    },
+    {
+      "key_sha256": "829a5db62496736125f91a10b0f71544b0a425c7d47f84d29943682913df3632",
+      "english": "This game contains flashing images. Do not play if you are sensitive to flashing lights."
+    },
+    {
+      "key_sha256": "82e56ad88b0f5efc2a535c64a69033bbaeb4487f50bac4904858d01d0f94a190",
+      "english": "Aggro Alert"
+    },
+    {
+      "key_sha256": "89a14433bf858e9046c4ef570bc1abb89a1510c4f01c755f42e6a80730be20e2",
+      "english": "Chat Log 3"
+    },
+    {
+      "key_sha256": "8c67e7a0607f7cd8e89df9141fec68307ddc0381b1c4fb793236c6472688892f",
+      "english": "Reduced Gathering Time"
+    },
+    {
+      "key_sha256": "8e07790c59be61a5b2e51b6dbe5e35a05791405ba01a4b656f8186687a55cbbf",
+      "english": "For your health, take a break of about 15 minutes after every hour of play."
+    },
+    {
+      "key_sha256": "92165bc5efc48eeac795009f2d155764cd058510652533d2c24b315c33e2167e",
+      "english": "Increased Item Sale Value"
+    },
+    {
+      "key_sha256": "97d90ae625404aec7440820b4b26dd08fe099ba14c824efe0fe38f55eec150f7",
+      "english": "Element Buildup"
+    },
+    {
+      "key_sha256": "9c8c3f1c1dacc9f7481e91f24aacf36ec191a95357e9c14ec0f68ebfae73a65e",
+      "english": "Chat Log 2"
+    },
+    {
+      "key_sha256": "a6a3d12cf46908c76dceefccea1a981f7ab3276adfaa378aafd5a7dd84428b91",
+      "english": "Party Chain"
+    },
+    {
+      "key_sha256": "a8b16d7f433a68bbcff8abac8af76fff6782642ff9f1ef6f9312019c15ec0063",
+      "english": "Increased Enemy Drop Rate"
+    },
+    {
+      "key_sha256": "ac222d9ccc937a07eb6cd34796853589d832bf6815184225b312abb304db76eb",
+      "english": "Play in a well-lit room and keep a suitable distance from your monitor."
+    },
+    {
+      "key_sha256": "ac427cebc99d00935c9703de702868230a5d31003c828449e093136b074cbf42",
+      "english": "Increased Gathering Yield"
+    },
+    {
+      "key_sha256": "b071d7b76860f4880170f8ceef76242058f1bb36caf78a4af3f3e8bd17f0bc5c",
+      "english": "Quest List"
+    },
+    {
+      "key_sha256": "b11cd2dff8a39ce78a0c6f98c2907b3247544f88908266c81ad0056b518adbb5",
+      "english": "Lock-on Target Info"
+    },
+    {
+      "key_sha256": "b449ce07220a9f352f8faa7223e186e2df03c2b6f6268026f6b35b5aa3a66c6e",
+      "english": "Before You Play"
+    },
+    {
+      "key_sha256": "b5d51497507a2cad98bc989e875f7bf5695898a9f522667aca863f443f97018f",
+      "english": "Quest List"
+    },
+    {
+      "key_sha256": "c9833f437eaf38c40dce8ce51d91b651a7962c9fcd72cedb01df9b08da8e2cbf",
+      "english": "Status Effects"
+    },
+    {
+      "key_sha256": "d6518c6cf80fe9a9e00b587b42699779aada92c57f7d880bc0aaae22a11a88f2",
+      "english": "Increased Team EXP"
+    },
+    {
+      "key_sha256": "e939fa4b2bd0b7007638b5e620eb374d815790583ef1d814eefea22e500fbce9",
+      "english": "ST Gauge"
+    },
+    {
+      "key_sha256": "ee01c55844b04347d5b2d08c613d935b9da07535260ebce1910078c5168945c1",
+      "english": "Increased EXP from Enemies"
+    },
+    {
+      "key_sha256": "eec7073f867b81eeb604b996ad5f0b1481369d226194fb5886bb2c2d319aad44",
+      "english": "Chat Log 1"
+    },
+    {
+      "key_sha256": "f68f693a9d991c7ea83986650f118677af8a5ca706b79280b54f06f8621714b1",
+      "english": "ST Gauge"
+    },
+    {
+      "key_sha256": "f9d6049cfea2fdb6cfbbeed46491ff67aba42fc16badefb508c2674f7700d6bc",
+      "english": "Status Effects"
+    }
+  ]
+}

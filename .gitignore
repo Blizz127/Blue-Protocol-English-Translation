@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+owned-files/
+patched-files/
+*.pak
+*.uasset
+*.uexp
+*.ubulk
+*.locres
+*.sig
+*.zip
+*.bk2

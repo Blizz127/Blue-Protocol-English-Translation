@@ -1,0 +1,581 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "table": "master_emote_text",
+      "id": 317,
+      "source_sha256": "a896a1338a62583514a7cf671a54764cffb113c97601c0410e3bbcf407dce094",
+      "english": "Tough-Guy Sit"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 318,
+      "source_sha256": "29b8658b0e31246869b51effb8ddf20f741bfde9b18c4c2334e50ef151205638",
+      "english": "Shake Fist"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 319,
+      "source_sha256": "652e292acf2bce1aa3dd3ec22e50e3b55563eeec107282d82ae0b483687d4a04",
+      "english": "Cute Double Peace Sign"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 320,
+      "source_sha256": "e53484635d33f286bbe87ddab8752eb568b59ab17b27401576bbd880cb34785d",
+      "english": "Mysterious Dance"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 337,
+      "source_sha256": "bce9009b8aaff21f8d5ee26e7f464731b338e40d880aa3a5f1c880416f3a41aa",
+      "english": "{CharacterName} shook a fist."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 338,
+      "source_sha256": "4f73e36db986acb62c82c17a8e371685e53086f2b5a6de90b31b98e7fc913afa",
+      "english": "{CharacterName} flashed a peace sign."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 356,
+      "source_sha256": "12be761faf3d3a3b6123961a894b18e87f8ab58fe0056b372d0dec92238dd71b",
+      "english": "{CharacterName} shook a fist at {OtherCharacterName}."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 357,
+      "source_sha256": "3e1a38c3919f3f7f00c0de051fb513e8b88d1d3e3e6171e1e89df6693f671b89",
+      "english": "{CharacterName} flashed a peace sign at {OtherCharacterName}."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 358,
+      "source_sha256": "2bfd2e7c51fd8bafabf162cf6762c5ab776995fd835ef455b11df5cca795d6e6",
+      "english": "{CharacterName} danced for {OtherCharacterName}."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 371,
+      "source_sha256": "df28a6f665cbd896b6621a443b9eb4d34b7f4b3e6c4c9c0cae6efc93b8eb7065",
+      "english": "Refuse"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 386,
+      "source_sha256": "f2751154bf193ca3e9f04c32035c172909e0a525b232dff0d2939fe8d7854876",
+      "english": "{CharacterName} refused."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 401,
+      "source_sha256": "c4e9e41edeb97863394a8f27a8e0dbeb16fce2da1c1e222d43bda7befe0e32e2",
+      "english": "{CharacterName} signaled their refusal to {OtherCharacterName}."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 465,
+      "source_sha256": "ae3809cf3fe2b47d1362a0c8808c633fbe5479a58af4ef2be9cfa03c05b54632",
+      "english": "Defiant Stance"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 496,
+      "source_sha256": "9501ed3c4b98b3901d2bbcd206dafdea1e1b9034b220a2ceac3f6d17844e18e4",
+      "english": "Cheer"
+    },
+    {
+      "table": "master_emote_text",
+      "id": 548,
+      "source_sha256": "5705a1a32588a6e2559fa5070e83665ba29668d7c559875f73da55a870da104b",
+      "english": "{CharacterName} took a ready stance."
+    },
+    {
+      "table": "master_emote_text",
+      "id": 631,
+      "source_sha256": "5498614b2731a484574f8b0f6ee17607f51793b75a25b778c44ffa80a4b34013",
+      "english": "{CharacterName} took a ready stance facing {OtherCharacterName}."
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2881,
+      "source_sha256": "486ed2782f7cbdf788a2ff21f831f03fe8ca03ff21d3768745c8b50df9393f01",
+      "english": "Full HP Guard - Life"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2882,
+      "source_sha256": "c993217bf8ec41706f7e848c7c614e8b6b20e3f3e968a8f5457382a000194195",
+      "english": "Full HP Guard - Spirit"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2883,
+      "source_sha256": "8ff8b8a174864e0a720826ea2e7208351b6e999823c41a3b89fcf2c0b954cdbd",
+      "english": "Full HP Guard - Hot Blood"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2884,
+      "source_sha256": "e6299d84f50bba1b922dcb250440e3f83b2c4ea5804cfa05ecd7f63d4b2bc20b",
+      "english": "Full HP Guard - Durable"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3074,
+      "source_sha256": "77abb514f61db7e5e05d79acf87c37208154643cedd1b548ccd5b295848189c5",
+      "english": "Torrent of Spirit G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3077,
+      "source_sha256": "37e1fa233fe8bb87d230908b2b0de65615787406cfc781eca766d626d6a2d2e6",
+      "english": "Steel Body G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3078,
+      "source_sha256": "206baf06a42ee3651d23489a0d9d7e13d0ef24afb609965c5ac7676ddc6aacc4",
+      "english": "Survival Technique G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3079,
+      "source_sha256": "91275f6bf54bc7adc75a2d41578d50b91c546c3c8658b6ff23eaf3d8fbe6f67a",
+      "english": "Lion's Fury G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3080,
+      "source_sha256": "913fefecf37ebff8f71a0a36d17a1f56f03dc4c25ce274ef4ddc3d0b419b2105",
+      "english": "Warrior's Knowledge G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3081,
+      "source_sha256": "74b0aa165ff0906f749b13e5d7d0d4daa034bc3c113c19b24c1b8c1c34aec9a8",
+      "english": "Guardian G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3082,
+      "source_sha256": "601ca8776c2da5d5c7cfbfe173b12c75bf520609f0544f0a348fd829698c75d0",
+      "english": "Sustained Combat Tactics G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3083,
+      "source_sha256": "a4b2f39925a67f723840e54b0750aad7cee484a60d6ebc9febcfadd0d1a6410f",
+      "english": "Fearless Valor G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3084,
+      "source_sha256": "6474f41b9a165c7c19bbc6c6b21d1fbec671c79ed3d1117280f65c1ea42ec0c5",
+      "english": "Rush G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3085,
+      "source_sha256": "469025abfb5526a6705b0db1a6a01020321fccf800eade68d09dbaa8af7a07f5",
+      "english": "Ironclad G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 3086,
+      "source_sha256": "46013738957ffb03f7bc9a261e8a118c72d38470756384a991b1ad80a069aa39",
+      "english": "Paramedic G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10018,
+      "source_sha256": "9d0ba51361a0522346defc5f065a21aebfcdb898d70f0efac7fcade43f844a76",
+      "english": "Burst Armor"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10020,
+      "source_sha256": "5071724adfdbd7be6a7f1a6f35c9189f160ead8dfd1b8f8f09145b09aed1d310",
+      "english": "Twinkle Share"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10023,
+      "source_sha256": "b5ea6aea48ec433e61a89df8e0711b1b7ccc0efdfe3cc6c67859a4a0782e1643",
+      "english": "Dual Mode"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10024,
+      "source_sha256": "a1d9cd486dae8ef050c2e03178e3ad3b00c1f7c47848e37af5f49d08a0feaf2f",
+      "english": "No-Time Full Charge"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10028,
+      "source_sha256": "225918e53c302597a297cbc843780b08d3cc3170320ffac4437d6bc06ca150c7",
+      "english": "Vortex Purge"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 10031,
+      "source_sha256": "79678f73a358cb9aa0679f4573638236beaa8b77fc40a9a65fd547181d707575",
+      "english": "Caprice Encore"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30034,
+      "source_sha256": "77abb514f61db7e5e05d79acf87c37208154643cedd1b548ccd5b295848189c5",
+      "english": "Torrent of Spirit G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30035,
+      "source_sha256": "e2692b5a27a564c7d005801a8c216d4807cb233459519b45b405c0bb748183b1",
+      "english": "Damage Up (Melee Attacks) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30036,
+      "source_sha256": "9fe0929a85aab81b02b01ede9a87a0de5150ce39e012bd3a6735ac72608c6844",
+      "english": "Hate Boost G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30037,
+      "source_sha256": "06a185b8cb36bf55b56b3303577811f2318a3ebe6bf2c97670ea974b2f945f69",
+      "english": "Damage Up (Ranged Attacks) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30038,
+      "source_sha256": "f61e7572aac549ca0a5945075f1002b9ce9a3ec44a835bd8c0539ff3e44c8c84",
+      "english": "Class Action Cooldown Reduction G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30039,
+      "source_sha256": "df76fbe94d6e3f7e29369e5072d1b979a8f1b3be8d9ef46266773826e6c38522",
+      "english": "Quick Skill (Tactical Skills) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30041,
+      "source_sha256": "d16e5eec7bf361fae8c2c1d0bc979a19393a16e1cc3610a5b48fed951965d0e2",
+      "english": "Soul Drain G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30042,
+      "source_sha256": "b08310fb4761b5e52445070e3ced39517a354c7b088cc264d612764c0e1c34c6",
+      "english": "Healing Waves (Skills) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30043,
+      "source_sha256": "6e14c7e3cf63e1abcb23c3e69c2a2f1c281cd00799d8ab9e8850fbc837cfa7aa",
+      "english": "Damage Up (All Attacks) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30046,
+      "source_sha256": "c174c25130ee333113532b46c2c4d5d5d2df503c2fe29915f20feacd385e9f90",
+      "english": "Skill Boost (Tactical Skills) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30049,
+      "source_sha256": "97d00160d11c07cab4e895ed72dc6b778d415b7a0eccf68b70f01a74f2b7a3ce",
+      "english": "Damage Up (Normal Attacks) G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30051,
+      "source_sha256": "be6e51ad120e758160c7d50fa2d3a10d5aba558892d19f07b92760825a68bfcb",
+      "english": "Ultimate Skill Cooldown Reduction G4"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30058,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30059,
+      "source_sha256": "9c094fb1cd5e63f8ea284b996c1a4864d24d9d88ba5c210a8602aa9fb64e610c",
+      "english": "Knowledgeable G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30060,
+      "source_sha256": "ac7c3a1fc7d03b7b0af7931b05d35d26eb544cb85014dd46133eae7dfe0f7f5e",
+      "english": "Wisdom G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30061,
+      "source_sha256": "6dfa15c0a020e782e48993edb120e31f823a8a181b4787fa2a7ce5c73258812f",
+      "english": "Damage Up (Battle Imagine) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30062,
+      "source_sha256": "9edf41254e6b470b23ba1eba4347b2676e53d1d46babfa4c7070810965b1b0fd",
+      "english": "Healing Waves (Battle Imagine) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30063,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30064,
+      "source_sha256": "73c28ef24ee464588029465bc3c2911c0c5089145c237f5f203b233cf135a1ca",
+      "english": "Strength G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30065,
+      "source_sha256": "91275f6bf54bc7adc75a2d41578d50b91c546c3c8658b6ff23eaf3d8fbe6f67a",
+      "english": "Lion's Fury G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30066,
+      "source_sha256": "d2538afc5a6716f3f77aa0b544b06082296206a774051fb67dfe8993f60d18f2",
+      "english": "Overflowing Power G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30067,
+      "source_sha256": "52922574298170d3ef8faf5fb7cbe0df6b833e23f812b366e0a017c47e6a65a9",
+      "english": "Fire Resistance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30068,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30069,
+      "source_sha256": "48654e1640c2b01bf928378238323346a97f9bfaa1bcd7e08452d91ee2527fff",
+      "english": "Secret of Defense: Ranged Attacks G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30070,
+      "source_sha256": "f29e228b74c656c48ff72c1a13d3dc903ede4805f568cf90bdead7b54b523764",
+      "english": "Qigong G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30071,
+      "source_sha256": "8b3b854d6e8c0969e924dd5ab6c4371f82dd632a00c10fa19c0126a6b7d048ad",
+      "english": "Internal Alchemy G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30072,
+      "source_sha256": "e4ecc60d7a906fc0d99c51dfcf775b63e6855b2447d40beb11797c0bde537c2f",
+      "english": "Trance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30073,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30074,
+      "source_sha256": "89dae638ce11abb907cc42f0a8ffe72ad91271189126f841ae9c7c11493d7b9a",
+      "english": "Vital Point Detection G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30075,
+      "source_sha256": "d89ecbf0c835c6d45fc73967579bb5128694d07f8a3390fd4f603c8b57ea4973",
+      "english": "Do-or-Die G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30076,
+      "source_sha256": "7e0cea21676d2e5270c12a1f50f219327856a2f866d973a4ed950114602a6766",
+      "english": "Self-Defense G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30077,
+      "source_sha256": "dcb251670c62bed1a2571d82cd40bf734e576268e4fabe0d3fa5f5b535387351",
+      "english": "Lightning Resistance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30078,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30079,
+      "source_sha256": "4c0001626af9b0e61310cf84b9f373185954bf9ad0fffa344f165065773ff192",
+      "english": "Perseverance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30080,
+      "source_sha256": "913fefecf37ebff8f71a0a36d17a1f56f03dc4c25ce274ef4ddc3d0b419b2105",
+      "english": "Warrior's Knowledge G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30082,
+      "source_sha256": "e04693b201814531243de826274078080e28bae68eb5855abb0b1f241f9aced5",
+      "english": "Earth Resistance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30083,
+      "source_sha256": "8160cd750e20c8798c061502c26c5b0c2dcfdf81062edb19a08cddc3eed5e89e",
+      "english": "Brave SP G7"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30084,
+      "source_sha256": "8dcb80ad6c3aadded2be2b335b0c19c08b286f926e43e1dc10efd268fd7a2518",
+      "english": "Clever G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30085,
+      "source_sha256": "206baf06a42ee3651d23489a0d9d7e13d0ef24afb609965c5ac7676ddc6aacc4",
+      "english": "Survival Technique G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30086,
+      "source_sha256": "b2dfded16873f03e2c715e9bd5f38d6857d97d8aa425d704b314948d7ab6dd3d",
+      "english": "Healing Waves (Skills) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30087,
+      "source_sha256": "e04693b201814531243de826274078080e28bae68eb5855abb0b1f241f9aced5",
+      "english": "Earth Resistance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30089,
+      "source_sha256": "77abb514f61db7e5e05d79acf87c37208154643cedd1b548ccd5b295848189c5",
+      "english": "Torrent of Spirit G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30090,
+      "source_sha256": "1cc496bb00262f38eb7ede87de533f72175fe6ad7672560d005f06528c225bd1",
+      "english": "Secret of Defense: Melee Attacks G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30093,
+      "source_sha256": "eb0f820817826e4d1d9a53a259706b3cb78ff3addded808751ba686046a579cf",
+      "english": "Quick Skill (Tactical Skills) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30094,
+      "source_sha256": "ddfb54948fa268123772bfd2d9d0a97f29d0600e65ade771697c0fcefef2f9ba",
+      "english": "Concentration G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30095,
+      "source_sha256": "bb12c82654f7926300868b293045a44c03e8757ff6281d1a10ebea96e55b9b09",
+      "english": "Cornered Rat G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30096,
+      "source_sha256": "2e746a05d981f0bd469b38827acd1c311c56b672ce24fe8b7984410e7ae9f1a3",
+      "english": "Inspiration G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30097,
+      "source_sha256": "e2c0f5f308fc529b75bca28a56dfac577597cee7b7f959529d02b77e90614d28",
+      "english": "Light Resistance G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30099,
+      "source_sha256": "5f7a0404c0ffad03d495d310bd01043e18d8df3dd763686398aa81ee500b98ed",
+      "english": "Damage Up (Normal Attacks) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30100,
+      "source_sha256": "c601f4fb6ed29b4212b81ab04c9149ce1ede0f1e59e2bc50818078cfc431aa5e",
+      "english": "Strategist G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30101,
+      "source_sha256": "aaf12ce6084f8dcbb29b290498a7c944316e07e3eda473a9e1b241dacdf9b66d",
+      "english": "Stamina Save (All) G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30102,
+      "source_sha256": "74b0aa165ff0906f749b13e5d7d0d4daa034bc3c113c19b24c1b8c1c34aec9a8",
+      "english": "Guardian G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30104,
+      "source_sha256": "77abb514f61db7e5e05d79acf87c37208154643cedd1b548ccd5b295848189c5",
+      "english": "Torrent of Spirit G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30105,
+      "source_sha256": "ac49f19b598bf8076bb04feb6cdfb59145390ff3a4945db7854a694d533d7681",
+      "english": "Toughness G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30106,
+      "source_sha256": "8270a3989df3091a037116a1431356e0588c998e3779ad93ce3ad41289204d7c",
+      "english": "Expert G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30107,
+      "source_sha256": "382fbc4ecacb7270f2a14161df95db19fe137b33cd073011560dcd67f847bb2f",
+      "english": "Safeguard G5"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30110,
+      "source_sha256": "4add7703016ecd8aa8bcdce280b11da0062185b0097616033782b3adc3638983",
+      "english": "Anti-Paralysis G3"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30168,
+      "source_sha256": "ea020d1387f98fd43bf5aba984471fa3e77e2b249b1109adaf20c5cad5793cb2",
+      "english": "Limit-Breaking Bravery II"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 30171,
+      "source_sha256": "8ddcadc1396817509357ad8921148e66609416f9463191a127489e6317587d63",
+      "english": "Sixth Sense G5"
+    }
+  ]
+}

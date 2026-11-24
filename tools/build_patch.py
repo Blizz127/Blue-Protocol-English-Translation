@@ -1,0 +1,245 @@
+"""Build English text from local game data into a separate output."""
+
+import argparse
+import hashlib
+import json
+import os
+from pathlib import Path
+import re
+import sys
+import tempfile
+
+
+CATALOGS = Path(__file__).resolve().parents[1] / "translations"
+TEXT_ROOT = Path("BLUEPROTOCOL", "Content", "Text")
+ARCHIVE_NAME = "blue_protocol_english_1_P.pak"
+
+
+def unique_fields(pairs):
+    obj = {}
+    for key, value in pairs:
+        if key in obj:
+            raise ValueError(f"Duplicate JSON field {key!r}")
+        obj[key] = value
+    return obj
+
+
+def read_json(path):
+    with path.open(encoding="utf-8-sig") as stream:
+        return json.load(stream, object_pairs_hook=unique_fields)
+
+
+def array(obj, key):
+    if not isinstance(obj, dict) or not isinstance(obj.get(key), list):
+        raise ValueError(f"Expected an array in {key!r}")
+    return obj[key]
+
+
+def digest(value):
+    return hashlib.sha256(value).hexdigest()
+
+
+def hashed(obj, key):
+    value = obj[key]
+    if not isinstance(value, str) or not re.fullmatch("[a-f0-9]{64}", value):
+        raise ValueError(f"Invalid SHA-256 in {key!r}")
+    return value
+
+
+def text_value(obj, key):
+    value = obj[key]
+    if not isinstance(value, str) or "\0" in value:
+        raise ValueError(f"Invalid text in {key!r}")
+    return value
+
+
+def identity(table, row):
+    if not isinstance(table, str) or type(row["id"]) not in (str, int):
+        raise ValueError("Expected a table name and a string or integer row ID")
+    return table, row["id"]
+
+
+def add_unique(index, key, value):
+    if key in index:
+        raise ValueError(f"Duplicate catalog binding {key!r}")
+    index[key] = value
+
+
+def replacement(row):
+    return hashed(row, "source_sha256"), text_value(row, "english")
+
+
+def build_service(args, catalog):
+    index = {}
+    for entry in array(catalog, "entries"):
+        add_unique(index, identity(entry["table"], entry), replacement(entry))
+
+    tables = read_json(args.input)
+    if not isinstance(tables, list):
+        raise ValueError("Expected a list of text tables in the input JSON")
+    matched = set()
+    changed = already = drift = 0
+    for table in tables:
+        for row in array(table, "texts"):
+            key = identity(table["name"], row)
+            if key not in index:
+                continue
+            if key in matched:
+                raise ValueError(f"Ambiguous input row {key!r}")
+            matched.add(key)
+            source_hash, english = index[key]
+            original = text_value(row, "text")
+            if original == english:
+                already += 1
+            elif digest(original.encode("utf-8")) == source_hash:
+                row["text"] = english
+                changed += 1
+            else:
+                drift += 1
+
+    if drift and args.strict:
+        raise ValueError(f"{drift} present service rows differed from the catalog source")
+    if not (changed or already):
+        raise ValueError("No supported service rows matched this input")
+    with tempfile.TemporaryDirectory(dir=args.output.parent) as tmp:
+        finished = Path(tmp) / "texts.json"
+        with finished.open("w", encoding="utf-8", newline="\n") as out:
+            json.dump(tables, out, ensure_ascii=False, separators=(",", ":"), allow_nan=False)
+            out.write("\n")
+        if read_json(finished) != tables:
+            raise ValueError("Completed service JSON failed readback")
+        # A hard link exposes the complete file and refuses an existing destination.
+        os.link(finished, args.output)
+    print(f"Changed {changed} service rows. {already} already English, "
+          f"{drift} source mismatches skipped, {len(index) - len(matched)} catalog rows absent.")
+
+
+def native_index(catalog):
+    index = {}
+    for entry in array(catalog, "tables"):
+        header = hashed(entry, "uasset_sha256")
+        body = hashed(entry, "uexp_sha256")
+        rows = {}
+        for row in array(entry, "rows"):
+            ordinal = row["ordinal"]
+            if type(ordinal) is not int or ordinal < 0:
+                raise ValueError("Invalid native row ordinal")
+            add_unique(rows, ordinal, replacement(row))
+        if not rows:
+            raise ValueError("Empty native row group")
+        add_unique(index.setdefault(header, {}), body, rows)
+    return index
+
+
+def native_files(root):
+    text_dir = root / TEXT_ROOT
+    if not text_dir.is_dir() or text_dir.resolve() != text_dir:
+        raise ValueError(f"The input must contain a local {TEXT_ROOT.as_posix()} directory")
+    for directory, dirs, files in os.walk(text_dir):
+        current = Path(directory)
+        dirs[:] = sorted(name for name in dirs if not (current / name).is_symlink())
+        for name in sorted(files):
+            asset = current / name
+            if asset.suffix.lower() == ".uasset" and not asset.is_symlink():
+                yield asset
+
+
+def build_native(args, catalog):
+    from native_tables import rebuild_table
+
+    root = args.input.resolve(strict=True)
+    if root in args.output.resolve().parents:
+        raise ValueError("Choose an output directory outside the input tree")
+    index = native_index(catalog)
+    logical_paths = []
+    matched_rows = drift = 0
+    with tempfile.TemporaryDirectory(dir=args.output.parent) as tmp:
+        ready = Path(tmp) / "ready"
+        ready.mkdir()
+        for source in native_files(root):
+            asset = source.read_bytes()
+            editions = index.get(digest(asset))
+            if editions is None:
+                continue
+            companion = source.with_suffix(".uexp")
+            if not companion.is_file() or companion.is_symlink():
+                drift += 1
+                continue
+            export = companion.read_bytes()
+            rows = editions.get(digest(export))
+            if rows is None:
+                drift += 1
+                continue
+            header_out, export_out = rebuild_table(asset, export, rows)
+            for original, data in ((source, header_out), (companion, export_out)):
+                logical_path = original.relative_to(root)
+                target = ready / logical_path
+                target.parent.mkdir(parents=True, exist_ok=True)
+                with target.open("xb") as out:
+                    out.write(data)
+                logical_paths.append(logical_path.as_posix())
+            matched_rows += len(rows)
+        if drift and args.strict:
+            raise ValueError(f"{drift} known native headers lacked the matching export")
+        if not logical_paths:
+            raise ValueError("No supported native table pairs matched the input")
+        if args.archive:
+            from overlay_archive import write_overlay
+            write_overlay(ready, logical_paths, ready / ARCHIVE_NAME)
+        # Reserve the user's new directory exclusively before publishing its contents.
+        args.output.mkdir()
+        moved = []
+        try:
+            for child in ready.iterdir():
+                dest = args.output / child.name
+                child.rename(dest)
+                moved.append(dest)
+        except BaseException:
+            for dest in reversed(moved):
+                dest.rename(ready / dest.name)
+            args.output.rmdir()
+            raise
+    print(f"Built {len(logical_paths) // 2} native pairs with {matched_rows} bound rows. "
+          f"{drift} known headers with changed or missing exports skipped.")
+    if args.archive:
+        print(f"Wrote {args.output / ARCHIVE_NAME}")
+
+
+def main():
+    parser = argparse.ArgumentParser(description=__doc__)
+    commands = parser.add_subparsers(dest="kind", required=True)
+    for name, description in (("service", "Build a translated service text JSON file"),
+                              ("native", "Build translated split native text tables")):
+        sub = commands.add_parser(name, help=description)
+        sub.add_argument("--input", type=Path, required=True,
+                         help="Owned text JSON" if name == "service" else
+                              "Extracted content root containing BLUEPROTOCOL/Content/Text")
+        sub.add_argument("--output", type=Path, required=True,
+                         help="New file" if name == "service" else "New directory outside the input")
+        sub.add_argument("--catalog", type=Path, default=CATALOGS / (name + ".json"))
+        sub.add_argument("--strict", action="store_true",
+                         help="Fail if a known ID or package header has a changed source")
+        if name == "native":
+            sub.add_argument("--archive", action="store_true",
+                             help="Also build an uncompressed local overlay archive")
+    args = parser.parse_args()
+    if not args.output.parent.is_dir():
+        parser.exit(1, "The output parent directory must already exist.\n")
+    if os.path.lexists(args.output):
+        parser.exit(1, "The output already exists. Choose a new output path.\n")
+    try:
+        catalog = read_json(args.catalog)
+        if (not isinstance(catalog, dict) or type(catalog.get("schema_version")) is not int
+                or catalog["schema_version"] != 1):
+            raise ValueError("Unsupported translation catalog version")
+        if args.kind == "service":
+            build_service(args, catalog)
+        else:
+            build_native(args, catalog)
+    except (OSError, ValueError, KeyError, TypeError) as error:
+        parser.exit(1, f"Could not build the patch: {error}\n")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
