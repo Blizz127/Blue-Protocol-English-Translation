@@ -9,7 +9,8 @@ from pathlib import Path
 
 
 _TEXT_MEMBER = re.compile(
-    r"BLUEPROTOCOL/Content/Text/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
+    r"BLUEPROTOCOL/Content/(?:Text/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
+    r"|Localization/Game/ja/Game\.locres)"
 )
 _INT = struct.Struct("<i")
 _ENTRY = struct.Struct("<qqqI20sBI")

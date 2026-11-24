@@ -4,6 +4,7 @@ import argparse
 import ast
 import hashlib
 import ipaddress
+import io
 import json
 import os
 from pathlib import Path
@@ -11,16 +12,22 @@ import re
 import subprocess
 import sys
 import tempfile
+import tokenize
 import unicodedata
 from urllib.parse import urlsplit
 
 
 DOCS = {"README.md", "LICENSE", "STYLE.md", ".gitignore"}
-TOOLS = {"tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py"}
+TOOLS = {
+    "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
+    "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py",
+}
 SERVICE = "translations/service.json"
 NATIVE = "translations/native.json"
-INDEXED = {"translations/menu-inline.json", "translations/image-labels.json", "translations/script.json"}
-FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE}
+MENU = "translations/menu-inline.json"
+MENU_RUNTIME = "translations/menu-runtime.json"
+INDEXED = {MENU, "translations/image-labels.json", "translations/script.json"}
+FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, MENU_RUNTIME}
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 OBJECT = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
 TABLE_NAME = re.compile(r"[A-Za-z][A-Za-z0-9_]*\Z")
@@ -124,8 +131,9 @@ class Checks:
         self.hosts = PUBLIC_HOSTS | {s.lower() for s in policy.get("allowed_url_hosts", [])}
         self.approved = policy.get("approved_files")
         self.denied = set(policy.get("forbidden_sha256", []))
+        self.menu_keys = {}
 
-    def text(self, value, ctx, *, english=False):
+    def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
         normalized = unicodedata.normalize("NFKC", value)
         folded = normalized.casefold()
@@ -137,8 +145,11 @@ class Checks:
         require(not HEX_BYTES.search(normalized) and not DATA_URI.search(normalized), ctx, "encoded payload")
         for match in ADDRESS.finditer(normalized):
             require(not is_ip(match[0]), ctx, "literal network address")
-        for match in IPV6.finditer(normalized):
-            require(not is_ip(match[0]), ctx, "literal network address")
+        # Python slice expressions can look identical to IPv6. For Python,
+        # check addresses in parsed strings and comments where text can occur.
+        if not python_source:
+            for match in IPV6.finditer(normalized):
+                require(not is_ip(match[0]), ctx, "literal network address")
         for match in URL.finditer(normalized):
             parsed = urlsplit(match[0])
             require(parsed.scheme.lower() in {"https", "http"} and parsed.hostname in self.hosts and
@@ -162,6 +173,7 @@ class Checks:
         records = obj[collection]
         require(isinstance(records, list), name, "catalog collection must be an array")
         seen = set()
+        previous_key = ""
         for idx, rec in enumerate(records):
             pos = f"{name} record {idx}"
             if name == NATIVE:
@@ -193,12 +205,22 @@ class Checks:
                 seen.add(identity)
                 require(isinstance(rec["source_sha256"], str) and HEX.fullmatch(rec["source_sha256"]), pos, "invalid fingerprint")
                 self.english(rec["english"], pos)
+            elif name == MENU_RUNTIME:
+                exact(rec, ("key_sha256", "unreal_key_hash"), pos)
+                key, runtime_hash = rec["key_sha256"], rec["unreal_key_hash"]
+                require(isinstance(key, str) and HEX.fullmatch(key) and key > previous_key, pos,
+                        "expected unique, sorted SHA-256 menu keys")
+                require(type(runtime_hash) is int and 0 <= runtime_hash <= 0xffffffff, pos,
+                        "expected an unsigned 32-bit runtime key hash")
+                previous_key = key
+                seen.add(key)
             else:
                 exact(rec, ("key_sha256", "english"), pos)
                 key = rec["key_sha256"]
                 require(isinstance(key, str) and HEX.fullmatch(key) and key not in seen, pos, "invalid or duplicate key")
                 seen.add(key)
                 self.english(rec["english"], pos)
+        return seen
 
     def blob(self, name, raw):
         sha = digest(raw)
@@ -208,11 +230,16 @@ class Checks:
         try:
             text = raw.decode("utf-8", errors="strict")
             if name not in DOCS | TOOLS:
-                self.catalog(name, text)
+                keys = self.catalog(name, text)
+                if name in {MENU, MENU_RUNTIME}:
+                    self.menu_keys[sha] = keys
             else:
-                self.text(text, name)
+                self.text(text, name, python_source=name in TOOLS)
                 if name in TOOLS:
                     source = ast.parse(text, filename=name)
+                    for token in tokenize.generate_tokens(io.StringIO(text).readline):
+                        if token.type == tokenize.COMMENT:
+                            self.text(token.string, f"{name} line {token.start[0]}")
                     for node in ast.walk(source):
                         if isinstance(node, ast.Constant):
                             if isinstance(node.value, str):
@@ -221,8 +248,8 @@ class Checks:
                                     self.text(node.value, f"{name} line {node.lineno}")
                             elif isinstance(node.value, bytes):
                                 require(len(node.value) < 256, name, "large embedded bytes literal")
-                                if node.value.isascii() and node.value.decode("ascii").isprintable():
-                                    self.text(node.value.decode("ascii"), f"{name} line {node.lineno}")
+                                for part in re.findall(rb"[ -~]+", node.value):
+                                    self.text(part.decode("ascii"), f"{name} line {node.lineno}")
         except (UnicodeError, json.JSONDecodeError, SyntaxError) as error:
             raise ScanError(f"{name}: invalid UTF-8, JSON or Python source") from error
         return {"bytes": len(raw), "sha256": sha}
@@ -311,6 +338,11 @@ def scan(repo, commit, policy):
                 require(len(raw) == size, name, "blob readback mismatch")
                 blobs[key] = checks.blob(name, raw)
             entries[name] = dict(mode=mode, git_blob=obj, **blobs[key])
+        if MENU_RUNTIME in entries:
+            require(MENU in entries, MENU_RUNTIME, "missing menu translation catalog")
+            runtime_keys = checks.menu_keys[entries[MENU_RUNTIME]["sha256"]]
+            english_keys = checks.menu_keys[entries[MENU]["sha256"]]
+            require(runtime_keys == english_keys, MENU_RUNTIME, "menu binding and English key sets differ")
         trees[tree] = entries
     return {"schema_version": 1, "status": "PASS", "commit": resolved, "tree": tip_tree,
             "reachable_commits": len(commits), "distinct_trees": len(trees), "distinct_path_blobs": len(blobs),

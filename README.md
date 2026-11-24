@@ -1,6 +1,23 @@
 # Blue Protocol English Translation
 
-Build English text for the Japanese PC release of Blue Protocol (1.08.001) using files from your own copy. The catalogs cover selected menus, tutorials, dialogue, weapon perks and emotes. You can build a native text overlay, translate a compatible service text JSON file, or use the catalog entries in a localization tool. You hear the original Japanese voices.
+Build English text for the Japanese PC release of Blue Protocol (1.08.001) using files from your own copy. The catalogs cover selected menus, tutorials, dialogue, weapon perks and emotes. You can build English menus and native text overlays, or translate a compatible service text JSON file. You hear the original Japanese voices.
+
+## Build the English menus
+
+Use Python 3.9 or newer. From your own updated client, extract the original files into a folder named `owned-files`, preserving their directory layout. The menu builder reads four locations under `BLUEPROTOCOL/Content/`.
+
+- `Localization/Game/ja/Game.locres`
+- `Blueprints/UI/`
+- `Blueprints/Player/`
+- `LevelDesign/Widget/`
+
+Keep the matching `.uasset` and `.uexp` files together. The original Japanese menu text lives in the widgets. The builder uses it to match each English entry before writing a localization resource.
+
+```sh
+python3 tools/build_menu.py --input owned-files --output english-menus --archive --require-all
+```
+
+A complete matching input builds 322 menu entries. The command writes the translated resource and `english-menus/blue_protocol_menus_1_P.pak`. On a setup that supports local overlays, close the game and copy that archive to `BLUEPROTOCOL/Content/Paks/~mods/`. You can use it alongside the native text archive below. Keep a backup if you replace a previous overlay. To undo the change, remove the archive you added and restore the backup. Omit `--require-all` to build the entries present in a partial extraction. Choose a fresh output folder each time.
 
 ## Build a native text overlay
 
@@ -28,7 +45,7 @@ The tool matches the table, the ID including its type, and the SHA-256 of the or
 
 `translations/native.json` indexes each native table by its two file hashes and each translated row by its ordinal and source hash. `translations/service.json` indexes service text by table, row ID and source hash. A partial input can build an overlay for the matching tables it contains. Text outside the catalogs keeps its existing value.
 
-Three reference catalogs supply English for localization tools that can identify the original UI or script entry. The player patcher currently builds the native and service catalogs. The other catalogs use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. In the lists below, the source hash is the lowercase SHA-256 of the exact original text encoded as UTF-8.
+The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. Image labels and script lines are available as reference catalogs. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
 
 | Catalog | Fields in the lookup array, in order |
 | --- | --- |
