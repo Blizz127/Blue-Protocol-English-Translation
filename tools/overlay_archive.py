@@ -1,4 +1,4 @@
-"""Build and verify a plain Unreal Engine 4 version 8 text overlay locally."""
+"""Build and verify a plain Unreal Engine 4 version 8 localization overlay locally."""
 
 import hashlib
 import os
@@ -8,8 +8,8 @@ import struct
 from pathlib import Path
 
 
-_TEXT_MEMBER = re.compile(
-    r"BLUEPROTOCOL/Content/(?:Text/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
+_LOCALIZED_MEMBER = re.compile(
+    r"BLUEPROTOCOL/Content/(?:(?:Text|Script)/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
     r"|Localization/Game/ja/Game\.locres)"
 )
 _INT = struct.Struct("<i")
@@ -30,12 +30,12 @@ def _record(offset, size, digest):
 
 def _inputs(root, names):
     if not names:
-        raise ValueError("An overlay needs at least one text file")
+        raise ValueError("An overlay needs at least one localized file")
     resolved = {}
     seen = set()
     for name in sorted(names):
-        if not _TEXT_MEMBER.fullmatch(name) or name.casefold() in seen:
-            raise ValueError(f"Invalid or duplicate text member {name!r}")
+        if not _LOCALIZED_MEMBER.fullmatch(name) or name.casefold() in seen:
+            raise ValueError(f"Invalid or duplicate localization member {name!r}")
         seen.add(name.casefold())
         source = (root / name).resolve(strict=True)
         if root not in source.parents or not source.is_file():

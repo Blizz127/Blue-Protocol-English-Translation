@@ -1,6 +1,6 @@
 # Blue Protocol English Translation
 
-Build English text for the Japanese PC release of Blue Protocol (1.08.001) using files from your own copy. The catalogs cover selected menus, tutorials, dialogue, weapon perks and emotes. You can build English menus and native text overlays, or translate a compatible service text JSON file. You hear the original Japanese voices.
+Build English text for the Japanese PC release of Blue Protocol (1.08.001) using files from your own copy. The catalogs cover selected menus, tutorials, dialogue, weapon perks and emotes. You can build English overlays for menus, native text and selected dialogue, or translate a compatible service text JSON file. You hear the original Japanese voices.
 
 ## Build the English menus
 
@@ -31,6 +31,16 @@ On Windows, you can use `py -3` in place of `python3`. The tool writes the trans
 
 For a client setup that supports local overlays, close the game and place the new archive in `BLUEPROTOCOL/Content/Paks/~mods/` within the installation. Keep a copy of any older English overlay you replace. To undo the installation, remove the archive you added and restore the earlier overlay if you used one. The build command leaves your input files in place.
 
+## Build the Chapter 1 dialogue overlay
+
+Four villager lines in two Chapter 1 scripts have English translations. Extract the matching `.uasset` and `.uexp` files from your copy of the Japanese 1.08.001 client, preserving the directory tree under `owned-files/BLUEPROTOCOL/Content/Script/`. From the repository directory, run this command with Python 3.9 or newer.
+
+```sh
+python3 tools/build_script.py --input owned-files --output english-dialogue --archive --require-all
+```
+
+The builder checks both original file hashes, locates the dialogue calls, and reads back the English lines. It writes the translated pairs and `english-dialogue/blue_protocol_script_1_P.pak`. If your setup supports local overlays, close the game and copy the archive to `BLUEPROTOCOL/Content/Paks/~mods/`. It can be installed alongside the menu and native text archives from this project. Back up any previous copy of the dialogue archive before replacing it. To undo the change, remove the archive you added and restore that backup if you have one.
+
 ## Translate a service text file
 
 If your setup uses a JSON list of named tables with `texts` rows containing `id` and `text`, supply your original file and choose a new output filename.
@@ -45,7 +55,7 @@ The tool matches the table, the ID including its type, and the SHA-256 of the or
 
 `translations/native.json` indexes each native table by its two file hashes and each translated row by its ordinal and source hash. `translations/service.json` indexes service text by table, row ID and source hash. A partial input can build an overlay for the matching tables it contains. Text outside the catalogs keeps its existing value.
 
-The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. Image labels and script lines are available as reference catalogs. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
+The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. Image labels are available as a reference catalog. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
 
 | Catalog | Fields in the lookup array, in order |
 | --- | --- |

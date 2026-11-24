@@ -35,7 +35,7 @@ def _encode(text):
     return pack("<i", -(len(data) // 2)) + data
 
 
-def _summary(asset, export):
+def _summary(asset, export, expected_class="SBTextTableAsset"):
     # The accepted cooked layout has an unversioned summary, one export and
     # its external payload immediately following the header in virtual space.
     _check(len(asset) >= 193 and asset[:4] == PACKAGE_TAG, "Unknown package header")
@@ -60,7 +60,7 @@ def _summary(asset, export):
         value, end = _string(asset, cursor, import_start)
         names.append(value)
         cursor = end + 4  # Two cooked name hashes, retained in the original name map.
-    _check(cursor == import_start and "SBTextTableAsset" in names, "Unsupported name map")
+    _check(cursor == import_start and expected_class in names, "Unsupported name map")
     return export_start + 28, names
 
 

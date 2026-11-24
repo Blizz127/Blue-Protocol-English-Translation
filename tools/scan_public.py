@@ -20,14 +20,16 @@ from urllib.parse import urlsplit
 DOCS = {"README.md", "LICENSE", "STYLE.md", ".gitignore"}
 TOOLS = {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
-    "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py",
+    "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
 }
 SERVICE = "translations/service.json"
 NATIVE = "translations/native.json"
 MENU = "translations/menu-inline.json"
 MENU_RUNTIME = "translations/menu-runtime.json"
-INDEXED = {MENU, "translations/image-labels.json", "translations/script.json"}
-FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, MENU_RUNTIME}
+SCRIPT = "translations/script.json"
+SCRIPT_SOURCES = "translations/script-sources.json"
+INDEXED = {MENU, "translations/image-labels.json", SCRIPT}
+FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, MENU_RUNTIME, SCRIPT_SOURCES}
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 OBJECT = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
 TABLE_NAME = re.compile(r"[A-Za-z][A-Za-z0-9_]*\Z")
@@ -131,7 +133,7 @@ class Checks:
         self.hosts = PUBLIC_HOSTS | {s.lower() for s in policy.get("allowed_url_hosts", [])}
         self.approved = policy.get("approved_files")
         self.denied = set(policy.get("forbidden_sha256", []))
-        self.menu_keys = {}
+        self.catalog_keys = {}
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -173,6 +175,8 @@ class Checks:
         records = obj[collection]
         require(isinstance(records, list), name, "catalog collection must be an array")
         seen = set()
+        script_pairs = {}
+        script_lines = set()
         previous_key = ""
         for idx, rec in enumerate(records):
             pos = f"{name} record {idx}"
@@ -205,6 +209,21 @@ class Checks:
                 seen.add(identity)
                 require(isinstance(rec["source_sha256"], str) and HEX.fullmatch(rec["source_sha256"]), pos, "invalid fingerprint")
                 self.english(rec["english"], pos)
+            elif name == SCRIPT_SOURCES:
+                fields = ("key_sha256", "asset_path_sha256", "uasset_sha256", "uexp_sha256")
+                exact(rec, (*fields, "source_line"), pos)
+                require(all(isinstance(rec[f], str) and HEX.fullmatch(rec[f]) for f in fields), pos,
+                        "invalid script fingerprint")
+                key, path, header, export = (rec[f] for f in fields)
+                line = rec["source_line"]
+                require(key > previous_key, pos, "expected unique, sorted script keys")
+                require(type(line) is int and 1 <= line <= 0x7fffffff, pos, "invalid script line number")
+                require(script_pairs.setdefault(path, (header, export)) == (header, export), pos,
+                        "conflicting fingerprints for one script")
+                require((path, line) not in script_lines, pos, "duplicate line in one script")
+                script_lines.add((path, line))
+                seen.add(key)
+                previous_key = key
             elif name == MENU_RUNTIME:
                 exact(rec, ("key_sha256", "unreal_key_hash"), pos)
                 key, runtime_hash = rec["key_sha256"], rec["unreal_key_hash"]
@@ -231,8 +250,8 @@ class Checks:
             text = raw.decode("utf-8", errors="strict")
             if name not in DOCS | TOOLS:
                 keys = self.catalog(name, text)
-                if name in {MENU, MENU_RUNTIME}:
-                    self.menu_keys[sha] = keys
+                if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES}:
+                    self.catalog_keys[sha] = keys
             else:
                 self.text(text, name, python_source=name in TOOLS)
                 if name in TOOLS:
@@ -338,11 +357,12 @@ def scan(repo, commit, policy):
                 require(len(raw) == size, name, "blob readback mismatch")
                 blobs[key] = checks.blob(name, raw)
             entries[name] = dict(mode=mode, git_blob=obj, **blobs[key])
-        if MENU_RUNTIME in entries:
-            require(MENU in entries, MENU_RUNTIME, "missing menu translation catalog")
-            runtime_keys = checks.menu_keys[entries[MENU_RUNTIME]["sha256"]]
-            english_keys = checks.menu_keys[entries[MENU]["sha256"]]
-            require(runtime_keys == english_keys, MENU_RUNTIME, "menu binding and English key sets differ")
+        for bindings, english in ((MENU_RUNTIME, MENU), (SCRIPT_SOURCES, SCRIPT)):
+            if bindings in entries:
+                require(english in entries, bindings, "missing translation catalog")
+                binding_keys = checks.catalog_keys[entries[bindings]["sha256"]]
+                english_keys = checks.catalog_keys[entries[english]["sha256"]]
+                require(binding_keys == english_keys, bindings, "binding and English key sets differ")
         trees[tree] = entries
     return {"schema_version": 1, "status": "PASS", "commit": resolved, "tree": tip_tree,
             "reachable_commits": len(commits), "distinct_trees": len(trees), "distinct_path_blobs": len(blobs),
