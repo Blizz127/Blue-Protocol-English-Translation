@@ -4213,6 +4213,32 @@
       ]
     },
     {
+      "uasset_sha256": "703544ea701f6f1e8c7ca6244310928851372d75ed30be912486fdd6e4f15278",
+      "uexp_sha256": "3dbe59b4a30ddd22d73aaf2b24bab260a241b6f71cd022000678f3cd19b8652c",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "246dc0bfaf24c4d9091ba7274c5ab24765622cac9cb6dfb90fd88cb8b9628871",
+          "english": "Acquired (Oldest First)"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
+          "english": "Acquired (Newest First)"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "246dc0bfaf24c4d9091ba7274c5ab24765622cac9cb6dfb90fd88cb8b9628871",
+          "english": "Acquired (Oldest First)"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
+          "english": "Acquired (Newest First)"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "712c2e67458f63b14a418946fb5c94ffed7db31d03b053cf649282715ba6692a",
       "uexp_sha256": "9f457d620a49399c4c407161e83e8061641ed1f39c5595cb663395230c17eb2c",
       "rows": [
@@ -6464,6 +6490,32 @@
           "ordinal": 5,
           "source_sha256": "fefdbd3d94f7cc254dfb668b6148eee4e1eaaa33d472d837fa08da299c34db67",
           "english": "Starts in"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "c0b41e7f75674633345d370d939b17c5125a6050ef9a1db0baacfd1bec443369",
+      "uexp_sha256": "6d3d703c568ae70d7fd6bf4b11a346996a4231d01fb300085f1567543d16e761",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "246dc0bfaf24c4d9091ba7274c5ab24765622cac9cb6dfb90fd88cb8b9628871",
+          "english": "Acquired (Oldest First)"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
+          "english": "Acquired (Newest First)"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "246dc0bfaf24c4d9091ba7274c5ab24765622cac9cb6dfb90fd88cb8b9628871",
+          "english": "Acquired (Oldest First)"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
+          "english": "Acquired (Newest First)"
         }
       ]
     },
