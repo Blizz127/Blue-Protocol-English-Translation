@@ -723,9 +723,39 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 247,
+      "source_sha256": "fb1008cea828e95655bafff46d5658bcd2a1e7321f04dd7eb925251aa0f68415",
+      "english": "Fires a concussive shot that explodes and deals lightning damage."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 248,
+      "source_sha256": "af28bda206d16a32e68f5f5ae0ab755ecc213c7f1fb37c7d5299870fb2a72c72",
+      "english": "Fires a concussive shot that explodes and deals ice damage."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 272,
       "source_sha256": "aa8474ecb4a5d7cc7bbd2483562307d794b2d8591b00d5573a7d3e093bfaa7ee",
       "english": "Grooms itself, temporarily reducing the damage you take by a moderate amount."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 390,
+      "source_sha256": "ec9b2a47942b3e9c0ea863911fb9031a8b21aeefd9ea2d0b2ae7d8115a2ac96d",
+      "english": "Deals fire damage with a cone of breath in front of it."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 1121,
+      "source_sha256": "3962fe8d0662c3739e6a1e0bfeebf324882ae3c1fbf0bc6693aa8f614ac9f672",
+      "english": "Deals ice damage with a cone of breath in front of it."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 1277,
+      "source_sha256": "ec9b2a47942b3e9c0ea863911fb9031a8b21aeefd9ea2d0b2ae7d8115a2ac96d",
+      "english": "Deals fire damage with a cone of breath in front of it."
     },
     {
       "table": "master_merchandise_commodity_text",
