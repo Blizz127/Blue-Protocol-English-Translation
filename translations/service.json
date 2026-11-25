@@ -98,6 +98,114 @@
       "english": "{CharacterName} took a ready stance facing {OtherCharacterName}."
     },
     {
+      "table": "quest_main_chapter07_text",
+      "id": 1,
+      "source_sha256": "04d6e20bef061abfd9d954d5455419dcf534d57a327822dad227766ca610741c",
+      "english": "Where Dragons Dwell"
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 6,
+      "source_sha256": "b19cd29807ddb63c779939effd5a4a653a934c9df8286f5360d94bbc8bf260f5",
+      "english": "Still Under Threat"
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 18,
+      "source_sha256": "b6adcfa56daee16fea2c89d2447fa11c16b01eb6638a2b8b19794c12c35d23ce",
+      "english": "We didn't set out to help the Dragon Tribe, but now that we have, we can move freely through their territory.\nThey haven't exactly warmed to us, but they're willing to talk.\nLet's use this chance to find out where Voldigen is."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 31,
+      "source_sha256": "d24a2e94ca3f57795836733ae563fd3e5e4472a71400c1755240bb6581ce0e66",
+      "english": "Granville Ice World　Go to the source of the signal the Omnistron picked up."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 32,
+      "source_sha256": "d24a2e94ca3f57795836733ae563fd3e5e4472a71400c1755240bb6581ce0e66",
+      "english": "Granville Ice World　Go to the source of the signal the Omnistron picked up."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 34,
+      "source_sha256": "3b287a3b8b07b1c5bd26cb2002f76a1c0722cf906f2ab70d487b2e068c37c9a9",
+      "english": "Granville Ice World　Head to Valmlant."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 35,
+      "source_sha256": "1d062913f530ecdef7123bea1bd589a98290c0fac74c0e9c32231717c401bff0",
+      "english": "Granville Ice World　Go to the square where the children are raised."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 36,
+      "source_sha256": "cd03b165a084579c86c2e81981c5477d9af432df8a9d3f0c8715631bf4f0ae70",
+      "english": "Granville Ice World　Speak to members of the Dragon Tribe."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 37,
+      "source_sha256": "cd03b165a084579c86c2e81981c5477d9af432df8a9d3f0c8715631bf4f0ae70",
+      "english": "Granville Ice World　Speak to members of the Dragon Tribe."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 38,
+      "source_sha256": "cd03b165a084579c86c2e81981c5477d9af432df8a9d3f0c8715631bf4f0ae70",
+      "english": "Granville Ice World　Speak to members of the Dragon Tribe."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 39,
+      "source_sha256": "98fdc09ae25f14b0daf6e9f7818322f94c6c6a2dd265ccdbc43b6db65f7b814a",
+      "english": "Granville Ice World　Search for engram."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 41,
+      "source_sha256": "cce7b150001a263356d0a2f4cc60143393471b5a983aef64e8f98526a80923c0",
+      "english": "Granville Ice World　Give the engram crystals to Doren."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 42,
+      "source_sha256": "cd03b165a084579c86c2e81981c5477d9af432df8a9d3f0c8715631bf4f0ae70",
+      "english": "Granville Ice World　Speak to members of the Dragon Tribe."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 43,
+      "source_sha256": "cd03b165a084579c86c2e81981c5477d9af432df8a9d3f0c8715631bf4f0ae70",
+      "english": "Granville Ice World　Speak to members of the Dragon Tribe."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 44,
+      "source_sha256": "27a99482c416e3762d1040aee34828f9c43ed4b9a5552593971bc17db4170278",
+      "english": "Granville Ice World　Find the woman of the Dragon Tribe with a child in her care."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 95,
+      "source_sha256": "fbbb9dccfbf8a4d50665d73dff48f66090fecb58dcf90e52617b0fee56aeab8f",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nWe've reached Valmlant, a settlement of the Dragon Tribe.\nWreckage littered the entrance. A recent attack by Bapharian weapons had left fresh scars.\nEven here, Bapharian weapons are a threat.\nUrugarm says he's going to show us the children of the Dragon Tribe.\nHe says the woman we helped earlier is in the square."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 102,
+      "source_sha256": "44182ee1068250f3ea41862c32e7946dbd93c093a32dd949e39d3ef351c0ac36",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nPeople in the Dragon Tribe have minds of their own.\nSome may have little respect for Voldigen or feel no need to obey him.\nIf we ask around, someone might tell us where to find Voldigen and the Avaritia Shell.\nLet's strike up a conversation, work Voldigen's name into it, and see how they react."
+    },
+    {
+      "table": "quest_main_chapter07_text",
+      "id": 128,
+      "source_sha256": "79c8aa65de3b919574ff3fa0cd3353eae1d3c8a39c201dbf2ec1541e51b7706f",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nDoren seemed to feel a little better once we gave him some engram crystals.\nWe left the rest with him in the hope that they'd be of use to Valmlant.\nDoren looked at us with suspicion, but Aeryn smiled. “I just couldn’t leave someone to suffer.”"
+    },
+    {
       "table": "quest_sub_chapter01_text",
       "id": 131,
       "source_sha256": "615c94c33e94fd4e44ce882919f33c9282cf3da6d6abe4a865d8786788a34c53",
