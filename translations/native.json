@@ -1231,6 +1231,102 @@
       ]
     },
     {
+      "uasset_sha256": "21b17210e259eca4a74076417ed90195923f427a51a4b578521bac4dfa10f58e",
+      "uexp_sha256": "91efc37e53287e90d35bdd93a42a09cd793cd09af278d08fed451cf676cbd948",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "229c2278563118cf167aa2a26384bb6d5bcd8b66eea498a24a97cbd5ee915be6",
+          "english": "With help from Carvain's mother,\r\nI think we may be able to…"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "7afba3c5d099243a9f681f7db1ed6c830759d608f8da960221312cb9156e7af2",
+          "english": "We can't pull them apart like this!"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "e53d4648e530828ba5db65d3c2896ad127c36a88521da38b9d44deb86c53c990",
+          "english": "Mom! Don't let him beat you!"
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "b81e82947d5e61a348f244f7dac1a49f57dec51a652d1958dc5dff882577900b",
+          "english": "A revelation…"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "83637dda78ee38dce0fffe22bdb4970fa95681d9c7cec33d220254846f197abb",
+          "english": "Grrr… Damn you!\r\nYou think that's enough to…?!"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "56171c6fdec3722984acd0bc7c05305270bc883150692dd45ee8712adc71478c",
+          "english": "Adelaaaide…"
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "15f6eda26bacc7211f24d0abe4f3d473974889459fc4580479c757131622eaea",
+          "english": "Mm… Ngh… Ah…"
+        },
+        {
+          "ordinal": 93,
+          "source_sha256": "740e4ca87600d95e4666bc6d1eefd78fdb006eccd709facebfc9c264c5493faa",
+          "english": "It…"
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "ebf34c0e32b6c162c7942f5024bc19b43c5d45ba894c27efc6724e36ca6c018e",
+          "english": "I… I'm back!"
+        },
+        {
+          "ordinal": 126,
+          "source_sha256": "8c9c32e1522651551db58f083a5994c7e276e85c4c576780211afccc725df04e",
+          "english": "I'll let you know at once if anything changes."
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "0d96c7fe4baf9a4eba738959c675237251e1699a5a3fee6a0ad3a63ab6ea8d83",
+          "english": "Oh, did you now? Many thanks for the tip!"
+        },
+        {
+          "ordinal": 140,
+          "source_sha256": "0c08cae6317a01934e46d7ff1a741908bbf5a1ab47ee858aa3bd846bc1ffe8f3",
+          "english": "I'm sorry you had to come looking for me."
+        },
+        {
+          "ordinal": 141,
+          "source_sha256": "3db649419b56c14a03e9dc3e672241652bd4f832bd69d7c2dd097fada8aac7e0",
+          "english": "I wanted a little time alone to think…"
+        },
+        {
+          "ordinal": 148,
+          "source_sha256": "243b6295534f59793623dd4c1b68a8652edd4b7081437f9108f5ea4520db1047",
+          "english": "The more I learned, the more ashamed I was of my own naïveté."
+        },
+        {
+          "ordinal": 149,
+          "source_sha256": "c4167066e0efac0ed2e4e565a4da791d7b73ba722ebbde8879d2c360de8a2be7",
+          "english": "I spoke so boldly to Voldigen."
+        },
+        {
+          "ordinal": 152,
+          "source_sha256": "f64cd5e98d84ad668b67e6a86da01d289cf936a8e1afb464cbfe1116fc5a0c9c",
+          "english": "There's nothing wrong with having an ideal."
+        },
+        {
+          "ordinal": 153,
+          "source_sha256": "f64cd5e98d84ad668b67e6a86da01d289cf936a8e1afb464cbfe1116fc5a0c9c",
+          "english": "There's nothing wrong with having an ideal."
+        },
+        {
+          "ordinal": 159,
+          "source_sha256": "2d85288c08eb8d2449fca6ef095fde37e441cc11ee73960f0092e774d9742448",
+          "english": "Then is it all right for me\r\nto hold on to mine?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "22115a27eabcf66c7ee7ed02826fb85868ba4c7f01568205c99ee76af01dfc6d",
       "uexp_sha256": "b402a2542e4bf12cf30a3bfb81b8f0e260411956ce31dcc46c3ee5ecfd9f7bef",
       "rows": [
@@ -4223,6 +4319,177 @@
       ]
     },
     {
+      "uasset_sha256": "7c8cbac248aefbfaaa3da5cd28a3a2da4d116028ffcbcf5ffb611a05660c3289",
+      "uexp_sha256": "6bb79a464b96f6d0b8c819c9bf9cd4240f2cb78d6132a612d4224c3a8574993b",
+      "rows": [
+        {
+          "ordinal": 4,
+          "source_sha256": "5e6a4b22cedbc3af9f532ed2a7b731209923a519b48bf61acecb5ce20a360505",
+          "english": "Even things we can gather by the armful could fetch\r\na good price if they're rare to humans!"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "513538ce5c0f111567c9309099cb1af7fa2559924a6af3331bc2f0549a697995",
+          "english": "If there's anything you'd like,\r\ndo let me know."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "f84ead90918165042274f9c1b995ee9cf65e9e09b1e8955642b2b8ddc2365169",
+          "english": "Different monsters roam Koaniani Forest by day and by night.\r\nI hear it's tricky to prepare for them all."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "48a0d79bf269ecbe116124cb48bfca24d8c7ec13401056a1787a9375b4249f32",
+          "english": "So I've hired adventurers who each\r\nspecialize in a different monster!"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "1ed8e8e4ef936ad259d9fec9131fb7849f71fa1f6f6182c0b224b65eff5e3069",
+          "english": "…\r\nCan I really afford that many adventurers, you ask?"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "df16288b6c0ada266d59de27b6a518970fd53dc9c21d88d60465bde1ceba085e",
+          "english": "Koaniani Forest is still full of undiscovered goods!\r\nPeople pay a fortune for things they've never seen!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "6266a2fbeb8f5c29f456293732b7e4f12a69036bb65f1e01492a7bc8f6cb3d3c",
+          "english": "And there's more…!"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "de1750f881c7758f740a912a4af46698991d654ae446430b198fd6400e95f44f",
+          "english": "Ah, it's like going home to the spirits of my ancestors!\r\nIt's that good. Almost too good."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "de73f47d800ace5910afcefa8457d53114dc22ecfd5aa3523be8374a7e926269",
+          "english": "Just thinking about it makes me want another…\r\n*slurp*"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "75b244fa7923559e6c89eb13bb2374835fdee807ac124972ad3038b8b3d8d444",
+          "english": "Ever since trade with humans opened up, I've gotten into\r\nthe habit of taking a healing potion whenever I'm tired."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "635122ce5c16a92d0466b0da630d412cbc9c5e3edf062b5b11c163c2a5b08e9f",
+          "english": "Trouble is, importing them gets a little pricey.\r\nMy poor purse…"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "3235de67302de1d2060f8b7668da419e21ccedde74c19491cf56a0d87959df0a",
+          "english": "We forest folk could handle guard duty in the woods just fine."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "2d739fff7267ae66fb56f653487c111a78d1a3f9b2e2b281b8805343e764fe80",
+          "english": "They say the spices there will set your mouth on fire!"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "6cb45487e8b23d9cae348d4794960c3e14cffb3c68500b297841ca21acd1dadb",
+          "english": "Now that we can leave the forest whenever we want,\r\nmy dream might really come true! ♪"
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "c06fe171005e1d1c81cdd1d699291ea98e9b7010f1543ae7e88f2cba1cc83a83",
+          "english": "Was it really you…?\r\nYou defeated Lord Voldigen?!"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "072af14e5eb2cf02eef95f46a61b3954801464620d4445c0fa02cefd463c866a",
+          "english": "One day, he'll rise again!\r\nWhen that day comes, you'd better watch your back."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "32f0505409e9f520d718b73aa038d62b814864e6178d6f935e4d7734dda54192",
+          "english": "Mind you, by then you and I\r\nmight both have died of old age!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "e866ee143f46a80fd363c6651f8cd1fe1c5df00a0c7adbcd80b34fda5d5b7395",
+          "english": "There are humans who only show up when there's a blizzard.\r\nKnow anything about them?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "938a2c121e6e752d287876ec7ccccb135493d496f31b849a446c0f372c924ee3",
+          "english": "That's what I heard those bandits saying, anyway.\r\nWhat are they up to…?"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "df2f4b6c0944572f5a811ac3c2033800054ffa5d75afc7f6fcef62d53d266308",
+          "english": "Get close and they attack…\r\nWhat kind of coward attacks from hiding?!"
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "872582e28f08df19590e96af2cfe0c708edc1238c82549fc9d78441bbbc4848f",
+          "english": "I wish Frelbe would come home. Surely it'd be all right now…"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "132cc8a50b4a69cdfc8f54cfe1e6bb7d8f397871550c786a1ca16b64cd50243d",
+          "english": "Ahh[――――].\r\nI really do feel better here…"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "df53f44f33ed45880b7186e81e29af593d490c39085e42172ef1bcdd44c0c52c",
+          "english": "Doren's been sharing the engram crystals you brought,\r\nso everyone gets to use them."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "f00f58d4bf6e3dfcf36a190784e5478f3fd2cd8492ca894801c85aad968177f7",
+          "english": "There aren't enough engrams here to nourish us properly,\r\nand a lot of us are sick. Those crystals are a godsend."
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "f4fcdcc08c0cc065975e11af313c4b5e491a19b0890c630a394d62ac6c20b0e6",
+          "english": "He had a warrior's spirit, and he was so loyal. I admired that…\r\nWhile he waited for his friend Lord Voldigen to return,"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "4eab015984621b928861b7ecf85061de510472261ce6192e7f9093f8b842868b",
+          "english": "he'd sleep, then wake, then sleep again to stretch out his life.\r\nAll that time he protected us in the Dragon King's stead."
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "885ce6817ac53aadc34238446b6fbe41b97f45822d27134a4350d0ce06938dd6",
+          "english": "Y-you might not know this, being human and all,\r\nso I'll make a very special exception and tell you!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "7e984c62fe1e97337accc3259d3c3c3cf6049cecc7ae9e28d62af16e4653209e",
+          "english": "…Sorry. It hurts to talk…\r\nI've been here… watching you… all this time…"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "c393fc202f8bf1f20bb02d82f65429f0b01dd10b3e820c5fb00347b76039ce33",
+          "english": "Those engram crystals you brought me…\r\nThanks to them, I can speak a lot more now…"
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "5efaeb78dbaf4126aaaf6f143f6f9dae2bce815e158df64f1e83ef10c4c6d5fd",
+          "english": "Thank you… truly.\r\nYou're always… welcome here."
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "7e704378ce7f057c12ce6b3f247bf688eb1739c96b80142c1f880ff1f12d6c33",
+          "english": "Hey, you lot!\r\nIt's me! Remember me?"
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "740d9dc1426bcca1ed33cb0a616435de17e23215bc6b71579d036ae72fa0ff51",
+          "english": "So you know His Majesty!\r\nMind you, I always knew you were something special."
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "8aeea3e3a9665349f80a8761ef3906b6fa61326d405f2adce7a7ce961d7c7ecf",
+          "english": "Coming along with you got me out of that dead end!\r\nThank you!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "7d6e7fae4ecb5b28f9de2e06e5bb44c0981ef62ba4cd43642c7c30e12ce92279",
       "uexp_sha256": "88b977e020ecc00b06d7de8b5e149f469d5e8fce289ef03d0d9b0b3736b078f5",
       "rows": [
@@ -4881,6 +5148,192 @@
           "ordinal": 4,
           "source_sha256": "e7a4ecd809c5c44d5544908896f6616f4dac16bd70c3d2d800ad5f970795f1ad",
           "english": "Whatever form someone takes, there is some comfort\r\nin simply having them where you can see them."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b1fa663f8c4fc34e50a2b248a865b259d17e6f09a32d12db9aa88e7d9963e36e",
+      "uexp_sha256": "4569f677ae7a7d915e68b19f28b280bbdae118ee25f7acfa37dcdb5b386c20da",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "b09bf9d05b5b0ba8da5bc43b621df2320adc93dea934581d6215857fd1b2d6a4",
+          "english": "Some of those memories hurt.\r\nBut I'm glad I met you."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "b1eb34296e3f77838fe0454841142ba8f0b749721dd26f4dcc897705f4e4f9ad",
+          "english": "Once, all I did\r\nwas pass on the revelations I received."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "6fe0de8523da9f8f919a1bd8906852dfaa19f94fb74fed4aa5afc91653889241",
+          "english": "But there's more to it than that.\r\nI have to think and act for myself, too."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "1f6ef0b07aee10233a040d86ad695a2f084f20a8344ee49742afb87724134369",
+          "english": "I learned that from watching you…"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "51a282c25f3137d00921952479d0bcbdcbf6c516a2cc34972822470789816e4c",
+          "english": "Master, I'd like you to keep\r\nmy mother's Imagine Seed."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "0786e9c2351bb941edba32595270f73204b5c4ef3d012b4c8268d5b1a33c0bbd",
+          "english": "Ah, it's you.\r\nI'm feeling much better, thanks to you."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "f27cbd88a2d5bcc40ddf552c400c3e888c356bde7d0de704a120e1f8f210b76a",
+          "english": "Perhaps someone else will claim the throne.\r\nPerhaps no one will…"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "83d68964d6ff835d6772fef76186b82d8ca59d03c9f86292cc95ce64b2d61cef",
+          "english": "If someone has the strength to be king, we'll follow.\r\nThat's all there is to it."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "7d65d9a58d2c8bc3283d6fdf69bc7ad49e06a82d90c0103c56be0f0062533a68",
+          "english": "Voldigen, beaten by a bunch of humans!\r\nServes him right!"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "00e56467c23b0b54d5e097fa32d4d66b25ea7d9f76f553597c8e4f83c8d14eb6",
+          "english": "Far as I'm concerned, it's one dead Avaritia.\r\nHa! He had it coming. Made my day!"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "08b84784402af62fc13a1f8aa12f75e01c42fe5b7a78eedec5417fe0898aa282",
+          "english": "Are we supposed to just rot out here at the edge of nowhere?!\r\nLike hell we are!"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "b6f32e120f9ea03afd19c5a9f5c6bea1f65fda02ea424d85575b646014fe981f",
+          "english": "Argh! If only I were stronger!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "26138e9b9a09e4e4fd52d50fe9daf5fe6981efc6a12eac308b2f68d91510ba79",
+          "english": "Was that your doing, by any chance?"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "9acb420b56f622c523eb813e3f8f2c0e315284309161adb9deeaf90309362868",
+          "english": "I've got no grudge against you, either.\r\nThe stronger side won. Simple as that."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "25ee10e6afad443192118d43ed59823f379b2cb0cac1b0e16326a8fb9e16dc82",
+          "english": "Who'd have thought a few humans like you\r\ncould come along and change so much?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "b7f5c02180227b4d64d8ecce6baad314a1dca4b95b758fd5c3bc6da481da520b",
+          "english": "She's out there alone? I don't like that.\r\nCome on, get moving! Hurry up!"
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "182ff0121179a98c9ccfdc64d81dfbf6d31c264f8246657b0ae77fd295d26347",
+          "english": "Hey! Got wind of a little rumor.\r\nI hear somebody took down the Dragon King."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "29bbda519320d17e90e9a2ff3a9e09e4c6763f7703ce66f5720f44c1498dbd40",
+          "english": "And if my sources are any good,\r\nthe one who did it was human."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "d02770128773cdde78b6fc0362c1a5ecc97bdfc77b059b3cd38384f51c36ffa2",
+          "english": "Now here's where I go with my gut.\r\nThat human was…"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "6d4c82098c43a1571afed95f487626f73043d39db393455445b02aa4909aa02f",
+          "english": "With you around, peace on Regnas is a sure thing!"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "50d46cebd75a1ffd213c65ff2a948e83c1604a82f8af138ed68df75482934483",
+          "english": "And yet, even among humans[――]"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "a2471ac5f8ba798fe6e0f244e550b72712842b84f9ea4f60bb8d146bb47c96b8",
+          "english": "[――]The road you travel\r\nmay yet hold hardship."
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "a3c589b210ad7b03aeb96818a209496ee1197253b93f4d560e7600a2d8c6aa6c",
+          "english": "We stand with you, as does the forest.\r\nWhatever comes, you must keep going."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "726d234cff2fe8593055eee72d5905742984cd578c31fbfa35477fdf93a1158d",
+          "english": "You never cease to amaze me!\r\nEven Voldigen himself fell to you!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "4fb0ca80c68d8aa2086e797cd4285d92c614a92f32bc941f84d8f5c3b2081f14",
+          "english": "…What's that look for?\r\nCan't I say thank you when I mean it?!"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "3932ed8d1889eeda41e332277f454fb9a73516b5093fae68fe96b6a4ecb25791",
+          "english": "Hm! How very thoughtful of you to come and pay me a visit, po!"
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "923e9ca60322685ba6e9754097bc93bbb74e27422eee3f0910010ddb964d6b27",
+          "english": "Sprinkle it on a flower bed or field. Such a soothing scent, po!"
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "ac1c779418357fca1de9273a370a48c98bac98e21b6d6a88b20c1e0381e4fb15",
+          "english": "…Hm? All soil smells the same to you, po?\r\nSiiigh. Humans, I ask you… po."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "bee16472ac83b90faff182c1b16456b5e79c76e6ad418896096fce7d891b38eb",
+          "english": "Lady Einrain has told me what happened."
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "13d8d166ce3041b5486147eec841df0aa9b026417b02bc3cf1b4abf336e60afb",
+          "english": "At last we can rest easy.\r\nThank God peace has returned."
+        },
+        {
+          "ordinal": 105,
+          "source_sha256": "af44e0288794bdeb1c091701e45ddf5bce322005911e7dfe76df13a280f64738",
+          "english": "It's stayed with me ever since\r\nI first heard Einrain sing it."
+        },
+        {
+          "ordinal": 107,
+          "source_sha256": "b6c49c0733d149fd933ad35cf52c10facae2247525ad638ad9eb58104e294952",
+          "english": "I want to keep singing it. It means a lot to me."
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "6304ff4a30a936fadb864b683777df28fece45c12a111a6e9d03b98211f9ebdd",
+          "english": "Oh, welcome back!\r\nWord of your latest exploits has already reached me."
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "fe6f0e5e0fbfa26f490cc816b51191ae9d99d4ca7d0b6307843518e233e3e130",
+          "english": "You're one of the finest adventurers\r\nthe Bureau's ever had!"
+        },
+        {
+          "ordinal": 121,
+          "source_sha256": "5f48d08182fcc674d01a04c3031f7fa37f48fe9cdc1ca385151c5e64676e12f3",
+          "english": "That was you lot, wasn't it?\r\nQuite a feat."
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "f16073cbce0d1ebb63e879fcdfd620052db4e7a5c31ddf5e0b422a5924c6fc2b",
+          "english": "We might even get a chance\r\nto talk peace with them."
         }
       ]
     },
