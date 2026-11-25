@@ -991,6 +991,112 @@
       ]
     },
     {
+      "uasset_sha256": "63b83f3680f36ea2629aa8e6688d2706f4da81955ecb738cd6a955e57363fb38",
+      "uexp_sha256": "b84c01239383478d18fe4bb371d6e5454cf90bbf3f6f0abee703ed8e30ed13b1",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "ec1d3b14448e2348f7fd74c37997133ed609b4e3f816bcd4fb0b1bf5430b79fd",
+          "english": "You're the adventurer who saved the chickens!\r\nAnd you're here to help me again!"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "bd774d5a3073c8c532237fe4c512a2675b08eae7d0287fec084c597c47fdb36e",
+          "english": "Our cows! Can you believe it?!\r\nThey're so cute! And so tasty!"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "1327cecd956bd7ddeedc2a2860e7cffb7091f5b7d30f9f3db47c01ace4b77fe7",
+          "english": "I won't stand for it!\r\nI'll teach those bullies a lesson!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "9de2209a7d49f576e7238f04d6328fed15ee98416fcafa7d01c8bbb1a871ef87",
+          "english": "Come on, adventurer! Let's do this together!"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "37a6bdb6ed0ebeb5256a7f9f6c0aca14f88615382e79d70cc464b5e8c60714e8",
+          "english": "Come find me when you're done, okay?\r\nNow then, let's get to it!"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "87ea567a8a6477c637bdaa48cc8dbc71bde126b7ada9613ed2075d0a3db4ae3f",
+          "english": "No holding back! No going easy!\r\nNo hesitation! No mercy!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "9a050b76fedc9562511f891089f2133150efc959fed6ba3e224c2f1debffcfac",
+          "english": "Let's take down five apiece\r\nso our cows can graze in peace!"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "43218596bb82657476ac00e9fdd856fbdb267f1163624ed28d776156fd34187a",
+          "english": "I took the whole herd apart,\r\nso I don't think they'll be picking on our cows again!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "40e998e5b31da14e0300a01070f2ca3d2e03c9f253dc39ed0723419f89afe11a",
+          "english": "We can all rest easy now.\r\nWe have you to thank for that, adventurer."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "7983310bf35827d15b79165b205780890a1ec39a2a6143f2d34af64769ea517b",
+          "english": "Everyone in the village sends their thanks,\r\nand you should've seen how happy that cow looked!"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "86fb794ea34df74be1bdc4ffdaeb37052e2aef5ec04b5713df3a29b90a124c0a",
+          "english": "Oh, she was SUCH a cutie!\r\nAnd all that firm muscle! What a beauty!"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5124cb988358056dcc2488ed8d6343b9a1b78f14ba5b1d5813ce7db669bc055d",
+          "english": "Such a healthy glow, such firm skin,\r\nand the way she looked at me with those round little eyes..."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "f6ff340e5599ac1f2c257d9fd7b556a1321dbf9f08373f97eaa8aa6580257a40",
+          "english": "Oh, I can't stand it! I could just eat her up!"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "242dd68bbcedcd06f176df5027685b653f4847a88fea2eaca9adbea0bf97c3c5",
+          "english": "So let's do just that!\r\nHere, adventurer! I saved you a share!"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "29e80954cc8a56a50ef47c8c4fd70de449845f535518fc2ecdbff3b796644dd6",
+          "english": "Fresh-cut sirloin! Choice beef that'll make your mouth water!\r\nI butchered her myself while I was waiting!"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "71443282460e1096bfee4a53a7a1e07197c3a0fd377e998a15937e8fd4de3777",
+          "english": "See how pretty it is, all red and pink?\r\nYou won't find a finer cut anywhere!"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "0963f7ce9489dbcaf9f44a70b181f213bbd92174e92e5bb1a70e241e28139b81",
+          "english": "She was such a lovely cow. I bet she tastes divine!\r\nOoh, I'm drooling! ♪ Dab, dab."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "0e99914f87fc45b5d1dbae493971c3a7fb7f3409b3ea7cde00e5e4043bf0a4e1",
+          "english": "I trimmed out every bit of sinew without a nick in the meat.\r\nI know my way around a butcher's knife!"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "b525064bf41a85e7eced18861a8f40b7aa562bc66b45e2f924aa40b51e8d2240",
+          "english": "Huh? Is something the matter?\r\nOh, don't be shy. Go on, take it!"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "3a70416ea954b382212e2ad78fb2842010e5183268488c738a6b896977616f31",
+          "english": "Thank you so much!\r\nIf anything picks on the cows again, you'll come help, right?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "69c35531abf3dfad492c14186f4c7f6d4da172ba0a01a9b720f2c8886c1843c8",
       "uexp_sha256": "652b4084c430eb02cd4e56bdba93730795f5a180db1274afadc2b7397eb2f41d",
       "rows": [
