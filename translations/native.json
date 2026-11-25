@@ -495,6 +495,62 @@
       ]
     },
     {
+      "uasset_sha256": "198d42b00665a18e78d2068a8e0d9deb6265f09a7e4ff122d4ce28b80166280a",
+      "uexp_sha256": "a577f179df2a26db296c7b0e55439bfd2665e702f8e34f404b21398b78394b23",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "845672fbca81338cf22ed887e400f26547ab3b2a10dc74df111b511c96645281",
+          "english": "We're still getting ready to open.\r\nThank you for your patience."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "5fe1703db34d51518f56635d83dc53beb9865d8d2899e2157209268affd9d583",
+          "english": "W-we have yet to open our doors, dear patron?"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "840118e3393a04ee4b64f78deaec3bed1a9b49158314edfe951730865a623728",
+          "english": "Here at the Memory Stand, we serve drinks\r\nthat give your abilities a temporary boost."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "eb71df755e7ab8e86214675ba627500d41a88e5d2801518c04160c0162f9c07a",
+          "english": "Once the Liquid Memory is active, drinking it\r\ncan give you all sorts of benefits."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "601e98f68c109c5aa6464b2482b1a5d3ab67c35dbd699526d5c7b1d916582ea0",
+          "english": "Oh, wait, that's not it…\r\nUm, do take the very greatest care!"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "7f909cfc89cf77861fbc2006504f251420021a3a979530b52a47179813e55f4b",
+          "english": "As you go about your adventures, your Liquid Memory\r\nautomatically stores the experiences and memories you gain."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "19e2a76107c77f220c22b8ae083379b9f0861d3376bdaad914c9be4cb140370f",
+          "english": "When you come to the Memory Stand,\r\nplease bring your active Liquid Memory with you."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "d7f72070bf130eda69f5c1ca604a5929173fcc4494bb9e3db39e114b23453d0f",
+          "english": "With this Liquid Memory, you'll get more materials\r\neach time you gather."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "5b052a3d936e16cbc813e10dbde0aba5bdf2c8d867387bcece31a9bf03c76699",
+          "english": "The Liquid Memory I gave you earlier\r\nis already active."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "98054ba7db151c1bb3a20156fd142d8d4fe624ff8639fd319722ed4fe3b316df",
+          "english": "Do come back to the Memory Stand.\r\nWe'll help you make the most of your time out adventuring."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "19a10552f565db7b91c897164c7cf6dda4b3468c0864e1d7496df696056f4134",
       "uexp_sha256": "f2588ff942ad69d0627d04df9f785f0903773ba4caf6f46e64e8ad61d4cb4b70",
       "rows": [
