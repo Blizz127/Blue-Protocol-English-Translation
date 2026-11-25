@@ -402,6 +402,41 @@
       "uexp_sha256": "f4d7662df16fcd62879efd6ce5fccfc554939c9bf068e532fd15986ccc9b55e7",
       "rows": [
         {
+          "ordinal": 36,
+          "source_sha256": "0cffaa87e5a15632708c1896debbc5e26afff97983272a4c2888ceb5a5adc3c8",
+          "english": "Aegis Fighter Basics"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "0554271adb9b4f2d05af85ae1ad6ac3cc9825832c31a9fab3efbce92873c7727",
+          "english": "Twin Striker Basics"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "e15dd0478f26659d7515e683d4fd005714bd1cecb205a04b028fbbb122774f8e",
+          "english": "As a Twin Striker, each hit you land\nfills your Combo Gauge a little more.\nThe higher the gauge, the more damage you deal.\nIf an attack makes you lose enough HP, the gauge resets.\nDodge attacks and use buffs that let you absorb HP."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "5c6bc60ddff6ca577ee1502a57231c639d500078ca2a3e4349bd038e0e4f9f10",
+          "english": "Blast Archer Basics"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "d928dad758c603bcaae4e0dbfbd4f57f57a296bcf36a423328c5013c870a3a1d",
+          "english": "Spell Caster Basics"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "b3f703393ff83c5f13765be868e4eb95812a1f0b9611710be4d980b6793b3df3",
+          "english": "Smasher Basics"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "4189133dbf97d6b93b7c8fa75c58f864a219126ae35ced4b3b037068e3cf2247",
+          "english": "Open the Command Menu and select Character ＞ Battle Build.\nEquip a different type of weapon there\nto switch to the corresponding class.\nYou can only change classes in safe places, such as towns.\n\nYou can now accept class quests.\nEach class has its own class partner.\nYou'll learn about your class together on these quests.\nWhether you stick with your current class or try a new one,\nstart by taking a class quest at the Adventurers' Bureau."
+        },
+        {
           "ordinal": 105,
           "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
           "english": "Raise Your Adventurer Rank"
@@ -831,6 +866,42 @@
       ]
     },
     {
+      "uasset_sha256": "3ee74b48fdc50b4f64d28d5eea2fa0667fdb5fcc08f7424c49c8fb3c23c9be97",
+      "uexp_sha256": "7a8785e6a8d1c71880f6414dc7b432dd0571722b280bb9267b6fa7d2081e052e",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "0eeb64694c81131cb739d1c1bb9cd8a6506758d2ced8c517f1d25bd54b8ed1df",
+          "english": "Class Weapon Type"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "76dce7b3490ab323591ee60e44bd3a96d0ddd2af273a6bbacd94098e878e9f25",
+          "english": "A technical class that excels at mid- and long-range attacks and party support.\nAdapt to the fight with area attacks, healing, and other skills."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "0c248a5d9cd207df81b92d841fb2e6089f80abc20bd8a504f2a20ad5aba0e41a",
+          "english": "A close-range class that delivers a relentless flurry of attacks with two axes.\nKeep landing attacks to drive their power past its limits."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "cc7b01698bad6bda19aa7eecb214f45144bce22caee3f14cef10e6126a87edbb",
+          "english": "A close-range class that uses a sword and shield to anchor the party’s defense.\nStop advancing enemies and give your allies the upper hand."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "a88ecc0d0a7d3ae617cb4dc6153c9b4eff1c6cb99833239d236cc36286ad2e48",
+          "english": "A melee class that dances across the battlefield with a slender lance and nimble footwork.\nApply engravings to enemies to set up a devastating strike."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "77a5d81176ced2f4af930a3d7db164fb9b2896780ff16c4f2263ca52497b7709",
+          "english": "A ranged class that supports allies with a repertoire of songs for buffs, healing, and more.\nUse the Amp to spread those effects over a wider area and give the whole party a powerful boost in combat."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "41c199471b1b3cc30997268c1f19f6c234705de76d8a735eefccb759e1f6ea3e",
       "uexp_sha256": "0732e93798c1cd93420b851946cf558abb484039ab1121b5f63c65cb0b8f5cf0",
       "rows": [
@@ -1021,6 +1092,17 @@
           "ordinal": 13,
           "source_sha256": "5dbd6b576604bac6e344a7158a42948233ea9dc42d559da085e1956d7c66a5b7",
           "english": "Wha[――]?!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "5daeef1f2e5f60a34c3f87c2942843f10c38d0d005d4722e175c5439480719fa",
+      "uexp_sha256": "0674b730ea4022087aed4fef73a5cd190e02142f2757007692903ff34debbd33",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "4b155a8074c046da4454f584ab55221650ff1d0979878d648ce86204f6a273f4",
+          "english": "Changing classes will block progress on some quests you've accepted because you'll no longer meet their requirements.\nChange classes?"
         }
       ]
     },
@@ -1426,6 +1508,32 @@
           "ordinal": 6,
           "source_sha256": "098eb2e3728cd354d91d5ff240891cbb20e225247cda47eeb8d49686fe7bd248",
           "english": "Talk"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b8db99da9a91c152a1fd7e548f07ae751a7cb991925bef8a61e5dd075e4bede9",
+      "uexp_sha256": "02767314c31ecce893c1fd1042e369df1fa50d80ea5530348d7b409d073c4d8b",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "0eeb64694c81131cb739d1c1bb9cd8a6506758d2ced8c517f1d25bd54b8ed1df",
+          "english": "Class Weapon Type"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "76dce7b3490ab323591ee60e44bd3a96d0ddd2af273a6bbacd94098e878e9f25",
+          "english": "A technical class that excels at mid- and long-range attacks and party support.\nAdapt to the fight with area attacks, healing, and other skills."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "0c248a5d9cd207df81b92d841fb2e6089f80abc20bd8a504f2a20ad5aba0e41a",
+          "english": "A close-range class that delivers a relentless flurry of attacks with two axes.\nKeep landing attacks to drive their power past its limits."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "cc7b01698bad6bda19aa7eecb214f45144bce22caee3f14cef10e6126a87edbb",
+          "english": "A close-range class that uses a sword and shield to anchor the party’s defense.\nStop advancing enemies and give your allies the upper hand."
         }
       ]
     },
@@ -2068,6 +2176,41 @@
       "uexp_sha256": "3c1294e8bd882ae82c6b6c9da643c9acdd4a13dd43dcdf5a3079835b8445bd15",
       "rows": [
         {
+          "ordinal": 36,
+          "source_sha256": "0cffaa87e5a15632708c1896debbc5e26afff97983272a4c2888ceb5a5adc3c8",
+          "english": "Aegis Fighter Basics"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "0554271adb9b4f2d05af85ae1ad6ac3cc9825832c31a9fab3efbce92873c7727",
+          "english": "Twin Striker Basics"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "e15dd0478f26659d7515e683d4fd005714bd1cecb205a04b028fbbb122774f8e",
+          "english": "As a Twin Striker, each hit you land\nfills your Combo Gauge a little more.\nThe higher the gauge, the more damage you deal.\nIf an attack makes you lose enough HP, the gauge resets.\nDodge attacks and use buffs that let you absorb HP."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "5c6bc60ddff6ca577ee1502a57231c639d500078ca2a3e4349bd038e0e4f9f10",
+          "english": "Blast Archer Basics"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "d928dad758c603bcaae4e0dbfbd4f57f57a296bcf36a423328c5013c870a3a1d",
+          "english": "Spell Caster Basics"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "b3f703393ff83c5f13765be868e4eb95812a1f0b9611710be4d980b6793b3df3",
+          "english": "Smasher Basics"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "289be1e465528661c82bc2425e49f902cd0b7489c3b8533c3c2407ea364eca71",
+          "english": "Open the Command Menu and select Character ＞ Battle Build.\nEquip a different type of weapon there\nto switch to the corresponding class.\nYou can change classes in towns, out in the field, and on free exploration maps.\n(You can't change classes while an enemy is targeting you.)\n\nYou can now accept class quests.\nEach class has its own class partner.\nYou'll learn about your class together on these quests.\nWhether you stick with your current class or try a new one,\nstart by taking a class quest at the Adventurers' Bureau."
+        },
+        {
           "ordinal": 105,
           "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
           "english": "Raise Your Adventurer Rank"
@@ -2093,6 +2236,11 @@
           "english": "1  Dead Count\nWhile active, a counter decreases each time you take damage from an enemy.\nWhen the counter reaches 0, you become incapacitated.\nYou cannot be rescued and will be revived immediately.\nYou receive \"Loss\" when revived.\n* Dead Count cannot be prevented or removed.\n  You are also revived immediately if an enemy defeats you while it is active.\n\n2  Loss\nWhile active, you cannot recover to your maximum HP.\n* Loss cannot be prevented or removed."
         },
         {
+          "ordinal": 567,
+          "source_sha256": "557944c5cc36e8593e3d2b02dabbaaf8ec8087dcedd8e3b9d691924254f41c6e",
+          "english": "Blitz Lancer Basics"
+        },
+        {
           "ordinal": 624,
           "source_sha256": "e9e3aa2d41687b4eac396cd379034a0842518e3fe4d353552a4cd0ca33bfc1b1",
           "english": "You can now challenge \"Sudden Death Battle II\"\nfrom the Missions screen.\n\nTaking damage in this mission immediately incapacitates you,\nso choose suitable skills and equipment before taking it on."
@@ -2106,6 +2254,16 @@
           "ordinal": 692,
           "source_sha256": "a4622f357b389e0e4794a3f28383366a3b0e70042bcd1bf5a1a45b8edcd37743",
           "english": "Plug Bonus Mission matchmaking selects a mission\nat random from Rush Battles you have already cleared.\nIf no destination is available, your current class level\nand Battle Score do not meet any eligible mission's requirements.\nClear a regular Rush Battle first."
+        },
+        {
+          "ordinal": 700,
+          "source_sha256": "294ee8889aa66f898cdd91edf5d8e93f8ef4b08ad4ec53ca3897b42b6bc13abb",
+          "english": "Beat Performer Basics"
+        },
+        {
+          "ordinal": 701,
+          "source_sha256": "4afc117ba6c6b835c3ce2ec77ffcbe1402fe3908b02297f48c0296bb6f2c4ae8",
+          "english": "As a Beat Performer, you can set up an Amp in combat.\nHit it with attacks and skills to extend their reach.\nLanding hits with these extended attacks fills your Heat Gauge.\nWhen it's full, you can activate High Spirit.\nHigh Spirit powers up your attacks and skills,\nso keep up the pressure while it's active."
         },
         {
           "ordinal": 796,
