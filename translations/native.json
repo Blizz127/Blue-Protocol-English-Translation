@@ -2735,6 +2735,32 @@
       ]
     },
     {
+      "uasset_sha256": "3fe2209d489e00038ec1c431ec91d0616f03e29bd48fe385b9102054001e6e03",
+      "uexp_sha256": "4381021fdfb07d104e1cb68f7166fcf0f95437a8c3f6dc9f8ba399d9bfdbdc99",
+      "rows": [
+        {
+          "ordinal": 21,
+          "source_sha256": "1607e688810d46a64da07b4d092598b93981153e88fb4c6cf882316bc1b36973",
+          "english": "Rally Members"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "950aa0d395585a16e10d6d09d08cb412fd473c170ffd3f5a5bfe6bc9097cbfa2",
+          "english": "You asked your party to regroup."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "ca7d01edbb83b64a527acea2e827bce784d458de78d03233472c2a7941bc5fab",
+          "english": "Switch to your leader's channel as requested?"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "eb6509bb4cdc7e9e66cf1e5a823af1d5adebbb16a24f5ae5dcd8e7cc814e57c8",
+          "english": "Teleport"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "41c199471b1b3cc30997268c1f19f6c234705de76d8a735eefccb759e1f6ea3e",
       "uexp_sha256": "0732e93798c1cd93420b851946cf558abb484039ab1121b5f63c65cb0b8f5cf0",
       "rows": [
@@ -5393,6 +5419,42 @@
           "ordinal": 69,
           "source_sha256": "beda9f64e378d242db5511b35ada3ac21bf63236354fcd9b118fbcae5ff0ea6a",
           "english": "Spirits' Rest"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "a9651c11474fe86caa9e4ec4fb90197ba2f2f48d44262a667e0365954d6ca889",
+      "uexp_sha256": "fe0d49f3d7ed22e6040edbc5cf7ee967ce0c46313143cb0b0fa6b354f650d815",
+      "rows": [
+        {
+          "ordinal": 21,
+          "source_sha256": "1607e688810d46a64da07b4d092598b93981153e88fb4c6cf882316bc1b36973",
+          "english": "Rally Members"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "950aa0d395585a16e10d6d09d08cb412fd473c170ffd3f5a5bfe6bc9097cbfa2",
+          "english": "You asked your party to regroup."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "ca7d01edbb83b64a527acea2e827bce784d458de78d03233472c2a7941bc5fab",
+          "english": "Switch to your leader's channel as requested?"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "eb6509bb4cdc7e9e66cf1e5a823af1d5adebbb16a24f5ae5dcd8e7cc814e57c8",
+          "english": "Teleport"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "97a01a817e870f7eab4755786bd6f4e9eca0517858332a4de1db6670734d0b34",
+          "english": "Regroup request pending"
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "3d50bcb196e65810b66d9c279999e14e1809ecee44f1e4942c0909716c1cd36e",
+          "english": "No party members are available to regroup."
         }
       ]
     },
@@ -8607,6 +8669,11 @@
           "ordinal": 624,
           "source_sha256": "e9e3aa2d41687b4eac396cd379034a0842518e3fe4d353552a4cd0ca33bfc1b1",
           "english": "You can now challenge \"Sudden Death Battle II\"\nfrom the Missions screen.\n\nTaking damage in this mission immediately incapacitates you,\nso choose suitable skills and equipment before taking it on."
+        },
+        {
+          "ordinal": 674,
+          "source_sha256": "f3d0ea250dd17c5a836ef55e45128b181f4ece7844c688916752f6f6c097fe6e",
+          "english": "Fields are divided into zones and channels.\nDotted lines on the map mark zone boundaries.\nThere are no loading screens within a zone.\nEach zone has multiple channels.\n(Towns have multiple channels, too.)\n\nEven in Roaring Sea Plains, two players\non different channels can't see each other.\nIf your party is on different channels,\nask your leader to use \"Rally Members\"\nso you can regroup on the same channel."
         },
         {
           "ordinal": 681,
