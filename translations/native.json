@@ -715,6 +715,57 @@
       ]
     },
     {
+      "uasset_sha256": "22115a27eabcf66c7ee7ed02826fb85868ba4c7f01568205c99ee76af01dfc6d",
+      "uexp_sha256": "b402a2542e4bf12cf30a3bfb81b8f0e260411956ce31dcc46c3ee5ecfd9f7bef",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "9fa7f4682e4a964bcb86fa73086ad53fbcdfa7fa2b12b19f55ecd159da5b8af5",
+          "english": "Hey! You're just in time.\r\nHow about a taste?"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "64d3eb2a04c51227030690f6f411135cdb39fd10cb5164c568903c39f7e9baf5",
+          "english": "I handpicked every ingredient, and get a load of these prices!\r\nHeh. Sometimes my own business sense scares me."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "dde29c657de5af65bb6e10d5bcd3a84576cefac8ab4ef3f74eb0d35003d85efe",
+          "english": "It's too late to cancel that order now!"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "17b538d55b2ea137a92bc0667ff31095bdbab19ba413d6ebad0fe14d3c01fdf4",
+          "english": "Hang on. If you find the songstresses,\r\nthe festival can still go ahead…?"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5977a3aa5a42debcd64001d1d4bf865b1bdb2e5ac048b56c4d367a7e123dbe2b",
+          "english": "It took me by surprise…\r\nShe sounds nothing like the voice I hear in prophecies."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "059691cf0561c5a1d0f217c0fa93f061b58560c0eeaef3df8486269d64a7925b",
+          "english": "That voice sounds so flat… so cold."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "03aa0f25c8bfd696cb67363236b0b6ad481811eae84219a1b9cfaafa3c908d95",
+          "english": "I couldn't tell the others this, but…\r\nI'm so happy… I got to meet a goddess…"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "5e5ed3b1d30b406e65d46cf92e60fab3690639c07b16f03e309de985342c4e7a",
+          "english": "Master… It still doesn't feel real to me."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "733032f702f714fa99d76b5d788139132a717846329c9c899697c03dd414b230",
+          "english": "I don't know why, but ever since I heard that,\r\nI haven't been able to stop shaking."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "23a4f81fcc3b7343f6f4784eebb38f32588823e79557b479782ef8fba2a06377",
       "uexp_sha256": "559730b92d69a5cb3b540b2f03ec40399ffd8baf3ba66f572a5f380eabd066ff",
       "rows": [
@@ -1480,6 +1531,137 @@
           "ordinal": 28,
           "source_sha256": "4317db28c29df408e2c66a6538c8006929be4088514c7b541d726efbae32a74b",
           "english": "You're hardly a newcomer anymore.\r\nMake sure you're ready each time you head out."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "554e69cac22071db9943ff80dae50deb4e68c22c4d64972e923f4915157a28fd",
+      "uexp_sha256": "695cf658e873eadaab6c1fca09833c133ca70bf4606628a4c5eda01f871083a0",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "fedd0c4a7e35b63fc0fef5b518d9f40628bab2a3b8b79719c7c3a31aee152c89",
+          "english": "Ah… What are we to do?\r\nIf we're to make another leap, we'll need a chronogram…"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "bb6b97eefe1d96526f18240cf2a4f0701fb7397e3a603bebb8e0e9dd5803535b",
+          "english": "We can hardly go asking Bachelard for one."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "0075164a709c3cdb84dde0c563f4006e4da67d06d54166bfc3ecb80871510ba4",
+          "english": "Well, there's nothing for it.\r\nWe'll have to find one somehow."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "2d97f7c4f5085bba814623721166c5999b71566cbbb8eafd01af2365e1055fd6",
+          "english": "Might as well start by asking around here."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "27c4dff0420053b16411ca82533ded761f46cf6eca8aa1633aa2b8dff9ebf05a",
+          "english": "First Charlotte,\r\nand now they've attacked you and your friends too…"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "c269309fd70c6417ca861d50b1612bfc860babac8ac0d2dc8fd42fdaa6042ede",
+          "english": "…A little while ago, the divine messenger started to stir."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "60a5190fe4ccc8e6a38674b3987db42f7b9e9c74923bf40d5c4632af38028867",
+          "english": "I put the barrier back up right away. It's all right.\r\nIt just takes more out of me than it used to…"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "67c3e5bebd9c7358aabd2e0b1195b33cf66ab09683d097aca3de2cbd07cade6b",
+          "english": "That is the Avaritia Shell.\r\nSome call it the messenger of God."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "d057010b2a0381aad4a4c1accbd53f79bed7e2551568c89446d4ae6b68df60e5",
+          "english": "…Please, hear me out.\r\nLet me tell you of our journey through time[――]"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "2d5c42e2f9783e11b0171796afebe853725b9a74c56e2e2d954cfc93d8156eca",
+          "english": "A Bapharian goddess… from the future…"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "cc4eb655bbe4294e9c70b71f1c57bf0df6a4eb7534d5793282a2d92d211f1704",
+          "english": "A goddess…"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "00e34032bada114bf6553f4d28f325c15deab4722594a32d074d98540bba7325",
+          "english": "I can hardly blame you for having doubts.\r\nIt does sound quite preposterous."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "e8413eef0699c8305c07f5d195db76b6754e31820a0a5db400ac6e6c5497b186",
+          "english": "I can't believe you'd make all that up.\r\nSo[――]I believe you."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "95fd87d235cdf118fcc148c26c6ce2b313ce7d4752d0602c81c3ca99deac0864",
+          "english": "Yeah. Knowing him, I'm sure it is."
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "3716bffd855c157d3051f8c43fdcfd490f7a471fe18441a6657757ea5cf005b1",
+          "english": "All I can give you now are fragments like this one."
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "af73259f9f399f1db81d46626f09fe573665809f82a9c7eacf5129c281841b6f",
+          "english": "You'll be holding the Star Spirit Festival again this year, I take it?\r\nMight you let us have the offering you make then?"
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "286c21491bf0891eac729aad675a2b8c71df1b013d842d417c4eed747a8a3ea7",
+          "english": "I'm afraid word has just come down.\r\nThe Star Spirit Festival has been canceled."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "c8437da922b05a66a006272ae646cc70f57e96453c9e5b620e3abbd8e90368f7",
+          "english": "Me!"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "71469b1638fa0acb46f9461a1eb028584057d1dd7d9f941fdb9b863b91660335",
+          "english": "Ooh, me! Pick me!"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "c704c1259468b96b000cef484aa7b98fbe7d0769e06b7b273f8f0735e8d745d2",
+          "english": "I'm a pretty good singer, if I do say so myself.\r\nWant to hear? Just a little? All right, here goes!"
+        },
+        {
+          "ordinal": 121,
+          "source_sha256": "44b500f10e18e3b5b1bc607c55c20d07e53e0d55381cd3785f41d573b9a9fae3",
+          "english": "…To my astonishment,\r\nyou do seem to have the gift."
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "42c96db85e7b0954f08a28e0946b61ee6f06e85a14dc4e33850e3d50bdc1c6c4",
+          "english": "W-wait a minute!\r\nThat armed gang is still after you, remember?"
+        },
+        {
+          "ordinal": 127,
+          "source_sha256": "e67c0d82f00ed1df83113f6b05ee65492928548a12256fcfcfb9707bd6ae5e7f",
+          "english": "But right now, you need a chronogram, don't you?"
+        },
+        {
+          "ordinal": 129,
+          "source_sha256": "3f197d568bdf86c9256caa201ecf71b51971ae940a5097d9f1362e3399fdaa88",
+          "english": "And be-sides!"
+        },
+        {
+          "ordinal": 141,
+          "source_sha256": "6c69fc2901683ab2cb46a1eadfe20d5cc494131fe4cc6210b23415a07b0c3e5f",
+          "english": "That's settled, then!\r\nWe shall find those other two, come what may!"
         }
       ]
     },
