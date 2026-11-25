@@ -165,6 +165,17 @@
       ]
     },
     {
+      "uasset_sha256": "11410c6cda58971eb6891eb4fbaf770377c76f6e3f077de3718095ff78df9e96",
+      "uexp_sha256": "026cf6422e9cdc432c037f71bc8e3cf084f2bf3f90ef85c9ee4a1bb6639e0dd2",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "90168a48b8f0a996ce36ee58646fe27afb931c81c61ee2f3572627cf2f5bd987",
+          "english": "Show Battle Effects for Players Outside My Party"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "115bbd3d3d2e7229e7b5d67eb07153d3053dbfda4f15943f2946dba30adea730",
       "uexp_sha256": "9c57ecde3ef8ebd0b148a8d567580bbd52348b051f29e86782b25ec39d774770",
       "rows": [
@@ -172,6 +183,11 @@
           "ordinal": 4,
           "source_sha256": "0620da76ecf6c857f87e03b54b59d223cc5e6792011b9875651916b2f58b88c0",
           "english": "Move Backward"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "4cd04aee852068713482862a6eced948c2af6dda047f2972824a4f97282e4db7",
+          "english": "Interact / Sheathe Weapon"
         },
         {
           "ordinal": 29,
@@ -262,6 +278,16 @@
           "ordinal": 104,
           "source_sha256": "f3dee6af0a0876223a01ca15e98ada96a0382abf784e0de21e2b10fe49453ff6",
           "english": "Show Control Guide"
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "0ba48bf1f27d05d305ff86945cf2256180be4ff5c7091406debbad99dcaca3a2",
+          "english": "If you use Esc for this shortcut while the Command Menu is open, Esc will close the menu.\nAssign a different key to go straight to the bookmark even with the Command Menu open."
+        },
+        {
+          "ordinal": 131,
+          "source_sha256": "366a71ae3c8aef4cdd648a4b2044fa93c91af1f3be0f88563295f37077d03bbd",
+          "english": "Your control settings use an older data version.\nSelect Apply Changes in your control settings to update them."
         },
         {
           "ordinal": 134,
@@ -433,6 +459,11 @@
           "english": "Borderless Fullscreen"
         },
         {
+          "ordinal": 4,
+          "source_sha256": "b5e6f163b129865773918a422b2b581fd3ebe37dc831c705f7ef12034a5379e8",
+          "english": "Render Scale"
+        },
+        {
           "ordinal": 11,
           "source_sha256": "b00a91ad116d077b59747258f5f42fcace60dea3e49a734e0335acbfabe6e56d",
           "english": "Grass Density"
@@ -446,6 +477,46 @@
           "ordinal": 25,
           "source_sha256": "31f7c1524dfab1df6114b0cc8380489cde5ffddc1f232f9754b15fd1d8cbf9f8",
           "english": "Frame Rate Limit"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "d9665ced5b2a6cc970e5fc1d305ea75d3b3f7aaef2dd9eca550a596b3577ff62",
+          "english": "Battle Effect Visibility Level for Players Outside My Party"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "1d0876dac5957039cfb3adbf7bbfbdd5be02dc27232a80e749a9f17379d5cc93",
+          "english": "Make Battle Imagines of Players Outside My Party Transparent"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "8919f3c9d871387112931e9516735d6f45ed9d060316d033548baa82c14d0873",
+          "english": "My Battle Effect Visibility Level"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "84ec600a93e705a912b373a15da109dfe6f7a54c674e03e998f690a16f7f8824",
+          "english": "Party Member Battle Effect Visibility Level"
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "82cee4129eb5298677cd79a1fe8d102163e907ccfb4f2d2b39503ed2d150fe99",
+          "english": "Make Party Members’ Battle Imagines Transparent"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "9b715afd50916449dc03bb7d0ce5b01a5ec1c8d521265f396924a78395cfb1fc",
+          "english": "My Weapon Aura"
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "e8cd8e37c7341f588940deb80c5b37cd22867d5bc9705638de74feceb99d51d5",
+          "english": "Other Players’ Weapon Auras"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "d9f686242f549fa7f6f1c51264a98363622d2438307c39d8f25d727b361f2112",
+          "english": "My Weapon Aura on Other Players’ Screens"
         }
       ]
     },
@@ -513,6 +584,11 @@
           "ordinal": 38,
           "source_sha256": "383bbb5e8490445a209b509cb1df049413a7b9a53a859c268ffbd3e841b46a9d",
           "english": "Disabled"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "6b74285e66d6aa855c23b38f896cda19ffb9a730dbff61545fb4e767e05423f6",
+          "english": "Ask Before Equipping or Placing an Unused Item"
         }
       ]
     },
@@ -531,9 +607,25 @@
           "english": "Edit Shortcut Ring"
         },
         {
+          "ordinal": 4,
+          "source_sha256": "d17a517564ac38a807fc4209d3195d1f69241ff6f13adfa1597eb46a2da9020d",
+          "english": "Choose an entry on the left to add it to your Shortcut Ring."
+        },
+        {
           "ordinal": 15,
           "source_sha256": "42ae807941f80aae7090475884cbca88945d37de510d3d67fcee1f71e7acb231",
           "english": "Owned Only"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "2c7d7e280dbcc5cfab77411e8746377ee5f2a1bbce9d7fa0779535a171a8d69a",
+      "uexp_sha256": "9918af225b36a373403f47f5923a97247cd7e128b442ef5875af083400cc5117",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "90168a48b8f0a996ce36ee58646fe27afb931c81c61ee2f3572627cf2f5bd987",
+          "english": "Show Battle Effects for Players Outside My Party"
         }
       ]
     },
@@ -545,6 +637,11 @@
           "ordinal": 4,
           "source_sha256": "0620da76ecf6c857f87e03b54b59d223cc5e6792011b9875651916b2f58b88c0",
           "english": "Move Backward"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "4cd04aee852068713482862a6eced948c2af6dda047f2972824a4f97282e4db7",
+          "english": "Interact / Sheathe Weapon"
         },
         {
           "ordinal": 29,
@@ -643,6 +740,11 @@
           "english": "Borderless Fullscreen"
         },
         {
+          "ordinal": 4,
+          "source_sha256": "b5e6f163b129865773918a422b2b581fd3ebe37dc831c705f7ef12034a5379e8",
+          "english": "Render Scale"
+        },
+        {
           "ordinal": 11,
           "source_sha256": "b00a91ad116d077b59747258f5f42fcace60dea3e49a734e0335acbfabe6e56d",
           "english": "Grass Density"
@@ -678,6 +780,42 @@
           "ordinal": 15,
           "source_sha256": "2b979b0c79f66519bf45c87ec0782b752ba670df0120976aa5a737da207a790b",
           "english": "Extra Battle Imagine"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "38af683727d93d465d8e947551d2c6a661ed5fc2b3dbfd0eb2fb64628a9e54b4",
+      "uexp_sha256": "a7ebd8e1e3b0fae0883cf18b4437333b1676dcc776b8bda8fb8ab6bdd4837f70",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "882372a955d1db2403fee8047f98565eb951854f05106a21762129a3534b7e1c",
+          "english": "Need a hand with your Team? Leave it to me!"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "76a1d1d32c5a7cc122d52f2ef20e1c8f3f7923b226d415c76a88af09986b58c1",
+          "english": "View Team"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "c1f0d6e7ae914c8441762746fb9115ab56d9ed1381180e7c435af73b3860253d",
+          "english": "Join or Form a Team"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "0fb83afdf2fe97844e153801999635055a32417075330cd6c713197a54093ae0",
+          "english": "You don’t have permission to do that."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "f1fb7b9cb2673dbe4660148cca8dc8f0a6439704194a09d7519ecc220771ae89",
+          "english": "You need to belong to a Team first."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "2bd977f78984d5beec4aad736a6e16f0e0ca6c240becbf71c5338e3592890de5",
+          "english": "You can’t do that while you belong to a Team."
         }
       ]
     },
@@ -749,6 +887,17 @@
       ]
     },
     {
+      "uasset_sha256": "594bb4aa5dac6e26425172b5fdc60a5281997e3be60dad67ca5621002191c0c5",
+      "uexp_sha256": "9d2e914e9678aab5da4e8546735fa5c91def84d69dc82ba96e6fadd1576c8ca0",
+      "rows": [
+        {
+          "ordinal": 13,
+          "source_sha256": "5dbd6b576604bac6e344a7158a42948233ea9dc42d559da085e1956d7c66a5b7",
+          "english": "Wha[――]?!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5f557f6214cf7098acc551a783317cfdb7506dc6dffcab97343b28504ff87f16",
       "uexp_sha256": "640f60c6711f388e7d63a0d59f05f2f6144c7a00dbeac94fb62ed617515d2330",
       "rows": [
@@ -764,6 +913,16 @@
       "uexp_sha256": "3ac0877085e1a613e656d3d82dd4d123db28b22495d7bda56d00dd805719730b",
       "rows": [
         {
+          "ordinal": 2,
+          "source_sha256": "fc296b56578f084a2e1244e6587edbd6c2562a2135449fd76c0e9d6e1ca27f49",
+          "english": "Gamepad"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "b0311203afe68dba7430358998fdfc028f41909914fee8310aefe23346900bf4",
+          "english": "Show gamepad buttons in control instructions.\nPrompts use your current button bindings."
+        },
+        {
           "ordinal": 7,
           "source_sha256": "c9351065213e7e123548be051049418b9418d6e5f0c4f6ea3a068bd154588cfe",
           "english": "Hide"
@@ -774,9 +933,19 @@
           "english": "Show"
         },
         {
+          "ordinal": 13,
+          "source_sha256": "efc014a0340cf41934b5c58dcee85d0f6df47110ac2bf6a23ada9c1944de8e63",
+          "english": "Button Prompts for Gamepad Controls"
+        },
+        {
           "ordinal": 14,
           "source_sha256": "32904cac42dfdabe6139b6c1e30fda3e1cbbece8d6947cd7fcf9cc9ceeaaea6b",
           "english": "License Notice in Screenshots"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "56fc579ceecd83fe1d232e62dd8698629ccdf14a1ebb4bf4908763c9ad50de0b",
+          "english": "Save Location"
         },
         {
           "ordinal": 18,
@@ -922,9 +1091,40 @@
           "english": "Edit Shortcut Ring"
         },
         {
+          "ordinal": 4,
+          "source_sha256": "d17a517564ac38a807fc4209d3195d1f69241ff6f13adfa1597eb46a2da9020d",
+          "english": "Choose an entry on the left to add it to your Shortcut Ring."
+        },
+        {
           "ordinal": 15,
           "source_sha256": "42ae807941f80aae7090475884cbca88945d37de510d3d67fcee1f71e7acb231",
           "english": "Owned Only"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "1651ef947ec311aeded19d4dd8230b4f4a003076773e589cac2f621c99ff7e30",
+          "english": "Directional Buttons"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "a7f930d8f07e7e211a079d022cbbf3a2dac207d845139fecdf97c7abfac28a99",
+      "uexp_sha256": "b2c1cdb12406cf13208106ed8344cf064db2cf445d010906cca60422fce4d232",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "76a1d1d32c5a7cc122d52f2ef20e1c8f3f7923b226d415c76a88af09986b58c1",
+          "english": "View Team"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "de61bb43b5fed04e93f2d705dc21782fb78db123fd7602d84b6aed5d809f5687",
+          "english": "Join or Form a Team"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "0fb83afdf2fe97844e153801999635055a32417075330cd6c713197a54093ae0",
+          "english": "You don’t have permission to do that."
         }
       ]
     },
@@ -962,6 +1162,17 @@
           "ordinal": 45,
           "source_sha256": "98b00ac1483382c64442f824dfa62147f8d176cb51b1951df4f641ed0f88a1b3",
           "english": "  Upcoming Event"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b061f38a330705fb00ba81eaa36d083541bf76967a2e2b2f6b386f3c003592b0",
+      "uexp_sha256": "6a73886d3c58385b23730e6c17910efe5befe8f0b52ec3c5536d0ca19d86d17b",
+      "rows": [
+        {
+          "ordinal": 6,
+          "source_sha256": "098eb2e3728cd354d91d5ff240891cbb20e225247cda47eeb8d49686fe7bd248",
+          "english": "Talk"
         }
       ]
     },
@@ -1492,6 +1703,17 @@
       ]
     },
     {
+      "uasset_sha256": "dad7ed8d16325a8a6d78de278dfa9dfdee2f8b80e115f7fa952ea69913968083",
+      "uexp_sha256": "6b06fc9823b88403744e5b9f79855f2c9e144256bbd53f9de4811144f11e789b",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "57a2005fb178db795429400ecbc4deadea5644a3011b8565593af118691e3299",
+          "english": "Looking for a weapon?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "dcad9f60f12c2f74a0a443c08d1f81978306752b8f1ba73f73521a95234cd7d3",
       "uexp_sha256": "34f84518250badd84b6fbce6bdef997e9bb09d862a8b08d1fb09dd9ca94046f4",
       "rows": [
@@ -1654,9 +1876,19 @@
       "uexp_sha256": "7d2590f3fe0abc462c91aa3e29a80e3e91a13f298dee03a5b9540901cd699f07",
       "rows": [
         {
+          "ordinal": 0,
+          "source_sha256": "89c3232e29fe46f053bfc9010ded8e62d57d1f0c3e229cd67c56df838bbbdc95",
+          "english": "Create Character"
+        },
+        {
           "ordinal": 19,
           "source_sha256": "721a31ee6041956900838041415388bb4407f77c137801b63e3c1af0b5387ffd",
           "english": "Incorrect secondary password."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "146915ec6ba480de67efe930a0998ea20fe8d95cf425c56b7c8a7c10794f0983",
+          "english": "Delete Character"
         },
         {
           "ordinal": 32,
@@ -1699,6 +1931,11 @@
           "english": "Rose Orbs Required"
         },
         {
+          "ordinal": 54,
+          "source_sha256": "5fad0aad1343495d46bf55ee0d988d836d75f44a25ec7653f691178db59a4722",
+          "english": "Spend Rose Orbs to add a character slot.\nThe slot stays available even if you delete the character in it."
+        },
+        {
           "ordinal": 56,
           "source_sha256": "b7a473c8556c465d3e5efa389beed3312703c788cfb22bc703432bf417e74928",
           "english": "Add a character slot?"
@@ -1733,6 +1970,16 @@
           "ordinal": 16,
           "source_sha256": "b62ad63c5ecf7a904776f3f108da6735b0703f1bc1e4411f457ca8348b7968fc",
           "english": "Sheathe Weapon:"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "6ff86076bfcd3913e58e2429526686341efc053ed8d1d644c62ebebbb5ca6589",
+          "english": "Switch Target Left:"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "11763148bec87d6c720278d27f8a1725d52fdc39c57ceea11f020fcb11bcd04f",
+          "english": "Switch Target Right:"
         },
         {
           "ordinal": 24,
@@ -1807,9 +2054,19 @@
       "uexp_sha256": "8c536ea1cca1a92b2afd6c3f4a79ffc78413a0374ade86d9a515694ad8604413",
       "rows": [
         {
+          "ordinal": 0,
+          "source_sha256": "89c3232e29fe46f053bfc9010ded8e62d57d1f0c3e229cd67c56df838bbbdc95",
+          "english": "Create Character"
+        },
+        {
           "ordinal": 19,
           "source_sha256": "721a31ee6041956900838041415388bb4407f77c137801b63e3c1af0b5387ffd",
           "english": "Incorrect secondary password."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "146915ec6ba480de67efe930a0998ea20fe8d95cf425c56b7c8a7c10794f0983",
+          "english": "Delete Character"
         },
         {
           "ordinal": 32,
@@ -1850,6 +2107,11 @@
           "ordinal": 52,
           "source_sha256": "ab0a02ecb246ac4204d42e433d4fb6668997b5c15264bbcbca8de8e83b502785",
           "english": "Rose Orbs Required"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "5fad0aad1343495d46bf55ee0d988d836d75f44a25ec7653f691178db59a4722",
+          "english": "Spend Rose Orbs to add a character slot.\nThe slot stays available even if you delete the character in it."
         },
         {
           "ordinal": 56,
