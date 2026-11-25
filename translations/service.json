@@ -2,6 +2,138 @@
   "schema_version": 1,
   "entries": [
     {
+      "table": "achievements_text",
+      "id": 1912,
+      "source_sha256": "a2c551daf5f1aaa3010d6f18a38d7b0b315016d06e4b2ce1ed4c2d70a22e2880",
+      "english": "Mender of Distortions"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1914,
+      "source_sha256": "a9790fb2ea7ba1d1973966feff4d937c98d3daa19dc654b631ea36e595d0da71",
+      "english": "Conqueror of the Land"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1919,
+      "source_sha256": "92857809a596a933f5b83d1c8929865ea26d62dd19efff3e0ba28ffd1303c426",
+      "english": "Villain Hunter"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1920,
+      "source_sha256": "fba752dea8ca63d98c51fe4207233618145fa92fe9e214cbd70c6d6b9b2c0dc8",
+      "english": "Dispenser of Justice"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1924,
+      "source_sha256": "f42d2cbf229d0d75453d827463b46c16d3e4f33efb66a219490a53e6ba916eba",
+      "english": "Shield of Humanity"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1926,
+      "source_sha256": "af9d61040c43bda2c4802639d81da290e0ec298273a41bdca5d0583d410b2f5f",
+      "english": "Fierce Spirit"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1928,
+      "source_sha256": "6129e0c70b16f73173e3c1ce8869f7121aaa45be31ca37007eb0df7e786cc10f",
+      "english": "Bug Squasher"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1929,
+      "source_sha256": "cdf346628932743af45b3b2cfed0cda6f566cfe689f2e866ea844b826d526dcc",
+      "english": "Hunter of Ground Foes"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1930,
+      "source_sha256": "f3c912f22476d3253621ddba2bc81552d5be3e74efe6cf8c44779ace89875f37",
+      "english": "Walk the Path of Conquest"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1933,
+      "source_sha256": "1536a9b8b22e684cc4c4303a0195f25892277b78f6742548c2efeb7809fe8478",
+      "english": "Hunter of Hostile Plants"
+    },
+    {
+      "table": "costume_text",
+      "id": 7607,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7608,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7609,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7610,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7611,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7612,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7613,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7614,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7615,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "costume_text",
+      "id": 7616,
+      "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
+      "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
+    },
+    {
+      "table": "item_text",
+      "id": 10069,
+      "source_sha256": "e9a302f0634811f79aeb400cacb8e6c65b00fe0e715bb36b6b40b06d4938ac4c",
+      "english": "Starfall Malachite"
+    },
+    {
+      "table": "item_text",
+      "id": 28008,
+      "source_sha256": "6b37970249f5caa1d79bf379568678949638c61a21eda63e1dc22005496e8f0a",
+      "english": "Miniature Kunai Box"
+    },
+    {
       "table": "master_emote_text",
       "id": 317,
       "source_sha256": "a896a1338a62583514a7cf671a54764cffb113c97601c0410e3bbcf407dce094",
@@ -114,6 +246,12 @@
       "id": 272,
       "source_sha256": "aa8474ecb4a5d7cc7bbd2483562307d794b2d8591b00d5573a7d3e093bfaa7ee",
       "english": "Grooms itself, temporarily reducing the damage you take by a moderate amount."
+    },
+    {
+      "table": "master_merchandise_commodity_text",
+      "id": 5096,
+      "source_sha256": "6b37970249f5caa1d79bf379568678949638c61a21eda63e1dc22005496e8f0a",
+      "english": "Miniature Kunai Box"
     },
     {
       "table": "quest_main_chapter01_text",
@@ -1020,6 +1158,60 @@
       "id": 30171,
       "source_sha256": "8ddcadc1396817509357ad8921148e66609416f9463191a127489e6317587d63",
       "english": "Sixth Sense G5"
+    },
+    {
+      "table": "weapon_text",
+      "id": 1975,
+      "source_sha256": "cfe1ad6e98e74ea4f9f93025814967207ba5a725a0df81aee38089832f9362d4",
+      "english": "Light That Cleaves the Night"
+    },
+    {
+      "table": "weapon_text",
+      "id": 1976,
+      "source_sha256": "c933a7d6f0809cbe1738e417cd278b2b319fb86fb560b47e98375934909f4daa",
+      "english": "Staff of Flamebinding"
+    },
+    {
+      "table": "weapon_text",
+      "id": 1981,
+      "source_sha256": "aa380e92d5217901aad7c4c01ab7b27c2423632a96e363ad0ea9386b48ebd1f4",
+      "english": "Darkness on the Wing"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2025,
+      "source_sha256": "fc87a9c8b8950cc8032bf63172b55deb76ff9d461149a8fc90047b7576b4c31d",
+      "english": "Swift Thundersteel Blade"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2026,
+      "source_sha256": "12284acd704bb94878887a9bfc2a958f8be4d5e5f4c48f9b8de55354b3eb0e35",
+      "english": "Rock-Splitting Axes Clad in Lightning"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2027,
+      "source_sha256": "ad3bcef64b56274745fb196d9f14a9e7b92b70afe9d2ec7538e1451951f46314",
+      "english": "Violet Lightning Bow of the Keen Eye"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2028,
+      "source_sha256": "df073577686e7e3095e9a6d08b79a2730408bec183938abd834bd2be5128be3a",
+      "english": "Staff of a Thousand Scorching Bolts"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2029,
+      "source_sha256": "bb9ea177740ed2d0f7915adb9a60e1a995b23b097e3cb3a0859d69cd233a2c71",
+      "english": "Heaven-Shaking Thunder Hammer"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2030,
+      "source_sha256": "2c0bb0a0b88d194c385ed47694fb08c76d77a057ec86882d670b9c2938ff9aa9",
+      "english": "Sure-Piercing Lance of Lightning"
     }
   ]
 }
