@@ -693,9 +693,27 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 197,
+      "source_sha256": "e70c3e0d66d9e5935ef9050a194f4571668fc926870e4e086d1aa8386b09edec",
+      "english": "Sweeps enemies aside with its antlers, making them flinch."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 203,
+      "source_sha256": "ad3bd5e3d088cec7ee090f217822fcc4e84726f248545b0fdd31e2c27fcd1e96",
+      "english": "Scatters spores to attack nearby enemies."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 212,
       "source_sha256": "7638604f8ca9e10a4b61713ac9c94cf2223c144615fa38a3a7cc4f08406c30c7",
       "english": "Dances, temporarily granting you a moderate increase to damage dealt."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 222,
+      "source_sha256": "755bdb01329b95dd4f5a003842b999d429d588e8c5045dc4b2c2c62dfa52a864",
+      "english": "Aims its large tusks forward and sweeps them upward, making enemies flinch."
     },
     {
       "table": "master_imagine_text",
