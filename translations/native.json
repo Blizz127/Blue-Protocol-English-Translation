@@ -1105,6 +1105,22 @@
       ]
     },
     {
+      "uasset_sha256": "39e84249267cf4c112a254464633e0ef86a7fd2ad7e2a3798af92f06453cb964",
+      "uexp_sha256": "16ba24b55efe0258834fbb947c75bdb2e1311fc0800ce5719153c0483a713adc",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "39838fb27560728a613f56b80e2656cbf538ecd8008489c90a4255a6b9e7eb8b",
+          "english": "[――]So you were able to make contact through that channel?"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e086a8a8e56da868a76dfc52245338655391813f12ff0a571e574f199dc29487",
+          "english": "I wonder if Sir Dunkirk himself\r\nwill tell us what really happened…"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "3e78278cbb82b97ac93f2d4192c1d5e172cd17b7a7acbfd0a8e197d5b6984918",
       "uexp_sha256": "25eccd2bd95bb4853221facb024d3277733079287f2beef5f3adb8ac49feb063",
       "rows": [
@@ -2830,6 +2846,91 @@
           "ordinal": 11,
           "source_sha256": "9e00a8fb56ea05c76b58e09ed324be5b040453799f7acbae3b6137f4f68e223e",
           "english": "What good would it do to go on our own?\r\nCarvain and Einrain are coming with us."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "f3c56664755d65301deab3d01f5e088b656b92bf5cbf0798d1b87ca7d40bc8a7",
+          "english": "We'll have to cross the courtyard to reach his office.\r\nBe careful. It'll be easy to spot us out there."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "470942fd3999c1c091e155f76d9d5ef2c062d1e5674b6510534d0b4226f344cb",
+          "english": "Is it the Order?! Send troops over there!"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "9dc7c3369f69f125cfef94d7aec4ecead5716a4335ad896d86bea16b68dcfbf1",
+          "english": "Heh. Looks like Jake and the others\r\n  are doing a fine job of drawing the guards away."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "9e303c2503f46406f8b67e410897b89b34fa307b2dfb147620f6eb307d106130",
+          "english": "Master, his office is the other way!\r\nWe have to hurry."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "631b255d84e4c4079be7317f1d1a1b67cdc7309de9e35581c847a17b296575e7",
+          "english": "Where do you think you're going,"
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "2f174a6d7a4d3f7453aa840319956dd582355efd59e2831dad2f4857aa250fd2",
+          "english": "Deputy Commander…"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "506318614996d66cb7a839a808d317f4a02c10e02e3f63f3460202acfb904a80",
+          "english": "No, I have to speak to him!"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "e4b717b5bd102d3199ba5568ecf39722d65734189a327c0a18ce8aeff841512d",
+          "english": "I'll cut you down where you stand."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "8f4066e10433797769594bf24960b456dc4a342dbaefc412f6987efa1fe6d0fc",
+          "english": "Deputy Commander…!"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "be0fab5f2fd6e72c4ecfa2d47d950e4959d1395f1ff28aa2e2a75b728ed6242e",
+          "english": "You helped Carvain. You're as guilty as he is.\r\nAnyone who would cast a shadow over Lord Dunkirk's coming reign[――]"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "6cfca880df3193da2caa351207f4c18ddb826ddb728ef8d6a78787b82f32b67f",
+          "english": "I'm his right hand. I'll see to every last one of them myself!"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "f347c0320773818a4525a68d0025177a099a75d28fb6aada233897faa0af628e",
+          "english": "Forgive me, Deputy Commander.\r\nI have to speak to Lord Dunkirk, no matter what."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "f99fb25075cf67525c17252ad0158e057a221bf09249beb44c3672271a039185",
+          "english": "…You look me straight in the eye. You never waver.\r\nLord Dunkirk always liked that look in your eyes."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "5746d1ddcaf0517d6bf27e3e34fe44f78c9480360950818f6e12e0ed6962909d",
+          "english": "I wanted so badly to do that for him, and I never could!"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "01a41df48d506f2e4fe4e9e066db77afdf6bd172a605000b9faf8649b3a69c8e",
+          "english": "Deputy Commander!"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "79d10ecbae9745d7e497626ea668327836778f22745dd671359104f520d01529",
+          "english": "drove Lord Dunkirk mad."
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "688677db6c5a7bb326d2463e5f0bdf18c5ac8f734d4f774a1092f92d3da177a3",
+          "english": "[――]Come on. Let's find Lord Dunkirk."
         }
       ]
     },
