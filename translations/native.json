@@ -140,6 +140,147 @@
       ]
     },
     {
+      "uasset_sha256": "0ce7237f374c2267cfab4d6720528a0bb7531404bccb64b9b9b7c6753ffba004",
+      "uexp_sha256": "b1f2387ea3f404ee8e17ebe9df9815c9a4469c7f3fd00f4b2f1dc65c5a338573",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "e5fb8edf360aa4457e0391268ba41d4e29267d54d908dff39ba2988be37fd7af",
+          "english": "Kapakuku said that when you set the queen's daughter free,\r\nshe appeared just as she was in life. Is that true?"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "850c895590332b320d2979c350af8df1b4ce7c3e0f320e798f726079b5de5fd1",
+          "english": "Yes. I'd never seen anything like it myself."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "27d9853044e8c4b27d27685d4cee23cf736343f787d9d56770402118d370f32c",
+          "english": "Perhaps there is a difference between the soul of an Avaritia\r\nand the soul of a pseudo-Avaritia."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "ef04d8149b7d3f733ee0ef543373a4cd252e47f32a4a05e577f3dd507d6ff8a2",
+          "english": "I think... there was some comfort in that."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "685d6546b4d71b84cdac256ad69a80230987356520dada7a1ec50b43b5c65b67",
+          "english": "With things as they are, even Voldigen\r\nwill have trouble getting what he wants."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "09bd6f5c278a918edbb912a101b8fc71aae70ead415594e990c25c9b420365f1",
+          "english": "No, I too was unaware of the particulars.\r\nNor do I wish to cause needless friction with the forest folk."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "85b75bac3253d57b050e94d67a034d5adc6ca4e7dde56221d88a613ad8f73f32",
+          "english": "If this gives the Order and the forest folk a chance\r\nto mend their relations, I would welcome it."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "ee77935075fd8ca62b0b3a67514bea3b8d6f62264aaa33a51fbe1840148fcb93",
+          "english": "My child can rest at last.\r\nFor that, I have all of you to thank."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "f3391f8e2b7e1a8867a63dfd635b2b7bebcb4bdd8d381d39bada62b30ddac6f9",
+          "english": "Do not let hardship break your spirit.\r\nKeep your eyes clear and follow the path you know you must take."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "6f76e514c96cedaae45e59bfa6a0bd7f4870ae760b0bcb67de63cd9751011b1f",
+          "english": "Peace and quiet in the forest again, po.\r\nAnd it's all thanks to you, po."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "8f5c3966f9c60ac506324599c3fa7f9cc8191d18fd1b6e7151dc0c7c31f03ec0",
+          "english": "You're friends of the forest now.\r\nCome visit whenever you please, po."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "579c7f3b2e516255cd6307168ac26bdc591d17866c68a236fd3449bb713382c7",
+          "english": "Um...\r\nCould you keep that between us?"
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "82c891efab913468b8b6647512303159cabeaff0d081d7ae59fbaa06cc483398",
+          "english": "Across the sea... No, more like beyond the sky.\r\nIt's so much farther away."
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "83e32a7a44535efc68f5b56068bea20eebba22e2010c1e3a0a60f2eef5f0e6e7",
+          "english": "That reminds me. You're still trying\r\nto get your memories back, aren't you?"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "8e7b37d47d89e2e330df3c1dc857675a9d5c4d723e33e52b6ff4362d92f9959d",
+          "english": "Whew! Now that's the stuff!"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "93f2e1347cebcebbd38358b2810ca2954aa14e9e84746e1324fa853a34467e89",
+          "english": "It's new, and it goes down so smooth!\r\nI can feel it in every engram in my body!"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "2398e7d1699b92a6f64bf74334309a723fd907806891cb9df33bc9ad59f0fdbd",
+          "english": "I sing for the offering by day and do research by night.\r\nGot to let off steam sometimes."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "af587fed7fd36b4143c94c8747e3d3f480d6e3770636c73d03b654c3acbef681",
+          "english": "Well, I think I'll grab another bottle!"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "52728e74ee7fb07b818fab68c25718917c0b63d89f97aaa46a6ff8a15ea07e8c",
+          "english": "Oh, hey. While you're here, let me buy you one.\r\nHave a drink with me?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "f93457d18e5a8c2f817469c30007ec8302781bf1f613f8cbd843741adae915b5",
+          "english": "Call it a thank-you for everything.\r\nI hear you've been working pretty hard yourself."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "1379a07e7f1deedd0e11299fd26c885a9631daf2f3de10ad5a2d5e21612ea254",
+          "english": "You've got time for a breather and a chat, right?\r\nLet me treat you for once, huh?"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "e300d058f5d28df98d4a9e6deef5eef9aa137522727ab0bcc5cacf85ad3e9a7d",
+          "english": "Well, as long as you two hit it off, I'm glad."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "6d8a845239fb39861a4fa3d690d6a3736b3ea7943fc47112077d0231e99293cd",
+          "english": "W-wait a minute. That's a lot to take in...\r\nLet me get this straight."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "55c0d06617d8979bc58f1e3a1091e4bf482708dcde3edae1d49317d7cb72a62e",
+          "english": "Let's see, that explains this...\r\nand that takes care of that... Okay, got it!"
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "7597f3049a196d70ded26fca624ed36fd508b2c8659d9f5203f4b880844e2b5c",
+          "english": "Well, I don't mind telling you,\r\nbut you must keep it to yourselves."
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "4b3fce7280e0a6c50f14a6a7ac7152c38030fb2a243c7c30e92e1bc000462c2e",
+          "english": "First they packed me off to a lesser post in Minsterhorn,\r\nand then there was this, and there was that..."
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "d62a4c68b4c1be1299456a8e8dbbf3d5cad52f5baa36b9f40c09f27e385c7541",
+          "english": "I hope the people who read this in years to come\r\nwill face the Order with their eyes open! Ha ha ha ha ha!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0e79989c80967dd6ea834d086d56356d8052f1f254dab91264166d3f22399fb3",
       "uexp_sha256": "5b13f9ec412fc74b1cd42d735c6bc80de8cb4af72de67b8a8aa9e585698a14f7",
       "rows": [
@@ -3471,6 +3612,17 @@
       ]
     },
     {
+      "uasset_sha256": "7f83dd8af872f5d056f5f8298f4d11b4ffd98f028690201b52f8410b7a7dcd20",
+      "uexp_sha256": "751df0237bd6ccb44ba94c9a33ad5e42e4f4352d6e8c34b1a5acf3bb1d301fd7",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "87b7747e8867e243e79bc304867cc40674ec57340b45d612f82191fa12917b0c",
+          "english": "（Mother said I could trust\r\nthis one too, didn't she?）"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "80dd78f9d18aa2e046214058dd9709075a7472dc11cd929e9725c72d8522b4f2",
       "uexp_sha256": "e025d6087be79ab1215f94a6e5ed9d8586fcb04505dfd2d21ecaa2c972f4100a",
       "rows": [
@@ -3717,6 +3869,142 @@
           "ordinal": 16,
           "source_sha256": "1651ef947ec311aeded19d4dd8230b4f4a003076773e589cac2f621c99ff7e30",
           "english": "Directional Buttons"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "9c8ae7ca95c7d29918f1a013c16634dada15d338c5ae561f4107900d9b2e57f9",
+      "uexp_sha256": "41d6ff80974fbb5b2b943061291fa99dbcb53d482ebd220adbbca6965f92c45c",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "1998b4399c00aa6b168af6e046a8aae7ac3c0363c46974b08352bc0d213c76a7",
+          "english": "That strange Avaritia was Queen Pipimaruka's own child.\r\nI had no idea. What have I done...?"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "36e7b07e84cd4cc2261bded7757e9f6cc1422118c12c09a6e8345713bb75c61d",
+          "english": "They say anyone who becomes an Avaritia\r\nis cut off from this world, left to wander forever."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "9afe432945cead0009edb0806be70be15c1a0b69d9920d951752032fdbe40771",
+          "english": "Mamaaa!"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "6591e0ca6f53309a3b3b1378b10604ee71d55042552237583786dd82213d244c",
+          "english": "Hah!"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "30fb5089c0155148b3f6a8a4d8b2794fe6c9fdea8a8686f5aca2233482810b81",
+          "english": "Ma...ma... I'll... keep you safe..."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "6f3db58b9dde5bdbca7b9a4d94a0aacf1ff245de5be7d1cc1682c1a2af62bf84",
+          "english": "Aaah!"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "70b188ab9415f100927a1102470d5a575bd5e06ba8a8bedb21c229acf23bb002",
+          "english": "Queen Pipimaruka.\r\nForgive me. I know it's forbidden for me to be here."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "340d7ec2761b623270c67dfe3302e368f40827ba1c40260b5c070b1e97f5889f",
+          "english": "Ngh!"
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "7b020b5141f60011f9225e3ce936d872f7c40f2fba22bcede8c05e0fe1a727a6",
+          "english": "May I... do that for your daughter?"
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "95568c08bb5a988bc2909a3bb682130e1c9eba097b5b4e229ddcbc5df8e1d0e9",
+          "english": "Ma...ma..."
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "f216301e882cfc250578a8a63411c01a5fdc2f301d06fe9fecc913aa9a372f75",
+          "english": "Mama..."
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "87997a03ac46906b5181d316af396cef851096b74d68089efb5cd98c139b16b0",
+          "english": "Oh... ngh..."
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "66167eeb22dcd29d34b9eebad8f24e92cc319256b8bb0777df4b4545084c479b",
+          "english": "Mama...?"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "9754ac2b5037f91ac8cb68a2c8a43501377d573446e023ffeed754f89b686aa8",
+          "english": "...I finally get to see you."
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "d9b8cd19e3acea82f78f02bc97dd29f89a061a46c1a542c5217f2238e696092c",
+          "english": "Very well.\r\nIf we both seek the same prize, let strength decide who takes it."
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "1f79bda8a8f7d396854a23db7154e38c5c317c565f4a0ffda391f1621e1035f1",
+          "english": "...She'll be all right.\r\nWe'll be there for Queen Pipimaruka."
+        },
+        {
+          "ordinal": 119,
+          "source_sha256": "5fcc6a9c8d86a8ec4cc3934d0184b0ff225288679d56c6c9b583a31e9e0db05d",
+          "english": "W-what's going on?!"
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "4e3c086aeec90834c1d110c8401fcd2f73f7759479b352f16c8c517938082828",
+          "english": "Your... mother...?"
+        },
+        {
+          "ordinal": 126,
+          "source_sha256": "0b6f3a4b8e6c49a263bf1d68a027a312be9b8542e8d856aeae9f8796b2c0fc3b",
+          "english": "I... I can only guess..."
+        },
+        {
+          "ordinal": 151,
+          "source_sha256": "aa5e6f3e49e834fb2589820246fa1c9bcc53603a7db35e1fd143dd1815ea3c2e",
+          "english": "Please, Mom! She's our friend!"
+        },
+        {
+          "ordinal": 188,
+          "source_sha256": "f05729f36f5bcbd0fb0fa05fdf93813a17fd10c9a15e4b4ed996994e08d2fea1",
+          "english": "Ngh! What?!"
+        },
+        {
+          "ordinal": 189,
+          "source_sha256": "f05729f36f5bcbd0fb0fa05fdf93813a17fd10c9a15e4b4ed996994e08d2fea1",
+          "english": "Ngh! What?!"
+        },
+        {
+          "ordinal": 190,
+          "source_sha256": "ba4825fce5141e566782133bcc2bafdbea3dc67d86018883b30c366b99636c37",
+          "english": "What just... happened...?"
+        },
+        {
+          "ordinal": 208,
+          "source_sha256": "eee00368aee4f1bdb4857ad9d74ae1368b45636d3c39c7201dc3c4cad44d16cc",
+          "english": "What you have done will give Lord Voldigen strength.\r\nRest easy, my brother Ernyiges."
+        },
+        {
+          "ordinal": 243,
+          "source_sha256": "340d7ec2761b623270c67dfe3302e368f40827ba1c40260b5c070b1e97f5889f",
+          "english": "Ngh!"
+        },
+        {
+          "ordinal": 244,
+          "source_sha256": "340d7ec2761b623270c67dfe3302e368f40827ba1c40260b5c070b1e97f5889f",
+          "english": "Ngh!"
         }
       ]
     },
