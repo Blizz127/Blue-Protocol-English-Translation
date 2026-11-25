@@ -2033,6 +2033,287 @@
       ]
     },
     {
+      "uasset_sha256": "3a45c44381f8f08b9b286ae6fe6a1596865b086c6583348b8b969e989464ee77",
+      "uexp_sha256": "786ceab6d281c7907a296720b0d661a6e97f9b910a5cbeebef437a9ec5372ddc",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "8345bee5ade8fb4eace73d50a9da5925d17d50c2bddc9353f65cd61dba10061d",
+          "english": "You're set on accepting Avninte's invitation, then?"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "f86954860c112f1df5410524ad9d9060f7fcd3aabf0a91e45f85fd0e40bddaa6",
+          "english": "If there is a chance we can talk this through,\r\nI would like to find some other way than fighting."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "20b86f15fdba8fe8f9f7ecd785d40b32cfbf1760a40c0dba5fc03b97b6566b89",
+          "english": "Very well."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "f0747eec14e7067675e8864991340450cd173594d2b4a0a3ca38bfc364eef3ce",
+          "english": "In recognition of both your folly and your courage, I shall take you all to him."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "aa38d3f23e244130077c566558f5d3859085eeb3639278eda2c56b25715c215a",
+          "english": "There's no need to be so wary. You're quite safe."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "614ecfc5cc62f58637a81fce938263d038d08846e6e927af73dfe167034cacc1",
+          "english": "After all, you were the ones who asked for talks out of the blue.\r\nSurely we're the ones with reason to be wary."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "3399841b0f2b0df8e7511f108ca911c80b330a68df3235c4cbaad10a4837a7a1",
+          "english": "…So. You've come."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "eae4666e0605ee1d518c5386784a2ba6c9daa29c0ac6b23d4d0a783a3ecda93f",
+          "english": "What can a princess who's a mere figurehead do?"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "f39e28e29f44ccd4cf53f6d3f1adc52f237e419cb8a99a9c3c019ee1226c862d",
+          "english": "Even so, I am a princess.\r\nNothing can change that."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "36c18e102c7899c0747af0ee859d24fdc0fcc4c485793b5a1b61397def4b62a8",
+          "english": "There are things that only someone in my position can do."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "eb82769bacf39b8578212d0bb81fb870aa6ec08f6a121f960a8424d6799cd020",
+          "english": "I wish to build a world where dragons\r\nand all other peoples can live as equals!"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "fd8b04511f4b9d4e327d7a1f6d5e1d8dd5e36730380a32f033dd0d78c73a39fa",
+          "english": "…It is precisely because I know."
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "ea3f36c7a0c7f40bc8b890cd996ba6432c84ee9e92319ccec69135354942cd24",
+          "english": "Those very words are an insult to dragonkind."
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "7a1a9543f2aab4a6f445d057b3062b6e11ff139323f0ba77bed8c7451403c76f",
+          "english": "You know what bitterness we've swallowed, what misery we've endured,\r\nand you dare say that to me?!"
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "1235b1f7c99a687bb5d353d011d2f6e084534d03480edb9b3b68d5990648e660",
+          "english": "You've never known hunger, never felt the pain of loss.\r\nYou've spent your lives safe and warm beyond the sky."
+        },
+        {
+          "ordinal": 98,
+          "source_sha256": "f157ae96a14cadca35abb925b874fb8efdf77d11fff33ad0735e94cd1bd50e20",
+          "english": "How could you possibly understand?!"
+        },
+        {
+          "ordinal": 99,
+          "source_sha256": "906be9ec17be5ab195080a19229a13a54204539bef6aeb5329cb85027581ea8b",
+          "english": "Only someone like you, with no burden to bear,\r\ncould give up her life so lightly!!"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "9e282e5ef16cd3003be8aecd116918bb39689d3398824216400e6048a3a30244",
+          "english": "These talks are over!"
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "4d75b9d59db0f3d2944238a3a36b84bd9fe730b33891e7573a061e95bfe499c2",
+          "english": "All that remains… is to take what we can from each other!"
+        },
+        {
+          "ordinal": 134,
+          "source_sha256": "53be048e24f85177b99088c0992b3e7d7f36c0863f24eddc832528188b9a1cd5",
+          "english": "Hngh!"
+        },
+        {
+          "ordinal": 170,
+          "source_sha256": "fc93d7a2048b66d10510e6e159eebd5018e48f877d6a9058c055ccf0afc3d418",
+          "english": "You folks did help me out back there, though."
+        },
+        {
+          "ordinal": 174,
+          "source_sha256": "cc4d7ac3a6b214494e54620157816cbf8348354b1d362b8a9a9c9c0fdcf3c1b9",
+          "english": "If we fight you, think how the villagers will feel…\r\nThe kids will be sad, too."
+        },
+        {
+          "ordinal": 175,
+          "source_sha256": "3f8b98b0249ec3d2f55b4dc51ffbbff47297f455fac70fc8139ff0c292342c33",
+          "english": "If we fight you, think how the villagers will feel…\r\nThe kids will be sad, too."
+        },
+        {
+          "ordinal": 177,
+          "source_sha256": "4c68c8584fa19c737aad2d038d048f82b81f4658aaa417ce589793555948a0e2",
+          "english": "Oh, yeah. Guess you're right."
+        },
+        {
+          "ordinal": 180,
+          "source_sha256": "972b9d32e80117934bc3343a2adeea35d6a06184ab700cd0b99a5cf7ebc2c4ec",
+          "english": "But see…"
+        },
+        {
+          "ordinal": 182,
+          "source_sha256": "d77c6aecad5c22598ce6c97a50c37dd8227530558ca8e475c46c9c763b9b0e4c",
+          "english": "Avninte gave me an order.\r\nCan't be helped."
+        },
+        {
+          "ordinal": 186,
+          "source_sha256": "2baf50b5f3569030f05e9f726d6d4dc66d18e26f056c9e4d8279c5146a39fa71",
+          "english": "For the kids' sake, too!"
+        },
+        {
+          "ordinal": 188,
+          "source_sha256": "ca0d1d27bec346047f92e7e79e3afa126159deb11956eaa3319194eb63a50501",
+          "english": "Ah… Guess I lost."
+        },
+        {
+          "ordinal": 195,
+          "source_sha256": "242c24ad289c859803d7bdd857e1b33d03a9eb45c84e6b330ddffa08da9f5289",
+          "english": "Ah… Wish I could've seen 'em all grown up."
+        },
+        {
+          "ordinal": 196,
+          "source_sha256": "da138450b4a22d5c86bd51cec666e140ead460d55e456071c254680d408f0680",
+          "english": "Bet they'd be cute…"
+        },
+        {
+          "ordinal": 215,
+          "source_sha256": "0423e3d97c65d2c4100b8ac0ea37b81862bd61f5f1d1ac15eafda46e65cd2e2c",
+          "english": "…He was so looking forward to seeing those children grow up.\r\nWhat a pity."
+        },
+        {
+          "ordinal": 226,
+          "source_sha256": "e32aed35ba87460d7453c9cc86ffb34f7240bbf573194a07d0f9ae06df31c487",
+          "english": "Things will only get worse for dragonkind from here."
+        },
+        {
+          "ordinal": 253,
+          "source_sha256": "fc3cf1d350de8b53689c50e17208e69065f126a245166598669d53ab6c838400",
+          "english": "I knew it…!"
+        },
+        {
+          "ordinal": 258,
+          "source_sha256": "d0682963a7520a9fb92f3c044cf4efb2fed31fd856a92a7d96ed734ef939f735",
+          "english": "After the gods turned him into an Avaritia,\r\nhe lay asleep for ages…"
+        },
+        {
+          "ordinal": 268,
+          "source_sha256": "80dabe0789c264927375c02efefa73360d130ca0b4d0eebea8abdd7c19ccc646",
+          "english": "Thanks to him,\r\nI could hold my head high as a dragon again."
+        },
+        {
+          "ordinal": 275,
+          "source_sha256": "a0eee06d0204063ded37bccbfe9254e3a08c2bf71840c8022a3547498b8053b5",
+          "english": "Blast! Avninte got away!"
+        },
+        {
+          "ordinal": 296,
+          "source_sha256": "09b86c191d2dfdc192aadbcb850f14f73efea5cd2a4bda6464644ecd41674257",
+          "english": "You're a fine warrior yourself. But alone, you were no match for me."
+        },
+        {
+          "ordinal": 300,
+          "source_sha256": "5863e6471c118be3f6a028350d24a6a5db66b4fd92a7526161b11d4bc64cdd25",
+          "english": "Now I shall devour you\r\nand make the power of the Avaritia Shell my own!"
+        },
+        {
+          "ordinal": 311,
+          "source_sha256": "64ebd94270ae0966dd22b224652be32cfa93f575b804e63baeddf2bb07de651e",
+          "english": "Ngh…"
+        },
+        {
+          "ordinal": 313,
+          "source_sha256": "3543f9fbe2115454b4c8721c94a8c49aab6dc86d803b74e80523c2d720a8635b",
+          "english": "Who in the world are you…?!"
+        },
+        {
+          "ordinal": 324,
+          "source_sha256": "0b871f633e7b83b7ae2ee6456bc3b1d9d1c86b74d97248570c071894c1d43855",
+          "english": "Sorry, but that's all I've got. I'm counting on you now…"
+        },
+        {
+          "ordinal": 328,
+          "source_sha256": "64ebd94270ae0966dd22b224652be32cfa93f575b804e63baeddf2bb07de651e",
+          "english": "Ngh…"
+        },
+        {
+          "ordinal": 333,
+          "source_sha256": "558876f69d4f8d30064c8ee9847690ddcdb6231195cee4b6c1b1609f9e29e6de",
+          "english": "I enjoy fighting you. I can never tell what you'll do next."
+        },
+        {
+          "ordinal": 338,
+          "source_sha256": "5aa0f6d5f69fc71ffd4d77c4a4b141eacf7e787d90e41c8961164bc7d3587c9b",
+          "english": "But in the end… victory will be mine!"
+        },
+        {
+          "ordinal": 357,
+          "source_sha256": "0599fddb80ac314837dfd05d6afe034c468bdb22492cbb4244174ba7535813fe",
+          "english": "With every ounce of my being, I will strike you down!!"
+        },
+        {
+          "ordinal": 366,
+          "source_sha256": "8518b90d530b0a1e7d164b283aa6fa1d1935f4c68df57cbab486089f98c25008",
+          "english": "W-what!? What's happening to him?!"
+        },
+        {
+          "ordinal": 382,
+          "source_sha256": "4499b9e5986d85e71bf733971cd7820334e29e60c330088e447e086c03a234b4",
+          "english": "Please, allow me to set your soul free."
+        },
+        {
+          "ordinal": 388,
+          "source_sha256": "7007df1907d911183402d0aadc2130301c5146b1aeb794f5b249938a970a5a63",
+          "english": "It seems…\r\nyou are no mere figurehead of a princess after all."
+        },
+        {
+          "ordinal": 412,
+          "source_sha256": "f0a83deeae20bce309b397857eee0aff6072df2d2e7d43458632c75248bb371e",
+          "english": "…The Avaritia Shell lies beyond the throne.\r\nGo now, please."
+        },
+        {
+          "ordinal": 417,
+          "source_sha256": "d44770eb170876b272a42772418968b17ba134bcfc73fed1598eb2e3e92e6f8f",
+          "english": "…I will wait for him.\r\nA hundred years, a thousand, however long it takes…"
+        },
+        {
+          "ordinal": 430,
+          "source_sha256": "3c6d1296efb73deaeb99b4d26fe933dd17e790340691a5d21f5cc5ed1503117f",
+          "english": "Is this barrier Avninte's doing…?"
+        },
+        {
+          "ordinal": 431,
+          "source_sha256": "37481c7957f73a9a3d166902ccb47a4887b592e5702577bf56ceb85c7beac09c",
+          "english": "It resembles the sealing mechanism of the Sacred Pillar.\r\nPlease, leave this to me."
+        },
+        {
+          "ordinal": 446,
+          "source_sha256": "b9034f3cdc4b1f8f22350c276d4d2cd56f383f2d8b4e47195378c504710492d0",
+          "english": "I'm fine. If there's one thing I've got, it's stamina!"
+        },
+        {
+          "ordinal": 447,
+          "source_sha256": "a02936825028004fe7fa5e950d1c3d09035418f65e22da118d247a78e3f529a3",
+          "english": "…Up we go."
+        },
+        {
+          "ordinal": 449,
+          "source_sha256": "eefc9453a3cd7664e1cab69651ef1627467e0eba8c6fd73f285cc1001bf1999b",
+          "english": "So they beat Voldigen, did they? How pathetic."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "3cd5fdd0910e80f7b9e935ffaa7409ce01b059a4d3e178ad670a99adb45fec09",
       "uexp_sha256": "fdd0248307569e8bf65326f40139a8a514f486e2a107cbcde65700a2c4c52d9e",
       "rows": [
