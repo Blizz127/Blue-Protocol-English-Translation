@@ -1333,6 +1333,17 @@
       ]
     },
     {
+      "uasset_sha256": "34843e52e28a71695371f549ddbb99a3a6b7f111e7375540257c587d5c6a1b55",
+      "uexp_sha256": "1a4c535f8ecc5d85268929dead4f6a06c677c7e18fb3873c591e7c8809d924cd",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "89d6d37122966eb4f79c38e5a082375f3fa6c13c130f4aae92817b16df269b25",
+          "english": "Leave.\r\nQueen Pipimaruka is angry."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "34ed90b25c9480629b069738d42296862fa1d05e45c7b0fba38b8fbbb423cbe4",
       "uexp_sha256": "bbe2ba2d818cf54546c32dcc6ccf1a3b6c569174c793bad4b2f146879191ad1d",
       "rows": [
@@ -2245,6 +2256,97 @@
           "ordinal": 626,
           "source_sha256": "0f7f02b1cb31faa1c5fd32ff510f76c0faee85c205fb02bca052d510ea087697",
           "english": "They'll be coming up on the big finale over there."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "559801237a01fb955b769afd296314b719e04fa1a36f36ef2986c4cc362b75ca",
+      "uexp_sha256": "4a4fd1e6de19c34fe336c73ad9bba0ddc6400e580762ee68040f8dc021fd7de0",
+      "rows": [
+        {
+          "ordinal": 25,
+          "source_sha256": "c50e599c7400517bb8aaa94a03fd53230310a3b1d8a834c68ba83e5e25b7195f",
+          "english": "Mind your manners in there, understood?\r\n  Come on, then."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "4560df7e11b32749634c05e81c42f8cc2099fce162520df8c878c03ff0c460d0",
+          "english": "Y-yes, Your Majesty!\r\nI'm honored you remember me!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "004c196ea64610c412397bc4f7862490308352cd770d3256eef2608a8c147e6a",
+          "english": "When your family fled here with someone on your trail…\r\nYou were so young then."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "4f71c5ab25e8cb110341c3fecbe70ea6908378ede5e48107d5b4152aac1459af",
+          "english": "It was thanks to your mother\r\nthat we learned to trust humans."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "35c4a8958f105af82227b4d1e21d8d41a49cbf258162e4729983ee75a850b838",
+          "english": "And you[――]"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "ca1c8353309ab5bd5f063c05cd672566a2eb3b06088eb53ca54cc590c9c976b2",
+          "english": "…A shard of hope, a fragment of a wish… Is that it…?"
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "cfff8f86c8a53b0063ebfdbec9f8eeb1968f8c7de026b071e5abae640232dbd6",
+          "english": "Tell me what brings you here."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "f63a483eddad63dcb75d8480b2ece73124637faab1160f73ec195d44ef68e36f",
+          "english": "…Humans are not to be trusted, after all."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "3b2db8293862fec520eb8f39f7be4f8e7a4c3569be932b239544284a81e309ba",
+          "english": "They've come to warn the village of danger, Your Majesty."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "90627519be15d42b61aeb066cb315eb4e5ac4c75103411dddfa0cbf32c7fb795",
+          "english": "Queen Pipimaruka, if I may be so bold."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "119d9a0409e5f048a17039f2dc823f3b94a1341d29b53998ecd9432a44a126de",
+          "english": "…Did you say the Bapharian Order?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "540927d110ef32c38e06a3acecb6d39f6fea0d57a584da6fa19d4f311ea9b6f0",
+          "english": "I see. So you have ties to the Order."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "0f9c348222b234bc0ae27779ff989fc5b701a887b16b5c61a55afd0a79360c05",
+          "english": "You could say that, Your Majesty, but we[――]"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "99019c0ed026b7062239e0ca3d30fbea1244504e904f2275d4aad9e1f9f59881",
+          "english": "No, no, you've got us wrong!\r\nWe've our own reasons for being here, quite apart from the Order's!"
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "837d895babae2a119daebfeb3f2ab6c6e95b07435b792f326eba0fbebdec426a",
+          "english": "I will forgive no one who would break this peace on a whim,\r\nnot even Adelaide's child."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "056ea7054b7b6570bff2ca5bd6721481e9e46167c0cbb30c1c3255d01765de73",
+          "english": "But take so much as a single step toward the divine spirit,\r\nand I shall feed you to the forest."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "b50773217e82adc0566891f3c9ac386c7bb264e46bd0d795f176e7e7c9ed4929",
+          "english": "…Let's go. We won't get through to her now."
         }
       ]
     },
