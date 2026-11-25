@@ -858,6 +858,11 @@
           "english": "Breakable ice gradually cracks when attacked or stood upon,\nand eventually shatters, leaving a hole.\nFalling through a hole may force you to take a detour,\nbut it can also lead you to hidden gathering points."
         },
         {
+          "ordinal": 142,
+          "source_sha256": "993ec79a0585c324daf83d2361e677d30f4bc9995a6a5ea539634718b4b3bf1a",
+          "english": "Toggling Subtitles"
+        },
+        {
           "ordinal": 227,
           "source_sha256": "229be68e906e9b7e4404392eca014401beaa67816edefd0c6c4f41895c2b770a",
           "english": "The Forest Reaper is a raid boss that inflicts players\nwith a special status ailment called Dead Count.\n\nUse the Throwing Action\nto increase your remaining Dead Count."
@@ -4897,6 +4902,11 @@
           "ordinal": 81,
           "source_sha256": "86e55ce9d6a5da3877d9ab5998a3f2959974469b8e47d097c2888cb2828bc45c",
           "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "993ec79a0585c324daf83d2361e677d30f4bc9995a6a5ea539634718b4b3bf1a",
+          "english": "Toggling Subtitles"
         },
         {
           "ordinal": 180,
