@@ -909,6 +909,12 @@
     },
     {
       "table": "quest_sub_chapter04_text",
+      "id": 104,
+      "source_sha256": "3b4faa5a1d65c864240284f06b442b64945cb1a156c111c962f7c34a92e7a509",
+      "english": "A Gift of Green"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
       "id": 135,
       "source_sha256": "ecd466c6a93a75cbe8637908a23be92416eac4e7eb4c810315212ef4b8161ca8",
       "english": "A Knight Carved with Soul and Pride"
@@ -1023,6 +1029,12 @@
     },
     {
       "table": "quest_sub_chapter05_text",
+      "id": 114,
+      "source_sha256": "e85175a547cedcbeb29503f8ab4fd97eb2bed3b8976e844ef3e020ad33e7c419",
+      "english": "A Plan for a Formidable Foe"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
       "id": 121,
       "source_sha256": "e3c220ebc87dcb716b0118be3bb9046e54415958305df7db7e658584fc4e883f",
       "english": "A Roaring Nuisance"
@@ -1092,6 +1104,12 @@
       "id": 91,
       "source_sha256": "a04b16306ba066f6f83ee0429f5079611305decb06decdf2bdec6a25d15585c0",
       "english": "I'm Totohoala!\nAdventurer, will you chase the monsters out of the Silent Forest?\nIt's a kind of boar called the Soiree Tyrant Boar. We've had it up to here with them!\nSo many of our ancestors are buried in the Silent Forest, and those boars tear through there day after day. They won't even let the dead rest!\nI can't stand it! Please, do something about them, and soon!"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 1,
+      "source_sha256": "00b9717121eb6a65293715b33aff47be2b2f436876eff6cd20a52e637f024c5e",
+      "english": "Steel from a Far-Off Land"
     },
     {
       "table": "quest_sub_chapter07_text",
