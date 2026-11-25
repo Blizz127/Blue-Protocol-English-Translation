@@ -954,6 +954,22 @@
       ]
     },
     {
+      "uasset_sha256": "24ceee7999eabfeecbb0188a912b729d5af32a517a0ab32780b10df0e4ae2106",
+      "uexp_sha256": "cb707b2015587f7b957fc950caca576e5486ed9b1674d14adabbd13f6e764bfe",
+      "rows": [
+        {
+          "ordinal": 39,
+          "source_sha256": "db85bb27e0a66fec01b27ef63388084b0f5cbdd4a84ee24703052814e897eead",
+          "english": "Well, I suppose I could ask that one over there."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "92601302c386e1b564e881550b8a04ace18c0be11440eda15a48cd5dbaf26d79",
+          "english": "That's Lord Kava Aku to you, you simpering little fraud, po[――――]!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "270e6d7aea12682d25e827618cfc37b0c7954550b03fd49d2c9e5f0e76ad0b22",
       "uexp_sha256": "4b3ee95edf0960329a63d6c9169db965387ed7ce47603f690a5567593791e767",
       "rows": [
@@ -6249,6 +6265,17 @@
           "ordinal": 54,
           "source_sha256": "74c15b8647f369c73592181d1487c08a1c05faef3a2bb386a4c0792243dc9b5d",
           "english": "{Name}, one last push! "
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "e4f65e9c1281df03178e0a1b26489c4d31e2e679f4efc396b2598218c6c917cf",
+      "uexp_sha256": "727b8631566650b041b1177ad8bc3bb4ae50afe0ef641dc5526f69da99fba8a4",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "75829e88c2fa9009b04813212f600e6a7c46b2e49fcb8f0ea8eba18b2c464190",
+          "english": "From beyond the forest came a helping hand...\r\nIt's time we learned more about the world out there, po!"
         }
       ]
     },
