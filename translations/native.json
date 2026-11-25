@@ -7274,6 +7274,77 @@
       ]
     },
     {
+      "uasset_sha256": "d0a933deb5ebab69d354193a85ad3f0f2e75237521fa84d57536ac74d699b700",
+      "uexp_sha256": "52a49f98146d26891aaeea6ab099074631b3164b20b7e25d5956a4892e2cbb03",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "8d193069ee6b0b1f8687b050d6caf2c49b545f3ccefb893355f2e7b090bcae8d",
+          "english": "Good day to you.\r\nMy name is Marguerite. I'm quite new to adventuring."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "242957b6797dc16aeff713261cdb9bbc3187c09e682cab0c6eb606e0638a339b",
+          "english": "I was hoping to ask your advice\r\nabout a request I've taken on."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "4451462608d95c784a392b10799ffc249ffb9fb6f9d71f3efbf257d4112f9a02",
+          "english": "I've looked everywhere and can't find either one.\r\nI'm quite at a loss."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "75ee67d625bd38126df99bfdf9d60adc8de690d727534c01199b2a78459fabb0",
+          "english": "My family is of noble descent. For generations now,\r\nwe've taken up adventuring to see more of the world."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "f8dc071d31ed2b1b61537f83703363e30daebcd7a60b6c66e39119dfbc1efe55",
+          "english": "Apparently, the kind I need is used to make weapons.\r\nIt isn't a gemstone, so jewelers don't carry it."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "39f07b3dc56b990126b8b296693fdb802ae018651dffd5cbc74766b63296ab9b",
+          "english": "Of course, I'll keep looking too. But if it's left to me,\r\nI'm afraid my client will have a long wait."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5ebcda769e9b6f7e2237995a4506ad494de300de4ab94d038e82f50dcec17f45",
+          "english": "I'll keep looking too, of course,\r\nthough I'm embarrassed to say it may take me a while."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "863767ccac0afa9034cfa465673d4c0efbade35e91f26569b83c6941587a6ee7",
+          "english": "Now I can spare my client the wait.\r\nI really am most grateful."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "11d7101dfa4853f46f0b9d29724943b73ce8fc7883c73df28fe2c7d9b8ece7f5",
+          "english": "Then all you do is wait. Once the job is done,\r\nyou receive materials and the like, or so I'm told."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "f3be3015d1200531236cddc485fce43ba5cd5029783884255a673cfe664bbcb8",
+          "english": "You can still use a Mount Imagine you've sent out,\r\nand the trip won't wear it out. What a comfort."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "4290c05f72b1a12e7399ba63ef6cb0dbe340989ac557964ed992dd516b3db072",
+          "english": "What a fruitful day this has been for me.\r\nThank you, truly."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "fa391fdc70ccb13f255879a3878f5215820672e0ea58b02b8f3f5533311a1914",
+          "english": "I'll keep learning all I can.\r\nMay your own travels go well."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "dbc440f21283edc16f4662317dde07e942ea51b6c3869fba05693a530727b0af",
+          "english": "I expect you already have one. If you have several,\r\nI'd certainly recommend putting them to work."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "d36196ac577cfca30a20435d48fb3ea0ca2af569255775c32cfe733e7d4c2985",
       "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
       "rows": [
