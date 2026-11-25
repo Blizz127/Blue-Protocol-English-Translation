@@ -758,6 +758,18 @@
       "english": "Deals fire damage with a cone of breath in front of it."
     },
     {
+      "table": "master_imagine_text",
+      "id": 1363,
+      "source_sha256": "3576f6f51ccc55f155f357dcb61f50c0fedef84aef9491d54947271f019b68a8",
+      "english": "Hurls an explosive barrel that inflicts paralysis and Bind on enemies."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 1367,
+      "source_sha256": "1e6427acd49027e1274e1b48926b6f5e8e7fe54c014cc02e13afaf1844ff535a",
+      "english": "Offers a prayer to create a field that empowers you and allies inside. It temporarily grants a large boost to both damage dealt and all elemental effects."
+    },
+    {
       "table": "master_merchandise_commodity_text",
       "id": 5096,
       "source_sha256": "6b37970249f5caa1d79bf379568678949638c61a21eda63e1dc22005496e8f0a",
