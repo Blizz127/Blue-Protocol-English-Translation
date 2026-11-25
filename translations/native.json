@@ -1632,6 +1632,57 @@
       ]
     },
     {
+      "uasset_sha256": "42fbcfa32bdf5b62fd82be53692beb83b19921e0fc7e3f569445095fa9dc8fbd",
+      "uexp_sha256": "71b730848eef970d12b29c7e008517a40b2297e9ea82bded79c5ab595dc796fd",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "78ae5416fb66da7f166ae6101f79b4149e0580c96131597ae402b27bfe624a33",
+          "english": "It's only a possibility, mind.\r\nStill, any word we get is worth looking into now."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "11a66e9ea650ba68dd326576b5d1bc32d17829232791b764e6dbf0e8be90ede4",
+          "english": "I understand. You may count on the Order\r\nfor whatever help we can give."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "dae1f866e35bf7e7f2943ca97be25acb207ff18bb0843848a19675b1c3fb27d0",
+          "english": "Then the Avaritia Shell really is here[――]"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "8afe6d202e7f5af5d9bd693aceee28a3bae1af4ea73c67ab2d6a46ed8c1ca75a",
+          "english": "So the Avaritia Shell's here after all[――]"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "78504a9be9aa2e8a0d12e12b034911078af93d24916ed1d359a8a2799c68df57",
+          "english": "I'm sorry I brought humans here.\r\nBut this is an emergency!"
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "c02f022a03a914daa7ee8ee1877020be722c019a7dba477f9e6044626ce0bb98",
+          "english": "A dangerous Avaritia…?\r\nIt couldn't be…"
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "cf1c02187fe10454052e7b85c0e7d0117516ff490ade257a0537590807e77e21",
+          "english": "…We'd better go somewhere else before the other forest folk see you."
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "13ff834480ac10568be0723c5f5a96bf403211e42d03a9836891ab0bd7f342be",
+          "english": "It'll be all right. He can seem scary at first,\r\nbut he's kind and cares deeply about people!"
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "914fe6ff86733d85197246a92533249cdf50303c7c0f4fe28e7915137f85b19e",
+          "english": "Besides[――]"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "45ff0354a3506b1d9400c8345c124fe1b920c173c6a98b822b348109a50ead6d",
       "uexp_sha256": "fe73697d615913a3c2790e717815983570e3d44759ffdaf664790ccc938ef086",
       "rows": [
@@ -2631,6 +2682,17 @@
       ]
     },
     {
+      "uasset_sha256": "6421ea45859ae15ce7cc7bbdeba9629264f0f52b4ee86728f7ca3e4e2c35993d",
+      "uexp_sha256": "22bc73635c15d94f85ae7c7daced7adde63f193ccb05d662527eaf0e5dffa746",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "5ce8bd3ac4204ab4a90a7e199f13aff035edba8b643792e1d11a8f583da8a6e8",
+          "english": "If they were just flying overhead, that'd be one thing…"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "6550a1639bb65a34e44c80be3dead2e7eaf9402f9a273ceeac39fb8b63e2c966",
       "uexp_sha256": "51b5c5b86689011df78dc96e7b3ee2050ed26758ba018f443f785d2bef05dba2",
       "rows": [
@@ -3626,6 +3688,22 @@
           "ordinal": 6,
           "source_sha256": "098eb2e3728cd354d91d5ff240891cbb20e225247cda47eeb8d49686fe7bd248",
           "english": "Talk"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b0edb6b9bf44414be72b46034a123cb9a5e9ea0e098a3f71f648c11441b66294",
+      "uexp_sha256": "df88539068ad9bb9156f213d1db6854e357bc0a7dc9fe78066057b58dd1ea009",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "e84f4d3cd436650734e14c737aa131f77ac2c29e8c4d85171151f2251b80500f",
+          "english": "The songstresses are still at work in the temple,\r\nrefining the offerings."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "e7a4ecd809c5c44d5544908896f6616f4dac16bd70c3d2d800ad5f970795f1ad",
+          "english": "Whatever form someone takes, there is some comfort\r\nin simply having them where you can see them."
         }
       ]
     },
@@ -6452,6 +6530,16 @@
       "uasset_sha256": "ef55d7feeba2a52cc10bef4dada2ffc5b886fbd4e6bf0b34bb5eab2e9783193b",
       "uexp_sha256": "9a35317d285bcbaf1acf35a254e1978686cf6c1a17868f0ae345d90787d53d99",
       "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "9c8f533a4825fc60688b559a982d53182ffce999ea7e76ffe1bb5f3844996579",
+          "english": "Time to plan our next cleanup, po!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "eba434c98b80f7ba8eeff72e1a56d85cfd66e49d31fdcf203d3011db89040333",
+          "english": "I know the truth now…\r\nOnce your body changes color, that's it."
+        },
         {
           "ordinal": 11,
           "source_sha256": "7b10887d5594cc8464289405fe3f933a9ce1a07775663e7229be8266fec4b324",
