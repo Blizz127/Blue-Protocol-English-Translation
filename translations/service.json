@@ -104,6 +104,24 @@
       "english": "I'm Like. I brew magic potions. Hee hee hee.\nI need a few ingredients for a new potion. You don't think I'd ask you to fetch anything suspicious, do you?\nI'm counting on you. Hee hee hee hee hee..."
     },
     {
+      "table": "quest_sub_chapter04_text",
+      "id": 40,
+      "source_sha256": "50f7f19849b5d31ef89ab8a44e4c114df84c8dd65e48a518e1ba0c95daecd726",
+      "english": "I'm Aleni. I cook for a living.\nWhenever I season a dish, it comes out fiery hot. My customers tell me it's delicious, even as they scream and cry.\nBut one customer came in the other day who didn't seem to feel the heat at all. I couldn't quite read the look on their face.\nI've never met anyone like that before. I keep thinking about them.\nAdventurer, would you help me find that customer?"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 81,
+      "source_sha256": "53f9f2e7329ed0fbf27775371cccb4cf1e65d93e178faeea6fe5df51fea8a21b",
+      "english": "I'm Maulili, an apothecary.\nI think there's an illness going around. Every so often I come across someone having a coughing fit.\nI'd like to get some medicine ready now, while there's time.\nWhen an illness starts to spread, it pays to act fast.\nI'll see to making the medicine. Could you gather the ingredients at Ia More Reef for me?"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 91,
+      "source_sha256": "a04b16306ba066f6f83ee0429f5079611305decb06decdf2bdec6a25d15585c0",
+      "english": "I'm Totohoala!\nAdventurer, will you chase the monsters out of the Silent Forest?\nIt's a kind of boar called the Soiree Tyrant Boar. We've had it up to here with them!\nSo many of our ancestors are buried in the Silent Forest, and those boars tear through there day after day. They won't even let the dead rest!\nI can't stand it! Please, do something about them, and soon!"
+    },
+    {
       "table": "weapon_perk_text",
       "id": 2881,
       "source_sha256": "486ed2782f7cbdf788a2ff21f831f03fe8ca03ff21d3768745c8b50df9393f01",
