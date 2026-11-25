@@ -1005,6 +1005,11 @@
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
         },
         {
+          "ordinal": 473,
+          "source_sha256": "ef4180d4dbb212f3588efde2816ab899e00e92deb7f40d150e1cecc9cac4adbb",
+          "english": "That building you see up there is the Reclamation Bureau.\r\nPlease don't ask me for directions anywhere else."
+        },
+        {
           "ordinal": 522,
           "source_sha256": "9680cc1530c597ae787b8b507c1a94472b4fdc8f1ff04ae129a028582ba4c04b",
           "english": "The Principality of Bernhardt and the Bapharian faith\r\ngo way, way back!"
@@ -1309,6 +1314,17 @@
           "ordinal": 54,
           "source_sha256": "f05f3aabef5c762dd0d6912b56c885a6789f0125bca45a897e93303dc3636591",
           "english": "Reduces damage taken and elemental buildup from earth attacks."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "1efc153e7cb15af168fe84ab9e39adb46cfb4ec26014c60d63683ebd1af70228",
+      "uexp_sha256": "6b61d84b88e1ad215b2cd845306c7629a20ee604044730631648315c64edd096",
+      "rows": [
+        {
+          "ordinal": 26,
+          "source_sha256": "69ed375a375321d7422990f406a3fe519c6b35904bd7a4af68048731a200892c",
+          "english": "Check the requests filed with the Reclamation Bureau.\r\nYou should find one that offers an Adventure Board as a reward."
         }
       ]
     },
@@ -2222,6 +2238,22 @@
       ]
     },
     {
+      "uasset_sha256": "3995f249d5505d142df5edddacc8f75724aab05b2b46ea9fd9ec8168bc74a4b0",
+      "uexp_sha256": "8401a46ade493676e9368720d088e672c9ffd5d98a17ebd08b28bf26d1106557",
+      "rows": [
+        {
+          "ordinal": 16,
+          "source_sha256": "a1a50122ae1110d30da15a791879e0582bc033ebe42b8c6ad023a0f79d90a3e6",
+          "english": "The Reclamation Bureau keeps all sorts of materials on hand.\r\nWhy don't you ask there?"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "1be7280d865f1d5227d3eea9d5cd96493ed593c0050d38173f88e67eff8d0013",
+          "english": "Yes, the Reclamation Bureau does stock that material.\r\nWe use it for building exteriors and for restoring relics, among other things."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "39c2675b10ced308e0e6beb682ed9f19eafbf58dfd1621ce604fc8f98c2d1f07",
       "uexp_sha256": "a45dbe8133e7c94081110194209c01a34e79d0e478c78d03ab1ce82f31f8bfd7",
       "rows": [
@@ -2890,6 +2922,17 @@
           "ordinal": 30,
           "source_sha256": "6f079f373854f3bda367e6cf5498882e0a15cfc3727362a0b99fa85db4d7cf07",
           "english": "Whatever brought him there,\r\nhe struck me as someone quite out of the ordinary."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "506ba8ce8cdb5cc370848d1dfc0f54014dc04580df15944cdb2fba355891c8cf",
+      "uexp_sha256": "083d96299fa1abad45d93d86ad755d5c6a28207ae15aaff252b3855768dc161a",
+      "rows": [
+        {
+          "ordinal": 26,
+          "source_sha256": "69ed375a375321d7422990f406a3fe519c6b35904bd7a4af68048731a200892c",
+          "english": "Check the requests filed with the Reclamation Bureau.\r\nYou should find one that offers an Adventure Board as a reward."
         }
       ]
     },
@@ -3881,6 +3924,17 @@
       ]
     },
     {
+      "uasset_sha256": "63debb5f8ded97feddb8f6b11540cec231fec635f1324d2e384fb4e333ce3851",
+      "uexp_sha256": "67d92943223f9327e1786f433fb6bc3feec3ed88e8421992c90f01cd9687a8da",
+      "rows": [
+        {
+          "ordinal": 4,
+          "source_sha256": "69fb38a951ff0597beac5691b03d6e54947daa92fcc98d53f8b56679e4f92b33",
+          "english": "Why'd it come back to me?!\r\nI asked the Reclamation Bureau to deliver it and everything!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "6421ea45859ae15ce7cc7bbdeba9629264f0f52b4ee86728f7ca3e4e2c35993d",
       "uexp_sha256": "22bc73635c15d94f85ae7c7daced7adde63f193ccb05d662527eaf0e5dffa746",
       "rows": [
@@ -4015,6 +4069,11 @@
           "ordinal": 184,
           "source_sha256": "f56e59c21199d7bf0b2f381c57dcbc825b724e3eb96768fd939bd1e0d3abf332",
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
+        },
+        {
+          "ordinal": 477,
+          "source_sha256": "ef4180d4dbb212f3588efde2816ab899e00e92deb7f40d150e1cecc9cac4adbb",
+          "english": "That building you see up there is the Reclamation Bureau.\r\nPlease don't ask me for directions anywhere else."
         },
         {
           "ordinal": 532,
@@ -5167,6 +5226,22 @@
       ]
     },
     {
+      "uasset_sha256": "a6c97f01b0a442b58d92eb3ae0ae924542bad22187e5c8c9bfbce50d030ef39f",
+      "uexp_sha256": "7b56104fe9310c3d0247aa46c473dc00f4a9196d54b624200a862feb18c9c58e",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "3e7ee920de9cb6485e9791028e16ece805aebb933a972078b5965eb295de18eb",
+          "english": "I'm Frederick of the Reclamation Bureau.\r\nNothing captivates me quite like the chance to explore an unknown place."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "b399de3f954a478c6ad9245aac8d4d67f749d0ce3bd47b365ceab9a6f2144c61",
+          "english": "The fighting on the Floating Island in the Void is brutal.\r\nThe Reclamation Bureau knows that all too well."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "a7f930d8f07e7e211a079d022cbbf3a2dac207d845139fecdf97c7abfac28a99",
       "uexp_sha256": "b2c1cdb12406cf13208106ed8344cf064db2cf445d010906cca60422fce4d232",
       "rows": [
@@ -5246,6 +5321,22 @@
           "ordinal": 17,
           "source_sha256": "8be8e7d502c28f14154fc77fe3e1d4150e97854e1d6a0b8e9e21cdf6f26d17e8",
           "english": "A rare sight, they tell me. It only happens once in a great while.\r\nIf you saw it, count yourself lucky."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "add0daeff54afa1bb9d349c0737ab11f2055fac978600b6e2ab9e8a32946a2b5",
+      "uexp_sha256": "7b56104fe9310c3d0247aa46c473dc00f4a9196d54b624200a862feb18c9c58e",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "3e7ee920de9cb6485e9791028e16ece805aebb933a972078b5965eb295de18eb",
+          "english": "I'm Frederick of the Reclamation Bureau.\r\nNothing captivates me quite like the chance to explore an unknown place."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "b399de3f954a478c6ad9245aac8d4d67f749d0ce3bd47b365ceab9a6f2144c61",
+          "english": "The fighting on the Floating Island in the Void is brutal.\r\nThe Reclamation Bureau knows that all too well."
         }
       ]
     },
@@ -7973,6 +8064,32 @@
           "ordinal": 131,
           "source_sha256": "d016ddc5c028fa9cfc690863852f0715a944bf1f63b09bdc1083ea5c429817e4",
           "english": "Go. Now.\r\nI shall pass judgment on your comrades in due course."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d9b82dc58458aad026e8310a1968fc1c3d5d71914f580df7257b9aeee4ca8910",
+      "uexp_sha256": "329d22c6190dfff0fe68b6fa43d4978ff75e2115896031be2b231d6354bd5993",
+      "rows": [
+        {
+          "ordinal": 22,
+          "source_sha256": "3068653da725529346e30a2bc6fb2a1ad0d69424cdd36c7a42e4661f2f085cb1",
+          "english": "Once I'm back at the Reclamation Bureau, my mission will be complete.\r\nPlease, help me see it through."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "a05956337837503bb403e402fbc3d47a4eb7e7e6cfe9691117e131f6133b9b41",
+          "english": "A book lies where Rector stood.\r\nYou should put it on the shelf at the Reclamation Bureau, as he asked."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "d612eb395ed7b3f0b42f12a53815927c2fea310f9479f906b3c921fecf0a9bba",
+          "english": "The Reclamation Bureau is gathering books for its collection.\r\nWe built Rector's Great Bookshelf here to hold them."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "2e5d5e093e4f93d00a570f74dad0b60d279d050df104418105c803c34a643042",
+          "english": "To honor his wishes, the Reclamation Bureau decided\r\nto preserve books of all kinds in Rector's Great Bookshelf."
         }
       ]
     },
