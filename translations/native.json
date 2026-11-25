@@ -1035,6 +1035,16 @@
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
         },
         {
+          "ordinal": 219,
+          "source_sha256": "d0e6dbed06a1ca1cb98c8a5b95549f5938f935215dc3e13ed622fab30f1d6436",
+          "english": "I'm friends with the green Nappo."
+        },
+        {
+          "ordinal": 221,
+          "source_sha256": "cce0b354385603845aec41d81d11c234c908a18093b5e3e82a0fb45b5356c3a1",
+          "english": "Please don't pick on the Nappo, okay?"
+        },
+        {
           "ordinal": 428,
           "source_sha256": "9c17bbc5e9529d42f714baf152018cebcae17dfb85321eae84b77ba9a47d11b8",
           "english": "O-okay.\r\nTomorrow I'll ask someone I look up to if they'd like to swim with me…"
@@ -1043,6 +1053,31 @@
           "ordinal": 473,
           "source_sha256": "ef4180d4dbb212f3588efde2816ab899e00e92deb7f40d150e1cecc9cac4adbb",
           "english": "That building you see up there is the Reclamation Bureau.\r\nPlease don't ask me for directions anywhere else."
+        },
+        {
+          "ordinal": 509,
+          "source_sha256": "3bde0b9d6a73eee063a511667d71d4e99ea555b3137422cae31e37742c8b0167",
+          "english": "Those ones will hurt you.\r\nSeems they cause the green Nappo trouble, too."
+        },
+        {
+          "ordinal": 510,
+          "source_sha256": "79d0bd885f1b6bbb07e43782e6df904dadc2b0f718f2a3f47ce53f2f765dea61",
+          "english": "You've seen the Eee all around town, eh?"
+        },
+        {
+          "ordinal": 514,
+          "source_sha256": "7ee33270eaf121d35f265aebd08d8848386db2bbf68cd2da1ecd09e6f3f8a582",
+          "english": "Aww, look at that little Eee! So cute!"
+        },
+        {
+          "ordinal": 516,
+          "source_sha256": "39130fb27aee27d110cfac9bb3cacb0367134fdee006cd3d83b5e6fc860b3b9d",
+          "english": "…Oh! I've got it!\r\nIf that little Eee follows me home, that's legal…!"
+        },
+        {
+          "ordinal": 517,
+          "source_sha256": "eab29f6f3e4aac99aa1282a1a15ef68bd6529a321621c2ca5eaca987bd0c2fcb",
+          "english": "I'll go stock up on toys\r\nto get that little Eee's attention!"
         },
         {
           "ordinal": 522,
@@ -4205,6 +4240,16 @@
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
         },
         {
+          "ordinal": 223,
+          "source_sha256": "d0e6dbed06a1ca1cb98c8a5b95549f5938f935215dc3e13ed622fab30f1d6436",
+          "english": "I'm friends with the green Nappo."
+        },
+        {
+          "ordinal": 225,
+          "source_sha256": "cce0b354385603845aec41d81d11c234c908a18093b5e3e82a0fb45b5356c3a1",
+          "english": "Please don't pick on the Nappo, okay?"
+        },
+        {
           "ordinal": 432,
           "source_sha256": "9c17bbc5e9529d42f714baf152018cebcae17dfb85321eae84b77ba9a47d11b8",
           "english": "O-okay.\r\nTomorrow I'll ask someone I look up to if they'd like to swim with me…"
@@ -4213,6 +4258,31 @@
           "ordinal": 477,
           "source_sha256": "ef4180d4dbb212f3588efde2816ab899e00e92deb7f40d150e1cecc9cac4adbb",
           "english": "That building you see up there is the Reclamation Bureau.\r\nPlease don't ask me for directions anywhere else."
+        },
+        {
+          "ordinal": 519,
+          "source_sha256": "3bde0b9d6a73eee063a511667d71d4e99ea555b3137422cae31e37742c8b0167",
+          "english": "Those ones will hurt you.\r\nSeems they cause the green Nappo trouble, too."
+        },
+        {
+          "ordinal": 520,
+          "source_sha256": "79d0bd885f1b6bbb07e43782e6df904dadc2b0f718f2a3f47ce53f2f765dea61",
+          "english": "You've seen the Eee all around town, eh?"
+        },
+        {
+          "ordinal": 524,
+          "source_sha256": "7ee33270eaf121d35f265aebd08d8848386db2bbf68cd2da1ecd09e6f3f8a582",
+          "english": "Aww, look at that little Eee! So cute!"
+        },
+        {
+          "ordinal": 526,
+          "source_sha256": "39130fb27aee27d110cfac9bb3cacb0367134fdee006cd3d83b5e6fc860b3b9d",
+          "english": "…Oh! I've got it!\r\nIf that little Eee follows me home, that's legal…!"
+        },
+        {
+          "ordinal": 527,
+          "source_sha256": "eab29f6f3e4aac99aa1282a1a15ef68bd6529a321621c2ca5eaca987bd0c2fcb",
+          "english": "I'll go stock up on toys\r\nto get that little Eee's attention!"
         },
         {
           "ordinal": 532,
