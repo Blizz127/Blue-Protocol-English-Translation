@@ -213,15 +213,57 @@
     },
     {
       "table": "quest_sub_chapter04_text",
+      "id": 27,
+      "source_sha256": "443cb773d0bce80c5167a8caa26783b463087a3e56015c7c5c568c29d62e9d1f",
+      "english": "A Civil Servant Caught in the Middle"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 28,
+      "source_sha256": "e126a079965fa2dd1af54c048c2c2fccbbeb4aaf918af8b93d6f7551b2de0d89",
+      "english": "Close Enough to Quarrel"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
       "id": 40,
       "source_sha256": "50f7f19849b5d31ef89ab8a44e4c114df84c8dd65e48a518e1ba0c95daecd726",
       "english": "I'm Aleni. I cook for a living.\nWhenever I season a dish, it comes out fiery hot. My customers tell me it's delicious, even as they scream and cry.\nBut one customer came in the other day who didn't seem to feel the heat at all. I couldn't quite read the look on their face.\nI've never met anyone like that before. I keep thinking about them.\nAdventurer, would you help me find that customer?"
     },
     {
       "table": "quest_sub_chapter04_text",
+      "id": 62,
+      "source_sha256": "931a56250d89b658c2036381b51920a7e7dfe65f4f22c4ea64cd38426b30e434",
+      "english": "With Heartfelt Thanks"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
       "id": 89,
       "source_sha256": "6615e67c85bc4c08285d4c3a3fa2f90a8f6b16f1a4b5f6db9d4e0572ab2b6ae7",
       "english": "A Farm Knight's Work"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 135,
+      "source_sha256": "ecd466c6a93a75cbe8637908a23be92416eac4e7eb4c810315212ef4b8161ca8",
+      "english": "A Knight Carved with Soul and Pride"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 143,
+      "source_sha256": "64622ce78caa0fb7b86b4c853ff7fb2940d7fe5ebaa91eae3e52aaecb89a6051",
+      "english": "I Think This One Will Sell!"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 148,
+      "source_sha256": "29ef2d3bf164b94390b7594fbb8cc4e38ed7e17fdeb09dcd83e8f69a81cef40e",
+      "english": "The Seeds of a Business"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 149,
+      "source_sha256": "0e7c805b9d45ffc5718b23a4f9d87272353f6c56c6e4b355f122e6ec9558e363",
+      "english": "I'm Amado, a merchant... Well, merchant-in-training is more like it.\nThere's a lot to get ready before I can set up shop.\nThere's a plant I'd like to make my big seller. Trouble is, I hear there are monsters where it grows.\nCould you find out what monsters are out there and clear them out for me?\nI'll make it worth your while!\nCan't expect to hit it big someday if I'm not willing to spend a little now!"
     },
     {
       "table": "quest_sub_chapter04_text",
