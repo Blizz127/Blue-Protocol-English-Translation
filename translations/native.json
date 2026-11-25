@@ -1693,6 +1693,57 @@
       ]
     },
     {
+      "uasset_sha256": "6550a1639bb65a34e44c80be3dead2e7eaf9402f9a273ceeac39fb8b63e2c966",
+      "uexp_sha256": "51b5c5b86689011df78dc96e7b3ee2050ed26758ba018f443f785d2bef05dba2",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "d2f324617ca8c8b75a9d2d3901758f9998dca6b704d13493282851791c73289e",
+          "english": "I have you to thank for that. If I'd been on my own, I probably…"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "80ec379a80eb4b655c60e7f9133996d7222895f2eba4b8cdfa4884fddab9e3b2",
+          "english": "Voldigen made a chronoleap.\r\nEven we failed to anticipate that."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "74796f09e47da1a27bf803b46d0a8788e7d69f0537bf726a751ec79b51620a95",
+          "english": "But I've yet to free all the Avaritia…!"
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "929c1dc46f5375bcf031412b7159ce35e6082afd218dcb4fbb205254852f800e",
+          "english": "One last favor…"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "fb293df80051f7b35b12bf0d622ff0abe1a40dca5111b7a8f491d049daed97bd",
+          "english": "You might say the Avaritia are our lifeline."
+        },
+        {
+          "ordinal": 118,
+          "source_sha256": "c6da04693a1ee47dd36496c2255ad4bab783c46b4f22d71601823ad9639a59c1",
+          "english": "The plan… Could Lord Bachelard really be…?"
+        },
+        {
+          "ordinal": 149,
+          "source_sha256": "de5a92dc4f3046b65ac2c23b1a363642bee8df51266a18deae95301d43ee80f9",
+          "english": "[――]Sooner or later you're bound to come across\r\nsomething that'll jog your memory."
+        },
+        {
+          "ordinal": 155,
+          "source_sha256": "f6abad07e779d2d6893781d2aa94205cca8492e8a32b7b6d39523683a436e80e",
+          "english": "The future of our planet…"
+        },
+        {
+          "ordinal": 160,
+          "source_sha256": "37aa3579a6e835358502f841533e52704b144c2af059e7c2573e2cf59f9398b8",
+          "english": "I don't really understand, but… it's what's inside you need, isn't it?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "69c35531abf3dfad492c14186f4c7f6d4da172ba0a01a9b720f2c8886c1843c8",
       "uexp_sha256": "652b4084c430eb02cd4e56bdba93730795f5a180db1274afadc2b7397eb2f41d",
       "rows": [
@@ -3473,6 +3524,42 @@
           "ordinal": 24,
           "source_sha256": "659029af53b67270d52315932fb6db30cf01d432b8d050a985536248e35f6741",
           "english": "Hold Facing Direction:"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "edafce44b92e5de0eb42431998a4713d4319f44ee1f71c706a8ffec12ae51ec5",
+      "uexp_sha256": "66e5e60f365c64cbfd3e7c7d4b37cd8503f2b1d16ee4ffa6ded2d410e96cc82c",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "83e48f2ae4043849f3178b7a118d87545b89d373fd41ff7c12354b4017dced88",
+          "english": "Whatever's happened, keep making that face\r\nand you'll scare off all your customers."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "9958fa5082337795fdfc3f22066efc97e019f208ce3943a71fbce3df5188bbc5",
+          "english": "Please, give us a smile.\r\nWhat'll I do if this place goes under?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "71c693b6a24d896b152746d5f398e7ad39296b070460a807620284c1d516456b",
+          "english": "Hey! What about me? I own the place!\r\n…Honestly, you…"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "930adf2fa6f7a1452aea815f290ec1acb2b7a000fc72bff75f1ef29cb8d37de4",
+          "english": "…No, that's not it. I could do with a line\r\nthat has the Coin Inn written all over it."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "bcb09cf6493428a4a8d5886f9a70fd926bc9d5edabe15b09c6ef5994d8a6a851",
+          "english": "Seems there's little I can do for you right now, Master…"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "ac3549ca29c340f3f08f96ebabf6f360be2343cd8c6d2a921cf862386caa8478",
+          "english": "There's quite a bit I'd like to discuss with you.\r\nLet's find somewhere we can sit and talk at our leisure."
         }
       ]
     },
