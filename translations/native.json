@@ -2623,6 +2623,22 @@
       ]
     },
     {
+      "uasset_sha256": "b67585496140088b2129841f54853048e09ddca34928f25f039a694115269a11",
+      "uexp_sha256": "b1fa05957d2390f649b1cc552f92fc58a202a8fe38ae266a014bbb469ecd8126",
+      "rows": [
+        {
+          "ordinal": 58,
+          "source_sha256": "c5636b656f627a917df706957a26cc62e709212fec0b27a4c4e66c13b9232439",
+          "english": "I wasn't worried or anything, y'know?\r\nThe ferry just stopped running for a little while, that's all!"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "bdb4c6dabae1c50f08abba3ef2625d9b0418a59ea2cf3b943efaaf532149f222",
+          "english": "When you're as good a merchant as my dad,\r\nyou're used to little hiccups like that."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "b8db99da9a91c152a1fd7e548f07ae751a7cb991925bef8a61e5dd075e4bede9",
       "uexp_sha256": "02767314c31ecce893c1fd1042e369df1fa50d80ea5530348d7b409d073c4d8b",
       "rows": [
@@ -2931,6 +2947,171 @@
           "ordinal": 64,
           "source_sha256": "688677db6c5a7bb326d2463e5f0bdf18c5ac8f734d4f774a1092f92d3da177a3",
           "english": "[――]Come on. Let's find Lord Dunkirk."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "db5bbc2be3c5b2c7cad8de86da3fa122ce3c46c936e7738aaad9ab4cf01eb952",
+          "english": "This is a research facility belonging to the Bapharian Order.\r\nThey used to develop weapons here with the knights."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "c468a6eca5367ae4bd056c1dde1b1ddf13865967e5946cfafa3eb13dc097a59f",
+          "english": "Join who[――]"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "d6a73a8e99d2352d64396b0ad4eb12fe886619f1beba000c82c3e1595e8e8c53",
+          "english": "Wha[――]"
+        },
+        {
+          "ordinal": 114,
+          "source_sha256": "934a0aef1d8c1c758c6fa46da0174fc1b6df65f7992a94697e1e7a8662434dbf",
+          "english": "Here stands my remorse for killing my own son, given flesh.\r\nNow feel that same despair for yourselves!"
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "b836bfe157c605256dd7fd547b15f6a350984142f2d857f55c7f1233778419e4",
+          "english": "…So it was saving you in those ruins\r\nthat cost me this battle…"
+        },
+        {
+          "ordinal": 151,
+          "source_sha256": "b55e6bfa2840b09d113fd22118ddfb0564f561a3e5d00b0242366c586c1f464b",
+          "english": "Aaaaaaaaaaah!"
+        },
+        {
+          "ordinal": 160,
+          "source_sha256": "51f7ba1ec431f2007b3ae1b0a6c9890fad59070c556d232348618d102d1182fa",
+          "english": "…Two months ago, His Majesty ordered Lord Dunkirk\r\nto slay an Avaritia that had appeared beneath the castle."
+        },
+        {
+          "ordinal": 161,
+          "source_sha256": "ea30cfe7442177b833472a837ab13a04f5309adb8c4869e691519362a72bee22",
+          "english": "It was a grotesque thing, the likes of which he'd never seen.\r\nWhen he heard its dying cry[――]Lord Dunkirk knew."
+        },
+        {
+          "ordinal": 165,
+          "source_sha256": "8080c9e832fee59b977539a2a9920aa3de8865502fbb123c8a8f6a44eceef192",
+          "english": "It was the Bapharian Order that started it all."
+        },
+        {
+          "ordinal": 177,
+          "source_sha256": "f5fd7c8f27184dadf1db80b56e4c04f7cf480ffae8749a0bf15c8771b1c0504f",
+          "english": "The greatest knight of his age,\r\nbawling away for all the world to see!"
+        },
+        {
+          "ordinal": 179,
+          "source_sha256": "ee99a3991db04c84e572ab799fef5cf0f5abea8da09f3d16b1bc5d7559f1af26",
+          "english": "He took the head of every last soul involved in the project."
+        },
+        {
+          "ordinal": 187,
+          "source_sha256": "91b9b270ad1729a90d65e2f424584c21fabc70d2101d7fa2f7c845a12dacecdc",
+          "english": "If ever you wondered what it looks like\r\nwhen the last shred of a man's sanity snaps, that was it."
+        },
+        {
+          "ordinal": 188,
+          "source_sha256": "7bb5cd2da7ac1ed1ee6dbceb30267739c86d6eb311d5c4d959b150ba189215b4",
+          "english": "Imagine it. The boy he loved as his own\r\nwas the child of one of those gods he hated so very much!"
+        },
+        {
+          "ordinal": 192,
+          "source_sha256": "fb1f8e43ae0209bc7e927022693b28644e77c5503cd1ed99849e1f117cddedda",
+          "english": "I rather like this woman's form.\r\nSeems it doesn't quite fit me yet."
+        },
+        {
+          "ordinal": 205,
+          "source_sha256": "285913f15257214ea1351fe5f3c91d14463287a7c2494ae4c3eede1b484bb9cc",
+          "english": "her memories,"
+        },
+        {
+          "ordinal": 207,
+          "source_sha256": "c00e755733615008c3b6db80a2803e85b4bea2effed2efcc5af71d9e2cd1e4e9",
+          "english": "All mine! Every last bit!"
+        },
+        {
+          "ordinal": 213,
+          "source_sha256": "3e00a77d6abb337f2be117901d2f8b2fece6533970691cfc0008ce3d1de4dfff",
+          "english": "I haven't had this much fun in ages. Give Dunkirk my thanks."
+        },
+        {
+          "ordinal": 218,
+          "source_sha256": "d91792767313eb74d9e5b1a5ac1d3879307b07c9ccdd4c6c1d15644acf6775cc",
+          "english": "…To the courtyard. We need to see for ourselves\r\nif what that dragon said about Veronica is true…"
+        },
+        {
+          "ordinal": 227,
+          "source_sha256": "fb9d3483576249c1a4d4ac3ba5c37c9a87fc8ec76ff4ebd8ab44402a92bde53a",
+          "english": "Your Majesty! You're alive!"
+        },
+        {
+          "ordinal": 228,
+          "source_sha256": "83e86fa20bb8eb09c475719163804bf504d870cfebee523be7abda206c644bbc",
+          "english": "You're…"
+        },
+        {
+          "ordinal": 246,
+          "source_sha256": "9f0da7656e6a8d070b6e411582d2a263d3555a5573c4e8f340e1810551ed5979",
+          "english": "Thanks to you, Dunkirk and his followers failed\r\nto overthrow the throne. You have my gratitude."
+        },
+        {
+          "ordinal": 247,
+          "source_sha256": "2a0c14e6c71fb6947ea9c7a58e3dd831b3eef3a955beab252fc7b2f2e1b29319",
+          "english": "W-wait, Your Majesty! This wasn't a rebellion!\r"
+        },
+        {
+          "ordinal": 249,
+          "source_sha256": "3154746e66820d83224b8348fd06eb0eb1338cf4575ff480aa12a7f18354212c",
+          "english": "What would the people say if they knew what the Order had done,\r\neven if only a handful acted out of turn?"
+        },
+        {
+          "ordinal": 255,
+          "source_sha256": "6040f3c1cb8d4eb8ac67b6cafd9a3dd5fe7e358f1a039c56078103c64a1825f6",
+          "english": "He plotted to seize the throne. That is the account we've agreed upon."
+        },
+        {
+          "ordinal": 273,
+          "source_sha256": "f86b9bdbaa3850b34f885425bbfaf82565175c63494983a45b2595b3f4b47bdf",
+          "english": "Hey, get this! While you were gone,\r\nsome BIG news came in!"
+        },
+        {
+          "ordinal": 276,
+          "source_sha256": "90314d9d91712e09d7e9e202613fea89b64784b18d4f63d3bd0098d374157891",
+          "english": "And Carvain, the supposed assassin, turned out to be\r\nthe hero who put a stop to Dunkirk's rebellion?"
+        },
+        {
+          "ordinal": 277,
+          "source_sha256": "d63c9e66119c5799d2c8f1fedd71e63fccc87bf463c1af2bde8a05f9c70f23e7",
+          "english": "Aw, come on! You knew already?"
+        },
+        {
+          "ordinal": 278,
+          "source_sha256": "25625e9cdf4e4a6ef494c052f5882b5080dc2885b9faa797c53a7180388dc07e",
+          "english": "You ninny. Where do you think we've been? The castle!"
+        },
+        {
+          "ordinal": 279,
+          "source_sha256": "e4cb7e96618494488e68c7717e9cd901469cde9eaafdb8955ac5683c7f9d3bde",
+          "english": "You might say we're the ones who made your BIG news."
+        },
+        {
+          "ordinal": 288,
+          "source_sha256": "0e3ca3907799f1dfe7893b1b0a870a851af815f1c16868c4a438c2c57f570c7d",
+          "english": "…Funny how someone can suddenly feel so far away…"
+        },
+        {
+          "ordinal": 298,
+          "source_sha256": "276c9a6de1b8a8626986dfb0f224db73d8065d572aa68557b70021c6b3fbaffc",
+          "english": "I had it made expressly for you.\r\nPass it down to your children's children as a lasting mark of honor."
+        },
+        {
+          "ordinal": 299,
+          "source_sha256": "4cfb052961c0139bd2e274af0739a01726e7b2c29912b9dd65954c033eb07cf3",
+          "english": "Your Majesty! I am deeply honored!"
+        },
+        {
+          "ordinal": 331,
+          "source_sha256": "fefa99d668a5cc5cdc63c00525dbf549383822e12ef4921e1f51bd790593c784",
+          "english": "Did she… speak?"
         }
       ]
     },
@@ -5178,6 +5359,147 @@
           "ordinal": 69,
           "source_sha256": "098590cea2e54007c88208b5f1df7eea16a3a5d3a56651b7748a61b3e6793542",
           "english": "Tell him I'll have some delicious soup waiting, too,\r\nso he'd better hurry home."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f7486ce694e5d8e7574bc8f700a06d14d9235c3453949fd402e516d9ab7e2f33",
+      "uexp_sha256": "a3b9e657b159b5ab21e694fd21ad93611718e58d077c9b1fac21f73e97b71f2f",
+      "rows": [
+        {
+          "ordinal": 10,
+          "source_sha256": "f4be4f6af5eb1b578794ab6ec9e143bfd0118d5341909f95dda9e967002c9cb1",
+          "english": "None of our rulers ever did anything like this before.\r\nIt's an excellent idea, really…"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "a72fcac02c0b6ffeb259341c2e35927e1987eebebfaa9200cd712e8a9eaa2843",
+          "english": "But my turn's an awfully long time coming,\r\nso here I sit, watching the world go by."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "b31bc3b208a882b7385fee069e661fabf5fb907c6706683e90a10f8d80946203",
+          "english": "Maybe I ought to head up to the castle\r\nand have my say, too!"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "635ed13e260f1d99d931afcde055d182fcc7600521e21d8ac7a67383c5bbad97",
+          "english": "There's quite a stir within the Order.\r\nSomething important seems to have happened."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "3842552ee42e4d68174b8cce268701f02d6334d52fd18f454f428b5bb1afa54b",
+          "english": "Until everyone has made it home safely,\r\nI can't allow myself to relax."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "f0650f8607d98079d51a148b793c46bfa8a9de9a8d7a2380007a02754108c4b5",
+          "english": "After what happened with Carvain and Einrain…\r\nI realized how little I could do for them."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "15d8caf555aefe195d5bc1513f17580582574cc8b94bd0c4e30151b6936dbdd2",
+          "english": "Carvain's getting all the credit,\r\nbut I know how much you and your friends did!"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "8d8ce948cb7e8f20fbb4e289b4425cb4b9dfe80bf76bad17c761aeeb85946444",
+          "english": "If what happened to them was God's will too… then I…"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "0e4a2d5ac052c029d836c25ba0a00c614a18d19d1cca49c5ab7285b44cdc1598",
+          "english": "…I'm worried about Carvain.\r\nWould you talk to him when you get a chance?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "9588d1e49a09bfea70be8cf8012908d6b1e97f56ae3e7a2bbc00cb72b9fe4443",
+          "english": "Voldigen was made a test subject\r\nin the Avaritia Shell project."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "2193f2386fde2419f2a106eefdb04fa3a917fdb107560962c85c927f2aba58bc",
+          "english": "To do it, though, he would have to absorb me…\r\nI'm the one compatible with it."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "804f0721fda174913b61e2045a47bbc5d79281c0d1ed12f485d2f09c09dc9bcc",
+          "english": "I shall stay on my guard, of course.\r\nBut if the time comes, I am counting on you."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "f980828e8b60df9d71d48a5c3428b5eb5db40b099e178e67764abd624b02c5ef",
+          "english": "I had so many people by my side.\r\nAnd now it's come to this…"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "c4df49a96779e1d3360784016aea5283696248424ffafcd8b40a2383228bf8ca",
+          "english": "Master, please don't disappear on me too.\r\nIf you ever want me at your side in a fight, I'll be there."
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "7d3c33cc7268a6ccbade149ee4ef532c5868eb9f5195c73b4260940428255974",
+          "english": "All we ever get are little boats."
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "a9ffcde4f20d44dc649d404476ace43d09510e4d928ef92e5b7a64ed57dfbea8",
+          "english": "Who knows? Maybe I'd meet the love of my life on board!"
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "39c1fc3324a7fd6fdecc138a59cc2f4ba79f306479066e1a0d0e956f0dbd299b",
+          "english": "A scholar came by to study how we live.\r\nApparently our everyday lives can tell you all sorts of things about the past."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "d433e5975febb06798a9ec99bd99eecdb382b7b7193c1b88bdf68f906e0282b2",
+          "english": "The songs and dances at our village festival\r\nare said to date all the way back to that kingdom."
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "cf10cbcf1946eed389ae717ec812b5d4cb607ac10a46e624ebc2056deec52096",
+          "english": "All it really means is that people think twins are bad luck.\r\nStill, it gives you pause, doesn't it?"
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "6fabf434fdc74ac02e1345758a14b74f65e405b7be27d929b27a0ae1c260a75d",
+          "english": "I'm glad the army takes its training seriously,"
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "4652a49be2a41f449f9a1af309e13fb7376928bcd341a6f75087542d95c17998",
+          "english": "but just think how many weapons they throw away…\r\nA whole band of brigands once armed itself with the castoffs."
+        },
+        {
+          "ordinal": 114,
+          "source_sha256": "7d8aafb3c1da0d60aec87a4571d8df21dcf0e2547be193270c48f2e08eb5d13e",
+          "english": "A fisherman's boat is all that stands between him and the sea.\r\nYou'd better believe we look after them."
+        },
+        {
+          "ordinal": 117,
+          "source_sha256": "b0e6953495150e2a561546b5d5bda8e71d0199cc844cdf341df3c28d4da9ec3c",
+          "english": "A retired knight teaches there!\r\nI bet he tells the most amazing stories."
+        },
+        {
+          "ordinal": 143,
+          "source_sha256": "4d58ce124bdc01285ead0dac24e5128f7287aa3859feda8ae7709bd7cd25d9cc",
+          "english": "[――]So far, only I know what it's like to set eyes on them…\r\nWant to come with me next time?"
+        },
+        {
+          "ordinal": 145,
+          "source_sha256": "c6804925db541b769fb0fb8e51e431ee9a5d70dec321f13a3bdade3c2fe52b2c",
+          "english": "Wasn't there someone who kept a find quiet once\r\nbecause they wanted the relics all to themselves?"
+        },
+        {
+          "ordinal": 146,
+          "source_sha256": "92ccecacad1f5e35b33f4a6a7ab908219304ffbe3a39e4ec2419d55c5a908790",
+          "english": "The high priest was furious. Things got pretty tense\r\nbetween the Order and the Bureau."
+        },
+        {
+          "ordinal": 147,
+          "source_sha256": "19c271fb1d41f26235074c3717860197efc7d7ed5ad4a4e8f0d541b8c3018dc8",
+          "english": "I heard the adventurer who kept quiet really got put through the wringer…\r\n[――]Hang on. That was you, wasn't it?"
         }
       ]
     },
