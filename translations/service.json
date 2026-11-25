@@ -285,15 +285,123 @@
     },
     {
       "table": "quest_sub_chapter05_text",
+      "id": 8,
+      "source_sha256": "1c6cf119d99c21bca3d466468e6941110a6615c107efb3d95df2f839c08d041d",
+      "english": "Assessing the Abandoned Mine"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 9,
+      "source_sha256": "2c1c7ed4ebdac199b55e9214ecad8deb7dff2d6a267c69382a6eea9ab7466e72",
+      "english": "By the Soft Glow of Flowers"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 12,
+      "source_sha256": "3611f35a609f4c21d7c06b916fcbc5cb92a07e6520e27bf0d3f952b4f0abd9fa",
+      "english": "A Wonder to Share"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 40,
+      "source_sha256": "e85cc6978ba40ba9a941190e8ee53213f43a6112932db3c3e9234b5112c4735e",
+      "english": "The Truth About Good Luck Charms"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 58,
+      "source_sha256": "ce9e432e2a780d70aeb25a2bc774f18728e19848ef7fe6a108eff338d6a14041",
+      "english": "I Think I've Finally Got a Hit!"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 61,
+      "source_sha256": "91c8c5a753022621e50d3cfffc07807b82a3d93bfc974db961818c0d3dbde810",
+      "english": "The Little Knights on the Road"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 66,
+      "source_sha256": "7efa6e5426409e41455f9c00f310fdfdc52ab1ea01e028dcaba4513335efb3ea",
+      "english": "Due Respect for the Divine"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 79,
+      "source_sha256": "8a57332284a88aa98bdef81447a672eca860e8bc0720067f8ee03421f375ed66",
+      "english": "It's me, Anne! Genius inventor and future merchant magnate!\nI'm due to dream up a bestseller any day now.\nThis time I've got it! Luxury down comforters!\nAnd I've thought of everything. I'm going to sell the kids on them!\nOh, these'll sell all right. I'll be rolling in money!\nThere's a share in it for you too, adventurer, so bring me some top-notch materials!"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
       "id": 81,
       "source_sha256": "53f9f2e7329ed0fbf27775371cccb4cf1e65d93e178faeea6fe5df51fea8a21b",
       "english": "I'm Maulili, an apothecary.\nI think there's an illness going around. Every so often I come across someone having a coughing fit.\nI'd like to get some medicine ready now, while there's time.\nWhen an illness starts to spread, it pays to act fast.\nI'll see to making the medicine. Could you gather the ingredients at Ia More Reef for me?"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 122,
+      "source_sha256": "b7973b82e41fb2df3d585bd4c6e714f37e0fc65487ab490fbbd621e875c88fe3",
+      "english": "The Weight of All Those Years"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 8,
+      "source_sha256": "8757dca628672c95b45e3038df0cf2691272526bfcc94bdb60be9ad06cfac20b",
+      "english": "The Right to Tread on Sacred Ground"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 24,
+      "source_sha256": "fcdcd7a914155a47ec3f0a897d7b6c5868c6c46ca02403619410ae1d1969d525",
+      "english": "A Costume to Dance in the Sea"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 25,
+      "source_sha256": "2861391ab8056c02d94606cf855a7826858b686af05fc9ae49de9a90967a5dec",
+      "english": "A Gap in the Map"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 28,
+      "source_sha256": "e010a9fccc8062d3b6065f9ff5f38b53874377a004b3d6bab7096cf64a031fd5",
+      "english": "A New Pattern for an Old Tradition"
     },
     {
       "table": "quest_sub_chapter06_text",
       "id": 91,
       "source_sha256": "a04b16306ba066f6f83ee0429f5079611305decb06decdf2bdec6a25d15585c0",
       "english": "I'm Totohoala!\nAdventurer, will you chase the monsters out of the Silent Forest?\nIt's a kind of boar called the Soiree Tyrant Boar. We've had it up to here with them!\nSo many of our ancestors are buried in the Silent Forest, and those boars tear through there day after day. They won't even let the dead rest!\nI can't stand it! Please, do something about them, and soon!"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 5,
+      "source_sha256": "f4656f48354c60bd4a9dbd96b73311dc1f2c4375ff08cd9cee813f7a7a247af4",
+      "english": "An Example for the Recruits"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 10,
+      "source_sha256": "53105ce688d3a43422657852b90e9de7b4052ad0361725944c81dd2eada8f51d",
+      "english": "A Rare Deal"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 11,
+      "source_sha256": "3296a873820b58c69628780476088aa41ce255bfd1d63597a9a3932f811ea3bc",
+      "english": "In the Dragon King's Footsteps"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 47,
+      "source_sha256": "3a4a227bace1625322cdb1f16b6ae54d078647bde8ee7decc8f84f2d09a88f5e",
+      "english": "A Chill with Every Wingbeat"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 53,
+      "source_sha256": "82040a21cea99256fe6564bb2de1ff393aec6e23e1a1889d0c236abf77af8608",
+      "english": "On the Forest's Edge"
     },
     {
       "table": "weapon_perk_text",
