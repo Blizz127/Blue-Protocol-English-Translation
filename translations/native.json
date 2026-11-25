@@ -2235,6 +2235,127 @@
       ]
     },
     {
+      "uasset_sha256": "5b0cd55790212ee52cf9226053221bc7a7f9c6514d5921f66dc844e832d01ff7",
+      "uexp_sha256": "386531c3ffd7d2d382346744176bf3d0ac28f229d8d403f1547d9c6deb298329",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "80de2668c6f14ae86b854521b58e9b3bc9a85efc7a7cc5d30db148b76d6fd922",
+          "english": "…Well then, off to the temple. Let's hear where things stand."
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "a66508e0581b5141887c417bd8f00922b73c13c54e5091cb99736838400310f7",
+          "english": "Has it really been more than a month\r\nsince the Avaritia Shell vanished…?"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "05b2fad631ebd00cd8c0c75dbe1236e416ae0a329663ef5856ae8dee8515c78a",
+          "english": "Time…distorted…accurate…readings…can't…\r\n…varitia…ell seems…becoming…active…"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "9bd98fb32b2efa389470dce1e1a631e2060c3cd799ef6a927b9ea788b1763a5f",
+          "english": "Bachelard! Is there any way you can tell us\r\nat least where the Shell is?!"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "ca67e520575d6d36828b195ec2d39aa340f41af5bc6e2073f850ef926c8bcfdb",
+          "english": "…ell is somewhere in your era…certain of that…\r\nRecords…after this, the dragonkin get hold of the Shell…"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "a568ff44f0b5a213838629ed4466294d4a5d7d80d4f21538b8ec230fdfa623fa",
+          "english": "I'm afraid we've lost the connection…"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "453561a9ac4533292219f87684e0b2da2882a9a4038eedcbb44c36242a2ff87c",
+          "english": "It seems Bachelard and the others have no idea\r\nwhere the Shell is either. What do we do now…?"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "8fd8a442afb3cbc76e4395128586bf03d7f849baba4308bb0f3a8d8e11a98aee",
+          "english": "We've had everyone out searching for the divine messenger ever since,\r\nbut I'm afraid there's still nothing definite to report."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "9dff58d4bd37e5d7e779d711758c2380a497aaa4f50c772b0e1de7353d3b8064",
+          "english": "…The truth is, their report is several days overdue.\r\nSomething might have happened…"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "5869e5032f5fad0b5a259694731485b3a63f337de224438dc51846d60b42286e",
+          "english": "Oh, please take the main unit of the Omnistron with you this time.\r\nThe handset will be quite sufficient for me."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "eb6210afa647c96e4b13d7d7bb0c30383a961ce5122080cca7a3cc21da1e05ec",
+          "english": "I see. In that case, we'll take it."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "f53c4bef131f67df9352ce0ca688a34efb8c00c467094fb05bd1964573dec1c2",
+          "english": "Here, let me show you. It works much like the handset,\r\nbut you can use the engram readings to work out roughly where an Avaritia is."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "ab6cd345b94d108297ae948793f5514f096552e53782f5b97a30fa26144162c9",
+          "english": "Safe travels, both of you.\r\nPlease, do take care…"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "c1054a665f7b8e3631616f338bd697f9e2fe14f1704adf363adfa40c7e9e82cc",
+          "english": "Yes, of course! His Grace has told me about you.\r\nPlease wait here a moment."
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "736e62451e513d9ab6fd9d9b559877c46bf7170d3b1e66396c99a44c0ed4b040",
+          "english": "Oh, I caught the informant just a little while ago!\r\nI've just had my men take the prisoner in."
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "24a42d98fc72e0a75e7f2b660e7323e56d66452be2752ab6075080201a40b98f",
+          "english": "Well, the thing is[――]"
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "f001816f67ff56bd650c64e70d05ef65ed355cdaba48289738b6a2e9906dc490",
+          "english": "There's an Avaritia nearby…!"
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "f001816f67ff56bd650c64e70d05ef65ed355cdaba48289738b6a2e9906dc490",
+          "english": "There's an Avaritia nearby…!"
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "f4313ef20d825b5c8d79b12076f3b3b452877109ddf65dd025e622343dc8fbed",
+          "english": "Damn! Is that thing trying to get out?!"
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "a52727d377560275ba522e1332b514ab0347f070d88a5fc1581b2837960cd51c",
+          "english": "That thing…?\r\nYou don't mean the Avaritia Shell?!"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "555abd012b8714c3af3b9bdc67bbfd18e7d83210aecf5f533419ce4faee06057",
+          "english": "The informant fled deep into the cave.\r\nWhen I caught up and made the arrest, it attacked."
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "8b19c0de8cb920a1da122d33b21419e64cfa0f4fec53d2311c3de2d88ca3af92",
+          "english": "Who'd have thought we'd come all this way\r\nonly to end up hunting an Avaritia?"
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "42ec316fdcc6d21997e1e1e40eac7ab9b2d4aa7870898c4ce36e859224838547",
+          "english": "This one's tough!\r\nWatch yourself, Master!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5daeef1f2e5f60a34c3f87c2942843f10c38d0d005d4722e175c5439480719fa",
       "uexp_sha256": "0674b730ea4022087aed4fef73a5cd190e02142f2757007692903ff34debbd33",
       "rows": [
@@ -3022,6 +3143,42 @@
           "ordinal": 54,
           "source_sha256": "c3cffd0839bce535225e9416cc43164216afc6edc22d84a6e533a23247d10faf",
           "english": "Earth Resistance Up"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "79682a5e4321a4b1604b79886740c62ca5b55926fbddc977212c526ca47fb7ae",
+      "uexp_sha256": "c580c9b971c012c295784db1dee350ca996a1556b540b15824d6645120c9a271",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "d391f27c6d396405980b813e71fb89f829412f1063050a7e6401da6b5e4deec6",
+          "english": "Hey! How's it going?\r\nEven folks across the sea are telling me what you've been up to!"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "42e820ef2541745aaa8d7943e6d62590f071217973564f6749d6e6f1a9943c47",
+          "english": "I'd better get moving myself.\r\nThere's my adventuring work, sure, but…"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "5e033139a31120853a3ec364e1eed843762f20b15fb4adb2b6d30770093053dc",
+          "english": "Bring in new customers, dream up some merch…\r\nMaybe it's time I sat down and made a Plan for a second location…"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e1c9373ec839069bf258759c48dd98d018a2e4ff834c7a1573de1c45c41835a1",
+          "english": "I'll stay here and make ready in case the Shell returns."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "3471085ff236e7dda0e396afb04e024decf1c59ff1bd3f6a5eb787c64094bb15",
+          "english": "I hope the Omnistron serves you well.\r\nPlease take good care of yourselves."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "12e88523d4f90c9fa25e6719f7cdcd1079f0e523f54d0acc16fc4b489dcd94c5",
+          "english": "I'll wager there's a new adventure waiting for you.\r\nIf I were still the man I used to be, I'd be tempted to join you."
         }
       ]
     },
@@ -6288,6 +6445,32 @@
           "ordinal": 19,
           "source_sha256": "8a8933939cc83ec7417eff8e9f9f39b24e23421e3e0e1ab739e024dea7d7837e",
           "english": "Play Audio When the Game Is in the Background"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ef55d7feeba2a52cc10bef4dada2ffc5b886fbd4e6bf0b34bb5eab2e9783193b",
+      "uexp_sha256": "9a35317d285bcbaf1acf35a254e1978686cf6c1a17868f0ae345d90787d53d99",
+      "rows": [
+        {
+          "ordinal": 11,
+          "source_sha256": "7b10887d5594cc8464289405fe3f933a9ce1a07775663e7229be8266fec4b324",
+          "english": "We want our songstress Charlotte\r\nto give the performance of her life."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "ac909037874f411e1a991e83db9d28a3a855f499ed1b25a86a5a1aa99e6c21ae",
+          "english": "We often make the journey to the Outer Continent\r\nto share the teachings of Bapharia…"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "1ae91449c520bd489e9ecda4472cc024ed0a7f3ddda6a1d491f55b3fe29a8f72",
+          "english": "The people there have a faith of their own, you see.\r\nOur teachings have been slow to take root."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "efe8dff676bcfb3053dc7dbf0283a255e88100eaee627c48187252dd46612892",
+          "english": "Of all the Star Spirit Festivals I've seen,\r\nthat was the best one ever!"
         }
       ]
     },
