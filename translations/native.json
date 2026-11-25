@@ -2370,6 +2370,142 @@
       ]
     },
     {
+      "uasset_sha256": "866f68ce9565f93bf472aa7661c83b5e7d7e73bf6de89daa19d49e36a85cc992",
+      "uexp_sha256": "a39423729e9da3e9cce4d89aa9ce89a457c8f323d5368427471212e231ba9053",
+      "rows": [
+        {
+          "ordinal": 4,
+          "source_sha256": "51524343902b6c8beab696d5427d4dd64f9a367f583248e62f7d927f24c459c4",
+          "english": "I've heard of no change, though if you're concerned,\r\nyou're quite welcome to visit in person."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "4b3a08881ad59db92413f2d563cd222a7fad8d3591c1dad95b21e7b65321306b",
+          "english": "Aye, I think we shall."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "51ffc1c53cbb0fcace96451865fef683cf1410eddaca7d2686a27ff0100d992b",
+          "english": "Thanks to Einrain,\r\nyou seem quite at peace now."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "1843e06763c833be5274175850eca4c52402f3a2c2db5a0645e488818521f5a0",
+          "english": "Still, where do we go from here…?"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "a9b0f8fe8bec482a55ca0296e372a4d79730612f24684d81da2e0b2fc25ea539",
+          "english": "You what?!"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "8738e87f40831e31e300f8bcd46be5e9112991623b63454412e5f5c42cdc52ba",
+          "english": "（What in the world are you saying?!\r\nIf you did that――）"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "450d4815a133823c3485dcf0a8bda63813d8f1fdb44a1eb30d006b8a2e0c546b",
+          "english": "…Could you bear never going back to your own time?"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "2dcda0c323597bb7b5a0f0e091f6e2def01c100a762534a8d2fba04af6fcbc47",
+          "english": "I would gladly make my life in this era."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "88dc4dae5b433d15db0ff18f2b548d9f9c323711025a6fca27e6ec41943afb46",
+          "english": "…Please, come back to the past with me.\r\nStay and live with me in that time."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "5615720b6477387b12ff1a2523ca0f44d858367e711c72c277a412d47c7b8259",
+          "english": "With you all by my side, there is nothing I fear."
+        },
+        {
+          "ordinal": 105,
+          "source_sha256": "12ef12d8cd33c74e817cfce5ddf9a2512326430707993a6f313e898e09a3a612",
+          "english": "Go on, servant. Smash it to bits!"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "b81e8d6e894e7de853c69f0a2648780b8a62f1968cac858640394dc5ebaaea86",
+          "english": "Let's make absolutely sure we leave it in ruins.\r\nBe thorough, right down to the core, where it can't repair itself!"
+        },
+        {
+          "ordinal": 107,
+          "source_sha256": "9dfa68f719c26bef9d54f42d8e6ec6ba29e92e7173b0c7b372704f30e3105f7d",
+          "english": "That's the spirit! Give it a good wallop! Wham!\r\nLet it have it, and don't spare it a second thought!"
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "dd64f4a5b653f7f2d0a46a7face8239f04bafad1cb2dabfd4404ed16d78ec5a4",
+          "english": "Hah!"
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "dd64f4a5b653f7f2d0a46a7face8239f04bafad1cb2dabfd4404ed16d78ec5a4",
+          "english": "Hah!"
+        },
+        {
+          "ordinal": 115,
+          "source_sha256": "c77b039ed92b611a4380f105df8063abfa8355ec152ef0094d6be5adf073d1d3",
+          "english": "Look out!"
+        },
+        {
+          "ordinal": 116,
+          "source_sha256": "c77b039ed92b611a4380f105df8063abfa8355ec152ef0094d6be5adf073d1d3",
+          "english": "Look out!"
+        },
+        {
+          "ordinal": 148,
+          "source_sha256": "5dd0b395949f15ddad546707ce32d4f2c515dde84809045f3f827c8519581b19",
+          "english": "Where are we…?"
+        },
+        {
+          "ordinal": 153,
+          "source_sha256": "fe33be855f976e906e4b91055eed2c3b5ca1f7267e69296d6607d0f8793f5e16",
+          "english": "Could we really have been sent to this era…? But why…"
+        },
+        {
+          "ordinal": 164,
+          "source_sha256": "2ab7cb7e51bb964658f0cd07332025d196342797932c64ca6d4af6095f0f36ab",
+          "english": "Go back! Hurry!"
+        },
+        {
+          "ordinal": 167,
+          "source_sha256": "ef01365b0a9b547de740bc8d721213da06cde2ddbb8b7d384b762eba8abe7454",
+          "english": "The Beast of the Planet is going to destroy this gate!\r\nHurry!"
+        },
+        {
+          "ordinal": 173,
+          "source_sha256": "e015e3c2e83267e64fed9c6c145e9e635d47c3f669279bc7776e3b95d19fad66",
+          "english": "You too! Hurry!"
+        },
+        {
+          "ordinal": 175,
+          "source_sha256": "58f4242cb791e66adcdc26ee1285717b715e69b5214d4118f3ccb8f21e99a555",
+          "english": "It's all right. I know you can[――]"
+        },
+        {
+          "ordinal": 184,
+          "source_sha256": "75ed34895aba37aa97dc72090e485239e6d056013116ca458e20b24fcd309b07",
+          "english": "Whew… So much has happened all at once,\r\nmy head's spinning."
+        },
+        {
+          "ordinal": 187,
+          "source_sha256": "3769387515a8dab7bc0698b40374f8da3bb89a6dd791f578fcd3a565540913dc",
+          "english": "That's impossible.\r\nOnly a handful of people are supposed to know those words."
+        },
+        {
+          "ordinal": 214,
+          "source_sha256": "ea75f8d1c996887363041f6e4cdff4b6a72caa4ec7326d67ddeac11d465ccb28",
+          "english": "We ought to give Charlotte her pendant back.\r\nTelling her we've lost what was inside may be a bit tricky…"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "8952d02743ff7265b8ab734cebaa173bdf8b08bbcf3e4623fd38401011be090c",
       "uexp_sha256": "663f4b3d1bed28a8f1cb0fee9d330ea1c246183097b606f32bf3c1ed7820ce72",
       "rows": [
@@ -2627,6 +2763,96 @@
       "uexp_sha256": "b1fa05957d2390f649b1cc552f92fc58a202a8fe38ae266a014bbb469ecd8126",
       "rows": [
         {
+          "ordinal": 4,
+          "source_sha256": "d3fa6fa0caf627ca07467a90e90081d68e3e8dad01deecc40b9be8a559c6b0ce",
+          "english": "Thought there might be some hope if I got back to Kanaloa,\r\nbut that's the story of my life…"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "c8de22f003997d527b428cbc8354e447f8da5017ae98d25cfd7a880e997ae7d9",
+          "english": "So, what's your order?\r\nJust here to look? Go on, scram!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "fdf114c00ea6b55e2f9a43690fb2c23c388c5ca8d3a6f44a53712bea09902003",
+          "english": "I didn't think many of 'em had the kind of cunning\r\nit takes to pull something like that."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "ed7181d76d3eee70efb41bd7cecff07c0cca3b230b70d7faeddea42f23c55fa5",
+          "english": "Grrrr…!\r\nI'm so close… I know I'm this close to cracking it!"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "dfac5b4be9cf0838e11c99dda726b6811aa6170701cf0df3903bda53ae00eaf8",
+          "english": "I hired adventurers, set up camp myself…\r\nI did everything I could to investigate, but…"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "10dde0a6e31812ed4e654db5bd2c41d01a837f4974a1b646ed4a75380cab9b8c",
+          "english": "Soon as the money's gone, nobody wants to help!\r\nWhat a hard old world this is!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "c25c1c1daf608eecf48950af2071e7facafc6b4a308a0c94aa41d048b0c699e5",
+          "english": "Someday I want to take that pendant\r\nand go looking for Mom and Dad."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "7a0075e785e6532e6a25bba84956f90b76eeadd2554bbe849b75b3a0c4d41fa3",
+          "english": "I-I had no idea…\r\nForgive me! That was a thoughtless thing to ask."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "edf871b37292af9f0efec58ac43b6f7f075f8c7242f4f898c74386da20b4b381",
+          "english": "They look almost exactly alike.\r\nWouldn't you feel a little better if you had mine with you?"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "02b785317bd8f84bd854cbd1e710b6f2e3df5d1b96c080d0dbdea5b90deb53d5",
+          "english": "Yes, you're right.\r\nI wasn't making much sense, was I?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "00d1c46aaa00eeb51aa00a7ac0dfdfea490fa0c415f7d821b5b49fa6f48e4932",
+          "english": "Anyway, please don't lose heart.\r\nYou've got me and Einrain."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "62fecc2b043d231b3e38f337954ae08058b86490bf54ed54e2daf4e7c168bbfb",
+          "english": "I don't blame my mentor or the others…\r\nBut now that it's broken, well…"
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "db9df413cdc50effe0703c617e0b48b003f77c19389300378f845313dda2b283",
+          "english": "What was inside got broken,\r\nbut I still have the pendant itself."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "d38c2227728c60d6a349cb60328294819eddc86b163205140fef332e443e04e7",
+          "english": "Everyone made it back safe. Compared to that,\r\nit's a small thing. I mean it."
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "f04e75f9193503d0ea5ee8d102eeecf42eb43935212f938d4f869ac9a25d904e",
+          "english": "When the time comes to look for your parents, let me help.\r\nYou need only ask."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "64beef876361ef65e6c7a17c1c332a8326c6204739f83858f8ff5005b6f41c0a",
+          "english": "We call ourselves master and apprentice, but what of it?\r\nMy apprentice ought to be free to find their own path."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "e09d2a453a13f12c7df12b42c464747faefac4c239f2931d4aa4c11c7c49855c",
+          "english": "Still, lately I seem to lack a certain… spark.\r\nI wonder what it is. I just can't seem to find my stride."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "9e14d256448f8e3b74a85a4787114eb64356323d2703dbf047de58da5ad6c762",
+          "english": "My son was so worried about me.\r\nI think I'll let him have his way for a little while."
+        },
+        {
           "ordinal": 58,
           "source_sha256": "c5636b656f627a917df706957a26cc62e709212fec0b27a4c4e66c13b9232439",
           "english": "I wasn't worried or anything, y'know?\r\nThe ferry just stopped running for a little while, that's all!"
@@ -2635,6 +2861,11 @@
           "ordinal": 59,
           "source_sha256": "bdb4c6dabae1c50f08abba3ef2625d9b0418a59ea2cf3b943efaaf532149f222",
           "english": "When you're as good a merchant as my dad,\r\nyou're used to little hiccups like that."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "290f9406a9a6069831c1ebaeaef6fe0366dfd912d62ccb1bb3a074e54f9056a5",
+          "english": "Come to think of it, the Star Spirit Festival is coming up.\r\nI hear some of the younger folk are going to have a look."
         }
       ]
     },
