@@ -1146,6 +1146,17 @@
       ]
     },
     {
+      "uasset_sha256": "4a5d3394e79248d4afe460776e5b1eb9fdef6ec23e102365a5f67486d23c5a9c",
+      "uexp_sha256": "a2b76c64aae0da121e3aff450fac0c8e15a900ffe5a586e58aa7f728c0f8c3f9",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "de9ba95d3ed10fac6ac9bd6e48e933c055e6b6d994aa61fde93d39c8bf6bb10c",
+          "english": "Thieves and bandits are a dime a dozen,\r\nbut attacking a traveling troupe onstage? That bothers me."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "4c7e1969721809057b01ac4cd88821f1799de73f4facf262a6a820cb00902558",
       "uexp_sha256": "6bab1fae971b0d1e13b14f6a913470d5eacd7339890a637324575608104905e5",
       "rows": [
@@ -2570,6 +2581,101 @@
           "ordinal": 2,
           "source_sha256": "82f0f58595b048fbd6e930d2de99f180e8d238d725525218cfe33a968b33c83c",
           "english": "Comedy sketches, dancing, street acts…\r\nThis troupe really is the best!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "367ac4cec93e86e70ac09eb34d74428a4dafbcb8e6dbe1c1b6f6bfdd98e554d2",
+          "english": "I haven't much time left.\r\nThe one pleasure I still had to look forward to was hearing her sing…"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "76d666cab254313ebaa3e88c35b17bdff357eafe50646ef98067fc9682e3cb08",
+          "english": "My ancestors… God of Bapharia…\r\nAnyone who can hear me, please let that girl be saved."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "1f92be14f57d7ca19c564a09826789bb918dc4f8c633f7a57d4915fe1a2ff08c",
+          "english": "Attacking in the middle of a show, right in front of everyone! Are they mad?!"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "427d96a7206fe004a1423ed99d052e3fb0cd5e59fcc0190976762d1c5355488b",
+          "english": "Did they have some reason to be in such a hurry?\r\nOr…"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "85581fa008de01b36255d2bb0f72ef35b2f77a6376d0bd226c4f74aa0f983336",
+          "english": "Were they going to kidnap me and make me an ordinary bandit?!\r\nGood heavens!"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "0f36be89b692e33668f3bdcaf157d6a7f7491ccb7eb6ca53fb06b5fad92dbc0e",
+          "english": "Hmm. To think there are people with the nerve\r\nto attack this very oasis."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "819f251cc405614c08acac3a426ecfba32c14342621208fc9a4ab477ea2d7d63",
+          "english": "Listen, adventurer. I've no standing, no money, no power,\r\nbut I want to ask something of you."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "2b6b4909fb1847dc4b8b5fe68d3c4b537570bde89302149b05f941bd7e7c3af4",
+          "english": "Will you rescue her? If this goes on,\r\nshe'll suffer, and so will every soul in the desert with a conscience."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "cc3f9325044dcaeca8266c48e70d946e3fd83ea8ca3f286f3c4d19d3d3a8f0a5",
+          "english": "The terror on that girl's face…\r\nWe can't just leave her to them!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "f271ee83f8f1512b02654906e796741e86534173d15008af9c13f718f2d63be3",
+          "english": "Huh? A bunch of rough-looking types\r\nwent running out of town after one girl."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "21b7dfac0578e016587767f997139003e5b9a04c0c0489203efc4812ffc3ce4d",
+          "english": "Please, hurry to her."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "b5ef431940642455a1b44d5ba94d24f9cf84680a86819473ee03ab409d7c332b",
+          "english": "Some of our youngsters went after them,\r\nbut I do worry whether they'll be enough…"
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "a69107f6c4280988f693d159bff7f8db84bee4bb456320dfec08e03e3a3b071e",
+          "english": "The voice she has now, the way she sings this year…\r\nI'm a little sad I didn't get to hear the whole song."
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "dafe077ec31f64b85c33a830749860832a3a00ab7d37c7b573af0699a2bd3363",
+          "english": "Dear Charlotte is what gives my life its sweetness.\r\nShe's the oasis that appears before a dying traveler!"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "0a1d4e97eed20fe3cc8df9b132744c3e92aaa0ef57b143b75ffa0a7f1242f13f",
+          "english": "You know, when I've just seen a traveling troupe perform,\r\nI feel like I've woken up from the most vivid dream."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "049d6741be676abaa69fa6fa5616ae182ac4c6f3344974e0882313ebb829567e",
+          "english": "This dream did get a little rough halfway through, though.\r\nI hope next time we can relax and enjoy it."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "9ece0330c724dc49aa05dc59a2befa8eac2e603f01f3c3b07b15f4540a423908",
+          "english": "There could be more of that lot hiding out around here,\r\nso I'm keeping watch."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "82bc304874483461ae9d6c032546eff58579502056da9be1f6fb034b17fcbc5e",
+          "english": "Next time, I've got to be the one to keep them safe…"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "9a18955ac62e1f770ea4762a7d6d290413e74f871bc06fcd5b69643518c04f9b",
+          "english": "She takes her responsibilities so much to heart.\r\nI hope she won't go blaming herself for what's happened…"
         }
       ]
     },
