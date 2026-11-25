@@ -1285,6 +1285,37 @@
       ]
     },
     {
+      "uasset_sha256": "5f257fd8f55fb23d7097cd5e887c4f6311045532c80c736bd7edc74bef9a8473",
+      "uexp_sha256": "d3cc0d11608974b4a8e5772c5bcba084e613fc87d5e65d2789e68ce896d89831",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "e4f4cc65cf3a82dcd2dbf471937dfb092f6cb4e83b7dd07af22879db3aafc943",
+          "english": "They used to be pretty easygoing about who came through the checkpoint."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "9931243169755ff19a4461eb7de31f5e80cb6c07200b76529f9775e1b2643058",
+          "english": "I know Lord Dunkirk's here,\r\nbut do they all have to be so on edge?"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "581367bbda96f233042a2da121e0a339937e80cc725e652249f781c0c70d0608",
+          "english": "Hey! I saw you with some lovely ladies earlier!\r\nWhere'd they go?"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "4b43ad761ae8ad21ba5699fe74928134a705445bd2137156de494ce0730add35",
+          "english": "Hmm... I have it!"
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "29ead875bcb5863516367190416d214b79b4fcd3b7aa38750a2104846aed65ce",
+          "english": "...There's a story there, huh? OK!\r\nSince it's you guys asking, count me in."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5f557f6214cf7098acc551a783317cfdb7506dc6dffcab97343b28504ff87f16",
       "uexp_sha256": "640f60c6711f388e7d63a0d59f05f2f6144c7a00dbeac94fb62ed617515d2330",
       "rows": [
@@ -1522,6 +1553,57 @@
           "ordinal": 11,
           "source_sha256": "61e29e2485a1f769f7293f8a113a11b801ce15d8763a94a5b143cf8e02877870",
           "english": "Not enough Engram stacks."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "74a82358dfdce65ed042373451b42528c0d6bb45fae4624f5a11d4a6ab47a3f6",
+      "uexp_sha256": "a2cdf56511a49b3be167a7c1c11aadc95f5c831c6f59cb1bcebab3aa0822e9a1",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "e4f4cc65cf3a82dcd2dbf471937dfb092f6cb4e83b7dd07af22879db3aafc943",
+          "english": "They used to be pretty easygoing about who came through the checkpoint."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "9931243169755ff19a4461eb7de31f5e80cb6c07200b76529f9775e1b2643058",
+          "english": "I know Lord Dunkirk's here,\r\nbut do they all have to be so on edge?"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "5d9554581062c2271545ba146fbbbcf951bcc006b538257d3c51a9bcc3f4f16d",
+          "english": "He may be the strongest knight alive, but what does he know about politics?\r\nI wonder if he's got anyone to help him."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "79e4d534dae474a90fb4602a33e56041eec0e8e1e6a9b8eaa376c8100378ed1e",
+          "english": "She's still just a kid, you know?\r\nPoor thing, being made to walk all that way."
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "581367bbda96f233042a2da121e0a339937e80cc725e652249f781c0c70d0608",
+          "english": "Hey! I saw you with some lovely ladies earlier!\r\nWhere'd they go?"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "4b43ad761ae8ad21ba5699fe74928134a705445bd2137156de494ce0730add35",
+          "english": "Hmm... I have it!"
+        },
+        {
+          "ordinal": 110,
+          "source_sha256": "1c8b69d531dfe9738d048a788d41c9c079fd8fa222961fd9a02e9c1c54560471",
+          "english": "Would you keep an eye on them for us, on the quiet?\r\n...They get into rather more scrapes than you'd think."
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "29ead875bcb5863516367190416d214b79b4fcd3b7aa38750a2104846aed65ce",
+          "english": "...There's a story there, huh? OK!\r\nSince it's you guys asking, count me in."
+        },
+        {
+          "ordinal": 114,
+          "source_sha256": "6468823b90185adf19c7d5e0f387bb35ca523d4129dc2f12d21ec041d585ea49",
+          "english": "Whoops, I wasn't supposed to pry. Sorry!\r\nLeave the rest to me."
         }
       ]
     },
