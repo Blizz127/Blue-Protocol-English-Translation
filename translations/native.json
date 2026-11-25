@@ -927,6 +927,62 @@
       ]
     },
     {
+      "uasset_sha256": "3e78278cbb82b97ac93f2d4192c1d5e172cd17b7a7acbfd0a8e197d5b6984918",
+      "uexp_sha256": "25eccd2bd95bb4853221facb024d3277733079287f2beef5f3adb8ac49feb063",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "744242e1cedcbe84162522cdec8d06f473c8db52ca5c6ab000efb004c64fd648",
+          "english": "Stop fishing"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "03a9b853f6bc53debd957f714d661eb1db1cce48dbb36ffe7cd2a5b86ff60230",
+          "english": "Set the hook"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "449947b287c8598b7f92b52a4bb6e11d9880d3a468f4c0bd7bc99301096299fd",
+          "english": "Reel in"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "687b1616aef1cac01c2abf9246a11580da18a9a5de0c5773dbfd6a56a7bd9174",
+          "english": "[Large]"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "3a0c66833b959298635568099ee011441826f960aa0626a6241af7936acb9b52",
+          "english": "Your item bag is full. If you catch consumables,\nyou can't keep them. Fish anyway?"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "652f12752fe1a2c7ca000fd19e5f5849f5df7867fb78e641dd85e79416730007",
+          "english": "Your item bag is full. You couldn't keep the item."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "23b94c2d0df4d4a6ed0fd8ee11baa4291f77bc24e9eb010de3b82b259d59ef7d",
+          "english": "Your item storage is full. You couldn't keep the item."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "5c22f86222b6d42a066d03e22f05ab1358f14b5f6ccb1ffa4f9cb45f0370c6e4",
+          "english": "Fish on!"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "b8b2a54a5a08859ccd397ae6d29022853552f5288082e91199191e2d7ceefa60",
+          "english": "Got it!"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "31b1bb5ba5d327057d55fafa7df56c55e16a059eb937f3c6db98f9ac92bba806",
+          "english": "It got away..."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "3ee74b48fdc50b4f64d28d5eea2fa0667fdb5fcc08f7424c49c8fb3c23c9be97",
       "uexp_sha256": "7a8785e6a8d1c71880f6414dc7b432dd0571722b280bb9267b6fa7d2081e052e",
       "rows": [
@@ -3359,6 +3415,37 @@
           "ordinal": 69,
           "source_sha256": "098590cea2e54007c88208b5f1df7eea16a3a5d3a56651b7748a61b3e6793542",
           "english": "Tell him I'll have some delicious soup waiting, too,\r\nso he'd better hurry home."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f785f71f29e9d0822917ed83639baff6b3c8885f22354e768be3efde34175601",
+      "uexp_sha256": "7414145a170831364b94112a8d1c5130675ef7baeccd96ddb94676f94620b989",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "744242e1cedcbe84162522cdec8d06f473c8db52ca5c6ab000efb004c64fd648",
+          "english": "Stop fishing"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "03a9b853f6bc53debd957f714d661eb1db1cce48dbb36ffe7cd2a5b86ff60230",
+          "english": "Set the hook"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "687b1616aef1cac01c2abf9246a11580da18a9a5de0c5773dbfd6a56a7bd9174",
+          "english": "[Large]"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "652f12752fe1a2c7ca000fd19e5f5849f5df7867fb78e641dd85e79416730007",
+          "english": "Your item bag is full. You couldn't keep the item."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "23b94c2d0df4d4a6ed0fd8ee11baa4291f77bc24e9eb010de3b82b259d59ef7d",
+          "english": "Your item storage is full. You couldn't keep the item."
         }
       ]
     },
