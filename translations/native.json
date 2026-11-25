@@ -3391,6 +3391,66 @@
           "ordinal": 183,
           "source_sha256": "04d53c91cbfe706417396b53a1a7e51435330e22f5ae5e3b5e6a2f805ebaab48",
           "english": "Whatever he's up to, we can't let this information go to waste.\r\nLet's get everyone together and plan our next move!"
+        },
+        {
+          "ordinal": 194,
+          "source_sha256": "ddd2310408da526115c94d311586fb5534ec7fd8dadef5d0b8c23b35e46d6dfb",
+          "english": "We need to know who you are.\r\nPut down everything you're carrying and take off everything you're wearing."
+        },
+        {
+          "ordinal": 201,
+          "source_sha256": "298ac2dc68516c9472dbd648ad93c885c35630c88c1274f7c63d4a5522ab2c60",
+          "english": "Dragonkin?! You've gotta be kidding me! Now of all times?!"
+        },
+        {
+          "ordinal": 202,
+          "source_sha256": "928182283363e58760e3efab65e51481207ccc5856e94a4c6857f4713115ddd3",
+          "english": "Checking their identities? What a waste of time."
+        },
+        {
+          "ordinal": 204,
+          "source_sha256": "862293a24bb263e734109ee144e13175b5780ed729db1423c0c14a023b440b9b",
+          "english": "L-Lord Linblum!\r\nBut under the circumstances, if we're to keep the peace[――]"
+        },
+        {
+          "ordinal": 206,
+          "source_sha256": "8cd089b1e9f743d815830db309a6d9db162c28f19cf615ae1e65d18dfd359fb6",
+          "english": "I'll give you leave in Dunkirk's stead.\r\nGo on. Every last one of them."
+        },
+        {
+          "ordinal": 209,
+          "source_sha256": "8fa74664a34ff4dddd16862b72b097219b2db9dc6ecf15a48926f5db19475762",
+          "english": "Oh? I see. How very noble of you!"
+        },
+        {
+          "ordinal": 211,
+          "source_sha256": "93f77f66457e1abc9c12cc6727d4d795f8d54db6f87a174c227f3e38a6929e02",
+          "english": "Die with them, then."
+        },
+        {
+          "ordinal": 220,
+          "source_sha256": "128956e20857c59c358ff0010fc6ca772175f87914be6a78893cd8862d5bd9cd",
+          "english": "…I never thought we'd find one of the dragonkin here."
+        },
+        {
+          "ordinal": 222,
+          "source_sha256": "0c9e93c10615c394e05168575928cc7eaa563a7cd3a95369477870a41755bd6d",
+          "english": "It looked like the knights\r\nwere taking orders from that dragonkin."
+        },
+        {
+          "ordinal": 226,
+          "source_sha256": "5266a8449683d1d26360e987b472883c2d8365d140a6f2511a8a003674c50c99",
+          "english": "…The key's up ahead.\r\nWe can't let the poison get us here. Hurry along!"
+        },
+        {
+          "ordinal": 234,
+          "source_sha256": "96a1cb2e28ee8ae95c9b032e7d96033e36dd517d2e19aa752c3457e14207c5b7",
+          "english": "Want to hide something?\r\nBetter to pick a place like this."
+        },
+        {
+          "ordinal": 236,
+          "source_sha256": "e7f417e2422efce9ca98b3662b177fd0aa38f93c26ddd67bdc4008912a1d5244",
+          "english": "The key should be back there!\r\nFirst, clear out whatever's in our way!"
         }
       ]
     },
@@ -4316,6 +4376,17 @@
           "ordinal": 19,
           "source_sha256": "8a8933939cc83ec7417eff8e9f9f39b24e23421e3e0e1ab739e024dea7d7837e",
           "english": "Play Audio When the Game Is in the Background"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f07a14fc0d4e81499b929e316ba28e8d0756dd5c263b7d1eec3027cd8f4e9f00",
+      "uexp_sha256": "8942339820998807574eb78fd2fbea58df056edefe2c270e73131a61844d6d54",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "ea413c430a52aa8a44196dd361ca83d63ead79a53856d30d2384a58e10af8f2e",
+          "english": "To my knowledge, most palaces and other important buildings\r\nhave passages used only in emergencies."
         }
       ]
     },
