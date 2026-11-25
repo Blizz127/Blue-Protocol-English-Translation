@@ -98,6 +98,24 @@
       "english": "{CharacterName} took a ready stance facing {OtherCharacterName}."
     },
     {
+      "table": "master_imagine_text",
+      "id": 212,
+      "source_sha256": "7638604f8ca9e10a4b61713ac9c94cf2223c144615fa38a3a7cc4f08406c30c7",
+      "english": "Dances, temporarily granting you a moderate increase to damage dealt."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 225,
+      "source_sha256": "51b5465366938fb6164d8caff27ad8664ef8f7f77f8870ee815a3aa1cb18b752",
+      "english": "Lets out a loud bleat, temporarily granting you a moderate increase to movement speed."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 272,
+      "source_sha256": "aa8474ecb4a5d7cc7bbd2483562307d794b2d8591b00d5573a7d3e093bfaa7ee",
+      "english": "Grooms itself, temporarily reducing the damage you take by a moderate amount."
+    },
+    {
       "table": "quest_main_chapter01_text",
       "id": 21,
       "source_sha256": "276b046ef3eba739e70665cef64de7329210af5572c666b3785e18b557104c0f",
