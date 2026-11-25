@@ -5648,6 +5648,17 @@
       ]
     },
     {
+      "uasset_sha256": "b1ae5b9f9ac8e9890fbba71ef47e35daf8ab360d54468532f293b4c635711889",
+      "uexp_sha256": "0db95b13898f95c0d01746b8b40bb0490f1dbb0e046602a7a324af11c52282f2",
+      "rows": [
+        {
+          "ordinal": 60,
+          "source_sha256": "24da95708a0c867664b43b829b1e99ea803bc0573929ed40ed88cac694df1be2",
+          "english": "What if I found the Zenith Shaft?\r\nMaybe then my mentor would think I've got what it takes..."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "b1fa663f8c4fc34e50a2b248a865b259d17e6f09a32d12db9aa88e7d9963e36e",
       "uexp_sha256": "4569f677ae7a7d915e68b19f28b280bbdae118ee25f7acfa37dcdb5b386c20da",
       "rows": [
@@ -7666,6 +7677,17 @@
           "ordinal": 271,
           "source_sha256": "b5932bef52b9e25ac3e114cea5f351bd7f53b193847fd4fb76194d5bb1330e2b",
           "english": "Well, a token of your gratitude will do.\r\nSized to match your gratitude, of course. Yes, indeed."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "cceceff5ee820a9755e69b0c10b0779dbc879cf558c77373c690d80061d5a727",
+      "uexp_sha256": "9bc38af8373164847cb7bf62e1db86cf7724a4ec2b1c88961fb9cdae2c5663d3",
+      "rows": [
+        {
+          "ordinal": 89,
+          "source_sha256": "f3ec96b06c2dcbe3f23df8e95e3f73e211131a5162e5aa3cf285ae57507577f2",
+          "english": "They're happy tears!\r\nYou really think I've got what it takes, Lhugel..."
         }
       ]
     },
@@ -10031,6 +10053,42 @@
           "ordinal": 11,
           "source_sha256": "23b94c2d0df4d4a6ed0fd8ee11baa4291f77bc24e9eb010de3b82b259d59ef7d",
           "english": "Your item storage is full. You couldn't keep the item."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f8c29450bdfe4ed7de8b746118c733b32c3356df22c0666e9aeef0d7d4cb14cf",
+      "uexp_sha256": "59dafe9fa5d4f686b9d3616154e2b95772d942abdafc89eeefeb7227c877c5cb",
+      "rows": [
+        {
+          "ordinal": 23,
+          "source_sha256": "1aede51f300f17ebdf2572994ce6fb4eb039db47f8479b3ae42da129014d1322",
+          "english": "Lhugel,\r\nthis is the Blitz Lancer I've been showing the ropes."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "8bf9b3ad5051d2d2fd56b2b8970ac4ef210d97c00615b7530890703a0e040aee",
+          "english": "Lhugel gave it to me. That's why it means so much..."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "6c2f3b2070080b0b188fc72db5725c9a9f2c9f9e0a2b9571d4b47f6202315f33",
+          "english": "I was so careful with it. How could I drop it?\r\nLhugel had to save me, too. Look at me..."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "76626b107a68b7b7bde4b1883d92ddb0f0cac9708197a4d3b6a51b6d70381820",
+          "english": "So Lhugel's heard that story too.\r\nYeah, I guess he would have."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "0428b9f67a8507ef8ca170011c27a38ac47629da24f0e0df73dbe303c10b2e89",
+          "english": "Hmm. I don't know if I can find the Zenith Shaft\r\nbefore Lhugel does..."
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "a5a7b04eb16daa96433fdef59fca97e178a77fa2352117eb6e4bdb88301382e5",
+          "english": "I made a fool of myself in front of Lhugel.\r\nIn front of you, too. I've gotta make up for it!"
         }
       ]
     },
