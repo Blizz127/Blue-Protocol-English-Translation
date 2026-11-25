@@ -4929,6 +4929,27 @@
       ]
     },
     {
+      "uasset_sha256": "ba094f405a29aeb990e410db76893a9e33bdd58be774d6cbecb9bd4cc7cacfc9",
+      "uexp_sha256": "d17626c7aa4398d8e9000b1b290e8db33491ea4aed629d264aeb8a4aef62c9ca",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "9f2797f4a6d8ab015563c983acc7827f0c500124ab51621861cf85a00e3159f9",
+          "english": "What's there to talk about?\r\nWe already know everything we need to know!"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "1f946985ca7a07443ecfe5810b33bb189983fb430d6e62d8df2c0dc2c965a400",
+          "english": "All that's left is to get moving!\r\n…Right?!"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "8f3e8a86711dec4c199c258ff02ec779a0b88671d73335a252e29bdf44c98cce",
+          "english": "If we can just destroy it…!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "ba8535ebba6f35beefdf2fb498d20b20a86a0b23090ac6ca1fad085577af3ce5",
       "uexp_sha256": "33f130a540359350bb344fb2c46c3edb0889c5cf1dfe6df02d24dcdc511f259c",
       "rows": [
@@ -8718,6 +8739,32 @@
           "ordinal": 65,
           "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
           "english": "Couldn’t add a character slot."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "fe83db63cc0f964f6df1490f5b25d621f0968e9784354cbe4bf754fc885bd767",
+      "uexp_sha256": "dc76f5f2312f7bf97840b587e76e3471a94a59ffd19b91a47a2a80be81f8cb95",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "6f7399f3f9ee0ca5b6895aad7154d55ddc7a297dcd059fdcd72d468dee128b3c",
+          "english": "Oh, you're back for another visit?"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "463630e381d9e80a226665f0192080beb2513b2d89a2fbc2ae7aa1dd6ce338ed",
+          "english": "This little one has never seen a human before,\r\nyet doesn't seem the least bit frightened."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "c51566a64fc6df5ba94c75aa68c1dfa1910ba3e2b53973701697bc2a170bd511",
+          "english": "Hehe… I think someone's destined for great things.\r\nI can hardly wait to see what the future holds."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "79fb950918af76b5d3529e7b990719faeaa931a279d09db4bbc1bb3a4239f096",
+          "english": "…I wonder if something's happened?"
         }
       ]
     },
