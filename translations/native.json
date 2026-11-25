@@ -1004,6 +1004,57 @@
       ]
     },
     {
+      "uasset_sha256": "4c7e1969721809057b01ac4cd88821f1799de73f4facf262a6a820cb00902558",
+      "uexp_sha256": "6bab1fae971b0d1e13b14f6a913470d5eacd7339890a637324575608104905e5",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "ecb1914d5b00b89e45b2e5497ca4e2a30ee57bab5e54bd579c0cbaa5dcca8739",
+          "english": "It's a big world.\r\nGet out there and see it with your own eyes."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "1eda297da5d75d24dbc2cccf995866564e5f52027f3749de303afe6ec85e32c1",
+          "english": "But there's been a bit of an accident.\r\nIt's dangerous in there right now."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "652403228a2be178dd38591dea4c923c0881fa342ff1cb6ecec07acdba440890",
+          "english": "We had no choice but to pull back here.\r\nWe're working out what to do next."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "b8bedc9f18a07c49ab43f60b310452c88746eed88c35be44b80a4fea562aafbf",
+          "english": "Do we really have to abandon the place...?"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5fd347ad274bb4b176283ac92e24d0bae0e8ce18b527d627c289ecf5656ce644",
+          "english": "Then, a while back, there was a huge explosion underground.\r\nThe Order's been in charge of the place ever since."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "3263933e70a17a915e8022426139b47b2401793395b568f9378eb6ec1b31af72",
+          "english": "From what I hear, no one really knows what caused it."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "269304b3a4f4ef2b8c693ee6d2d0366f90d5b73d4b2f7e3e5706402cd2f55c59",
+          "english": "Oh, listen to me. I'd better leave it there."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "553064b9d912311a34ec7d85d42fd621a4cec2e21a0da9a65f9128b22f769651",
+          "english": "We're going to catch it for this..."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "6f079f373854f3bda367e6cf5498882e0a15cfc3727362a0b99fa85db4d7cf07",
+          "english": "Whatever brought him there,\r\nhe struck me as someone quite out of the ordinary."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5423959be9e97ac056ca4ff24431f0fec841f02e813b377ee9392c17358c5572",
       "uexp_sha256": "12eabc87b9ee1e1d4e4a75a848705f3fb761ec5ae794fc79707918b1a53b8aa4",
       "rows": [
