@@ -2343,6 +2343,56 @@
           "ordinal": 21,
           "source_sha256": "96d1e4fd516b7e435a6c8c532ff1acba45aa0a831cb373a6631690f702785f2d",
           "english": "Yes, Your Highness! Please be careful."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "f37f9256ed1cdb26e62b13d4ba1492e7df0b649ab0855229fc757db248c649a9",
+          "english": "A moment, if you please. We're looking for someone…"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "24bc9e02a5c8f6c70bc66edb71deccb3e1843a82c5ec360a139337b5ba53ca4c",
+          "english": "Had a lot of that lately. I hear there's a tidy bounty on offer.\r\nWhat adventurer wouldn't be interested?"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "bb26d0936cb1b1c0c0f173676e450e7097e55cad5568da7025e538d5ee3505c0",
+          "english": "Oh, it isn't Carvain we're after.\r\nWe're looking for someone called Merlouf."
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "652cefc7944d381cdfe4656defbc862e9677f6564f7093aa131c8f94b89b55b6",
+          "english": "Hmm. I see.\r\nHave you heard of anyone seeing him about?"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "b3ade967302266e89dbdb03f3e7cdf7699cb0837cf12d3d2eacbc71361120540",
+          "english": "Word is, Knight Commander Dunkirk gave the order himself.\r\nHard to get on with things when you feel their eyes on you."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "ca5cff0a7796b18bca70e3b339db94473fd728bd2c47562f540ab0eca6c77856",
+          "english": "He dresses a little strangely,\r\nand he's… well, an odd sort of boy…"
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "d39bdc9f9c1de270a5f8e568f385959f3dc8c129d1861940d97fdea4b7c43774",
+          "english": "…and that's what he looks like."
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "2f49d265d0f2ab4c2e2fd6b780b0fe1ee6b9293b3278d0d04ad5dbb3fb21a547",
+          "english": "Well, I judged him harmless at the time…"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "69f9e11f824dadaac904103141aa2ceaed9ec3d96e091273bc78257394b2e71a",
+          "english": "Of course not. If he did,\r\nwould I stand here asking you where to find him?"
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "958ef5162de11638ca9138a41ca9d68630919ba951e82dd8b99604ea061e17fe",
+          "english": "I hope they find the assassin soon,\r\nso things can settle down again."
         }
       ]
     },
