@@ -2448,6 +2448,42 @@
       ]
     },
     {
+      "uasset_sha256": "af5a096b077aa0bb12fb9fd5d24bda3f481d9261626a5756dee649e98814f754",
+      "uexp_sha256": "8f086b91d60150bc5282e2623d605df34c46fae3153a149566fb8caf72074982",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "4d219931e4939fd4efc413cf7fd6b2751684b21751cfb922ec6673fb43cb096c",
+          "english": "How did it go? Hear anything we can use?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "d235f5824d92203f72e3b9810d6ad97af5c1b9f2e8568be861b147b58934b9ee",
+          "english": "And while we're standing here,\r\nCarvain and Einrain are…"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "908522537983bd023e6dea1f70eaf377152bd4e89de9a5183a361ce9054719dc",
+          "english": "Looks like I'll need a bit more time.\r\nKeep asking around the village, will you?"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "13d8fa99c4033cf889e65600a5dd7bf36d9931978cb843e48af5f20e1e7dfd00",
+          "english": "Jake and I go way back.\r\nHe's told me plenty about you lot."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "20df82937394fd07cbc076eb187bf046d7beb85296e725f2c8fbb3c1d6a7952f",
+          "english": "Good to meet you. Here's to working together!"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "b20db407f961e3e637eeab4685670dfbb0c482a41040e86ef990ead7d1e81806",
+          "english": "Well, enough introductions.\r\nI've still got to ferry the others over from the trading ship."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "b061f38a330705fb00ba81eaa36d083541bf76967a2e2b2f6b386f3c003592b0",
       "uexp_sha256": "6a73886d3c58385b23730e6c17910efe5befe8f0b52ec3c5536d0ca19d86d17b",
       "rows": [
@@ -3174,6 +3210,187 @@
           "ordinal": 147,
           "source_sha256": "323abdd23dc982705e44da1893a40f1fa4872154476333f0e63731069e336b7c",
           "english": "If we ought to know, our god will tell us…\r\nAnd if we aren't told, it's because we have no need to know."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "cc61fed9b420a4e9d1e1a40961c70b690bd76645418910258f9d1df360699272",
+      "uexp_sha256": "e037573527150a775d4ec9b87fe8bdbae53b094e12a6f686560dd875b3a5472f",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "8d11bc74ee8eb689490812a25312ca07b0b7993d40df2ccc979b8d70e4e6c9f7",
+          "english": "One false move could mean war.\r\nAnd the barrier won't last through drawn-out negotiations."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "68819ff7c3e7ae7c87ecd1bc3b580244d80c69f8791d1fcbab9d5575a06262be",
+          "english": "That leaves us one way forward…\r\nIt falls to us outsiders to act on our own."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "aac1d4be98b61a8190495af7ccd9ffecd5530436fa75a97f14197a37ff52d6c4",
+          "english": "Ah, I see. Nicely done!\r\nYou've earned that “Top of the Top” title after all."
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "816687db2d0cd0a364efc863e0bd9a11bdd4e1417168987dfb376d1ed93f1081",
+          "english": "A prize fool or a brave soul, eh?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "11bc00ee1b0fee23be108cb79434019147e52a487d8898b22b55afa91bfa54ec",
+          "english": "No one springs to mind, but there must be plenty\r\nwho've lost their livelihood since they can't put to sea."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "bc7edaa95eb82b1f5363162a323255a6cc5953cdb043185287c9134036e5df76",
+          "english": "No matter how old or ornery it gets,\r\nI've yet to meet an engine I couldn't tame."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "058923e41dbfb1e8b315208f5a94f87c7f4e8f5bf75886330bf40768fe753650",
+          "english": "And you'd just sail right in anyway…\r\nWhat in blazes are you thinking?!"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "e3a49e7576505aecf59a985475513b23f5f05ddee8640b9fe1958e6d22e90993",
+          "english": "A ship's engine, of all things…\r\nWe'd best leave that in expert hands."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "1a5d994e67f8fd7df106918c511541f5ccaf9af126495dbf5f027b6323e129e8",
+          "english": "We may have made quite a find."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "b889af779b6a7e274872f912a18689d8184666c336b4ceb990df89f6fa722325",
+          "english": "Yeah, that's right.\r\nBeing out of work is bad enough, but there's more."
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "564bb3e09c0cf3abae846233f177868b901775f265b43f7c76a8d0e1fe38875c",
+          "english": "We could use a hand aboard ship.\r\nAnd while you're there, you could pay your family a visit."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "1d82f11e01282f8e1d5a4b5a59ea93459a95307886cd8d77d8d9b48479e89d8b",
+          "english": "What?! You mean it?\r\nThat'd mean… sneaking into the country, wouldn't it?"
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "2a2da511b9e02f9202e9897f4d4894f83cefac2b426378d1dc4a78d7d963ceef",
+          "english": "If you stay here waiting, who knows\r\nwhen you'll get another chance to go?"
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "b32275207b2e5924b402d45670ff5c2169c5b256531569533c44ee9a46336e2e",
+          "english": "That's the spirit. Rest easy.\r\nI'll see to it you don't get into trouble over this."
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "0fcc3ad0c94b79a807d23fe4c80ec94c1b267e5dc6b924680148d9c612d2a270",
+          "english": "I left my little backwater village, Kanaloa,\r\nto come here and make my fortune in trade."
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "8f3ed0fdd49cec6d2663d42d5c4c1a7d0b0394374197c20e5f72e8cae4880662",
+          "english": "But now…\r\nSorry. Just leave me be."
+        },
+        {
+          "ordinal": 93,
+          "source_sha256": "10b816601398109c903d0ddeabd4b09df422058a3c64b80bd6991acc780b7c5b",
+          "english": "Hmm, I see. Getting there would be so much easier\r\nif we had someone who knew the area around Kanaloa."
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "4849425d63eeaec1cba2d4ccd17a8fc8301941d6a81d1cc5e0d42be42c8b4372",
+          "english": "Indeed. It would help to have a local to show us the way."
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "eef80e085536f3d6c8ec712d608e35db9d03040387194c6aea75d9d106caab3a",
+          "english": "I'm not sure how, but it seems we've done someone a good turn."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "788b520ce5031daee194c1e51cdf802ac4b457124bac44da517cfb740c897fc7",
+          "english": "Everything's A-OK aboard ship. How about you?"
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "dd1355506a95f07edb0106d9c2c4456833e88b5f93604adf75a272a86d4850c8",
+          "english": "Time to set sail!\r\nOnce we're out at sea, turning back won't be so easy."
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "aab4d4738dd42a9fe15326cce3f2f71f13dd91ab8c048a5c8eae50d309d4e7c8",
+          "english": "Don't worry! You've got the great Jake on board.\r\nLeave it to me. It'll be smooth sailing!"
+        },
+        {
+          "ordinal": 118,
+          "source_sha256": "925586b8ccd50828ad1cb80b7a1ebb0a18e80d6babe3f0d507321b44d04adc54",
+          "english": "Come on! Get in there!"
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "5fee1e5daba86e04b7825903850fa2286d4ff6a7823b34a0438aa794abf9b17e",
+          "english": "I expect great things of you, my sons."
+        },
+        {
+          "ordinal": 139,
+          "source_sha256": "976fcaa844b47cd4a2772678eaf0651c78a87125788a08c8a26403fb1c16df36",
+          "english": "It's close to the capital, with an easy approach by sea.\r\nThey say the dragonfolk used to land there, and war would follow."
+        },
+        {
+          "ordinal": 144,
+          "source_sha256": "5d8df14ac177571f8ca8a7c551185e0979e85b970e2f44fb04cc81c6cdddd2c2",
+          "english": "Oh! Look over there!"
+        },
+        {
+          "ordinal": 149,
+          "source_sha256": "556b9f2e801a276f208b96a5a33f6f5c710d5b88a0fe1a1deb72584de7da3e58",
+          "english": "Luckily, the state funeral is still some days away.\r\nLet's find out where things stand, then make a plan."
+        },
+        {
+          "ordinal": 151,
+          "source_sha256": "21d89107df42e1af2a215ff8ee1a1c40d0de2466b509ce4fb7896e49d3fffdb2",
+          "english": "A public execution, though… It's enough to give you chills."
+        },
+        {
+          "ordinal": 152,
+          "source_sha256": "a812d8d4eef242df3f67d6a059dd12f6403bf4c66ee3703b36d21255f556dc62",
+          "english": "My husband's going on about how it's a citizen's duty to bear witness.\r\nI know him. He just wants to gawk."
+        },
+        {
+          "ordinal": 158,
+          "source_sha256": "a7f3704836440f91726f998ba4cb00b84fcd528e31d164b386c322161f354aa4",
+          "english": "Then you're out of luck.\r\nWord is they're keeping a tight rein on who comes and goes…"
+        },
+        {
+          "ordinal": 159,
+          "source_sha256": "71168d73c8c47b57b997a7442712d18b4243c3b900bb5f3b5dbf017b16f18ade",
+          "english": "Well… maybe a merchant with special permission\r\ncould get in. That's about it…"
+        },
+        {
+          "ordinal": 161,
+          "source_sha256": "0e3e4d54471fc20cb25040f5944d1e9d442df6d249fba868082270101ffe7d58",
+          "english": "Ah…\r\nNow what am I going to do…?"
+        },
+        {
+          "ordinal": 165,
+          "source_sha256": "99bb3899b7605f2c26d78314ce0f3a73b176444ee33ad1ea49a186b5760fa6b2",
+          "english": "…There's more to this than you're letting on, isn't there?\r\n  Take it from me, you'd best keep any funny ideas out of your heads right now."
+        },
+        {
+          "ordinal": 177,
+          "source_sha256": "22f150e7a2656f6d5423c07f2cec1e72ae2a0efba2adbd9c233edd9dd95e1dd1",
+          "english": "Oh, never mind. This is more pressing. Here, look."
+        },
+        {
+          "ordinal": 183,
+          "source_sha256": "04d53c91cbfe706417396b53a1a7e51435330e22f5ae5e3b5e6a2f805ebaab48",
+          "english": "Whatever he's up to, we can't let this information go to waste.\r\nLet's get everyone together and plan our next move!"
         }
       ]
     },
