@@ -13,6 +13,52 @@
       ]
     },
     {
+      "uasset_sha256": "0e79989c80967dd6ea834d086d56356d8052f1f254dab91264166d3f22399fb3",
+      "uexp_sha256": "5b13f9ec412fc74b1cd42d735c6bc80de8cb4af72de67b8a8aa9e585698a14f7",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "a70f4b6a21ad52331807760c9808312794751de7be95d02b5b27d369118286ce",
+          "english": "Come, let's find whoever looks most important and ask them."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "986ae026404bbf1faf747ff692a91f294096687f3a67bb8fc5901c6cd0e04066",
+          "english": "That much seems to be just as we remember, then."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "6cc0720cbd964c2b0978fa8a38adec47bba7ce263937896e31da588a67dd2a35",
+          "english": "Is the Avaritia Shell in there!?"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "ec85fc810bf5102301f85932dc85df2a0544fd2a85598c0c0243cf924b16bbac",
+          "english": "Our god has need of your strength."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "ba1055446f41e4dd5f910005c4d90bfc7795369540116afdcc7308e7cd456c14",
+          "english": "Ah, so that's it…"
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "f3795adb06f353df04c115671f4dcb118f11f3139b7fc4aea46a1921bd33105a",
+          "english": "W-what manner of beast is this!?\r\nIt's in a different league from the others!"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "792df23047ac20207334ee05a72a06237ee81f9c46d7dac922084ba56c5f7dd2",
+          "english": "There… That should hold for a while…"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "837ff253537f3eb8d8c3f12ff7f803778ec09f9e190b4a5de8424c2ec277698b",
+          "english": "Truly, you are the chosen of our god.\r\nTo think you felled that monster…"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0f318eb6c1941784892cddbeaaf6a851bafa855f29c50585cb22b9b9fdd2609a",
       "uexp_sha256": "1267fa1e75c35d61c9c7fa47b109df44d90641a4f91913e9406ef811becde5a0",
       "rows": [
@@ -2990,6 +3036,36 @@
           "ordinal": 80,
           "source_sha256": "e3f42e7562591cd40da5a779b3500928d76770644e3bda4fc6a205be9c4e7c13",
           "english": "And here we all are, praying to the Sacred Pillar every single day."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "32046139f668fe895b7d881bef15aa8559cdfa8f82b7376e777b99eab9f1eacb",
+          "english": "They left me in charge of the Coin Inn.\r\nYou won't catch me doing a half-baked job!"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "ee6ea3e2a1ffe3a17753afe31ce92758f2578b0e0a7ebade611d213724f263a6",
+          "english": "First thing I did was go over the books.\r\nEver tried making sense of that mess?"
+        },
+        {
+          "ordinal": 119,
+          "source_sha256": "c7facb64b5b8e456359a05c3a6095ce089546ee7e4059b1d5330cbccbf964ce8",
+          "english": "Please, heed the oracle\r\nand show us the way."
+        },
+        {
+          "ordinal": 130,
+          "source_sha256": "8488e26816f69f362f6b4099660ad7a4859b44bafae9c51f3dd7a88598407fc5",
+          "english": "I haven't heard much good about that country lately.\r\nI've a feeling there's trouble brewing over there."
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "a201f4d80add20ec8cfc9444917acc58ea7270029d6f1c6c64a636d559bb6083",
+          "english": "[――]But it serves no purpose to air my grievances to you.\r\nForgive me."
+        },
+        {
+          "ordinal": 147,
+          "source_sha256": "323abdd23dc982705e44da1893a40f1fa4872154476333f0e63731069e336b7c",
+          "english": "If we ought to know, our god will tell us…\r\nAnd if we aren't told, it's because we have no need to know."
         }
       ]
     },
