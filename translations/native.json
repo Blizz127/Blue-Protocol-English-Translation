@@ -1282,6 +1282,32 @@
       ]
     },
     {
+      "uasset_sha256": "225b10588877003efbbdad281a085531f37ed927767422158eefdefbb12dce35",
+      "uexp_sha256": "8c90ede4ea3c8f9b8f619e25456b5c4e25843a5d70293f90d8fcf72a125a98b0",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "112441503172cc509891c1286b87ac2d73a8787807c42192e2b7407f6b593849",
+          "english": "Every day, we look for better ways to defend the city.\r\nWe're grateful for the information adventurers share with us."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "abc8e8d9892040b8bf5c82799bc3b91ca3d5026e596008c82489d78445a438a7",
+          "english": "When the monsters attack,\r\nwe'll need your help."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "e146d3a703697e95647b962d4551204ea96d8d43c6dff67d9c65521911fa2fc3",
+          "english": "To coordinate the defense,\r\nwe keep a roster of everyone who signs up to fight."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "817a65b5c3ffad6e2ab20091cfcb04afbd2a79916744873ad5e748996aa1ee39",
+          "english": "It's a necessary step if we're to hold the line.\r\nI hope you understand."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "23a4f81fcc3b7343f6f4784eebb38f32588823e79557b479782ef8fba2a06377",
       "uexp_sha256": "559730b92d69a5cb3b540b2f03ec40399ffd8baf3ba66f572a5f380eabd066ff",
       "rows": [
@@ -1879,6 +1905,82 @@
       ]
     },
     {
+      "uasset_sha256": "37446dda2da6275104dc5196eef646b396657607fd2246ae5ee2430b481550a2",
+      "uexp_sha256": "541ec39cc33fb4a6d06372e71f11c8fb00dfad31b5ddc3f1e55394a4d70301a7",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "ca0c422305837c13d219e91e59208751fdce77bc629a52aa15c9d9b0f27b0c59",
+          "english": "Aw, aren't kids the cutest?\r\nLook at those squishy little cheeks!"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "c761a1a3bdda47088d139bae9d0ced0df963b1b1637e88dba6c8911a3587943b",
+          "english": "This little one always smiles at the sight of you, Lord Urugarm."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "5b9cbc05a222153136007b20312fc27b164f0e998f720e78e39412073ff6649e",
+          "english": "Those Bapharian weapons?\r\nI'm gonna smash every last one for you!"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "e271cd252f7c92befecb3f78408a1e5f4732ae0ba93723dedf08a53e7ed4bbf4",
+          "english": "There, there. Next time I'll bring home one of the ones I smash\r\nand make you a toy out of it. How's that sound?"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "a0fdf442b43f435119dec94ca8ebf638c066c37b13ad68e01515c4dd5ce80616",
+          "english": "Tell me something. Are you really\r\ngoing to take on Voldigen?"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "ec9810662fb34a47db53a917147bb43067483397e72faf692276c4ceedac07cb",
+          "english": "Doesn't matter to me\r\nwhich of you wins and which of you loses."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "f830909b56516213a2ff9d76fbc088ede48e0bb84a23afc0faaefb1927643b54",
+          "english": "A monster like an Avaritia, king of the dragons?\r\nYou've gotta be kidding! Hahaha!"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "227e22e76f14b397fca794d0e7a86b501caa9c7dc3d9bc36781e4efd0743c0c7",
+          "english": "What dragons need now is a new king.\r\nOne with brains as well as brawn!"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "f47056d74de28442db58d6172c87a2369e288d32db48f597379a1314d72aee72",
+          "english": "Leave the Bapharian weapon to Lord Urugarm!\r\nGet everyone to safety first!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "34e223cf9b0a36f12b41e79c89ab6dc21e8d22d5f545baabc371d5e12f4364a3",
+          "english": "You want me to run?!\r\nDamn it! I'll show that thing what a dragon's made of!"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "f46a8804bed4fcffd6530e30d10cd859e7d17c511c438998f9e2bd5403bd01cd",
+          "english": "For every one of us out there fighting,\r\nwe need someone back here keeping the others safe!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "164f420dd252dd5939f8aac025d117c95c0f2be584284a75ba136503906401ad",
+          "english": "You took that big brute down. I'm impressed.\r\nNever thought you'd be the ones saving us."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "3363a22706341948e0194a9107fcca360d67d231b92b997f67bb443038dac4b7",
+          "english": "...Humans are weak.\r\nYou should get to safety, too."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "53b7ba2f2bbf0d368955dd14bdfcc9e573af6f3b1a753fdf3997039e89a9f18d",
+          "english": "...Oh, it's you! Go on through. Hurry!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "38af683727d93d465d8e947551d2c6a661ed5fc2b3dbfd0eb2fb64628a9e54b4",
       "uexp_sha256": "a7ebd8e1e3b0fae0883cf18b4437333b1676dcc776b8bda8fb8ab6bdd4837f70",
       "rows": [
@@ -1927,6 +2029,62 @@
           "ordinal": 7,
           "source_sha256": "e086a8a8e56da868a76dfc52245338655391813f12ff0a571e574f199dc29487",
           "english": "I wonder if Sir Dunkirk himself\r\nwill tell us what really happened…"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "3cd5fdd0910e80f7b9e935ffaa7409ce01b059a4d3e178ad670a99adb45fec09",
+      "uexp_sha256": "fdd0248307569e8bf65326f40139a8a514f486e2a107cbcde65700a2c4c52d9e",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "bcfefbcca11803d615af79fdd8ea70509c05927eef907bb5952791ba13e2e5bc",
+          "english": "We're old enough to look after ourselves.\r\nWe'll be fine right here."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "22f58fc9d8a6a4bf9847540f7fb05e21fef400bb95abd1df2c612ea5e776bc82",
+          "english": "That fight of yours...\r\nSome of us snuck a look, me included."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "2b958e416948edaa5d300bbe4dd8c1cef7a423c484d41016e1088dec39a08a1d",
+          "english": "I didn't know you were that strong!\r\nCough, cough..."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "7226b1ca60cc472eb6c50fa4bf3c63b6d8ddb0029e3ab66a1546fe7ce2b40692",
+          "english": "Heard you lent Lord Urugarm a hand..."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "f530692c3004676774e63e65a0daaf2a8aed481a9fe21387518507e09dea3e93",
+          "english": "You've got more fight in you than I thought!"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "03daaf90928f0c4160e53537feeb23a3cccc2d11e81d7e9774e3c5cfe0e40c35",
+          "english": "Hey, what does a human get out of helping dragons, anyway...?"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "f44af81cc7fbcb8e5dcc4a36fc796364152df7f18a7aa2c20d387f8e14120322",
+          "english": "If you're just playing the hero, you can quit it!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "8384ab305ad1de3ac53f24a2d5d205116420c065bc785d923f464b9d11cd9618",
+          "english": "(Aaaah! I actually said it!)"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "ed11a8b39b5818b19ac1bf60fd5e9130726da9a86f10bc8184567a1f5aeba32c",
+          "english": "...I never thought... a human would save us."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "c57fa1ca8a04b4519ca0a5b1c4dd4e214d4afb444e60a3bf4030be928e0bc834",
+          "english": "...I guess you can't tell how strong a human is\r\njust by looking..."
         }
       ]
     },
@@ -6890,6 +7048,122 @@
           "ordinal": 54,
           "source_sha256": "74c15b8647f369c73592181d1487c08a1c05faef3a2bb386a4c0792243dc9b5d",
           "english": "{Name}, one last push! "
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "de7cd3d15112ee8fa5895ac5dd674798693773225beda98188eb609f4dcc4145",
+      "uexp_sha256": "b376723c1f11cea66ea7fb67c966b1d08cbf156d22664ebab3458fcf30dc86d6",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "17bccf3ad2cb0ea80b518c9531fa4772407364f5665d6d60abc4fef2da1ff7e5",
+          "english": "We might get one of them to talk."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "d3ba409bc8ea524b9b0a28c947bbad11bf769f137a835116f903d9ed7b798493",
+          "english": "The weak die first. That's how it goes.\r\nKeeping them alive doesn't make them fit to fight."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e30c9ab8c6ee50f8aea75413f4e946758d9e91ca0c097a69a8ae70acdf0ce74c",
+          "english": "Isn't that a harsh way to talk about your own people?"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "22c4d58e64e2d522bfb255d73884f009f85f937efac167a968ff606842ea26e0",
+          "english": "That's how we've always lived. We take pride in our strength.\r\nWhat would you humans know? You grew up in a land of plenty."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "bf182c60e3a120b7ce5e9f4c3d4b932b4172d2308c2563ac8e12db040893d3de",
+          "english": "If that's the only way dragons can survive,\r\nwe'd be better off dying out!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "6aa698e476080490dca337575a99daf2a91ab443f5cedbb151bd87d7d207d614",
+          "english": "Damn right! I still take pride in being a dragon!"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "463d645aaca7bcf995eb2fd91c29373e7ca7738359825c61de7a6b74dcd14681",
+          "english": "Voldigen forgot what it meant to be a dragon\r\nthe moment they turned him into an Avaritia."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "359c53dc9ae976d26bb8882a03d3d33c128fa741b24e5d785d1ade2d68362425",
+          "english": "...Then I take it you'd have no objection\r\nif we fought Voldigen?"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "08a02a9d6dc38b5f07d57e892c6db77910eb9cfc0a60e203bce47436be1ca124",
+          "english": "Those Bapharian gods turned him into a monster.\r\nI'll never call that thing my king."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "c8014a384a22ba6d1d2fbd5d4e985370a29e15a6510d5b8839622160aba78d41",
+          "english": "Well, we..."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "da8dd5d9c0639390f2932b12bcb10650d3c28fa4ffb237a4a83eef55023c6a67",
+          "english": "(Surely she doesn't think\r\nanyone's going to buy that?!)"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "9d1dcfcc2188c453002e29d53506d48521277003e399c33f46eee9424d82311b",
+          "english": "Quite the hunch, wouldn't you say?\r\nEven Voldigen has a healthy respect for us."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "b9ce515b5e88b6ccb2d112d674a05aaf20778e85f47a96445db9b9aa5d4d600d",
+          "english": "Ha... Ahahaha! You've got some nerve!\r\nNo wonder you had the guts to stand up to Lord Voldigen!"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "38ccf55d2b6df1b9de08507bc7066ca597888e1382ce4b0f196fc868fd7c4834",
+          "english": "(Do the last thing they expect and you'll pique their interest.\r\nWorks like a charm on her sort.)"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "b080f5f76e25172be6a1b1a2f04603231707bde263cf8f850270562860ce5186",
+          "english": "Speaking of Voldigen, do you know where we might find him?"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "b447f34fd2c19814d9605f8607c73a6abfce9de478d712defcc3d1f0d47809a3",
+          "english": "Right to the point. I like that.\r\nWell, I suppose I could tell you..."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "73f0beb8c8385c00dbe95937fd33e3f00ca57441d7301ed9a8a9128b6d7ed715",
+          "english": "I'm sure you know how strong Lord Voldigen is.\r\nTry to give him a good fight, at least. See you."
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "d64d5603949ad23802e4180f2418a02aae7ed043e69f3e4ab4553d6d73baf75b",
+          "english": "Too bad! I already beat it!"
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "e67484e474480708bb2ece20254121390a5ace3181de2588c1b25023e2b7a414",
+          "english": "Above you!"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "109f981996fe110517c697f3236c531da14b4303ec1c37cd92e76ddaab39024d",
+          "english": "Above me?"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "9d1130d8066c9995f1a790da94ceb688fe4b83a9000c6465786420de450855a5",
+          "english": "What worries me is[――]"
+        },
+        {
+          "ordinal": 107,
+          "source_sha256": "7e3e347797e1df59fd80b30e12573a0a0e592e05806825ef4657bdf6a7d75e83",
+          "english": "Looks like it thinks we're the enemy."
         }
       ]
     },
