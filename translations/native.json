@@ -1005,6 +1005,207 @@
       ]
     },
     {
+      "uasset_sha256": "27f806abff94099a79081b9090643dc1028d9489f64afb5b35475d9e197d9c21",
+      "uexp_sha256": "4a2c5786b047ed003e7fd78bb3f9e24d6d45fc6b25ed335df7149207eb05e19c",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "79bc585a329c442ca622758a70122b8600c63caa5c51cc17b50c4a864e3ce323",
+          "english": "When folks are on edge, having the festival come around\r\njust like it always does can be a real comfort."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "99aa271a0670e55921d7d75a791a692949c448de879e228212f4b0d9d09fc4fb",
+          "english": "Doubt it's anything on the scale of what Dunkirk did...\r\nStill, to think someone would go after the Star Spirit Festival. Leaves a bad taste."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "9cac95781eaead5acccf0c91c39cecb00cd2c4703a0cce1a3de4c278c888be84",
+          "english": "The Star Spirit Festival's big finale!\r\nI've got a business to run, but I wouldn't miss this."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "852d99d20e971e3c227e712d941547c36de296ef53ee8e34745904c5be7247ae",
+          "english": "Just for today, let's listen to a solemn hymn\r\nand say a little prayer in peace."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "d26b2cdf2b31fc70504bf56fcdc9d3e8b6474ca785a2a4a6472be96a21e4373c",
+          "english": "Whew... Guess I'm still riding that high."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "e3d3edf7bbc7a1d2cdf38909cbc4f5044e285556089042a100b3df6ac2516cd3",
+          "english": "I've always liked the solemn hymns, but who knew\r\nthe Order gave the okay to something that groovy?"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "0d51966db835a3d7bd5b67a7ce94d3ae20967f4d368153a8bfb3b8b295924c97",
+          "english": "Makes me see 'em in a whole new light.\r\nMight get some younger folks coming to services, too, huh?"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "44276cb59a41fee2ed8a41f10d99975b5fed626fd1727a93ec2e0fb6f8c3bc01",
+          "english": "...I'd kind of like to have heard it."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "ff51ed175bfaa975bc1f47452fd11f1ad70682bef9184958f3da2b07f01e195b",
+          "english": "If it weren't for work, I'd have a lovely lady on my arm,\r\nand we'd be whiling away a pleasant hour together."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "96ef0f873dcf1b157499d135db00b83852355a3566e6dcdacd67e6c1aefcd76f",
+          "english": "My soldiers are quite capable, and there are the Order's guards, too.\r\nSurely we can leave things to the people on the ground?"
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "11ef415c99dc3f692ac55bf72805bb4f8c2b1d130a32b36feb525093fc6b6999",
+          "english": "I am a priest, humble though I may be.\r\nThe least I can do is put in an appearance at the festival."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "3b25cf00474d99702ea8d96c98f666ed22e4da60b40163d671df0e62405c4c51",
+          "english": "But her, of all people...\r\nI suppose she did seem a passable singer."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "93c02e73f0c510ec1453ee44a56267845556fe877fe990150234425992d08b4c",
+          "english": "With all the recent upheaval,\r\nI did wonder whether we could even hold the Star Spirit Festival."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "1408f3b9c74ff65c65d9e40f0fd6c590a34e700cb256d80ee27bccbd259267b0",
+          "english": "Ah, well. I'd hoped that once the festival ended,\r\nI could simply head home."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "787db2a52fde9ffd637c04f0f1f2d50d4060417d0f831c0106fbd6f2f40a7361",
+          "english": "After all that commotion,\r\nI can hardly withdraw our soldiers just yet."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "62317ed3028e871d8719e719db8a43c960e164287488270cc7b01a0d1a9b9843",
+          "english": "If we learn anything, I'll inform the temple.\r\nGood day to you."
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "187e89f643a73fe9a7fa7eca505f149f4307599de2a785ab8c0bedec32c2fc23",
+          "english": "After what happened recently...\r\nWell, I expected there'd be some hard feelings toward us."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "5fe5851724522650226f542ed08421d250fc9aae6ebc3623417d1dca7cfa4279",
+          "english": "I'm sure some people still have hard feelings about what happened."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "43c09af6ebf242627f8a537a2a35c903ddc124fe83a5e6d5d4a5a62bf84d7cd4",
+          "english": "Right, clear! Left, clear! All quiet again today!"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "e74ba5643506e1bdc6e33552c1f6d37c6fbf9440ba23e0e4908cfe61d52afe27",
+          "english": "At the very least, we'll give our all to protect\r\nthis Star Spirit Festival everyone's been looking forward to!"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "a0c13a3d96a5e7388ebeb8d782b05cc9e83d3951605e983f9c544fddc644cc78",
+          "english": "Right, clear! Left, clear!\r\nWait! I'd better keep a close watch above and below, too!"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "da9570b29a40fe0636cb40f52389a2df94426d08eae621e5025f0e2a3594eb31",
+          "english": "There were all sorts of food stalls,\r\nso we've just had a bite to eat."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "ead5d999b4512c2fde7efc4e486a90924a8efb84f7de04427246deb621fd0de1",
+          "english": "Now then, it's the theater we want, isn't it?\r\nBut where would that be?"
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "b6864ef57ffba1a799a0c2dcf68886e8a0e52fa787a7307bfc7d4321ea6edde1",
+          "english": "This city's too big for me. The streets twist and turn so.\r\nI get more lost here than I do in the woods."
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "0c4d6e66920ffb590b23937711826fc0abdb1f5d240aac8e9d5695419319095f",
+          "english": "Wh-whoa! A h-human just talked to me...!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "07489d5f100c15985b718675dd433e1c3340e1c6061dae0f5b2471dd1748b0c6",
+          "english": "G-Grandma, I'm still scaaared..."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "e7c5a732d11627d8f60ee339365e4af93e7c1041aa2c0be3af75d838acb3828c",
+          "english": "Oh, I'm glad we could hold it again this year.\r\nThere's something special about the Star Spirit Festival."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "9a58f49585d2a422ee75e61e3e751a8a0a7be93933a61f2c38499b35aec26848",
+          "english": "I wonder what their voices will sound like.\r\nI can't wait!"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "99ad3ed5d8badd78745622071c33795c41702f929bf3b1f1de6ee3cffded5ef8",
+          "english": "I couldn't help opening the door for a peek.\r\nNow I've got to write a report on why I shouldn't have done it..."
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "5be5d9a5760b100eb0b8146ceab70660fa83271deb69681b9179dc3655035434",
+          "english": "Hey, I've got it! I've figured it out!"
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "55a131ff2529c7a91a6206209b7bbce8fd8fc1f4a39161d281987a0bc9b9848a",
+          "english": "...Wait, who are you?!\r\nH-h-how long have you been listening?!"
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "35d492c3954a2df6f4a84ba006bc100e75b5c0d3e45a9bb330691fc4f01aa722",
+          "english": "Th-that was... a joke, obviously!\r\nI was just saying there's no sneaking into the temple, so I give up!"
+        },
+        {
+          "ordinal": 110,
+          "source_sha256": "31809d7a910db63c1ea30731e6dcee774f43464a1ea9b840ab5a2babd647e5dd",
+          "english": "Perhaps this is how new traditions come about\r\nas the years go by."
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "3f6e56c11f79969a4c78f199760cce5d39e0e53bd1a43e128ed169e5b5a1dc89",
+          "english": "They didn't pick me to be their songstress this tiiime ♪"
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "1834cc2c6f3a809d81f8adad95abbc9b48c9a770324e5454ac5834cbdb2dc6bf",
+          "english": "Oh, the Bapharian Order has no eye for talent ♪\r\nHow could they miss miiine? ♪"
+        },
+        {
+          "ordinal": 116,
+          "source_sha256": "3ada33aadb4a9a409e1af7822572e69a1f4e2dddd754e631fa3044317fb99858",
+          "english": "Do you understand? There's a world of difference between this\r\nand some vulgar excuse for revelry."
+        },
+        {
+          "ordinal": 119,
+          "source_sha256": "71481cab26876e9db483a331b374dd89fcee2fff45904949953940aa55080e30",
+          "english": "The Star Spirit Festival is no child's play, I tell you. Hmph, hmph..."
+        },
+        {
+          "ordinal": 122,
+          "source_sha256": "d5182c7ea9578dc4987a5d809c98fe01f99156eb287900cfe081eae59ecdbec3",
+          "english": "There's no need to rush. We still have time before it begins.\r\nLet us join the songstresses in quiet prayer."
+        },
+        {
+          "ordinal": 127,
+          "source_sha256": "f2f365fb42004e892208f7b1772eaee174ef5f9108899e99e0169eae0a002a50",
+          "english": "I left my husband in charge of the kids,\r\nand of course I got here before they did."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2c7d7e280dbcc5cfab77411e8746377ee5f2a1bbce9d7fa0779535a171a8d69a",
       "uexp_sha256": "9918af225b36a373403f47f5923a97247cd7e128b442ef5875af083400cc5117",
       "rows": [
@@ -1853,6 +2054,131 @@
           "ordinal": 415,
           "source_sha256": "03560132c9affcbce8bba73205b59667630794bcb443af6e06b399698c8a891f",
           "english": "Send them packing, servant!"
+        },
+        {
+          "ordinal": 468,
+          "source_sha256": "7553f12f39e73d3de224840d3c9e0d696082c916ce55d6dc04e1a30bea77374a",
+          "english": "Thanks to all of you, it looks as though the Star Spirit Festival can go ahead."
+        },
+        {
+          "ordinal": 488,
+          "source_sha256": "d350ca56fded27391ac14e3d09d5152ddd6350ba199a41fc19a92d7a15066b4c",
+          "english": "I never realized how easily plates break..."
+        },
+        {
+          "ordinal": 489,
+          "source_sha256": "95abc2a36a3aa3f77bbfd18d0b482943247f289cb8847c88bc1b2c2a0deb21f3",
+          "english": "Sure, they break easy, but who else can break 'em\r\na hundred at a time? That's a talent in its own right..."
+        },
+        {
+          "ordinal": 495,
+          "source_sha256": "cd91db749f002d5d870689315d3b64411a6c21dd1865e71ce677fc0d45dcb1ab",
+          "english": "Please, no. It was my mistake. To ask a perfect stranger\r\nto pay for it would be terribly rude of me..."
+        },
+        {
+          "ordinal": 497,
+          "source_sha256": "8b080db8a0e87814c2acc28b9ad5ad4a88f5df5c27568684990d563e29f8c8f0",
+          "english": "It must be fate. What do you say to a cup of tea?"
+        },
+        {
+          "ordinal": 500,
+          "source_sha256": "9d20ebcbabbe60abe7d3220fd87099e88ea4c47cf1e6430139aa71b3d0be23e0",
+          "english": "Time can be so cruel. If I never saw you again,\r\nI'd regret it for the rest of my days."
+        },
+        {
+          "ordinal": 505,
+          "source_sha256": "9d9ad012fd1ce28fbe153daeeffb9cc7a33bc0610fe9b339a053e40eea1ac0e1",
+          "english": "Oh, so you knew who we were!\r\nAnd still you ignored us. Rotten of you, that."
+        },
+        {
+          "ordinal": 511,
+          "source_sha256": "75eb697d1d689997a03e12d4d92318021984ba8e65be949f4dcfbb9111e8ff85",
+          "english": "I'm a man devoted to his work, with everyone's best interests at heart.\r\nNow, shall we go have that tea?"
+        },
+        {
+          "ordinal": 516,
+          "source_sha256": "8fcf5a00f2f80cfa8211be446b0d3e4fac5e759d6f710e4537f05805d5a13e1a",
+          "english": "Oh, spare me. That man is such a stickler.\r\nI'll only get another lecture."
+        },
+        {
+          "ordinal": 519,
+          "source_sha256": "3ace74b4ca8ade732c380e81f75964f026c9564f37fea7d5f4dee9b9d59608d8",
+          "english": "Well, I must take my leave.\r\nUntil we meet again, fair lady..."
+        },
+        {
+          "ordinal": 560,
+          "source_sha256": "383f83d42e844719a0dd95c30d8c24f3634ab64a13779eda278c1f79ce09a99e",
+          "english": "It's supposed to be one last check, but the more I go over\r\nthe words and the steps, the more nervous I get."
+        },
+        {
+          "ordinal": 561,
+          "source_sha256": "d817bf5663597256e7419cf1d4624d74e515b792481737d851fd9e1cd3c4d8a6",
+          "english": "Times like this, it actually works out better\r\nif I quit thinking and just go for it!"
+        },
+        {
+          "ordinal": 563,
+          "source_sha256": "06c64bbb95d957ee6a95aca06a1d86c42d66cc0f161ae4e8f676add42c7791ff",
+          "english": "Sometimes I sing for money to fund my research,\r\nso I get to know a lot of traveling performers."
+        },
+        {
+          "ordinal": 568,
+          "source_sha256": "08ae9e45ba74d613ce54fb32593ed11dabec24baf9064a3b76cdfe4abbd73b18",
+          "english": "Ah-ah-ah-ah-ah ♪"
+        },
+        {
+          "ordinal": 570,
+          "source_sha256": "afe745aa932aed6dc92e433a14e9cf2823cb82931e80be88e3456ce0d950fe26",
+          "english": "It happens whenever I'm about to go onstage. I can feel the energy welling up.\r\nMakes me feel like I could do anything."
+        },
+        {
+          "ordinal": 572,
+          "source_sha256": "e06929a445cef510fe471a424f166c5682b672912bb3c8fbf0d5c96496fbbd09",
+          "english": "I've got all of you behind me.\r\nI'd better make sure I do my part, too."
+        },
+        {
+          "ordinal": 576,
+          "source_sha256": "4da73c2af99d5368b1507ce0da145f54221941bf243aac2b00102a8340b43aa2",
+          "english": "...A splendid opening declaration.\r\nJust what I would expect of you, Lady Einrain."
+        },
+        {
+          "ordinal": 577,
+          "source_sha256": "f3b3fa9d06d7b458ded1d0e9c1535dd1e4645c7320527d685b96b55579549c20",
+          "english": "Once you've made the declaration, though,\r\nplease return to the sanctuary at once."
+        },
+        {
+          "ordinal": 581,
+          "source_sha256": "e932f52f1720bba52e66373d3717278cc247582e65bec5a34cf29eb3012fcac9",
+          "english": "I'm afraid we still have no idea\r\nwho those armed people are..."
+        },
+        {
+          "ordinal": 582,
+          "source_sha256": "be9ddc758c362e7e5154ec07bb4b56d6c760b59029e5e3ca60e1566e812d4730",
+          "english": "Carvain said he'd like\r\na word with you all."
+        },
+        {
+          "ordinal": 583,
+          "source_sha256": "25f893bda784fda61df6434e00018065fe056c6064c2b582bcbde7446150e5c8",
+          "english": "He's stationed at the theater entrance.\r\nPlease go see him when you have a moment."
+        },
+        {
+          "ordinal": 619,
+          "source_sha256": "f240c59a1e85716b6318e9a41afa5981bba85c47c48a572f0f7aef69efa0590b",
+          "english": "Damn it... Everything going to plan on their end?"
+        },
+        {
+          "ordinal": 620,
+          "source_sha256": "094d1b9f60ae5dc2afe38203be9405af7e13a3c996b8e1abf68f8bef70d31837",
+          "english": "So they did show up after all."
+        },
+        {
+          "ordinal": 625,
+          "source_sha256": "12501ddfdefb60881c8f9e64310b58e1d7feb0b06ea522509e8414ec6a5b6052",
+          "english": "Whew... Is that all of them?"
+        },
+        {
+          "ordinal": 626,
+          "source_sha256": "0f7f02b1cb31faa1c5fd32ff510f76c0faee85c205fb02bca052d510ea087697",
+          "english": "They'll be coming up on the big finale over there."
         }
       ]
     },
