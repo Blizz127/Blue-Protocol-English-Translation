@@ -2,6 +2,117 @@
   "schema_version": 1,
   "tables": [
     {
+      "uasset_sha256": "053570d8b78a956799e54c0c0baf043c105d06b5be05c14f8e44cd736aaafe7b",
+      "uexp_sha256": "2ba92bc0808fcbdf29a6ae2d20fd7ca282afb80df65c779a7ac8b5c2378bb82e",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "1987a5e3b9fa6936cc3b403af713c99cc80f7d13fba80714985857ad51f0d0ea",
+          "english": "Sly one, isn't he?\r\nGot guts, too, and a quick mind. Quite a man."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "92c92d3a4a071723e26b7ed9aaba148ebf97ec706f7d82336d25fa86292c0072",
+          "english": "…One more to go?\r\nSo the lineup's still up in the air. Hmm…"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "e6c487236da6648fd5d593b1db2097ed28696933feb738870b640d6104751f9e",
+          "english": "Huh? It takes a special gift?\r\nAw. I was all set to show off this fine voice of mine."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "ae3f6def7205107834ce8333d1aabf2caaa27e93a5cb91d84aa74071de43ba04",
+          "english": "It's peaceful enough to make you forget the clamor of the city,\r\nyet it has all the bustle of a growing town…"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "de9d873b31e668ba342e018ebab70abf6e10da92d682bcacf598504d4e6d3de4",
+          "english": "Just a little joke, of course.\r\nI would never dream of taking control by force."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "7aef5fb621f6e93bce0b3195384b1819b952ba0c8ed7d7e9a959e258f4c3274a",
+          "english": "My sole aim is to foster friendly relations.\r\nThat's what brings me here on this visit, after all."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "c7ff1ccce9565bfa71e30e3796a3374cca7202d001683327022048a92286b0e5",
+          "english": "I'll see to it that the local people benefit.\r\nYou needn't worry."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "f10594d34f27ae21903a25515c36e7ec5133dac7c38007068dae7ad22ee50d2b",
+          "english": "Now, now. Don't be too cross with her.\r\nYour singing isn't so bad. That is to say…"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "c7d943a36b15e171581e99606bf6fba2b487d2039e1e876a34d1e4a4a5074c16",
+          "english": "Oh, it's no use. Best leave her be for a while."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "b8884dd271b79e7631f5318fb2ac922b66af90add570f8fe165fca4621ee12f7",
+          "english": "Let's give her a little time to herself."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "099a08c6bab63f1ce36730779956be830c139179204ffc4f22bb04dc1d68af64",
+          "english": "We must keep our wits about us\r\nif we are to bring her safely back."
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "1dce9369e94c7e2b4746fa59490f0e67f564787d72395dd939c0603645cea37c",
+          "english": "I heard the most beautiful singing a little while ago."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "c059e6c0f3f201c37b4e8681ce7e45743d0ce06838d01fa3a78d017bba251c44",
+          "english": "Oh, that was her singing!?\r\nI'd never have guessed."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "bb0ddb9618afe8f26c5f5cedf126a4f8b61853976d2e0b95178f045a5d9b749d",
+          "english": "Even apart from their calling, those two\r\nwere lovely women, each irreplaceable."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "bc73453b553d067ee42a88d57c0ecae78ec8d47d8ef76e26faaab0693335dded",
+          "english": "They closely resemble humans, and our peoples have long been in contact.\r\nUnlike goblins, for instance, they are highly intelligent and understand speech."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "31fa16928739e55fd1f3e35c7610806c12245c90f1a625222b7d31d9658ca80f",
+          "english": "I suppose you might say our two peoples are friends on equal terms."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "84b2896c29439d1201a16fe8174c657376eb75abd8a757a6e28624076af68932",
+          "english": "They have some fascinating traits.\r\nFor one thing, they retain a youthful appearance throughout their long lives."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "ba463c2993f997678aafc4653ce88cb74301a4d63d378cb063a633924b1232f4",
+          "english": "She also fulfills her duties as a songstress admirably.\r\nShe even holds classes to teach others how to sing."
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "d885c644668fd2e164ab6d23c80cc6ae9b61dc001e9a900935eb406e01e3169c",
+          "english": "Hmm. I thought I might start stocking it, but…\r\nI can't see much call for it. What to do…"
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "cdd7557a71ec7e26d4df9380e42f0d5dcab61bc72a02dcfd40bf529c0d6661cb",
+          "english": "Couldn't you help her too, adventurer?\r\nPlease, dear."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "9a907bfc7610dadd9fb9e2be1afe771880648eca43a12e040d45a3e50853d24e",
+          "english": "We all help each other when we're in a pinch.\r\nI do hope she'll come and visit again."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0983ac5d2d28ffa96fa40765197562fab27afce2e7e108e2fca8d2ad33f9b0d2",
       "uexp_sha256": "87e76e93d32269832aaee42fcb73af2db9c040b88168e9029b5408b24a7ab2e6",
       "rows": [
@@ -1662,6 +1773,76 @@
           "ordinal": 141,
           "source_sha256": "6c69fc2901683ab2cb46a1eadfe20d5cc494131fe4cc6210b23415a07b0c3e5f",
           "english": "That's settled, then!\r\nWe shall find those other two, come what may!"
+        },
+        {
+          "ordinal": 166,
+          "source_sha256": "1a4804735a05130e67582cc4962d5f09f43a0d307178056d09a4b9d1d9f0325a",
+          "english": "Come on, all aboard!"
+        },
+        {
+          "ordinal": 259,
+          "source_sha256": "119628720b614bb02a6089dcc5ef5b9c3bf1fc2982d13639c4b0fa8c9ccdfb42",
+          "english": "L-look…!"
+        },
+        {
+          "ordinal": 282,
+          "source_sha256": "4cc2881242deddb4ee6af4463d955bfd25fdca98c5ce43f68eb6dc8d61d8b294",
+          "english": "Can you make the medicine with this?"
+        },
+        {
+          "ordinal": 291,
+          "source_sha256": "74ece823c1ffcc9a96de863d71650b94010a11c00e50eeb9f4172b225faa5830",
+          "english": "I! Am! All! Better!"
+        },
+        {
+          "ordinal": 298,
+          "source_sha256": "32d1416f0d9d21a3f105706b41826ebd65217d1dd0da5a8511ae4f3d869b47cf",
+          "english": "Oh, the strain of going all those days without a word! The relief of finally speaking!\r\nNow I know what it is to be utterly, gloriously free!!"
+        },
+        {
+          "ordinal": 306,
+          "source_sha256": "c21e8bd41d4068967d118675d79ff7fa1bf0a83db969fe3bf01c03374ac4e705",
+          "english": "Y-you're quite a cheerful one, aren't you? So full of life."
+        },
+        {
+          "ordinal": 308,
+          "source_sha256": "807a9bca1a94039a2450249c7870c53b58bf7a1b1bb7eb5a2c4027796aef87c7",
+          "english": "Oh my, coming right out with a compliment like that…"
+        },
+        {
+          "ordinal": 313,
+          "source_sha256": "4f84a0bfab64e1128a5e73e48048ebfd63aee1d52ba03684fff6af2cf1bba8a9",
+          "english": "Well, it's good to hear your throat's better.\r\nCan you sing at the Star Spirit Festival?"
+        },
+        {
+          "ordinal": 315,
+          "source_sha256": "bbf7de3a150b61d812d328270158632b96540b3943831388124182e175caaab1",
+          "english": "Hey… That's my line!\r\nWe can't both use it! Pick something else!"
+        },
+        {
+          "ordinal": 316,
+          "source_sha256": "5518bd958d7938357fc06bd87deabd8b2e85a3f20fc9b2c69f85082a275b3766",
+          "english": "My, my. I was a songstress before you, wasn't I?\r\nThen you should listen to your senior♪"
+        },
+        {
+          "ordinal": 347,
+          "source_sha256": "ca255049a27de2739b129a725a9ca28f3fec5d09eafee6fcecba2d8a9da94013",
+          "english": "This song… Is that how it went…?"
+        },
+        {
+          "ordinal": 358,
+          "source_sha256": "c07707a241b0997521916aa5aa7d7b0601329afec6b0622f515e538657ed0dc5",
+          "english": "It feels so familiar…"
+        },
+        {
+          "ordinal": 360,
+          "source_sha256": "3dbe4b0b775e01449aff3d268f585f7ef3566b83b7141f86529eda83b504ae2d",
+          "english": "Familiar…?"
+        },
+        {
+          "ordinal": 371,
+          "source_sha256": "306411654ca4a9c19ab9e71399a9d34ed4f734dccf4f61de395cc63eabe7d36a",
+          "english": "Even if it was a coincidence,\r\nwe can still be glad that things have improved."
         }
       ]
     },
