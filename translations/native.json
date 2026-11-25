@@ -1007,6 +1007,26 @@
           "ordinal": 425,
           "source_sha256": "55167fef1541cf271d6d4750424522b8c58b81c51f55b8d6b721df0e26733396",
           "english": "Pillar: 1,000 Years Ahead and Back"
+        },
+        {
+          "ordinal": 499,
+          "source_sha256": "91ceb6cda6aa08de9953e735dcf18e18173c16d156e70d3387e12ae4ba461a14",
+          "english": "Intermediate Combat Tips"
+        },
+        {
+          "ordinal": 500,
+          "source_sha256": "596b0ccdf66308fdb8d1ac16826e4a0b58cd556fe82fcb56e81fa1d9e247d6cc",
+          "english": "■ Watch who enemies target\nAttacking or healing makes enemies more likely to target you.\nOn the front line, keep enemies from targeting the back line.\nOn the back line, avoid drawing their attention.\nIf you want to avoid becoming a target,\nwatch the Aggro Alert. Try attacking when it's yellow\nor attacking less often."
+        },
+        {
+          "ordinal": 501,
+          "source_sha256": "a32aeff25a3329a799cdb0890f4cd845d17df7a567cc0d64db8d935a7fb64bfb",
+          "english": "■ Check your gear's abilities\nCheck weapon Special Effects, Attributes,\nand Imagine abilities. Copies of the same item\ncan have different Special Effects or abilities.\nEquipped copies of an ability add up. Find gear\nwith abilities that suit your class and equip it.\n\n■ Experiment with your Battle Build\nTry Class Abilities that cover your weaknesses\nor a low-damage Battle Imagine that inflicts\nstatus ailments. Consider how effects combine."
+        },
+        {
+          "ordinal": 502,
+          "source_sha256": "2b608e0fa3b3dffc44b28b1d46a7d4e1200ffafa8624f5a4f8c9f3b37edda27b",
+          "english": "■ Level up different classes\nAt class level 30, you unlock a slot for Shared Abilities.\nUse it to equip a Shared Ability from another class.\nLearn Shared Abilities from several classes\nto give yourself more options in battle."
         }
       ]
     },
@@ -8806,6 +8826,16 @@
           "english": "Turning Your Character in Place"
         },
         {
+          "ordinal": 440,
+          "source_sha256": "f4ceab330f4351b8de4faed9ac36a96e70dadc3fa62ccab5871a4870039ea391",
+          "english": "Special Status Effects"
+        },
+        {
+          "ordinal": 441,
+          "source_sha256": "4e077af6e7402404791910ba26329a7bda457651231b6e5cf5bf88a2c062eb0c",
+          "english": "1　Weakness\nYou move more slowly, deal less damage, and take more damage.\nYour skill cooldown timers run more slowly.\nYou can't use a Mount Imagine while Weakness lasts.\n\n2　Possessed state\nCertain Battle Imagines put you in the Possessed state,\ngranting temporary benefits such as increased stats.\nThe effects depend on which Battle Imagine you use."
+        },
+        {
           "ordinal": 442,
           "source_sha256": "a602d81fe625f640b8d417a8aac08c5517e6c1c1214fd60629eff5da8b3fc078",
           "english": "1  Dead Count\nWhile active, a counter decreases each time you take damage from an enemy.\nWhen the counter reaches 0, you become incapacitated.\nYou cannot be rescued and will be revived immediately.\nYou receive \"Loss\" when revived.\n* Dead Count cannot be prevented or removed.\n  You are also revived immediately if an enemy defeats you while it is active.\n\n2  Loss\nWhile active, you cannot recover to your maximum HP.\n* Loss cannot be prevented or removed."
@@ -8814,6 +8844,26 @@
           "ordinal": 462,
           "source_sha256": "55167fef1541cf271d6d4750424522b8c58b81c51f55b8d6b721df0e26733396",
           "english": "Pillar: 1,000 Years Ahead and Back"
+        },
+        {
+          "ordinal": 536,
+          "source_sha256": "91ceb6cda6aa08de9953e735dcf18e18173c16d156e70d3387e12ae4ba461a14",
+          "english": "Intermediate Combat Tips"
+        },
+        {
+          "ordinal": 537,
+          "source_sha256": "596b0ccdf66308fdb8d1ac16826e4a0b58cd556fe82fcb56e81fa1d9e247d6cc",
+          "english": "■ Watch who enemies target\nAttacking or healing makes enemies more likely to target you.\nOn the front line, keep enemies from targeting the back line.\nOn the back line, avoid drawing their attention.\nIf you want to avoid becoming a target,\nwatch the Aggro Alert. Try attacking when it's yellow\nor attacking less often."
+        },
+        {
+          "ordinal": 538,
+          "source_sha256": "a32aeff25a3329a799cdb0890f4cd845d17df7a567cc0d64db8d935a7fb64bfb",
+          "english": "■ Check your gear's abilities\nCheck weapon Special Effects, Attributes,\nand Imagine abilities. Copies of the same item\ncan have different Special Effects or abilities.\nEquipped copies of an ability add up. Find gear\nwith abilities that suit your class and equip it.\n\n■ Experiment with your Battle Build\nTry Class Abilities that cover your weaknesses\nor a low-damage Battle Imagine that inflicts\nstatus ailments. Consider how effects combine."
+        },
+        {
+          "ordinal": 539,
+          "source_sha256": "2b608e0fa3b3dffc44b28b1d46a7d4e1200ffafa8624f5a4f8c9f3b37edda27b",
+          "english": "■ Level up different classes\nAt class level 30, you unlock a slot for Shared Abilities.\nUse it to equip a Shared Ability from another class.\nLearn Shared Abilities from several classes\nto give yourself more options in battle."
         },
         {
           "ordinal": 567,
