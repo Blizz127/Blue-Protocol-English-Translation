@@ -872,6 +872,122 @@
       ]
     },
     {
+      "uasset_sha256": "5423959be9e97ac056ca4ff24431f0fec841f02e813b377ee9392c17358c5572",
+      "uexp_sha256": "12eabc87b9ee1e1d4e4a75a848705f3fb761ec5ae794fc79707918b1a53b8aa4",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "8566780d4256720b9ed56437f4875441ebdf510185210e3631b12729b3ca73f3",
+          "english": "The old man at the Coin Inn says it's his treat. Hear that?\r\nYou should go right now. In fact, get going. Heh heh..."
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "fd09348956e1c3a1aff5badd026972d188ea0ab059e85e17bf82467f890df293",
+          "english": "Hey, nice work!\r\nLooks like you've got those jobs well in hand. So good!"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "4b0e6f1820bc1563b214e9ea6105269bf50f52acb442aae96eb852cb4f8d715d",
+          "english": "Run into the dragons or Avaritia lately?\r\nI've been asking around since we last talked..."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "cd7bc8b0c01a685c9d634413a978bc8caccead39280315bd24094c5b848c6739",
+          "english": "It's like I thought. The dragons are up to something.\r\nThey've changed the way they operate."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "a7b1f5ef2cb80f1dd4656b357cb06b7a14e875cd7d9c3dcb0efdc2ee2aa6d993",
+          "english": "Come to think of it, that attack on the Duchy of Bernhardt was odd, too.\r\nWord is, the dragons actually \"pulled back\" partway through."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "bca5b323f5c63f8ab6e65986d95458a540fbd8a6e9014c730702b8d0cdb538e3",
+          "english": "Used to be, once a fight started, it was kill or be killed.\r\nThat's what made the dragons so dangerous..."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "3b81aa2d1890870fbb8c05cd57f710c5cea789344f0abb46738d27e2c459fd39",
+          "english": "Between that and Avaritia, I smell trouble.\r\nIf things start looking bad, give me a shout. Anytime."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "78e49397e53c65595dbeba09bcacf1551a2aa7656f2e14b8019185edbb01811f",
+          "english": "Professor Walkin said something about wanting\r\nto investigate the Giant Tower Ruins."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "debd2ffb0fb113ff6a776c7e58fcec59a10d8d7ff54da675be9cb595b7de23e6",
+          "english": "Once the professor gets an idea, it's straight to work.\r\nI didn't get a chance to ask for details."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "8fb42fa84a2e5e1272d5cebf927a389bf0571ee776a2fd2191c6f25af11ce7be",
+          "english": "The priests of the Bapharian Church teach us\r\nhow to use the relics of Bapharia."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "7298e016f3a26f317e5d4732fbc8863a2ec2ee97ff7547acd900434c87756b3b",
+          "english": "I hear that's why the priests spend so much time\r\nstudying those relics."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "8ea80d041b236ce2ec0dc15c66de45073ba9390cf1030cb594c04482ea4ee09f",
+          "english": "I guess you have to be pretty sharp\r\nto make it as a priest."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "ea86c2e9933daa8f796b3f095a51802cf31dfd324dbf149540abb8eafdb6bb3b",
+          "english": "You know how Bapharian relics turn up in ruins?"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "2a2bef7e0a385262ca12d90d093b717e34c95901aabef7106452c6a7802ef6cb",
+          "english": "Once the priests are sure they're safe,\r\npeople start using them around town and such."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "694d86ac672a5ec7231dfcca04dc27028fd77fdb843655348ce73b648ee6d98b",
+          "english": "They are a crystallization of human feelings and Engrams.\r\nEven the relics of Bapharia cannot create one."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "daa75d20fc6e7628e224e1a2477e21ac96a9308cdc4080e9b0358cf0e733f894",
+          "english": "A dormant Imagine can be awakened,\r\nbut to create one from nothing is impossible."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "851a51fd3f51c4ebff122bf9fb2011686c873d108ba83b5a614108a876312b2c",
+          "english": "How do they come into being, I wonder...\r\nHmm. I do not know. A mystery indeed."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "503f4eabfab521f59a03e8dd972767e2793ca88b489fbd0ceceb02e341008f7e",
+          "english": "Just getting in there is tough.\r\nThat's part of the adventure. Show 'em what you're made of!"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "39f8e1aae064ae801198a647885a51ba68ea522ddea6224542132b216df26c8c",
+          "english": "Well... the Church sent me in on a maintenance job,\r\nso I only saw the lower floors."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "1d7d259ef93a1ad73af07791327b8358732a7ab5cb88dbf2f2b30be341175715",
+          "english": "Got everything you need, adventurer?"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "5419eba80be6491b0a826809b324cb42ef6c134c0f69d091aee7ea9169406c95",
+          "english": "Once you get the hang of adventuring, that's when to be careful.\r\nIt's the old hands who take their preparations most seriously."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "4317db28c29df408e2c66a6538c8006929be4088514c7b541d726efbae32a74b",
+          "english": "You're hardly a newcomer anymore.\r\nMake sure you're ready each time you head out."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5712870b73a97d1e3c0d2b2ceb5d9ba472c537eb11626e13328c9b49553dddf8",
       "uexp_sha256": "8cd7024423e0e552f7d457cb8257049019edc04909131bc45a6827dfdd9c236d",
       "rows": [
