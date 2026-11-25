@@ -979,6 +979,11 @@
           "english": "Mount Equipment"
         },
         {
+          "ordinal": 163,
+          "source_sha256": "8953a4196fffefbd85369a9be12e233248f7115b45be3274972a5f897ffb11e9",
+          "english": "Open Inventory from the Command Menu.\nStorage View shows stored items and equipment.\nTo withdraw or lock items,\nvisit the Asset Management Desk."
+        },
+        {
           "ordinal": 165,
           "source_sha256": "4fc61fb53579b93210c369d10cfad66fa9e9026c8d4494036547a0da0e7c9b6c",
           "english": "Your “Memory Case” holds all the Liquid Memory bottles\nyou’ve collected so far.\nYou can check each Liquid Memory’s effect, grade (effect strength),\nand activation conditions, among other details.\n\nLiquid Memories have useful effects, like giving you more materials each time\nyou gather, but they’re hard to come by.\nCompleting certain quests is one way to earn bottles,\nso try your hand at a variety of activities."
@@ -8557,6 +8562,11 @@
           "ordinal": 153,
           "source_sha256": "1b0e61fc91d62c910f00fb128594f81d7a976d5f71c9e549f28138952d754d63",
           "english": "Mount Equipment"
+        },
+        {
+          "ordinal": 163,
+          "source_sha256": "8953a4196fffefbd85369a9be12e233248f7115b45be3274972a5f897ffb11e9",
+          "english": "Open Inventory from the Command Menu.\nStorage View shows stored items and equipment.\nTo withdraw or lock items,\nvisit the Asset Management Desk."
         },
         {
           "ordinal": 165,
