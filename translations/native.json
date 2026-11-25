@@ -4694,6 +4694,17 @@
       ]
     },
     {
+      "uasset_sha256": "79be02401301ebdbc79b3469357b2a37cfd8a3108b8177f6e114f4a2a1cd5474",
+      "uexp_sha256": "78b70dfc1d8d01d05d431908b955beef132e867f51864cb9512ea89d845bd58e",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "36ae592cce2f4774e303b91fb7c4738bbf04d6ced6ce5c18c1d9655c7590984b",
+          "english": "Remove Skin"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "7c8cbac248aefbfaaa3da5cd28a3a2da4d116028ffcbcf5ffb611a05660c3289",
       "uexp_sha256": "6bb79a464b96f6d0b8c819c9bf9cd4240f2cb78d6132a612d4224c3a8574993b",
       "rows": [
