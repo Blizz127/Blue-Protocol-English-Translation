@@ -8838,7 +8838,7 @@
         {
           "ordinal": 442,
           "source_sha256": "a602d81fe625f640b8d417a8aac08c5517e6c1c1214fd60629eff5da8b3fc078",
-          "english": "1  Dead Count\nWhile active, a counter decreases each time you take damage from an enemy.\nWhen the counter reaches 0, you become incapacitated.\nYou cannot be rescued and will be revived immediately.\nYou receive \"Loss\" when revived.\n* Dead Count cannot be prevented or removed.\n  You are also revived immediately if an enemy defeats you while it is active.\n\n2  Loss\nWhile active, you cannot recover to your maximum HP.\n* Loss cannot be prevented or removed."
+          "english": "1　Dead Count\nA counter appears. It drops each time an enemy\ndamages you. At zero, you're knocked out.\nOther players can't rescue you.\nYou automatically respawn at once with Loss.\n※ Dead Count can't be negated or removed.\n　If an enemy KOs you during Dead Count, you're forced to respawn at once.\n\n2　Loss\nWhile Loss is active, you can't heal to full HP.\n※ Loss can't be negated or removed."
         },
         {
           "ordinal": 462,
