@@ -764,6 +764,96 @@
       "english": "Miniature Kunai Box"
     },
     {
+      "table": "master_mount_imagine_text",
+      "id": 56,
+      "source_sha256": "4723a2b25243d1b344556be2d5faf80c9c4a9dda3170cc7d78ce9a7e5e75da52",
+      "english": "This Mount Imagine takes its shape from a weapon in use since ancient times. Its sharp outline has won it an enormous following among children and adults alike. Racing across the wilds, it cuts a bold, reassuring figure."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 57,
+      "source_sha256": "4723a2b25243d1b344556be2d5faf80c9c4a9dda3170cc7d78ce9a7e5e75da52",
+      "english": "This Mount Imagine takes its shape from a weapon in use since ancient times. Its sharp outline has won it an enormous following among children and adults alike. Racing across the wilds, it cuts a bold, reassuring figure."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 58,
+      "source_sha256": "4723a2b25243d1b344556be2d5faf80c9c4a9dda3170cc7d78ce9a7e5e75da52",
+      "english": "This Mount Imagine takes its shape from a weapon in use since ancient times. Its sharp outline has won it an enormous following among children and adults alike. Racing across the wilds, it cuts a bold, reassuring figure."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 62,
+      "source_sha256": "02e8677d0f7b929e20878aa8b48b238fd2e47d348a15a545d7bfe4f5628611cb",
+      "english": "Especially popular with the young, this Mount Imagine has flowing lines that cut through the wind. It races freely along whatever road it takes. Older riders have taken notice, too. The ride is remarkably steady and makes getting around easy."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 63,
+      "source_sha256": "02e8677d0f7b929e20878aa8b48b238fd2e47d348a15a545d7bfe4f5628611cb",
+      "english": "Especially popular with the young, this Mount Imagine has flowing lines that cut through the wind. It races freely along whatever road it takes. Older riders have taken notice, too. The ride is remarkably steady and makes getting around easy."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 64,
+      "source_sha256": "02e8677d0f7b929e20878aa8b48b238fd2e47d348a15a545d7bfe4f5628611cb",
+      "english": "Especially popular with the young, this Mount Imagine has flowing lines that cut through the wind. It races freely along whatever road it takes. Older riders have taken notice, too. The ride is remarkably steady and makes getting around easy."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 68,
+      "source_sha256": "e6b16c6932bace51257933f22c01438d5d3ab98d5a2b90481e54f93337c4dd48",
+      "english": "This white horse Mount Imagine stands tall, with an air of both grace and stern composure. Its regal bearing lends nobility even to its rider. The view from its back must be something special."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 69,
+      "source_sha256": "e6b16c6932bace51257933f22c01438d5d3ab98d5a2b90481e54f93337c4dd48",
+      "english": "This white horse Mount Imagine stands tall, with an air of both grace and stern composure. Its regal bearing lends nobility even to its rider. The view from its back must be something special."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 70,
+      "source_sha256": "e6b16c6932bace51257933f22c01438d5d3ab98d5a2b90481e54f93337c4dd48",
+      "english": "This white horse Mount Imagine stands tall, with an air of both grace and stern composure. Its regal bearing lends nobility even to its rider. The view from its back must be something special."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 94,
+      "source_sha256": "016d2731e977ef942239f2fdaf03a6f42e6e7ca82792f66c17ceb267218466ce",
+      "english": "This venerable Mount Imagine figures in the legends of a distant land. People there consider it lucky. See it run or touch its face, they say, and you can look forward to a full year of good health."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 95,
+      "source_sha256": "016d2731e977ef942239f2fdaf03a6f42e6e7ca82792f66c17ceb267218466ce",
+      "english": "This venerable Mount Imagine figures in the legends of a distant land. People there consider it lucky. See it run or touch its face, they say, and you can look forward to a full year of good health."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 96,
+      "source_sha256": "016d2731e977ef942239f2fdaf03a6f42e6e7ca82792f66c17ceb267218466ce",
+      "english": "This venerable Mount Imagine figures in the legends of a distant land. People there consider it lucky. See it run or touch its face, they say, and you can look forward to a full year of good health."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 114,
+      "source_sha256": "359ec7fa84699f708348efd1d708284f0bd2a03115c9980a887f584fa0f85c6a",
+      "english": "This Mount Imagine has the form of a mighty wolf. It flashes across the land so quickly that people liken it to a streak of lightning. Its sleek outline has never gone out of favor."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 115,
+      "source_sha256": "359ec7fa84699f708348efd1d708284f0bd2a03115c9980a887f584fa0f85c6a",
+      "english": "This Mount Imagine has the form of a mighty wolf. It flashes across the land so quickly that people liken it to a streak of lightning. Its sleek outline has never gone out of favor."
+    },
+    {
+      "table": "master_mount_imagine_text",
+      "id": 116,
+      "source_sha256": "359ec7fa84699f708348efd1d708284f0bd2a03115c9980a887f584fa0f85c6a",
+      "english": "This Mount Imagine has the form of a mighty wolf. It flashes across the land so quickly that people liken it to a streak of lightning. Its sleek outline has never gone out of favor."
+    },
+    {
       "table": "quest_main_chapter01_text",
       "id": 21,
       "source_sha256": "276b046ef3eba739e70665cef64de7329210af5572c666b3785e18b557104c0f",
