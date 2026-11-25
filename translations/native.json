@@ -974,6 +974,11 @@
           "english": "Your “Memory Case” holds all the Liquid Memory bottles\nyou’ve collected so far.\nYou can check each Liquid Memory’s effect, grade (effect strength),\nand activation conditions, among other details.\n\nLiquid Memories have useful effects, like giving you more materials each time\nyou gather, but they’re hard to come by.\nCompleting certain quests is one way to earn bottles,\nso try your hand at a variety of activities."
         },
         {
+          "ordinal": 240,
+          "source_sha256": "1b5aa49cfa7240321330d49d1b0cd9a0cbd4fd8c9bc2abb9846dafb91dbcba6c",
+          "english": "Trade GC and other tokens for outfits and items.\nPick out an outfit you love and dress up your character.\nSome souvenirs are only available for a limited time, so check back often."
+        },
+        {
           "ordinal": 399,
           "source_sha256": "648540884d6f394980186d88b1d50d81898879c726eac57716cfbe87523a7116",
           "english": "Turning Your Character in Place"
@@ -8439,6 +8444,11 @@
           "ordinal": 165,
           "source_sha256": "4fc61fb53579b93210c369d10cfad66fa9e9026c8d4494036547a0da0e7c9b6c",
           "english": "Your “Memory Case” holds all the Liquid Memory bottles\nyou’ve collected so far.\nYou can check each Liquid Memory’s effect, grade (effect strength),\nand activation conditions, among other details.\n\nLiquid Memories have useful effects, like giving you more materials each time\nyou gather, but they’re hard to come by.\nCompleting certain quests is one way to earn bottles,\nso try your hand at a variety of activities."
+        },
+        {
+          "ordinal": 248,
+          "source_sha256": "1b5aa49cfa7240321330d49d1b0cd9a0cbd4fd8c9bc2abb9846dafb91dbcba6c",
+          "english": "Trade GC and other tokens for outfits and items.\nPick out an outfit you love and dress up your character.\nSome souvenirs are only available for a limited time, so check back often."
         },
         {
           "ordinal": 308,
