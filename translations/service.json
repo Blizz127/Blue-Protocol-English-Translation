@@ -242,6 +242,36 @@
       "english": "I'm Like. I brew magic potions. Hee hee hee.\nI need a few ingredients for a new potion. You don't think I'd ask you to fetch anything suspicious, do you?\nI'm counting on you. Hee hee hee hee hee..."
     },
     {
+      "table": "quest_sub_chapter02_text",
+      "id": 52,
+      "source_sha256": "55e86cd69e7c575944aff99ff40985f7080b8e77c25b32ae8af6f788dc779c0e",
+      "english": "A Man, a Woman, and a Potion"
+    },
+    {
+      "table": "quest_sub_chapter02_text",
+      "id": 74,
+      "source_sha256": "c1bdcc593b904cba94ffd9f2230790baefb88e6950a7af9f47f3b58e1f513a0c",
+      "english": "Tracks of Terror"
+    },
+    {
+      "table": "quest_sub_chapter03_text",
+      "id": 18,
+      "source_sha256": "4027d0b3fe961fff6170d973b63ed29ce364f9c0f06a681c5601e6d17506f7c2",
+      "english": "The Vile Grave Robber"
+    },
+    {
+      "table": "quest_sub_chapter03_text",
+      "id": 45,
+      "source_sha256": "2de6f7f90fc5dbc9fd9b0835dd9e83c36e6b1e874ae5e0f95faa03cd2cc82d08",
+      "english": "A Run Across the Desert"
+    },
+    {
+      "table": "quest_sub_chapter03_text",
+      "id": 423,
+      "source_sha256": "d4bf661d61165296b7e222f80e22dca4b23f38859cf660ec94fd2d55e193b020",
+      "english": "Remembering Glories Past"
+    },
+    {
       "table": "quest_sub_chapter04_text",
       "id": 27,
       "source_sha256": "443cb773d0bce80c5167a8caa26783b463087a3e56015c7c5c568c29d62e9d1f",
@@ -258,6 +288,12 @@
       "id": 40,
       "source_sha256": "50f7f19849b5d31ef89ab8a44e4c114df84c8dd65e48a518e1ba0c95daecd726",
       "english": "I'm Aleni. I cook for a living.\nWhenever I season a dish, it comes out fiery hot. My customers tell me it's delicious, even as they scream and cry.\nBut one customer came in the other day who didn't seem to feel the heat at all. I couldn't quite read the look on their face.\nI've never met anyone like that before. I keep thinking about them.\nAdventurer, would you help me find that customer?"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 57,
+      "source_sha256": "a8c3ae7c21f6723bd87fb54743c1d4b33ce082b24a6d776e640764364a890df6",
+      "english": "Protecting the Oasis"
     },
     {
       "table": "quest_sub_chapter04_text",
@@ -339,6 +375,12 @@
     },
     {
       "table": "quest_sub_chapter05_text",
+      "id": 54,
+      "source_sha256": "e35acec3dc4043061991931f84467cde9351d8c518f850bcfe8f64486e591fa3",
+      "english": "Longing for Clam Chowder"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
       "id": 58,
       "source_sha256": "ce9e432e2a780d70aeb25a2bc774f18728e19848ef7fe6a108eff338d6a14041",
       "english": "I Think I've Finally Got a Hit!"
@@ -351,9 +393,21 @@
     },
     {
       "table": "quest_sub_chapter05_text",
+      "id": 65,
+      "source_sha256": "b09881926c54f92826d1d86487b4734df0fbd49e7e7e5f1583911ce507fec213",
+      "english": "Lost but Looking Ahead"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
       "id": 66,
       "source_sha256": "7efa6e5426409e41455f9c00f310fdfdc52ab1ea01e028dcaba4513335efb3ea",
       "english": "Due Respect for the Divine"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
+      "id": 67,
+      "source_sha256": "f86d9ba6629cc77177ae104efa551e98cee64daf4ad123df60d065ceca740200",
+      "english": "In Search of a Nameless Voice"
     },
     {
       "table": "quest_sub_chapter05_text",
@@ -369,9 +423,27 @@
     },
     {
       "table": "quest_sub_chapter05_text",
+      "id": 121,
+      "source_sha256": "e3c220ebc87dcb716b0118be3bb9046e54415958305df7db7e658584fc4e883f",
+      "english": "A Roaring Nuisance"
+    },
+    {
+      "table": "quest_sub_chapter05_text",
       "id": 122,
       "source_sha256": "b7973b82e41fb2df3d585bd4c6e714f37e0fc65487ab490fbbd621e875c88fe3",
       "english": "The Weight of All Those Years"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 4,
+      "source_sha256": "2640d3a8fc3899c4486085c59de419217a05d550a5339e9bf0aa6f40363566e8",
+      "english": "It Began Across the Sea"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 5,
+      "source_sha256": "be2d3c85b3d484e91d427d2e5b7653c9d821eff8286be5b10171e5e262b154d5",
+      "english": "The Baron Wants His Caravans Safe"
     },
     {
       "table": "quest_sub_chapter06_text",
@@ -399,9 +471,33 @@
     },
     {
       "table": "quest_sub_chapter06_text",
+      "id": 33,
+      "source_sha256": "cc8a148750bf6ce908d6c36333b428bbcad1ed832782be497a1e7d694f5dd5e1",
+      "english": "Scattering Wishes in the Forest"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 37,
+      "source_sha256": "75573336d52cae69933bee4044c949a94d6c4be04a9e7e2cc3758b0000e3c231",
+      "english": "Let the Forest Sleep in Peace"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
+      "id": 55,
+      "source_sha256": "73fcbc3acefcaa703e25673810de86d8dd596ebd7275df8bb1fd9d98b6d2bbc7",
+      "english": "The Glow of Hours Gone By"
+    },
+    {
+      "table": "quest_sub_chapter06_text",
       "id": 91,
       "source_sha256": "a04b16306ba066f6f83ee0429f5079611305decb06decdf2bdec6a25d15585c0",
       "english": "I'm Totohoala!\nAdventurer, will you chase the monsters out of the Silent Forest?\nIt's a kind of boar called the Soiree Tyrant Boar. We've had it up to here with them!\nSo many of our ancestors are buried in the Silent Forest, and those boars tear through there day after day. They won't even let the dead rest!\nI can't stand it! Please, do something about them, and soon!"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 4,
+      "source_sha256": "18b75cf2d8f7087044522ecca832d4d6ad5be9a9bc682074ff9650735acfec62",
+      "english": "Securing a Way In"
     },
     {
       "table": "quest_sub_chapter07_text",
@@ -429,9 +525,21 @@
     },
     {
       "table": "quest_sub_chapter07_text",
+      "id": 50,
+      "source_sha256": "fb1e2e5d29ab5b6918e150f39c09efce0fd6619939b9a5245c0f0393b3597f87",
+      "english": "The Great Beast That Eats Snow"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
       "id": 53,
       "source_sha256": "82040a21cea99256fe6564bb2de1ff393aec6e23e1a1889d0c236abf77af8608",
       "english": "On the Forest's Edge"
+    },
+    {
+      "table": "quest_sub_chapter07_text",
+      "id": 61,
+      "source_sha256": "acb89d20c4d8a4b2197711e608a1e5084487b78a27659035803b99c19afaf270",
+      "english": "A Future for the Snow Flowers"
     },
     {
       "table": "weapon_perk_text",
