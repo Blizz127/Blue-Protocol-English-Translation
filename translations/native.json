@@ -1899,6 +1899,21 @@
           "ordinal": 107,
           "source_sha256": "47a076808ba3a7b8d8d87118a22ee23525ecc3e49d51a0148667da155e3a67e2",
           "english": "Tell a few truths, and no one thinks to ask about the thing\r\nyou really want to hide... I do it myself all the time."
+        },
+        {
+          "ordinal": 126,
+          "source_sha256": "7a158b44362f66c345fe8f3532db021630f972f3eb5558df737de1639f23f55f",
+          "english": "Thank you for all you've done. Quite a bit happened\r\nwhile we were resting, didn't it?"
+        },
+        {
+          "ordinal": 208,
+          "source_sha256": "093bcb67080d159ecb66a12aa06d89ba107af3a810a0d87eb82a33da2d4d1b20",
+          "english": "Now then, it's farther in, is it?\r\nLet's search every nook and cranny."
+        },
+        {
+          "ordinal": 209,
+          "source_sha256": "71e6e32e57f01db00936efee3e70a4e7ec3cf18f5e1292c3281e8009a50a1728",
+          "english": "Looks like we'll have to bring that thing down!"
         }
       ]
     },
@@ -3335,6 +3350,11 @@
           "ordinal": 10,
           "source_sha256": "0e5416f4b8e46f2327ebd886e16881e974ccce71e71badd4bc9661a59e500640",
           "english": "Flowers are hard to come by in the desert, though.\r\nI doubt I'll be able to get any more oil here."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "59bb942766174f49c41ab502d1c2d8b150144e6adba4806170ed7f5099149cd2",
+          "english": "You've gone to such trouble to indulge an old man's whim.\r\nI scarcely know how to thank you…"
         },
         {
           "ordinal": 18,
