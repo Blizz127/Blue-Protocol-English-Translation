@@ -2187,6 +2187,252 @@
       ]
     },
     {
+      "uasset_sha256": "f651e5a29738108dd8aeac87ec5b860cb30b49d02aec2b733038084abada9da4",
+      "uexp_sha256": "7eaeaedae6911a9fb23960b72643ed40ae9014d258c6f1314cb7f48ad2b2491f",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "5638233f58516891449440fb4ea488f8c384687ac41f65a66ccdbdfde94a9b90",
+          "english": "W-water... Please...!"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "4e0419f4928abc6c12aad9a59f60b3d70647d7728a1a83e48069d26045f10d64",
+          "english": "Thank you...\r\nI can finally get a few words out."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "53080d6017f9c4865807bec21ef3c8712a136c3c782b67463f2d936917fca350",
+          "english": "It's my cousin Katchua's fault.\r\nYou wouldn't believe what she cooked up!"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "501890a0d70d14b50657915d47ead72ddd92ce29222e2dbf54d79d469ff34bba",
+          "english": "It looked like perfectly ordinary soup.\r\nTasted fine, too. The trouble started a little later!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "b86434ba212a4c89481ef9a76799fc2e99024fec5336801f54b3cbe7a3113ef7",
+          "english": "I started going numb and slurring my words...\r\nBy the time I got here, I couldn't move at all."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "161e9c61595dcff9e1a1460a1cb78801cfe81fbad8f61dce01cbea0948eab564",
+          "english": "Katchua doesn't know what happened yet.\r\nAnd she made far too much soup, so now..."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "455adfb37d7b46e6b546ad78e3f103db76eb4815a87395db58f86f444d18f1bc",
+          "english": "I-it's happening again...!\r\nHer house is at the far end of the village. H-hurry...!"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "58c841dd26c723ee5ddf5ecb71461977964814db937fb81b36f6ac518635d002",
+          "english": "I can't... I can barely... talk anymore...\r\nI'm counting... on you...! Thud."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "e4d6ab056d85c659ba381610b224c20c35e5648ecba211cfd91cde7898f99772",
+          "english": "Oh, hello there, adventurer.\r\nHave your travels left you hungry?"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "17cf72a226ddfcd5cab99bbda6ab739646c6eb1172f05732101c4219d34db2fe",
+          "english": "I've made rather too much soup.\r\nDo help yourself if you'd like some."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "f7c6ac63e1ba931262a609668075674666278196656269b5daa9a4f1ddc36107",
+          "english": "What? Melis told you to stop me? Why?"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "aa6db71b369ddd9f83b6392c19da2316ae0ff9fcb8d4628314c88ca6c57e9e82",
+          "english": "...She went numb after eating my soup?\r\nOh, you must be kidding!"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "deb4d1e5bdf79ea17a9e16f2a7fdae7047cc291d9fcdc190830cd13fc903e8e3",
+          "english": "Besides, I'm not supposed to\r\neat this particular soup myself."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "c80f6d130684bff88ae348897accdbbf4e3649829cd20daa1cde1d7af1641cab",
+          "english": "I wonder what went wrong, though.\r\nHmm. I really do wish I had the recipe."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "e9e28c8364e90752f0602fc3184e76ad7494a959ecb548590740c1dc8c8dabaf",
+          "english": "Oh, I know. An adventurer like you must know all sorts of things.\r\nWould you give me a hand?"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "1429cf21ea71014884000600018d064cff92bcfad83d15d3a30e42d7d897b1df",
+          "english": "It seems I can't quite make it from memory...\r\nI'd better find a proper recipe."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "8c08bed0389b0c30ed739c4ab469618048a00228261b9c326c2523c3233bfbca",
+          "english": "I hear there's quite a library upstairs at the Reclamation Bureau\r\nin Asterleeds. Do you know it?"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "f5d1d6df1e245095b2953e7f746381fa1ef42d467092013b4acd628a9be2ae20",
+          "english": "Please, adventurer.\r\nWould you take me to Asterleeds?"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "30d2a75e5a60352ff942e5cecd28962659502a75e8c3967606b500f451c2181a",
+          "english": "There might still be a recipe in the library\r\nupstairs at the Reclamation Bureau in Asterleeds."
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "e97dc1f45b7e121706c638800892392f4b3f1c609e1f6da8f0849642d624cd5f",
+          "english": "Please.\r\nWould you take me to the library in Asterleeds?"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "b4298aa6a94fe778cc80282a49c480b5a7a2a9afb9010928b04f44ab626b0c41",
+          "english": "Let's see... Books about Minsterhorn...\r\nOh, here's one!"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "3666033b6b18438a6ba12c687bef93f0319bc563a9a004f04d110bc93f122544",
+          "english": "That's why the bride isn't allowed to eat any herself.\r\nIt's a bit of a shame after all that cooking."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "3da114482fedda373ee146f999b0b2c5e27f96d141a75bb89d6c83f93cb91e58",
+          "english": "What a relief. The recipe's right here.\r\nHmm... I had most of the ingredients right, though."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "4a7100e32fc29b497759cead9b102ec317fb5f29a3fa092f4b3ebf63126a638a",
+          "english": "Then each family adds an ingredient of its own.\r\nThat's the one part I do remember clearly."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "00dabc1f3990e0df8c91faa38a1d8b1cc729feeaa306e752cfcd5247522cc112",
+          "english": "But people picked too many of them.\r\nNow there are no Crescent Mushrooms to be found anywhere."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "b8972604231643166de6021704e7280915ddd2d0c9255685f889b83e8378ecca",
+          "english": "I used Jellyfish Mushrooms because the flavor's similar.\r\nApparently there's something in them that makes you go numb."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "d0ad31f8fe3b30d752e60c00117a37152036572e74056bcd211ccbc75b546f8c",
+          "english": "Oh, I know!\r\nWhat if I put a medicinal herb in with the mushrooms?"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "c24e90dba740fec63e3983a9e5f6a845ee1fc7e1a6a4985c41600770e557b0bc",
+          "english": "An herb for numbness... Here we are. Young Mua Leaves.\r\nThere's no shortage of those up in the mountains."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "0024cd4be85521ba4953195da88e13b3a92ff3c2666ac1d6f149db54f5e7cdb5",
+          "english": "Adventurer, could you go and gather\r\nsome Young Mua Leaves for me?"
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "0ff32c7a3f415d148560e39bbeacecbdf163626a6294c182474e2643c729df04",
+          "english": "I'll go home and start a fresh batch.\r\nI'm going to get this soup right this time!"
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "1f3f8fb10571b292cce30702b5883580e0d54c9d2f7b3ba2938745211ff96c96",
+          "english": "I'll go home and start another pot of soup."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "1c75220cb6851e4b355b8564030c64a300c833f0211fd04d34c88aed1f4dca24",
+          "english": "You're just in time.\r\nNow, chop them up and into the pot they go..."
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "94a976077f3572187a38470240779514d66f75e488ff31d04bc696c8ea157782",
+          "english": "All done! My very own Wedding Soup.\r\nMelis, have a taste."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "40004eef78ca7f56f5d0f3dc8cec0d2d01dfd4f980f4aef437f1a31fd046cd6d",
+          "english": "I did, but... You're using the same ingredients, aren't you?\r\nI just saw you put in a whole heap of Jellyfish Mushrooms."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "bdd8c092777b31dd832d30ad1b180c9dd1a9440a56d754fa0deca8f911df91f5",
+          "english": "Has it ever occurred to you that you could just\r\nleave the Jellyfish Mushrooms out?"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "7d5efc9d7ec67bc409a68d6feae909966bf13b810626cedd3fdb9e14ce3419a3",
+          "english": "But that's what makes it taste like our family's soup.\r\nThat's the one thing I won't give up."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "32b98dc2872b86b521095bf75bb3887200538daa1904b095a1d82398c67f8abd",
+          "english": "Oh, all right. In for a penny, as they say.\r\nI've come this far. I'll see it through."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "d820b2a6955bc9b1a24f362c602f9af8d40c913c0906723ad8a18849308a9324",
+          "english": "God of Bapharia, thank you for today's blessings.\r\nPlease keep me safe. ...Here goes."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "aed19cd91922386ac1a24b5e7b326d0a4e0f73b5f88cd58f266531a673464d9c",
+          "english": "W-wait... What is this?!\r\nIt's absolutely delicious!"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "d06582963eff0d39532603f7ce1b20e7c8a794270992cc38587378b44cad9c8b",
+          "english": "It's so mellow, and there's such depth to the flavor.\r\nIt might even be better than my aunt's soup!"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "85462d7ee19382ce33a38b2e4c07408bf171aa9a99a818242ccb76bc3fb8f1d1",
+          "english": "My tongue isn't numb at all. I feel healthier already!\r\nYou could be proud to serve this to anyone!"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "d122a015a95998520e93b34f6733e33b79601286eadbc245af11f0fe31c26ebc",
+          "english": "I did it! Adventurer, I finally got it right!\r\nThank you so much!"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "7e1a8ed164e5fe63f085a1d7866ea439a96cb8c8564b603d856f02c061438cd3",
+          "english": "Now I can walk proudly into my wedding. Mother can rest easy.\r\nThank you too, Melis."
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "a4233b8e630330ed59289130abf26fc112276f600b2e783b0515b0fccf9e0fcf",
+          "english": "Yeah, yeah. Thanks. I've had my fill.\r\nIn more ways than one."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "fde5b794ecd587d529a9fe50ea3eedd811278a50321c9ac6b1a05ea6c18f4b9e",
+          "english": "Now all that's left is to wait for your sweetheart to come home.\r\nYou still haven't heard a word from Yoan?"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "13a10b74547a7747636b4b31550c826f7d9ca04e39f24db7ea0f331356e4f0d4",
+          "english": "No. That's quite normal for him.\r\nI don't mind waiting."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "7768fdc9da08adbe4976cb712edb115285a4f1eecccd89e90b68b68c92e02769",
+          "english": "My fiancé's an adventurer too. He's in Ritze at the moment.\r\nHis travels often take him far from home."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "098590cea2e54007c88208b5f1df7eea16a3a5d3a56651b7748a61b3e6793542",
+          "english": "Tell him I'll have some delicious soup waiting, too,\r\nso he'd better hurry home."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "fceb091dce465e415d12c336c39d334171ddc3a30c3fa456062c4670d4679041",
       "uexp_sha256": "8c536ea1cca1a92b2afd6c3f4a79ffc78413a0374ade86d9a515694ad8604413",
       "rows": [
