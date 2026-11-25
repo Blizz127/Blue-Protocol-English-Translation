@@ -113,6 +113,112 @@
       ]
     },
     {
+      "uasset_sha256": "05bcd93c4a39a1b496aaf56d2df3a000c639dd676838fa6c10a2f5fd97250b6a",
+      "uexp_sha256": "cf557dde3d82b862286f7772b3d54c922c9391b1e2a49d2f507927969d873b20",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "ebdab6071d05cae0d48cfbcbb8df6d518e2896fed8307507978e1bb33ac7da6b",
+          "english": "Besides…"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "e365706ee48475d5dced51bb48edea2dabb3821b95a5ccf19bcdc90bc562fae2",
+          "english": "There's something on my mind."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "3ac867bdf7036a6cd49c26b1603c132d905bff0cac33f39274c0d9abfff82da6",
+          "english": "That divine spirit… this Avaritia Shell, as you call it.\r\nMay I see the Imagine Seed that is said to have held it in check?"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "9ca0e5187dd7c56b948e176b1759650e44536be252a11590b944471f88540baa",
+          "english": "This Imagine Seed\r\nis Adelaide's will in crystal form."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "62967c437ef957224923b92cd32d3f10a3905b3dc8b689505a972ad2f53575ad",
+          "english": "The spirit and the body are drawn to one another."
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "692d4c2457d02e67c30f2c0bb71a1e11de1689df85654186dfde360cc9d43db7",
+          "english": "It seems someone has put their old technology to use again."
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "1b4eb9ef4918afcd1827febe83a2df26fed97a7a65845d1efadb6ea668958c2f",
+          "english": "I never had any intention of going home."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "34a1e17f6b2f48c00987e8744ca71c22d59a23424b8fe6dd5cfacb8e3153717f",
+          "english": "I've lifted the barrier."
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "b777c1c983954ca02873641c81eb29c767aa852907e19248380ef720a126ab84",
+          "english": "First there was the matter of Queen Pipimaruka's child,\r\nand now this. Who are you, exactly?"
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "0ae661316200645354ab3b1b515fc9d52de48292c847dc557bee65457ee13174",
+          "english": "May the forest grant you its blessing."
+        },
+        {
+          "ordinal": 115,
+          "source_sha256": "9451ca0808d1564cc850ec1ccab19708ae4553f14b74e73beb7141450ee2e9c3",
+          "english": "…What a lonely place."
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "24d6135d0191d2bfefdd6e2a85ef75151b19b90fdf665d59f31f27ae65d9877d",
+          "english": "Aaaaaah!"
+        },
+        {
+          "ordinal": 143,
+          "source_sha256": "daea23610b30ac778df1572645f31ce5438c1a6a367583e8818c1f3076d00d65",
+          "english": "Someone's under attack!　We've got to help!"
+        },
+        {
+          "ordinal": 146,
+          "source_sha256": "7591dd946cd84395b149776a1ed0b0c82d57702ad655113b4d81003d7a3214d9",
+          "english": "This is… Yes, there's no doubt.\r\nIt's an ancient weapon of the Bapharian gods."
+        },
+        {
+          "ordinal": 147,
+          "source_sha256": "ab435473d6dda2918b8e52a30993afbef11d800c6c6a2b839b608ad80e842682",
+          "english": "What the Omnistron was reacting to…\r\nwas this thing?"
+        },
+        {
+          "ordinal": 154,
+          "source_sha256": "6db5a6080afbab93dd9ff6029ec829b59120d1bcc0f7f993490e112f10b000c0",
+          "english": "Humans? What are you doing here…?"
+        },
+        {
+          "ordinal": 174,
+          "source_sha256": "3c1d66fbd4af3478ec2fd06e3a3b7b5f1894983ce87dea3c8de85be5aa01d207",
+          "english": "Urugarm, you say?!"
+        },
+        {
+          "ordinal": 196,
+          "source_sha256": "98bb798ccf32d628394f75b2a542cfec1738a74fb149eebf32111c7c9036a46b",
+          "english": "And you lot beat it?"
+        },
+        {
+          "ordinal": 197,
+          "source_sha256": "0159893b0a3b579536116047cd0e781910b0d549ed90b8ca88aeac7eadcdb468",
+          "english": "Ah!!　…It's you!"
+        },
+        {
+          "ordinal": 203,
+          "source_sha256": "12dbb3c6301444df661cc538c9e5702b68cdc0df01a788b495d53225c9f98a60",
+          "english": "I remember you lot! When I snatched the Shell,\r\n  you were the ones standing there looking like idiots!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0983ac5d2d28ffa96fa40765197562fab27afce2e7e108e2fca8d2ad33f9b0d2",
       "uexp_sha256": "87e76e93d32269832aaee42fcb73af2db9c040b88168e9029b5408b24a7ab2e6",
       "rows": [
@@ -4056,6 +4162,42 @@
       ]
     },
     {
+      "uasset_sha256": "ac1a49f207bfe49f4b1c4dba7ce82f91a7dc6ba8f6826c951953161294c56bf2",
+      "uexp_sha256": "926ff06285620a4741a1f296eaaecd86c095884b2c909efde489bf384531b06e",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "c00d06c147805bd0f0e6bb66e47bbc88246723fecdbe8812ce92122082b525c3",
+          "english": "Well, if it isn't my savior!"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "e501728e2ed0dbd0a2cd3e16c2d5e710e6ff9a17a4babd3371d55152c08dd9dd",
+          "english": "…………\r\nYou think “savior”… is a bit much…?"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "066f314e744e1d24fc94cff8db641b67c8293a7744ef447ea4574716623b5eef",
+          "english": "Oh, no, no! It's thanks to you that Queen Pipimaruka\r\nhas had a change of heart."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "a86a6186a11f28903ba6d88b675d7c13c69db5f11d174b86b81c285a56a4771e",
+          "english": "Now I'll be able to do business out in the open.\r\nThank you!"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "808b1550edc1db0c3c290874fe6f2109d496f96593e91ff89a7d798501c195f1",
+          "english": "I see, I see… That name brings back memories.\r\nI once sailed past there when I was young."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "8be8e7d502c28f14154fc77fe3e1d4150e97854e1d6a0b8e9e21cdf6f26d17e8",
+          "english": "A rare sight, they tell me. It only happens once in a great while.\r\nIf you saw it, count yourself lucky."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "adf3005bddbf02bff6bcd4f94c5efc84d168074ee3de59fcc19cee3b444fcde0",
       "uexp_sha256": "e569f9f0e54f6eb6a2a00a64b378a1642912a51304a93ec8d9bcf985f6b9a9ef",
       "rows": [
@@ -7476,6 +7618,82 @@
           "ordinal": 82,
           "source_sha256": "bde6b6d5e4f260e6520ca9107bd7788c39dd004d290c383e6498b7a2981f6b62",
           "english": "Now to spread the word about all the other villages!\r\nHere I gooo♪"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f45d88a9287ab84c442bc3e556b71992691cf7325efd38e027558bc618395be6",
+      "uexp_sha256": "9bb7b68396c23ccfa22f1010709d3f83a78eba562336338b7ef19d302bba3bd2",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "6951e5a315c5ac8d9e156ca74bb58a0b7ea3b6b20fd6ee3c4632da5de683c9c6",
+          "english": "The divine spirit… the Avaritia Shell.\r\nI understand it was based on Adelaide."
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "a0133ababe59ee2ad6e841a4de2393ff18e96c99451d957979e2a1c86df44230",
+          "english": "But that Imagine Seed you carry…\r\nit, too, holds sway over her spirit."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "65fda4ae8c8be883244f573c50570e197be4674f9820d57fa7a716520bf90536",
+          "english": "To save your friend from captivity in the Avaritia Shell,\r\nthat Imagine Seed will likely be the key."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "21e19d7129606cfdda2f50e45bd0d3336f88c484e480ad4f6aee5e2140824cc9",
+          "english": "I owe you all a debt for saving my daughter.\r\nI shall continue to help you in any way I can."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "1b0ea80987b93ccacf917bb114b52ae5cff8cb323d09cc46654f1e448e980490",
+          "english": "My mother's Imagine Seed…\r\nPlease hold on to it, Master."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "286b55ae7becae947509a18432353fac595e304c0ab199b3be9cf8f92c781243",
+          "english": "The forest is still in an uproar after what they did,\r\nbut we'll manage. Don't let it worry you."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "2f7314abab16c84bee99fbd917d1d2fa475a1b9eced84ae4a12bf0436785608f",
+          "english": "You do what you came to do.\r\nEven if I can't fight beside you, I'll see to it you have nothing else to worry about."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "a3f996e937dbb95ba1dc99aaa13b80a9dbbb26e90d059fee8dfcc78c172e746e",
+          "english": "Huh?\r\nYou think I'm really getting the hang of running the shop?"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "2e953b5a92e548a1c2e4154c7bf353b15e0dd89cd668a3e5a1a394b86ecb82d7",
+          "english": "Heh. I'm the best of the best.\r\nWhatever the job, I do it the Smart way."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "b36435e636d8617b8619428bf97962aa2b23f35688b141abff9ec8ce0e5779bd",
+          "english": "But honestly,\r\nsometimes I envy you guys, out there doing great things."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "ee0662c9a9f8a41ceed9b8aaaf37e1ee2675036249f0fc55ff2d66a6f3693c1a",
+          "english": "So, to keep my adventuring skills from getting rusty,\r\nI still take on a job now and then and head out on an adventure."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "950d2266c81c45b1bd0f8f9990bd96d794f1f9ef4b6d0aa77b5ded69080e73f2",
+          "english": "Running a shop or going on adventures, it's all the same.\r\nWhat counts is that Challenge spirit!"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "87dbaee62e8300fc14ee9e3bbd23d4306136be5e4fbea844e00d2cbf0e7b7537",
+          "english": "Halt.\r\nHumans have no business here."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "cbc47166d1aa73bf3867f648721fbed291fc884fd38935c82478f9ab8a82444f",
+          "english": "I've been told about the situation.\r\nPlease, go right through."
         }
       ]
     },
