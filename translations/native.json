@@ -1837,6 +1837,72 @@
       ]
     },
     {
+      "uasset_sha256": "771aba224d8cda82e0cc65e57fd654c790581ea61569cef9e503e974ee9e755a",
+      "uexp_sha256": "920198a45070001705a9ad97bdc92f9d2abbd03582287e8d7bed69edfba16cc6",
+      "rows": [
+        {
+          "ordinal": 38,
+          "source_sha256": "e103019db5e7dc1a3a5d7b5b59175f340ff618f7f46a07b63ee7fd079afda3fe",
+          "english": "...There you are!"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "404c4ff4d74ea3e1811861eea88121ddf357415b99118e3453aca85e377cd4d2",
+          "english": "By the way, who are your friends?"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "9d2e78bfe85123237979e606e43bd68dc096aca152467e2e10ef090ac4d2cb72",
+          "english": "Him? He's run off with a pretty songstress. Young love!"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "09e5e528148d1647823c4259708f0a08f4997dc92872ef4a977e49741c3a7f52",
+          "english": "There was a girl with a traveling troupe. Some strange people were after her.\r\nHe took her to a hideout to keep her safe..."
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "f49e8e14dc2592a576718225e5f232ec9064233c3053a5bd8dc1d6e2c9581792",
+          "english": "O-oh! So that's what you meant."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "fbad504c1f7575a3bf0e9adb1a4c4442c19c506ddc1a98a04859eac9e5605a40",
+          "english": "You're a fine one to talk. A bit shy about courting, aren't you?"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "884a21de1c41672716e245a9b00528d5875bf51a3532b326cb62dede91f59545",
+          "english": "Something's been bothering me a little,\r\nso I asked the two of them to look into it."
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "a8f7d6bfe25172090d0c20fa59f7396cff3b0b50cbaef8f5bebf7fefa77e409a",
+          "english": "Still, I'm glad he thinks that much of us."
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "9d8e8911bbcde28197297694a7932bb9c0a1d477796c2cfee4331af49e98b1d1",
+          "english": "Well, that answers most of my questions.\r\nThank you for coming, Einrain."
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "ae1f5dbf27418d16ce487c52518a95a1c538116d88f653022ad85e059961d28c",
+          "english": "O-of course.\r\nI'd taken that to be part of the job all along."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "58c20a3e8b4ebc9289303cadc88076d63379272593a84d83f17bdd6bf97af1c6",
+          "english": "Thank you. I'll leave her in your care."
+        },
+        {
+          "ordinal": 107,
+          "source_sha256": "47a076808ba3a7b8d8d87118a22ee23525ecc3e49d51a0148667da155e3a67e2",
+          "english": "Tell a few truths, and no one thinks to ask about the thing\r\nyou really want to hide... I do it myself all the time."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "78f548cf7214a6cbb4181ee6cd00fcea6e8007851b2e2382dbbb0f487138af69",
       "uexp_sha256": "c650efcf5dd75f24cf2e40f338b4c04e603838b8cae08df418919bf71c3a711d",
       "rows": [
@@ -2676,6 +2742,11 @@
           "ordinal": 76,
           "source_sha256": "9a18955ac62e1f770ea4762a7d6d290413e74f871bc06fcd5b69643518c04f9b",
           "english": "She takes her responsibilities so much to heart.\r\nI hope she won't go blaming herself for what's happened…"
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "b599ce78276ea772477ea7a29eeb5442e7f41823ec543fbfba5d24de6e59aca4",
+          "english": "If I'd kept a better handle on things,\r\nshe'd have been spared such a fright."
         }
       ]
     },
@@ -3238,6 +3309,47 @@
           "ordinal": 65,
           "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
           "english": "Couldn’t add a character slot."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "e969b11fa976acd47809b5d8333c7972c7ebec6f32e608aa458925f6ad08201a",
+      "uexp_sha256": "fb8c6bd4c6fc32e617bffe8e72195f769320e8893d4cca6632197abe85f08946",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "d17e6af029d973be0d6d92d24b12a31a210937bd2c5379827e30767183c4796c",
+          "english": "Still, to think those things turn up\r\neven in a desert like this..."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "6baaa574e5baaeb81f919cace5b8644c5b3da627beb84a55e86ecaad83d12cd0",
+          "english": "I'm embarrassed to admit it, but I can't bear those things.\r\nUgh... I can't even stand to picture one."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "16198e28faa85e177bc0ddec383b24ab4a8fd2c8b7966136085ee3273b1ed44f",
+          "english": "I usually keep some scented oil on hand to ward off bugs...\r\nI mean, to ward off those things."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "0e5416f4b8e46f2327ebd886e16881e974ccce71e71badd4bc9661a59e500640",
+          "english": "Flowers are hard to come by in the desert, though.\r\nI doubt I'll be able to get any more oil here."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "e4efafa4931f194acbe7f9dc814594f6706da0f687dee4ca9e7fd33484c9071f",
+          "english": "We've had a look around town ourselves.\r\nIt's, well... quite something, isn't it?"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "acb10434b19c01a65a4b3d570b8ca586f516e67ae5c638de87ea4c3b80cb7e5b",
+          "english": "Even in a place this harsh, the streets are bustling,\r\nand everyone is so full of life!"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "132edf5eff4e0c75294a0d5a5261fdefa114cb5f5f9f46f9215433ceca45496c",
+          "english": "It's comfortable where we live,\r\nbut nowhere back home was ever this lively..."
         }
       ]
     },
