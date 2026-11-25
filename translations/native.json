@@ -1238,6 +1238,42 @@
       ]
     },
     {
+      "uasset_sha256": "45ff0354a3506b1d9400c8345c124fe1b920c173c6a98b822b348109a50ead6d",
+      "uexp_sha256": "fe73697d615913a3c2790e717815983570e3d44759ffdaf664790ccc938ef086",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "1451dae578edcebf2b39ec030cca0f0461a2867c4099794ed17f278c56c2db29",
+          "english": "Look at the road that's opened up for me!\r\nI'm done standing there at a dead end."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "54d74bdd8f2df0a7c9bded5fb9d237ff42eab0d47eab6bacd62fe2a358c3a229",
+          "english": "Some things you only learn from falling flat on your face.\r\nThey said this job calls for someone who's been through that."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "6b76cf22f471f126bc9cf8d2ad19313f33fd4e5eecdc925c0ee214ddc0fea88c",
+          "english": "They said if this goes well, they'll put me in touch about another job.\r\nHow's that for a good start!"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "a16b17abe12dc2427c61e0652038fdc710e98627f66516f2a388317120d794c8",
+          "english": "I owe it all to you folks. Thank you!\r\nLooks like there's hope for me yet!"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "a4b56d82142d2e7576a98579bd76bd99a3e6f1fd1bde656d29c7e1e299546158",
+          "english": "I hear Carvain's been taken prisoner, too.\r\nEven here, we've heard talk of a public execution."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "99592126b9948ab548053b76d62124b3a035a5d5b972e87e98605bb9663d7bd9",
+          "english": "If only we could talk to Dunkirk and Veronica, too…\r\nPerhaps we could come to understand each other."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "4a5d3394e79248d4afe460776e5b1eb9fdef6ec23e102365a5f67486d23c5a9c",
       "uexp_sha256": "a2b76c64aae0da121e3aff450fac0c8e15a900ffe5a586e58aa7f728c0f8c3f9",
       "rows": [
@@ -2787,6 +2823,17 @@
       ]
     },
     {
+      "uasset_sha256": "c4b7b3d1eb028bc3c478199a6c539fa8c256cf6596defc97e7b63987bb6e6c3b",
+      "uexp_sha256": "9fc854c6f6ce31958fd9ddf52019eccbdf8c1734405e4c10c7a7a86392705c59",
+      "rows": [
+        {
+          "ordinal": 11,
+          "source_sha256": "9e00a8fb56ea05c76b58e09ed324be5b040453799f7acbae3b6137f4f68e223e",
+          "english": "What good would it do to go on our own?\r\nCarvain and Einrain are coming with us."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "ca43e79823285f36df8a27eb4ce66fdbae69ade7291047cf5461575415b5f465",
       "uexp_sha256": "85f9dc5c596fed785dddcb01d0592e1827b49f4a32263ffed39993214bb552d4",
       "rows": [
@@ -3451,6 +3498,26 @@
           "ordinal": 236,
           "source_sha256": "e7f417e2422efce9ca98b3662b177fd0aa38f93c26ddd67bdc4008912a1d5244",
           "english": "The key should be back there!\r\nFirst, clear out whatever's in our way!"
+        },
+        {
+          "ordinal": 253,
+          "source_sha256": "36e3a4fe8420d0d8504158d8881744b49f590bdda4ce6ac58550705f257bf6af",
+          "english": "Looks as though no one's tended this place in years.\r\nWho'd ever guess it was here unless they already knew?"
+        },
+        {
+          "ordinal": 264,
+          "source_sha256": "596776825f3be23d60069bc07c3e6bd3072487c9733e208835747a9b54aa702b",
+          "english": "Aha! The key to the cell."
+        },
+        {
+          "ordinal": 270,
+          "source_sha256": "9571bcd46c52657a18643051f430fea9b384d2eb04b2e9666c508a68e2607e5d",
+          "english": "Must you make such a fuss?"
+        },
+        {
+          "ordinal": 271,
+          "source_sha256": "b5932bef52b9e25ac3e114cea5f351bd7f53b193847fd4fb76194d5bb1330e2b",
+          "english": "Well, a token of your gratitude will do.\r\nSized to match your gratitude, of course. Yes, indeed."
         }
       ]
     },
