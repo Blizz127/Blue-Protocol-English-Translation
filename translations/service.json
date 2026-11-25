@@ -11,7 +11,7 @@
       "table": "master_emote_text",
       "id": 318,
       "source_sha256": "29b8658b0e31246869b51effb8ddf20f741bfde9b18c4c2334e50ef151205638",
-      "english": "Shake Fist"
+      "english": "Shake Your Fist"
     },
     {
       "table": "master_emote_text",
@@ -53,7 +53,7 @@
       "table": "master_emote_text",
       "id": 358,
       "source_sha256": "2bfd2e7c51fd8bafabf162cf6762c5ab776995fd835ef455b11df5cca795d6e6",
-      "english": "{CharacterName} danced for {OtherCharacterName}."
+      "english": "{CharacterName} danced facing {OtherCharacterName}."
     },
     {
       "table": "master_emote_text",
