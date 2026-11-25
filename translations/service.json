@@ -63,6 +63,234 @@
     },
     {
       "table": "costume_text",
+      "id": 3743,
+      "source_sha256": "5159636171959300d3436fb8443e350b3d44b3220967c50fefa6da245c38dd96",
+      "english": "Trick Top M (Mage)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3747,
+      "source_sha256": "6906712c672baa6f86fb8b4176f02822adad13b5ee83e95c038e7597a6aa9acf",
+      "english": "Trick Headpiece M (Hexer)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3748,
+      "source_sha256": "8dafe45bac8522d8682848e029a371e1844a96025901448eb8104a1d4db4b77f",
+      "english": "Trick Top M (Hexer)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3752,
+      "source_sha256": "d82cc9a9a8443d79996836a566b60f97fcdb2616508063e4458afda6b05cffd4",
+      "english": "Trick Hat M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3753,
+      "source_sha256": "ed477071033824d07509cd06c7cc86e70d48388852996efc521e14c4772537a8",
+      "english": "Trick Top M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3754,
+      "source_sha256": "f94423ae8f0835a34af6d72ad74844a95ae8f40bd21a8f1b3ffdf9600da148f0",
+      "english": "Trick Gloves M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3755,
+      "source_sha256": "035fa588bbc1356d24243bc6e48e26a21f5005da3fe2bc8a6bb0c991700ba9ab",
+      "english": "Trick Bottoms M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3756,
+      "source_sha256": "f51cd5f68fb81175783d1fd82b8efb458461e13ec9f8859f346a648aa86807ef",
+      "english": "Trick Shoes M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "costume_text",
+      "id": 3803,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3804,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3805,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3806,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3807,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3808,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3809,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3810,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3811,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3812,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3813,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3814,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3815,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3816,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3817,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3818,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3819,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3820,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3821,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3822,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3823,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3824,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3825,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3826,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3827,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3828,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3829,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3830,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3831,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 3832,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
       "id": 7607,
       "source_sha256": "fc53a9dd1c1849ba4b5d416c39c6340d48aaf963275be533a271e89671a67eb2",
       "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
@@ -122,10 +350,64 @@
       "english": "An ear ornament modeled on a concealed weapon with a distinctive shape. A kunai's sharp point can bring down its quarry, and lovers wear this little charm when they need courage to catch theirs. Just what counts as \"quarry\" depends on who you ask."
     },
     {
+      "table": "costume_text",
+      "id": 9106,
+      "source_sha256": "e6834b16eeb49cdf60f6aab89289e0e06470aafed61762ba297e676bfdfdd66e",
+      "english": "Trick Top M (Medium)"
+    },
+    {
+      "table": "costume_text",
+      "id": 9107,
+      "source_sha256": "133146a2772884b91806543c4ced8d090a40827d0b598866e2c86910ced1066f",
+      "english": "Trick Gloves M (Medium)"
+    },
+    {
+      "table": "costume_text",
+      "id": 9132,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 9133,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 9134,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 9135,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
+      "table": "costume_text",
+      "id": 9136,
+      "source_sha256": "f78b85d0364c93653cead4a89d7e49a51884726982477f561b73c54020607bd3",
+      "english": "This outfit was inspired by a festival in a distant land. They say revelers dress up and parade from door to door, asking each household to hand out treats or face a prank. The ghosts decorating the outfit make it feel all the more festive."
+    },
+    {
       "table": "item_text",
       "id": 10069,
       "source_sha256": "e9a302f0634811f79aeb400cacb8e6c65b00fe0e715bb36b6b40b06d4938ac4c",
       "english": "Starfall Malachite"
+    },
+    {
+      "table": "item_text",
+      "id": 16480,
+      "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
+      "english": "Trick Box M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "item_text",
+      "id": 24148,
+      "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
+      "english": "Trick Box M (Sleight-of-Hand Artist)"
     },
     {
       "table": "item_text",
