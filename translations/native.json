@@ -883,6 +883,11 @@
           "english": "If matchmaking cannot find enough players for an Investigation mission\nor Rush Battle, the mission will begin with Imagine companions such as Feste\nfilling the empty slots.\n(They are replaced when other players join the mission.)"
         },
         {
+          "ordinal": 274,
+          "source_sha256": "8c5251f864841ba6d4e9cf94cad25ca6624aba4774db2f1fec8b33032589acc2",
+          "english": "Knockouts and Rescue"
+        },
+        {
           "ordinal": 295,
           "source_sha256": "b65a8196c242a271187fa08a97ab66dfd728ca9d34e7a73c6c046c4f7140aaa9",
           "english": "While this effect is active, a counter appears that decreases\neach time an enemy damages you. Reaching 0 incapacitates you.\nYou cannot be revived by other players and must immediately respawn,\nwhich inflicts \"Loss.\"\n* \"Dead Count\" cannot be prevented or removed."
@@ -4866,6 +4871,11 @@
           "ordinal": 81,
           "source_sha256": "86e55ce9d6a5da3877d9ab5998a3f2959974469b8e47d097c2888cb2828bc45c",
           "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
+        },
+        {
+          "ordinal": 180,
+          "source_sha256": "8c5251f864841ba6d4e9cf94cad25ca6624aba4774db2f1fec8b33032589acc2",
+          "english": "Knockouts and Rescue"
         }
       ]
     },
