@@ -8134,6 +8134,11 @@
           "english": "Once I'm back at the Reclamation Bureau, my mission will be complete.\r\nPlease, help me see it through."
         },
         {
+          "ordinal": 35,
+          "source_sha256": "9a8ef94b2301e22bd7688ea056037a0f768f519ec09bdf731eb22006694e05a9",
+          "english": "My last book... Would you find my humble journal\r\na little corner on those splendid shelves?"
+        },
+        {
           "ordinal": 36,
           "source_sha256": "a05956337837503bb403e402fbc3d47a4eb7e7e6cfe9691117e131f6133b9b41",
           "english": "A book lies where Rector stood.\r\nYou should put it on the shelf at the Reclamation Bureau, as he asked."
