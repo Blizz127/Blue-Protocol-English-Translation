@@ -218,6 +218,30 @@
       "english": "I'm Aleni. I cook for a living.\nWhenever I season a dish, it comes out fiery hot. My customers tell me it's delicious, even as they scream and cry.\nBut one customer came in the other day who didn't seem to feel the heat at all. I couldn't quite read the look on their face.\nI've never met anyone like that before. I keep thinking about them.\nAdventurer, would you help me find that customer?"
     },
     {
+      "table": "quest_sub_chapter04_text",
+      "id": 89,
+      "source_sha256": "6615e67c85bc4c08285d4c3a3fa2f90a8f6b16f1a4b5f6db9d4e0572ab2b6ae7",
+      "english": "A Farm Knight's Work"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 211,
+      "source_sha256": "144c729f3a72478dc88fe7c19bb3de51270694c0076b9a9af8001db620507035",
+      "english": "The Clockwork Fox"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 214,
+      "source_sha256": "9689a5b9c223eb040ae814762c0de651d10ea6bbb26dda6f2cde65511c90e59c",
+      "english": "Tracks on the Old Battlefield"
+    },
+    {
+      "table": "quest_sub_chapter04_text",
+      "id": 215,
+      "source_sha256": "91b2521371e1a3e819f20be1f3117f1bf7e9d18f1f50ae2bd34ef5c542756ca0",
+      "english": "A Bottomless Appetite"
+    },
+    {
       "table": "quest_sub_chapter05_text",
       "id": 81,
       "source_sha256": "53f9f2e7329ed0fbf27775371cccb4cf1e65d93e178faeea6fe5df51fea8a21b",
