@@ -1717,6 +1717,67 @@
       ]
     },
     {
+      "uasset_sha256": "c3bd3c77805802fe0d256569c2a30ade1cfc6e0a767d6e877c3fb20d1a2b2ff7",
+      "uexp_sha256": "868c4ca5e87507f831a3b6ebaca0e4ea235af7639445d4e6bef6f5d204f25c6f",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "cb264988757cdbdd2a8204bfcb5b3a201d05a7360124f9590f2389b96c8e257f",
+          "english": "I wonder what it was.\r\nIt sounded almost like the cry of some creature, but I couldn't quite tell…"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "5e6539c81e8c9585bace3e416d4096db0b0c68e67828b0927d79af4baa63a749",
+          "english": "Whatever it was, I'd never heard anything like it.\r\nIt made my skin crawl…"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "d4e1743c653ecccb1e0aa32797425d3ee0c4a972dd2540208fd5738026520eaf",
+          "english": "Oh, it's you lot.\r\nDid you do something to help us, by any chance?"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "f89b1eaa9b3241cdba5c272c900484e1fd7fed21a5684ac9eae333f7509a1026",
+          "english": "Oh, don't tell me!\r\nIt was probably some weird monster, wasn't it?"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "075295e820b1c0437c06d13116ac316c0404b4325df1e8d254680296b0d4880e",
+          "english": "You killed it for us, right?\r\nThen that's all I need to know. Thank you very much."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "40f950dc2ae3afab4d0b736af780abd409dc477ed5f3ec632b7b632c9326e136",
+          "english": "Hey! How'd you fare against that tough monster?!"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "d70b341ff2d4bcd19f11aa79e041e3c3f52d5286cbde528b4bdeb0686c348b6d",
+          "english": "Hey there. Fellow adventurer, are you?\r\nThen you'd better watch yourself."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "f02638f68a2e6c08720c9afceee3c58b38e358027802571b978f6ca9effd1d14",
+          "english": "And I might still be short on supplies…\r\nI'll have to stock up on those, too."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "cb00ed1a8f0578df8b2e314ebb36148675f19be6a7fa4fd813d3d2c1d956e1d3",
+          "english": "The grown-ups told me I wasn't allowed out of town.\r\nThey said it was because you could hear a monster calling."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "a8ece158f23d76312a695796f80b2d2fcc33708d1f699f64e0e7bc25b3defade",
+          "english": "You can't hear it anymore… so that means\r\nsomebody got rid of the monster, right?"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "52f13706c811c32deadbc53f53302a923a2b864168b51514f806d54cfbbe563d",
+          "english": "Phew! Am I glad to hear that!\r\nI'd just run out of games to play indoors."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "ca43e79823285f36df8a27eb4ce66fdbae69ade7291047cf5461575415b5f465",
       "uexp_sha256": "85f9dc5c596fed785dddcb01d0592e1827b49f4a32263ffed39993214bb552d4",
       "rows": [
