@@ -1740,6 +1740,66 @@
           "ordinal": 160,
           "source_sha256": "37aa3579a6e835358502f841533e52704b144c2af059e7c2573e2cf59f9398b8",
           "english": "I don't really understand, but… it's what's inside you need, isn't it?"
+        },
+        {
+          "ordinal": 209,
+          "source_sha256": "169436324339d58f36f73bc8e51d0ad61840f6e137f992d2991a79bc0ee6cff6",
+          "english": "Well, who knows what dangers await us in the future…\r\nMind you make your preparations."
+        },
+        {
+          "ordinal": 300,
+          "source_sha256": "64c565fcc8b1966083421389fc72a8fb3bd8e7c73a8255420ef0bb1824ec7f6f",
+          "english": "There's a wall up ahead that should still be under repair.\r\nYou can slip through there and get to Bachelard."
+        },
+        {
+          "ordinal": 327,
+          "source_sha256": "a00be53d3f7e9c5aca8747404202a42a06df522bc4880d5181a1b8f80a4b3909",
+          "english": "Something's wrong. It's about to run wild. Pull them apart!"
+        },
+        {
+          "ordinal": 349,
+          "source_sha256": "49d72e5db2509add0d6eab3d6e4e08e1fb9b1a2e7f16e719bedb6631746413c6",
+          "english": "Gone…?"
+        },
+        {
+          "ordinal": 353,
+          "source_sha256": "4e1db2f8ca1450b32e1d139d3f95db1ddf8d26ee9dc097edb2a62db65f50c67a",
+          "english": "When… did it go…?"
+        },
+        {
+          "ordinal": 356,
+          "source_sha256": "97430aa01e59f71de9aa426b99b7d0fdc059bc18bb39306b05d91b3eb0bbb063",
+          "english": "…We estimate it went a thousand years into the past.\r\nThe very era you jumped to."
+        },
+        {
+          "ordinal": 363,
+          "source_sha256": "07d1f6af1c34be4922348996db526db3ae38d694279418828a89a17725317b6d",
+          "english": "You're the one who caused this!\r\nSurely there's something you can do?!"
+        },
+        {
+          "ordinal": 372,
+          "source_sha256": "348c8b6c05ab92a66201c2ead6c65dbfc3bf29a2ac271953d3a664d36793710e",
+          "english": "In that case[――]it's in your interest to help, isn't it?"
+        },
+        {
+          "ordinal": 373,
+          "source_sha256": "d8b004013fe4d30179136c38580424c0336b8a457d52b8a1258fdd54e68ba382",
+          "english": "Hey, kid! You turn up out of the blue, make me show you the way here,\r\nand now you're acting like the whole thing's settled?!"
+        },
+        {
+          "ordinal": 377,
+          "source_sha256": "89e9ec28e36870a40e874d22d3d452969971aa489226b0e609e5b868707e203f",
+          "english": "You've really done it this time, haven't you?\r\nMaking a puppet like that and linking it to the beast…"
+        },
+        {
+          "ordinal": 378,
+          "source_sha256": "ee0f244b41d51f337731a70ec785fdb112d8d6f837f6fbdc400445ed3591dd50",
+          "english": "When that thing ran wild, it stirred the beast into action too.\r\nAt this rate, civilization on this planet won't last much longer."
+        },
+        {
+          "ordinal": 384,
+          "source_sha256": "83e5984ee09588046c4b5e31c1695ebd2d5427ccff51b0ed8eab6a80dabdd94b",
+          "english": "Trust me.\r\nAnd you'll help too, of course, won't you, old man?"
         }
       ]
     },
@@ -1782,6 +1842,17 @@
           "ordinal": 70,
           "source_sha256": "629a287948523d11cf91824d475f9fd734957517257cf0a462d51634a0533b89",
           "english": "Bind holds you in place. You can't move at all.\nYou'll need a way to deal with it to get through."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "6f59002c354bda5c870dcfb0b8b3a68cd11e872b6debd1b2e6b11d89893b3174",
+      "uexp_sha256": "c65c1e609efffeb8bf002019e439e8700603d94ec73fd05404f19a1262f6a3da",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "df9a1c76fd62bbc6437c39cde904a6b7f7a9e7818d1c5d5afe96af55ecedf245",
+          "english": "I hear the assassin got away and is still at large.\r\nWhat a dreadful business."
         }
       ]
     },
@@ -2241,6 +2312,32 @@
           "ordinal": 6,
           "source_sha256": "098eb2e3728cd354d91d5ff240891cbb20e225247cda47eeb8d49686fe7bd248",
           "english": "Talk"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "b234c36e76919ad89c5b6abf0c8781fda2d7a528efa6e4f683282a35a1596157",
+      "uexp_sha256": "032c5553446ea4da84e2183b94669ff13223b7b8828f389c00b6da5aca77ecba",
+      "rows": [
+        {
+          "ordinal": 6,
+          "source_sha256": "6f60a11cd599de356f7c0bdab857391d3943f82e87628aaee180eb9cf3679418",
+          "english": "Who in the world are you, lad?\r\nAre you one of the Bapharian gods, too?"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "f766314338bab18467f104d522e67260096d1db6a88d5e0e61333bee98d74b33",
+          "english": "…You're always right.\r\nEven now, you're right to choose to join forces with us."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "8ef8ed75e29fba75c63ff4a0fa26628ec43b45aef6e56af2cba6360c5dc9fc07",
+          "english": "…Spoken like a proud princess of Bapharia."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "96d1e4fd516b7e435a6c8c532ff1acba45aa0a831cb373a6631690f702785f2d",
+          "english": "Yes, Your Highness! Please be careful."
         }
       ]
     },
@@ -2727,6 +2824,117 @@
           "ordinal": 808,
           "source_sha256": "5a16f48cb3d7f32305aedecb9b118fd4b9e9ed495589fdee8407ce91637dc2a1",
           "english": "A Promise to the Future 6"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "cba18fb17bb30aa198839cbfbc1cfe89636fd84e240b21a86caa82c2617bab1c",
+      "uexp_sha256": "d6f770cce4d07a8dd2a3f8e3e4e04d4d4dacd8e10dc17c4a619066bc88686cf3",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "0c2a838cbca7e273ebc041dbce7b0716ef2e42c48ffa8f335b8281da7cad4518",
+          "english": "But surely Lord Dunkirk, the commander of the knights,\r\nwill know what to do."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "d61458ea774dcb1fae5b977915a216ca2b4aedaf3ba307c9c471ff720266582b",
+          "english": "Heard the rumor? They say the duke's killer\r\nfled this way."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "61c84695f7bad9d2315bb0e941bf1d97facb5cde4690ebfb031246e4a377a7d8",
+          "english": "Just think of the bounty\r\nI'd collect for catching the culprit!"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "853894428a0c0d72d060c2e4a9ad9722e73e1db29444db11956cd90bdcb504a0",
+          "english": "That must be a bitter pill for Lord Dunkirk to swallow."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "a39a4a7e86b005c28983509ef4daa142e7978e4587f664514df32d50c422cceb",
+          "english": "I hear the assassin's lying low\r\nsomewhere in Asteria."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "61db6f3216b6d197277b3ba205e1d6cc718f6b461fd1e04567a7a7ade6ea620a",
+          "english": "That the great Duke Norbert should have departed this world…\r\nI still can't quite believe it."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "e6ecfb2953b7921aeed3878a861d463624fa6ef61da9ce19871bfe31717d427e",
+          "english": "In all likelihood, Dunkirk, the commander of the knights,\r\nwill take the helm of my homeland for a time."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "cc697a626b32365d8ec38c1cd5d64105f9ff81f15a3246e20f8085f388775db8",
+          "english": "Oh, no! I knew the cargo count was off!"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "f0ae6bee2e91799c5779cba0f7bdde7bbb9c14d7d72890f74adfb1ce91c7a39f",
+          "english": "Even at my age, I still walk the world over\r\nto judge goods with my own eyes, but…"
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "837aed3a166ccc8f3fff997eb83f786dab4ebd01c3cbe48fbf65e9482c9cd6d4",
+          "english": "Hm? …Don't talk to me just now. Hah… hah…\r\nI'm doing a mental exercise. Picturing myself—hah!—catching the assassin."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "d4ef50d50e647b38348b4fb93143ca7e07c065d7f2e35f112c33e7988c3ef9ba",
+          "english": "Dad's gone to get supplies,\r\nso I'm minding the shop for him."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "6db215b325cc4b0d5f27f1164bc6f9df37662f62c69d5d3c1e3f98b61a4f3d0b",
+          "english": "Oh, for goodness' sake.\r\nIt's one canceled sailing after another these days."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "5e9827e589f689e0622595cffee8e0301cc2f9c0b7beea87ec12bdc4c6768ba5",
+          "english": "How am I supposed to make a living?\r\nAn inn for sailors doesn't get much custom these days."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "d26b3ad9ae0dccd4c1339309b42afe32b7d965f943b7b91229e2434ad83fe012",
+          "english": "…Impossible! It's too soon!"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "72925cc1bdcc080de38c4877a10682540f4d63424735adb23d812a00f9ec50e1",
+          "english": "Hey, you! Have you heard?"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "ec6cfbd1364f8796706ddee3dae3c1aff4fa0212af731322911dfe9fd52ac4c8",
+          "english": "Lord Dunkirk… Was he always so frightening?"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "0f6cecfa1adecafac700fc932105f656e106eb7a81ee6e04120453cfdb316884",
+          "english": "Whew! I could barely breathe."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "a7c0294ef0d79a5ba717c01f8762888593a3ef26e7271719333b041a0df25cf0",
+          "english": "You know who I mean!\r\nThat assassin who's on the run!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "1de222ba0ccef56788b70a22794d95013763e1496ea44224c750f260030beb6a",
+          "english": "From what I hear, it wasn't terribly cordial."
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "cd26e7306f1ad92cbb1fe5152d55d360e95562236e9552f65c7e0379289d4ffc",
+          "english": "Lord Dunkirk's gone and done a dreadful thing."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "e3f42e7562591cd40da5a779b3500928d76770644e3bda4fc6a205be9c4e7c13",
+          "english": "And here we all are, praying to the Sacred Pillar every single day."
         }
       ]
     },
