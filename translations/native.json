@@ -1396,6 +1396,31 @@
           "english": "A lot of the ruins and caves in the Evergreen Desert\r\nare dangerous places. Watch yourself out there."
         },
         {
+          "ordinal": 54,
+          "source_sha256": "c90b3933b21c22f49bd27e191a6160087276ab6b0acc11f48c0829b5869a59ed",
+          "english": "I could've sworn I saw the Oracle Priestess\r\njust a little while ago…"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "adcea7bad28b5acca3a9ad309dc19cec69f73a8ee3afe0840e336b3f683121bb",
+          "english": "Pilgrimages are grueling, from what I hear.\r\nA little breather now and then does you good."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "32a678aee8382f00f8a5e7121af36a1ffdd57d5807913df6b90299e73e8eb5a1",
+          "english": "I take my eyes off her for a second and she's bloody well gone.\r\nShe does make our work difficult."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "e3eb6a1bcd5ae5f98f9a6e8499935b5114a5ac7d2b8243227d9dc2a851d7fa0b",
+          "english": "So please, if you'd be so kind,\r\ndo look for Lady Einrain."
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "ea7770ee46df9376a4363434c1d55ae38f91abcfcce37b4ba812e1ca4359fee8",
+          "english": "Oh, it's nothing… These are dangerous times, aren't they?\r\nEven I get a little curious."
+        },
+        {
           "ordinal": 106,
           "source_sha256": "581367bbda96f233042a2da121e0a339937e80cc725e652249f781c0c70d0608",
           "english": "Hey! I saw you with some lovely ladies earlier!\r\nWhere'd they go?"
@@ -1701,6 +1726,56 @@
           "ordinal": 41,
           "source_sha256": "36db595886bf67664b2b0d82596dcd189a149443473ae9f30dae841ea7a658de",
           "english": "We've got some amazing performers!\r\nMy singing draws the biggest crowds, of course. Hee hee!"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "08629f998af0436417ff469e36583b4e310d3335a50e46b365c09bf683d963bc",
+          "english": "I saw a child I didn't recognize playing with my son.\r\nA traveler, I'd say, or a pilgrim."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "c90b3933b21c22f49bd27e191a6160087276ab6b0acc11f48c0829b5869a59ed",
+          "english": "I could've sworn I saw the Oracle Priestess\r\njust a little while ago…"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "adcea7bad28b5acca3a9ad309dc19cec69f73a8ee3afe0840e336b3f683121bb",
+          "english": "Pilgrimages are grueling, from what I hear.\r\nA little breather now and then does you good."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "32a678aee8382f00f8a5e7121af36a1ffdd57d5807913df6b90299e73e8eb5a1",
+          "english": "I take my eyes off her for a second and she's bloody well gone.\r\nShe does make our work difficult."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "39764be5a3543f845945d096e18a87176ffdf24034245f81c68b58c580554b11",
+          "english": "You'd think the head of the temple, of all people,\r\ncould damn well sit still for a minute."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "e3eb6a1bcd5ae5f98f9a6e8499935b5114a5ac7d2b8243227d9dc2a851d7fa0b",
+          "english": "So please, if you'd be so kind,\r\ndo look for Lady Einrain."
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "ea7770ee46df9376a4363434c1d55ae38f91abcfcce37b4ba812e1ca4359fee8",
+          "english": "Oh, it's nothing… These are dangerous times, aren't they?\r\nEven I get a little curious."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "d1bbae2326531fda9452dcac8331dc5e5437563688e1454d77d87caae41dc2c9",
+          "english": "I wonder if the songstress sings even better than that girl.\r\nI really wanna hear her!"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "9e673efd823da8c97a90c7f8d06396025f63eea4e1b2f0e71f80a197f2ca9b89",
+          "english": "That girl who tells the boring stories?\r\nShe told that one just for me."
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "d7b5b88ddd3fc6b1c4bd54107f95df7b6bc19b37629a4741389c2573ec6e2209",
+          "english": "Then she came over.\r\nShe told me a story to take my mind off it!"
         },
         {
           "ordinal": 106,
@@ -2479,6 +2554,17 @@
           "ordinal": 82,
           "source_sha256": "b9eeb611e470f99304f03d2743986e6da5bcf721e74edcda90d8962596e5aeca",
           "english": "Do not show this again"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d3b395777593a42f57aab7d0e3ef25fba0f8e527a82eb4fe0cecf0c7fe9e4f53",
+      "uexp_sha256": "07368d2146066ea4f301fe9c765c156dac9211492fad188cb4277270ee6f1011",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "82f0f58595b048fbd6e930d2de99f180e8d238d725525218cfe33a968b33c83c",
+          "english": "Comedy sketches, dancing, street acts…\r\nThis troupe really is the best!"
         }
       ]
     },
