@@ -1299,6 +1299,21 @@
           "english": "I know Lord Dunkirk's here,\r\nbut do they all have to be so on edge?"
         },
         {
+          "ordinal": 29,
+          "source_sha256": "1cc14f65180dd7aca57c22e148fa6c84fe71526af613fdb9a5ad55de006094d7",
+          "english": "Well, well. You brought me a souvenir?\r\nThere's a first time for everything."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "58b4b64f2d3a793d121c1e9ed07998260a94adf01d0a6dce5ce286f880b2ba4e",
+          "english": "Don't be silly. A souvenir from such an outrageously pretty little thing?\r\nI'd be struck down for turning it away."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "98494736319b5fe5229d903529c147ee56c5cb871787175657f20f46b2795331",
+          "english": "A lot of the ruins and caves in the Evergreen Desert\r\nare dangerous places. Watch yourself out there."
+        },
+        {
           "ordinal": 106,
           "source_sha256": "581367bbda96f233042a2da121e0a339937e80cc725e652249f781c0c70d0608",
           "english": "Hey! I saw you with some lovely ladies earlier!\r\nWhere'd they go?"
@@ -1312,6 +1327,11 @@
           "ordinal": 111,
           "source_sha256": "29ead875bcb5863516367190416d214b79b4fcd3b7aa38750a2104846aed65ce",
           "english": "...There's a story there, huh? OK!\r\nSince it's you guys asking, count me in."
+        },
+        {
+          "ordinal": 119,
+          "source_sha256": "cc3d1e1bdd4bfea2a45693d7b92e14baf1e5da57a63f515e43e5ced80764f871",
+          "english": "Take the path on the left! She's up ahead!"
         }
       ]
     },
@@ -1581,6 +1601,26 @@
           "english": "She's still just a kid, you know?\r\nPoor thing, being made to walk all that way."
         },
         {
+          "ordinal": 29,
+          "source_sha256": "1cc14f65180dd7aca57c22e148fa6c84fe71526af613fdb9a5ad55de006094d7",
+          "english": "Well, well. You brought me a souvenir?\r\nThere's a first time for everything."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "58b4b64f2d3a793d121c1e9ed07998260a94adf01d0a6dce5ce286f880b2ba4e",
+          "english": "Don't be silly. A souvenir from such an outrageously pretty little thing?\r\nI'd be struck down for turning it away."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "98494736319b5fe5229d903529c147ee56c5cb871787175657f20f46b2795331",
+          "english": "A lot of the ruins and caves in the Evergreen Desert\r\nare dangerous places. Watch yourself out there."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "36db595886bf67664b2b0d82596dcd189a149443473ae9f30dae841ea7a658de",
+          "english": "We've got some amazing performers!\r\nMy singing draws the biggest crowds, of course. Hee hee!"
+        },
+        {
           "ordinal": 106,
           "source_sha256": "581367bbda96f233042a2da121e0a339937e80cc725e652249f781c0c70d0608",
           "english": "Hey! I saw you with some lovely ladies earlier!\r\nWhere'd they go?"
@@ -1604,6 +1644,11 @@
           "ordinal": 114,
           "source_sha256": "6468823b90185adf19c7d5e0f387bb35ca523d4129dc2f12d21ec041d585ea49",
           "english": "Whoops, I wasn't supposed to pry. Sorry!\r\nLeave the rest to me."
+        },
+        {
+          "ordinal": 119,
+          "source_sha256": "cc3d1e1bdd4bfea2a45693d7b92e14baf1e5da57a63f515e43e5ced80764f871",
+          "english": "Take the path on the left! She's up ahead!"
         }
       ]
     },
