@@ -98,6 +98,18 @@
       "english": "{CharacterName} took a ready stance facing {OtherCharacterName}."
     },
     {
+      "table": "quest_main_chapter01_text",
+      "id": 21,
+      "source_sha256": "276b046ef3eba739e70665cef64de7329210af5572c666b3785e18b557104c0f",
+      "english": "Whatever I do next, being a registered adventurer would make life easier.\nFirst I'll have to pass the exam. Then I can make it official."
+    },
+    {
+      "table": "quest_main_chapter01_text",
+      "id": 33,
+      "source_sha256": "fbceb3329a7db9ad70fd6809acb28c4cb397ad5600df5a2e5cc9f1d8ab76eb15",
+      "english": "I caught Aeryn and Tyris talking about something intriguing.\nThere's so much I don't know about these two who say they're from the future. Maybe I'll get a glimpse of what they've been keeping to themselves."
+    },
+    {
       "table": "quest_main_chapter07_text",
       "id": 1,
       "source_sha256": "04d6e20bef061abfd9d954d5455419dcf534d57a327822dad227766ca610741c",
