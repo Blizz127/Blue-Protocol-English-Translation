@@ -2,6 +2,27 @@
   "schema_version": 1,
   "tables": [
     {
+      "uasset_sha256": "01d1b8ba71b46006143c406448c016fc5799bf983c17f742739fbf7547c9c448",
+      "uexp_sha256": "9f45c6949eb200c0a9d53f148e619a310cdcacb6ad535a57e62ca0b00b8b6068",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "41d031982dadbf1056ea92a5174e6ff420ad31a4c7d337b8e4111f93027cb2d0",
+          "english": "That's a grand name for a place like this."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "cca96b6b6d67ee8acc88b378b46a77fa91708dd36e92a0fe969dd2670231d7f8",
+          "english": "…Lord Urugarm's guests…"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "a2e57d5fe93b575e8030b0916c1e94e6923e07e8d62a727874aaa258198a65b1",
+          "english": "…The only humans I ever knew were bandits, but…\r\nI think I'd like to talk to you!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "053570d8b78a956799e54c0c0baf043c105d06b5be05c14f8e44cd736aaafe7b",
       "uexp_sha256": "2ba92bc0808fcbdf29a6ae2d20fd7ca282afb80df65c779a7ac8b5c2378bb82e",
       "rows": [
@@ -1067,6 +1088,127 @@
       ]
     },
     {
+      "uasset_sha256": "1a34a1a8f1b80913bd99520db512057e220b06c3ba8eef14d34e370966b19a34",
+      "uexp_sha256": "c7c59cd2a70bb7b7406af024bd22e7d2502e48cc07859a84c75bb0902adc0c56",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "57fa441562fc0571d6952368e98337e2ad04b6295f3bef2a016f60daf2dbea11",
+          "english": "I'll show you the way to our settlement. I owe you that much."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "7c99aac72d7326c840f40c49add807f7defc795019dbf8a2663f4d6212ee345e",
+          "english": "Come on, before I change my mind!"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "de0db231b57a42891e95262c6d5bf195a81ded0ab2e86d66d9324ae1482a578b",
+          "english": "You're Lord Urugarm's guests, huh?\r\nGuess I can't turn you away, then."
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "79bfecf28687b0148cc4b4c6509f63526bb91f88e688f78ee812eeb7624e76c1",
+          "english": "Most days, you couldn't pay me\r\nto speak to a human…"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "fec18992d4a935e4cff16a4949d16f819ebc059b3ec39529f0db7f6da3b8248b",
+          "english": "It looks fairly recent, too.\r\nHas there been trouble around here?"
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "74b0269adfe425d1252d9165f4f36e98c213ce6b59682b9ceb02bb9c21625411",
+          "english": "Started about six months ago, I think…\r\nLately the damn things have been busier than ever."
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "a86d6be803860f22c7051bc5d93ea9f4e70cb030432310234d7b564263d7e911",
+          "english": "About six months ago, you say…"
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "1ff691a1749690f2c174c3ddeb5fb89bbf4582198e90fa26b92fd11361b8abc1",
+          "english": "(The Avaritia Shell first appeared\r\nin this era right around then.)"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "5e7e16bc15eff4c3e0adb49f3a73e17cfe36220ddcd3636ef952f458cb73b2b9",
+          "english": "You're Lord Urugarm's guests, are you?\r\nInviting humans here… He's got some funny ideas, that one."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "a12300e892da89613b044b579cce291357d29d883046a6d1a157f97731cbdcc6",
+          "english": "May I ask you something?\r\nWhat is it like to live here?"
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "fc3be98ce04f9920284fc0c243f62f83c9cc6e07d72c03527467488edec6f3c2",
+          "english": "What's it like? Miserable, that's what."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "e25232cb4aed348baf1cadbd30b2a4e991cc9489471af390523185594a18cdae",
+          "english": "We need engram to live,\r\nand there's precious little of it in this land."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "9cfd6967eb09d5ba0b6ef26367e612fb0828fdbb3d6704044b27851edec5378c",
+          "english": "Little by little we grew weaker… So many of us died…\r\nAnd our lives kept getting shorter…"
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "e7745ef94ff71aa96d07a50d905f83d54a7ac426ca60888c5a9c0980ab6b790c",
+          "english": "Then Lord Voldigen came back to life, and that changed things."
+        },
+        {
+          "ordinal": 115,
+          "source_sha256": "727135cc3eb4ef68ec95eded519a0a934107195d3f2ad265acd36724e1702de1",
+          "english": "That engram reading's coming from farther in…"
+        },
+        {
+          "ordinal": 116,
+          "source_sha256": "d84ea74b78cd3ef512d3373de6b16c237dbfd5c1ab3d00b60bb44214cc7ad935",
+          "english": "[――]Ah!　I'm picking up an engram reading in this room!"
+        },
+        {
+          "ordinal": 122,
+          "source_sha256": "067e1ee1ef70466bf746795384098fae4252cc5e0dc456edaab5e4696bf0aeda",
+          "english": "The engram reading… It's this way."
+        },
+        {
+          "ordinal": 123,
+          "source_sha256": "32b96102e681a17c0dae76547ff17a5521f65aba7bf1da52969a1dc6fd985afe",
+          "english": "We'll take a look. You two see if you can find any others."
+        },
+        {
+          "ordinal": 135,
+          "source_sha256": "4a0a7d11c7f3fb970f52e2e3aa97294e15e8086ef7c979a2f31708cfc30b58fa",
+          "english": "Well, you see…"
+        },
+        {
+          "ordinal": 136,
+          "source_sha256": "a39edb3c7203b7806d07950db5bf74bd8cdf280cbee0e440697b2412f67cf406",
+          "english": "This is a very old design."
+        },
+        {
+          "ordinal": 137,
+          "source_sha256": "2bfa3df787e65a655f6e907f28fabafc52e850e523796e38eeac6e8fcf22cadb",
+          "english": "Let me see… This part goes… like so…"
+        },
+        {
+          "ordinal": 149,
+          "source_sha256": "2b24aa1b6f187c052f77a12c5f160ef87a91f23fab0a4f24ff6a9bf9642cd885",
+          "english": "Ah, I see…\r\nSo this crystal is one they left behind."
+        },
+        {
+          "ordinal": 150,
+          "source_sha256": "bf6ff3f83e448d7ae41ad97aaefc92883ee08e7a97ec8f2e261966e4218c7c05",
+          "english": "I saw a few more.\r\nNo harm in taking them all back with us, is there?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "1ed0ebda8072b5ab5155d092bc1b0eb3bdea5797aa6c3589f12d6c2ebea2e5c6",
       "uexp_sha256": "309527ae8082e9537bb98449ddd1192a0035612732658c5457313b0dabae7f2e",
       "rows": [
@@ -1969,6 +2111,22 @@
           "ordinal": 95,
           "source_sha256": "914fe6ff86733d85197246a92533249cdf50303c7c0f4fe28e7915137f85b19e",
           "english": "Besides[――]"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "440170ae95926a611d2aa11cc9fbd1b08acd7920609c2ae556772202de04b42d",
+      "uexp_sha256": "4f62584433a4a7069089908dbfbb7eb015b8e9ab5d484e589031e9bfd62b4819",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "692b290055c07b8a854d13a12c7c5b371207e0dc723a185813577722c9364199",
+          "english": "What do you want?\r\nSorry, but I haven't got time for strangers."
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "abfc0b2ce720ab772c15bbcbe9d35b1bbb2b490b2c37d5e7e2e8d20403e5e77a",
+          "english": "A youngster like you should be out hunting humans.\r\nI'm sick of seeing them prowling the snowfields."
         }
       ]
     },
@@ -3979,6 +4137,22 @@
       ]
     },
     {
+      "uasset_sha256": "9c2f22a4b2db9f2c9aa43dbad565cd50c31403c647a1b004a20a037333cd6a55",
+      "uexp_sha256": "aed8f931381c46b07afc706802d0f80f5edd9e4d71ec4fe93ebdb71733516267",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "221581c40b156d7e192b5deacabf300368045b40ebc0292cc7885722f9ee3a4f",
+          "english": "He fought those battles over two thousand years ago,\r\nand we're still telling the stories."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "f66d1d27369a347fa7bc44a62b0a51865ca6ce745ebb7c4f879c1f6f83d88366",
+          "english": "That's how far Voldigen stands\r\nabove the rest of us."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "9c8ae7ca95c7d29918f1a013c16634dada15d338c5ae561f4107900d9b2e57f9",
       "uexp_sha256": "41d6ff80974fbb5b2b943061291fa99dbcb53d482ebd220adbbca6965f92c45c",
       "rows": [
@@ -5015,6 +5189,27 @@
           "ordinal": 421,
           "source_sha256": "1646f1fb3b9d325a7697a659375d5d8573974ab328b7e2257583721b8622c45a",
           "english": "Until we deal with the Avaritia Shell itself,\r\nthe problem will persist."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "be2d43bdef246c07b15ecf9adff7000166fbca1b5db5e4191da4884f067af73a",
+      "uexp_sha256": "abc18d6a220935d6e52b7f18e68a9879478d6dfc7c4733c19a4bc8c3b18de949",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "98d37f79ded18815a09ea71ff8f8167e33dcb3c3687dd2a2196c67bc1ab5819d",
+          "english": "Who are you?\r\nHumans have no business here."
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "b6606172806daf6bcf63d57ccb4b6ed461e39bf7e9038c2c493cf81094871511",
+          "english": "I'd kick you out myself, but it's your lucky day.\r\nI haven't got time to waste on you."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "33247d0b457bd2136ffcd5734482e9703a8977411ba6c87ef61e8debcc944e6d",
+          "english": "I'll let it go this time.\r\nNow get lost."
         }
       ]
     },
@@ -6695,6 +6890,52 @@
           "ordinal": 54,
           "source_sha256": "74c15b8647f369c73592181d1487c08a1c05faef3a2bb386a4c0792243dc9b5d",
           "english": "{Name}, one last push! "
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "dfbadaae121c6121b05c8b37389ed9e8e03a09898e3e49aaaf3de5132c65094a",
+      "uexp_sha256": "324df6fad85a446ee06646eb05522ae6d77fa5fb7515c5b77ebf0087799505e3",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "65805e265edbf7be538d42904d9f33f46a7969320e3170626830a72a9153fd96",
+          "english": "How's the kid doing?\r\nYou haven't been to see them?　Get going!"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "7385a4db960ee4fdb5ac1a15816547dd942a22fa995f14e30297ceff20ab4b1e",
+          "english": "Hmph. A pack of hypocrites.\r\nWho knows what you're really after?"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "d5ac1ba66868b03438f84ed89346c41154cdc243b91a6e55ce9563118d88b619",
+          "english": "Still… the engram crystal is here,\r\nand with it I'll probably start to recover."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e1f46b88899460414b186d33fef887665e06b34968cd24418063c38144bad8b2",
+          "english": "To think I'd find myself indebted to the likes of you humans…"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "657280fa9894a95ca2d9efb334f13d2bf2a346fd21151757cbb1d12d9e1c1353",
+          "english": "Lately, I reckon I've been seeing them around\r\neven more than before."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "17cc49e8daf857468fb716795d8c212e2f2d39a5a88dd49591256679b3b686f3",
+          "english": "I'd like to have a head like that on my shoulders,\r\nbut there aren't many who think the way I do."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "16b9858243b9f9408a2783f1e235a0229f91f1ace13c89172b83a1d0a3a73ec6",
+          "english": "The rage we feel toward the gods gets the better of us.\r\nIt's hard to keep a cool head."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "0a177f05558a25fa562b4f1ac2d1cce85fa227df67c28b2e8fb2722784f5a5df",
+          "english": "They never had the strength\r\nto rule the land down here!"
         }
       ]
     },
