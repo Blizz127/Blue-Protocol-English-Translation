@@ -1997,6 +1997,62 @@
       ]
     },
     {
+      "uasset_sha256": "b98909a6dd2bd275ade5cbb3564e22ec86c77851fe00f739fd1bf14bf4ec6d78",
+      "uexp_sha256": "9ea0d9213b202a58541be29caa75b6a5b87b9bc59a561a8f9fe82c36439f7d26",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "16a60a0351046e41c42faede1d7b4d6bdd1a2c7a1d4d1a824de664d72cbd2d10",
+          "english": "See, I was trying to make the drinks,\r\nbut I couldn't figure out how to work the machine."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "69df8d626846705e4c920b4659b5172f331b024da2c939a6ccc94f322c22b4d8",
+          "english": "Doesn't look like any of the shops sell them.\r\nYou don't know where to get one either?"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "1bd11475b30fbda6d9972406a39fb1793fd1b29a6d07a387a0e6a13f73191dbd",
+          "english": "...Huh?\r\nDid I just get the polite bit right?"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "e5a95e692a09d8a82f8d391fae335edc0aaa648b1c3718fccd9b67851a8c368c",
+          "english": "They gave me one for the grand opening, too.\r\nYou can use it right here at the stand."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "1568d057a2a28eda1a3e010abeb60a5754c164ee439eba301a9151e84daf025f",
+          "english": "Please! Pretty please!\r\nIf the lady at the stand finds out, I'm in for another lecture!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "eea381182ce6ccd524d12118578058cbd82be57cd4b7ca0028446f916de98353",
+          "english": "We keep records of what has been found in the ruins\r\nand what has been taken from them."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "09caf1a525737d3eb3b0255b95f7e873f4e7e2bb18b8d6926530695839474ea1",
+          "english": "There is a difficulty, however. I fear obtaining one\r\nmay be beyond even you, adventurer."
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "ecdb5ea9576a2808b0920a1ab84e4012a221fd3e41ca27f2d4803a4713d0d859",
+          "english": "[――]And what exactly would happen?"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "bdbdc36c810fc523449740f4305dce2d437543671125978e4912d49698607775",
+          "english": "Um, w-we look forward to...\r\nto the pleasure of serving you again, we do!"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "5d8c7c47affbb485316e30fc943c72cef8b349c14205b8a24a3275e9d999a5fd",
+          "english": "Sounds like plenty of people offer them as rewards\r\nfor jobs they give adventurers, too."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "b9d64b1846d4b03cca26075de69e4b83a8afa33863fdcfac2350d1708baf7ac9",
       "uexp_sha256": "002b414b96e0bd3aa7b9f1a0ce01aeb1556f58782e382a5c9809e2d79217907f",
       "rows": [
