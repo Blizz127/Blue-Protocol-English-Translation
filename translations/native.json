@@ -1359,6 +1359,67 @@
       ]
     },
     {
+      "uasset_sha256": "78f548cf7214a6cbb4181ee6cd00fcea6e8007851b2e2382dbbb0f487138af69",
+      "uexp_sha256": "c650efcf5dd75f24cf2e40f338b4c04e603838b8cae08df418919bf71c3a711d",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "04fd4f8f6922afd854c8de7df5d9be6eb65bfe61a7e0410f3fff7bd830ba79bd",
+          "english": "It's convenient to imagine the ruins are all cannons and ancient weapons.\r\nBut the spectacular things aren't all that people left behind."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "c453ad92960c9e6d88dd0c63a99200a3dcf593c2fea519b8cdf2c7002fb85108",
+          "english": "The Bapharian Order is hiding something!\r\nThey must have a secret they can't afford to let the public discover!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "c58704e4c7026722d8ee317b78299ba54f7f7ea8337b5e8022e79143a4a5bd25",
+          "english": "That alone proves my theory touches on the truth!\r\nI won't back down!"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "e91077122318561f44992265c9a1ff81cc901fb48520a427298cad0603316c17",
+          "english": "Adventurers are seldom allowed in on their own.\r\nSomeone from the Bapharian faith usually accompanies them."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "79dc0933065a9175e697400e9c16e6dcdb2e0d296f093149abaeb9638186faa6",
+          "english": "You have your permit, so I have no objection.\r\nPlease, enter."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5db40609d788deb620bfbca033f299964276860ff265c87ccd3aff41a616914e",
+          "english": "So I won't ask any questions.\r\nBesides, the lady with you looks quite exhausted."
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "4b88e34073bdbe09726624c451c747d7c8fff0c333ac37c77f6b785664c64e3c",
+          "english": "Well, if you came up empty, you came up empty.\r\nYou'll find out in time. Don't rush it."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "22c48a8acb80540b7690cc37bfebd8323013f8ac7ede677e7be4d13ee4ae8e91",
+          "english": "Something terrible happened to the man\r\nwho used to stand guard here with me..."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "45ecbbbcbfed48a1f05583c2e8f2f2217de8b71b357aee6f3e21587666e51cca",
+          "english": "It's hard to bear, but he died doing his duty.\r\nI'll keep standing guard here and do my best to honor him."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "03370e65cbe09cdd89b39ce45b6ae2d2a711161509aa90aba583328956bd9e39",
+          "english": "The fellow who stood guard here before me took his duties seriously."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "d2aa1061b7f257044bcca54c95bb192250a473547ad010dc8310586ff75b0848",
+          "english": "What, are you lot still here?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "78f9f19bbac01e2901955c0d1eb998defaea1b8c1a4baeb7ac4b9efa74875414",
       "uexp_sha256": "9598c4840ee134af460712b2a9f5518c319dc432ddf4f607643ec08d48e80b40",
       "rows": [
