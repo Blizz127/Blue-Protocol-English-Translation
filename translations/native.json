@@ -8219,6 +8219,11 @@
           "english": "Your “Memory Case” holds all the Liquid Memory bottles\nyou’ve collected so far.\nYou can check each Liquid Memory’s effect, grade (effect strength),\nand activation conditions, among other details.\n\nLiquid Memories have useful effects, like giving you more materials each time\nyou gather, but they’re hard to come by.\nCompleting certain quests is one way to earn bottles,\nso try your hand at a variety of activities."
         },
         {
+          "ordinal": 308,
+          "source_sha256": "9511aad981a75482ee1ea49b65cc355de0744767a34c5165d2dbd655670c5f65",
+          "english": "These are the medals you've earned so far.\nIn the Command Menu, select Socials > Adventurer Card\nto choose which medals to display.\nYou can display up to three at a time.\nTry different activities to earn more!"
+        },
+        {
           "ordinal": 436,
           "source_sha256": "648540884d6f394980186d88b1d50d81898879c726eac57716cfbe87523a7116",
           "english": "Turning Your Character in Place"
@@ -8242,6 +8247,11 @@
           "ordinal": 624,
           "source_sha256": "e9e3aa2d41687b4eac396cd379034a0842518e3fe4d353552a4cd0ca33bfc1b1",
           "english": "You can now challenge \"Sudden Death Battle II\"\nfrom the Missions screen.\n\nTaking damage in this mission immediately incapacitates you,\nso choose suitable skills and equipment before taking it on."
+        },
+        {
+          "ordinal": 681,
+          "source_sha256": "d56ea5dbbce7f6af971668de33bc0c1fb9838a941e45b3bad991f780cb5b921f",
+          "english": "Medals honor adventurers who perform\nat the highest level.\n\nIn the Command Menu, select Socials >\nAdventurer Card to display medals you've earned.\nYou can see the full list under Notebook > Achievements.\nEach medal takes effort to earn.\nSee how many you can collect!"
         },
         {
           "ordinal": 691,
