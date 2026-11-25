@@ -2293,6 +2293,322 @@
       ]
     },
     {
+      "uasset_sha256": "f240de36a832ce964c60aec7c46c7eed6a59e11c0fbd810275c52c7a55e199ba",
+      "uexp_sha256": "5c3442606df8064722e858c320d5f28592251a4d0fafa89c53014a2f1ffc81c4",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "3410b47d5c6768505e47c1fd0a2c1f71748c61073bbe3f6ab8e4e8bb06c87208",
+          "english": "How good of you to stop and talk!\r\nThanks for lending me your ear♪"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "f8c561ad5acae36e2d1eb5f756ae899f905b1c47a30189d3dddfc57f68a8847b",
+          "english": "My specialty? Songs about local specialties!\r\nWherever I go, I sing about what the place is famous for."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "a3e34974e8a1da99fee7c7e86c0cb661df0b66a6871af24073341736aa4462b0",
+          "english": "You get the idea. I thought I'd start with a song\r\nabout the village where I was born, but..."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "2eda404ec92c5ceadb26fb9578b0dd9d4b51ab7709df2e5e87cd6125eb7e461e",
+          "english": "Right then! Minsterhorn! Only, the more I thought\r\nabout it, the less I knew what to sing about."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "e5a702e3da51581d9a79a03bb53a129b926a95ade24eed24a0747c473f6c75cd",
+          "english": "And then a thought came to meee♪"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "bb89708f85f962cb989298e08fc38e59c6d3f86f50836f61b752552f1a4effbc",
+          "english": "Someone who didn't grow up here, someone like you,\r\nmight see the place a little differently."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "3c32ba1887d099ecd94af532b4937b84f6aa7720a2ba7bb8dbd7e72316c51ec7",
+          "english": "What do you say? Between the two of us,\r\nlet's find something in this village worth a song!"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "f1fc0c975f59afbf262a109af72265b2c7ee0b7e49c1cad27d64bbad9a987f24",
+          "english": "I'd like you to talk to the villagers.\r\nPick someone who doesn't wander off all the time like I do."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "f7376c8888378ac62360bb7ecc4343ef0eb0372cf43c695f447e02dce2d108d7",
+          "english": "Why can't I ask them? Oh, we'd get to talking\r\nabout old times and never get any further."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "94ca4c4c40b2c8a1d5142ec0a6782e6235b7d0cc6611b33bfb8ac63b6ceec4c2",
+          "english": "See what folks have to say. If it gives you an idea,\r\ncome back and tell me, will you? I'll be here!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "5fbd1cfa56d7721c0b79c8e979c14d9895fc5e4ddf857fcadccd11125bc1410a",
+          "english": "Have a word with the villagers, and if you think\r\nof something, come and tell me!"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "c06e1193e7b1ebbc8f45cfe901b20b0dac40538c871ed922735d8508251c81ed",
+          "english": "I see.\r\nYou'd like to know what I like about this village."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "55051987da6fee056bf9cb8c8caea60c3f4915c2ef9bfd80099fa4e21060294b",
+          "english": "I'm hardly the friendliest man you'll ever meet,\r\nyet folks here make me welcome. I'm grateful for that."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "11a5265b66c6985f50659f5716adf1dc94bfe611a727122758f9b258238680e0",
+          "english": "...Oh, you meant something like a local specialty?\r\nWell, everything we grow in our fields tastes good."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "c2f43aea6c6a228cd30c202ff6650d70e94f6f6585157d86ced27a3a16e3e32f",
+          "english": "I'd go for the tomatoes. They're firm and full of flavor.\r\nThe celery tastes good, too, and gives a dish a lovely aroma."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "8c63b039fbb164cbe5c2e665d294d28b8fb544f202229d1c2cba841ead29ec97",
+          "english": "Here, take some with you, if you like.\r\nAnd tell Blue Lin I'm rooting for him."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "7959c2f7290c88b0d1fa4c560f9ff73ac8bc3db142ff8e96e2e3a1543cc5ce27",
+          "english": "I'd go for the tomatoes and the celery.\r\nBoth are grown here in Minsterhorn, and both are delicious."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "db432e57ea2f252c9a6ff20e4897f46686a40dda492b86b660b5684b531944c0",
+          "english": "I'd be grateful if you'd pass that along to Blue Lin."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "35fdc3b98ead84ec479b0214850d74917eb91ca2f88dcaa92aaaf33aa18b582c",
+          "english": "Rody had some vegetables to spare?\r\nTomatoes and celery. Look how fresh they are!"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "714c8d4c85a5bc0edadda154dd5e4c9a93fb17d8526357393cc59452b1adc661",
+          "english": "Come to think of it, we've always had good vegetables here."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "45af03723fa0e4389b11b0ca8ff1d41d13e7139fe5cb7be572aadc44c7a14d51",
+          "english": "We've got plenty of expert growers besides Rody.\r\nThen again, vegetables grow all over the Asteria Plains."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "e861768a364ddabe74202547b51bc9152a562c5df5718662ef68f1e9ea068f46",
+          "english": "...I know! What if we had someone cook these up?\r\nShall we go and ask?"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "c07c5d755802766c6169ebcf2e21489cf034cb14ce3233118d3d1d7217e11055",
+          "english": "A friend of mine named Melis works at the tavern."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "80b6437660f9113adee0991a374528a9cd7399b8a407821cce3abbf03406c202",
+          "english": "I bet she could come up with something.\r\nLet's go see her."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "c890b362813448ff5d38bd416982d3eaf9e53b35572dd3742cb5a19c431f5efc",
+          "english": "My friend Melis might be able to make\r\nsomething special with these vegetables."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "a0fcef50251f6cdee7e9afa3b8cfca4613d64d4841cbca399b5b7b401253b9a2",
+          "english": "Hello, Melis. I was hoping you'd do me a little favor.\r\nYou see..."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "b4fead9b513d3a1776f7ccbcc13c84ef4774bfb9731bdbac86a262bee832ddc2",
+          "english": "You want me to make something special with these?\r\nThat's a lot to spring on a girl..."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "410a30f85730b83390f4469c42093044cd42a6d5832f286b29168949203af8a6",
+          "english": "Oh, please, Melis.\r\nI remember what a good cook you are."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "8f0b266fe22496b3650cd115618fa2deb6953a133a584156cb37e7471671e74b",
+          "english": "Rody was kind enough to give us these vegetables.\r\nI'd feel awful letting them go to waste."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "d060c6db2b67f302f862ec7824807ee21477efbb236ddb4a640a5c39aa0d695d",
+          "english": "Wait. Rody grew these?\r\nWhy didn't you say so?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "f7a4317aa81be39ff7e26479e7c8587eeb562d6728c82d7cf2c20396d4935e3a",
+          "english": "I'll do it! I'll do it!\r\nPlease, let me cook them!"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "ae309793f8edcbced870081208ea0504860a4ab0aa2f43dd11be3b378af910c1",
+          "english": "What's come over you? Oh, that's right.\r\nYou've always had a soft spot for Rody..."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "36efdbe310f1614474d832139dbbc8c0ab2c830458575698a7556d8aeb7c1ac2",
+          "english": "I don't have any feelings for Rody\r\nwhatsoever!"
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "65c5afab3106e77aac80a269ca1b311df5eab800f3d194351eb6e6ba31d00b31",
+          "english": "Eek! Blue Lin, cut that out!\r\nJust give me a minute, will you?"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "8cb64ee1d611607fa058314606ec995578ae2150da5852dce3801b886676c5ae",
+          "english": "Still, I never thought I'd see the day\r\nwhen Blue Lin would write a song about home."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "a5ad5fa361f32b633143491e88da12247109eed8c1cf6083468505e338d41fb2",
+          "english": "It took getting out and seeing the world to realize\r\nhow wonderful my home is. I want to sing about that."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "e5c18aac68f4d3101c88373c1a0421481b5505d45a9ec7834fb8ad6f06a6b08c",
+          "english": "Thanks! Now, how about being\r\nthat honest with Rody?"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "1f2ffb4cf10286861aec9be74311bf99b53ab149ea847ef82d3e915f2e0443d3",
+          "english": "I-I told you, this has nothing to do with Rody!\r\nHere! Soup's ready!"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "935bdd64c60223de3386bd993071a3bd5964448767f54ce2bc8b441ec488eb77",
+          "english": "It certainly smells good enough to make my mouth water.\r\nBut look at it! Plain with a capital P!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "30206c102470da662b673ee224aeb423873dbca8a39d6bac72ab7a3aa7b47f17",
+          "english": "Tsk, tsk. You've got a lot to learn if you're judging by looks.\r\nTry a spoonful and then tell me what you think."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "d7c6acd052e6994907fa691d110448f8524d9001c5df3a620d61afd414fc526e",
+          "english": "Well then, let's have a taste.\r\n...!! That's goooood!"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "b1b01e9f98f3307f16b99f0899e52d879ceccb913f057d991e9334c622bdc2f3",
+          "english": "How did you do that? It's such a simple soup,\r\nbut there's so much flavor in it!"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "e279014b55ac8d433ea722b3d14c10c49bda2187ec62a85aadada297fb9c3434",
+          "english": "Like it? Minsterhorn's famous for its capers, too.\r\nThe trick is to put in a whole heap♪"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "a876f16ac23c76cf369db7810f51f736bf6df6fdc5943f6c76a0fca949b97bf3",
+          "english": "...Hey, wait a minute! All you've done is eat!\r\nHave you heard a word I've said?!"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "728c876efd872a07e22f245aca6a95719e2849cbfea6c8dfcd7a4a96501c6637",
+          "english": "Ah, that was delicious! Yes!\r\nI feel a song coming on!"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "73d4e2f0582d25226222ea2681883f64ba86cc9c296dfb13a60882f5ac661cf9",
+          "english": "♪ ...tomatoooes♪ ...celeryyy♪\r\n...♪ ...Got it!"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "9fbf197bc400783e7ef9b6dc9a1586294f2fae26e74103b7b71bfb87df7a2f5e",
+          "english": "Off he goes. Always does things his own way.\r\nGo and give him a listen if you like."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "c6407fcadd049bf52abf17ed1853b829945a2d77a35b8be964469ba408608710",
+          "english": "For all his antics, he takes his music seriously.\r\nOh, I know... Maybe I'll ask Rody to come along."
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "d4eea1a4fffac765df4111920ea6d8969006f90392b688e597903b35c7d2875e",
+          "english": "Blue Lin's singing his song in the middle of the village.\r\nGo and give him a listen if you like."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "06285933734eaa6b8c52acc66c10ee5afeaee46320f969d0d17969c3b9e03909",
+          "english": "Right! That looks like a crowd to me."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "a7f4d398d45a6b67f1aadf4c3dd194a350c2a618be4caee1b03d687c3e5e68b0",
+          "english": "Thanks for waiting, everyone! Here's a new song for you.\r\nI call it “Minsterhorn's Finest Soup.”"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "859f9a17dbcdf98632e2d9b6a65dcfd73f005aaf0f966f6ea932c8b21bcbab6f",
+          "english": "Tomatoooes♪ ...won't do on their ooown♪\r\nAdd some celeryyy, and you still need mooore♪"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "0104beb89bdf89e31181d8bd26711f7f8b73eac5862a9c472871768f82f09fc6",
+          "english": "Souuup? Oh, the secret iiiis...!\r\nCapers! It was you all alooong♪"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "66bf09f1df6848e623e443b54388f75de14e0a432437038a147f65ffc8704167",
+          "english": "What was that nonsense all about?\r\nCome on, we're going home. What a waste of time."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "6c09b4e08a85ec47116a69359d7ade3ac64a1366e80ef3af841697975288266b",
+          "english": "Aww, I thought it was funny!\r\nI liked how weird it was!"
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "5048d1b861a2ebc2d878a3f9cfd0e0658e845f680b2abb050cf7c5c6bf4f0130",
+          "english": "Hey! Stop that!\r\nDon't go learning that silly song!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "a6fecdb6779f567327dcf1a89b96a30f1f3bb1a2db90535f22129555fda1ac4c",
+          "english": "You know that soup that gave him the idea for the song?\r\nI made it."
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "0223522612614727fb5486d7ed329fe35806f7f21c6962d64497876c5f467926",
+          "english": "You did?\r\nI'd love to try some myself."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "4f1f3f7ecede244fca7bbd791e4ac0afe31b94ecaf64e23a1c7162666af741c9",
+          "english": "Th-then come over to my place right now!\r\nI'll give you all you can eat."
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "53d5190eb59c76361ab3c363d3d7a001df0e671b7a769dba0aabbef9f0b158b4",
+          "english": "Well, I seem to have won a few hearts,\r\nbut I could use a bit more practice."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "7bb077cf21c994fae78c05d0fc944ce90f22c311323425e1f151579aedce5b00",
+          "english": "I want to be a “publicity poet”!\r\nThanks to you, I can finally put a name to it♪"
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "bde6b6d5e4f260e6520ca9107bd7788c39dd004d290c383e6498b7a2981f6b62",
+          "english": "Now to spread the word about all the other villages!\r\nHere I gooo♪"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "f651e5a29738108dd8aeac87ec5b860cb30b49d02aec2b733038084abada9da4",
       "uexp_sha256": "7eaeaedae6911a9fb23960b72643ed40ae9014d258c6f1314cb7f48ad2b2491f",
       "rows": [
