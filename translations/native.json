@@ -251,6 +251,52 @@
       ]
     },
     {
+      "uasset_sha256": "0a48e1ea2c52a14f8c8d1f483bf53536475866d5be90336c1aa66edf607cf0ae",
+      "uexp_sha256": "7bcf43aa60e141167107dd5fedbbab9d3247d8e246dfad3ab970166954cdc42c",
+      "rows": [
+        {
+          "ordinal": 11,
+          "source_sha256": "fe9038c5033175c636d4b18b70273b25e52bcc74e7e0945786afc0443161d500",
+          "english": "Your first delivery? Oh, that's over by\r\nthe Transfer Portal at the Arena."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "536bfc0362386483b84a34988d6a809330065629ed2a3b30f87c02f64aa2c8b7",
+          "english": "Looks like your next stop is by the Transfer Portal at the beach.\r\nGood luck out there!"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "4abc7a94a28bafab1502d36e8255a5d9421607f8785cd8ffeb1931d1fb6e8faa",
+          "english": "Word from the main temple in the Principality of Bernhardt?\r\nHo ho! I can finally go home!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "755ffb7142a496bacac5478c4f8283863bc4e9a0974976185fc972429bd3c28f",
+          "english": "So all that time I spent flattering my superiors has paid off.\r\nNow then, let's have a look..."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "fc6657d53f552676f14a59faf6a270cf14a01b86e133f87a901dd5e492f9c3ca",
+          "english": "What are you gawking at?\r\nIs my demotion that funny to you?!"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "9227dedb02638d5941fe82eaa1d1baa876ecde39617221b008dee78140fc270a",
+          "english": "...Ahh. A demotion, of all things.\r\nNo! I won't admit defeat! I wooon't!"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "964a69141f4aafca15cee1c35526c665b3c5dde257f96945009f662541c1df88",
+          "english": "What's the matter? Looking for your next stop?\r\nOh, I see. You're afraid you'll get lost."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "03b02c78cf2c6f020dbb7e3c67262f0cdd79198ae604d29de48f78a8bd46b582",
+          "english": "Take a Transfer Portal to save yourself some time.\r\nGo on, get that parcel to the person who's waiting for it."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0b90bf8cc7bf72fc1f5a73359a3fee9c6b4a74538bd6d6d80b3ce303bc98e80c",
       "uexp_sha256": "0cf1c249676bdc0e96bf56f873ee86006357b27f5c7ad425a4af3371f5da1268",
       "rows": [
