@@ -452,6 +452,16 @@
           "english": "Raise Your Adventurer Rank"
         },
         {
+          "ordinal": 125,
+          "source_sha256": "d5ab4893972e77bc82db06f520b23cf278c5bf6b9093367a2eab2cdb19365c61",
+          "english": "At a Memory Stand, a drink made with activated Liquid Memory\ngrants you a Liquid Memory effect.\nOne such effect increases the number of items you gather.\nThese effects wear off after a set number of actions or a certain\namount of time, but they can be a big help while they last."
+        },
+        {
+          "ordinal": 128,
+          "source_sha256": "90d1b6c31172db452086a3239bd20927283c052ff69ca676ffc8cfc57f365d4c",
+          "english": "Increased Gathering Yield\nWith this Liquid Memory active,\nyou get more materials each time you gather.\nIt activates as you defeat enemies in the field and as time passes."
+        },
+        {
           "ordinal": 150,
           "source_sha256": "98acc1a77170acebe28e8a16a05de99a4006cb3551c0e20cb670e7d7d6a24c8b",
           "english": "Stats"
@@ -2724,6 +2734,16 @@
           "ordinal": 105,
           "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
           "english": "Raise Your Adventurer Rank"
+        },
+        {
+          "ordinal": 125,
+          "source_sha256": "d5ab4893972e77bc82db06f520b23cf278c5bf6b9093367a2eab2cdb19365c61",
+          "english": "At a Memory Stand, a drink made with activated Liquid Memory\ngrants you a Liquid Memory effect.\nOne such effect increases the number of items you gather.\nThese effects wear off after a set number of actions or a certain\namount of time, but they can be a big help while they last."
+        },
+        {
+          "ordinal": 128,
+          "source_sha256": "90d1b6c31172db452086a3239bd20927283c052ff69ca676ffc8cfc57f365d4c",
+          "english": "Increased Gathering Yield\nWith this Liquid Memory active,\nyou get more materials each time you gather.\nIt activates as you defeat enemies in the field and as time passes."
         },
         {
           "ordinal": 150,
