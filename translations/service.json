@@ -1920,6 +1920,12 @@
       "id": 2030,
       "source_sha256": "2c0bb0a0b88d194c385ed47694fb08c76d77a057ec86882d670b9c2938ff9aa9",
       "english": "Sure-Piercing Lance of Lightning"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2031,
+      "source_sha256": "a836847d47dcb483c60e25c4c2cb60113c2de07ccb0f8cf5c3d3259add55c603",
+      "english": "Resounding Thunder Strings"
     }
   ]
 }
