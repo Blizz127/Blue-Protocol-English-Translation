@@ -573,6 +573,54 @@
     },
     {
       "table": "item_text",
+      "id": 9248,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9249,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9250,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9251,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9252,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9253,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9254,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
+      "id": 9255,
+      "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
+      "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
+    },
+    {
+      "table": "item_text",
       "id": 10069,
       "source_sha256": "e9a302f0634811f79aeb400cacb8e6c65b00fe0e715bb36b6b40b06d4938ac4c",
       "english": "Starfall Malachite"
