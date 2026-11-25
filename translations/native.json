@@ -169,6 +169,101 @@
       "uexp_sha256": "9c57ecde3ef8ebd0b148a8d567580bbd52348b051f29e86782b25ec39d774770",
       "rows": [
         {
+          "ordinal": 4,
+          "source_sha256": "0620da76ecf6c857f87e03b54b59d223cc5e6792011b9875651916b2f58b88c0",
+          "english": "Move Backward"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "1565eff12a0b7193266ed650a36f7c8534fa5c4f19330dbd013d9c04496f577c",
+          "english": "Combat Controls"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "6762b7bae83d504261d21893b02d1654fcba2ef7acce68c36ab2970796ecd946",
+          "english": "Shortcut Ring Controls"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "ad6dcb703c5b7c5b0c911be22869e72651b34dea6235bd674f642af812ac8d61",
+          "english": "Discard Changes"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "523352111bc6ee6e484c8704a6d15a79eba6681300c7f35d4581321938d586ab",
+          "english": "Class to Configure"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "1111f61852f253e7d8d73e8b84c75aed9b5143e9d3fbb466404455b294b9d892",
+          "english": "Save these settings?"
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "1111f61852f253e7d8d73e8b84c75aed9b5143e9d3fbb466404455b294b9d892",
+          "english": "Save these settings?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "f911333e2b26f0f9313f08cde66314c3b2335b40b4dca2fb7fbdbd20d5aa9151",
+          "english": "Discard your changes?"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "713f2c59eac40899d3ec723cb7b20144a6c2c5799dab5c31c4e0e504de5172a3",
+          "english": "Changes discarded."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "7c06c6c722b092d9abf37cfc06f42d85414362c614ac909105ca74779917e7e2",
+          "english": "Control settings applied."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "6575bdd1a9b4c725060e913950786ec665f5af7efaa576bb19eeedb31cabdd43",
+          "english": "Basic Controls"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "050e1c57abb4c75c35bed8a79ffa7f32df53402b76da9071f3e16343a2e404aa",
+          "english": "Other Controls"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "b8647675c45eeca116238f569ee8cbaaaba09e9962221a227f8ebd5fb6f348cd",
+          "english": "Walk"
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "698ed33d733791b49abcb9bd0912e133bd7f05266fb88879bbfd5b04ed4e5149",
+          "english": "Display Controls"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "3ac909bffc994b065cfcab040b7ea03c48e81a273ce8a227722d31e2318af3cc",
+          "english": "Enabled"
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "383bbb5e8490445a209b509cb1df049413a7b9a53a859c268ffbd3e841b46a9d",
+          "english": "Disabled"
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "cb19ab409ce5035a217e69003edd4cb3630fc9bc7e91371da38a39c15dc15eb3",
+          "english": "Hold Facing Direction / Zoom While Locked On"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "cd4277b62fdb8092de580386a9a2cd93d6fbc0b6f9372ff328773cab21204f94",
+          "english": "Add Bookmark"
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "f3dee6af0a0876223a01ca15e98ada96a0382abf784e0de21e2b10fe49453ff6",
+          "english": "Show Control Guide"
+        },
+        {
           "ordinal": 134,
           "source_sha256": "047b87c6f353b6279198bbda0c59acf29544697dc4d681faa9e0df33b5eeae82",
           "english": "Area Targeting Control Type"
@@ -329,6 +424,32 @@
       ]
     },
     {
+      "uasset_sha256": "19a10552f565db7b91c897164c7cf6dda4b3468c0864e1d7496df696056f4134",
+      "uexp_sha256": "f2588ff942ad69d0627d04df9f785f0903773ba4caf6f46e64e8ad61d4cb4b70",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "6c5f2db4a617280d19a8a90bc390fae25479cfb96f12eda30fc89377695fd89e",
+          "english": "Borderless Fullscreen"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "b00a91ad116d077b59747258f5f42fcace60dea3e49a734e0335acbfabe6e56d",
+          "english": "Grass Density"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "b1410e406c26c8a5c1a263e58830677d7668a419345bb89919c82f0060727e69",
+          "english": "High Quality"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "31f7c1524dfab1df6114b0cc8380489cde5ffddc1f232f9754b15fd1d8cbf9f8",
+          "english": "Frame Rate Limit"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "1ed0ebda8072b5ab5155d092bc1b0eb3bdea5797aa6c3589f12d6c2ebea2e5c6",
       "uexp_sha256": "309527ae8082e9537bb98449ddd1192a0035612732658c5457313b0dabae7f2e",
       "rows": [
@@ -336,6 +457,205 @@
           "ordinal": 54,
           "source_sha256": "f05f3aabef5c762dd0d6912b56c885a6789f0125bca45a897e93303dc3636591",
           "english": "Reduces damage taken and elemental buildup from earth attacks."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "23a4f81fcc3b7343f6f4784eebb38f32588823e79557b479782ef8fba2a06377",
+      "uexp_sha256": "559730b92d69a5cb3b540b2f03ec40399ffd8baf3ba66f572a5f380eabd066ff",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "c9351065213e7e123548be051049418b9418d6e5f0c4f6ea3a068bd154588cfe",
+          "english": "Hide"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "4b098134c0caed560c413fea17aac746a2908366dd8bbbf6893be9d921288b71",
+          "english": "Show"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "32904cac42dfdabe6139b6c1e30fda3e1cbbece8d6947cd7fcf9cc9ceeaaea6b",
+          "english": "License Notice in Screenshots"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "56fc579ceecd83fe1d232e62dd8698629ccdf14a1ebb4bf4908763c9ad50de0b",
+          "english": "Save Location"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "fef304a69096b2c3e87df752dcf6b13980ac4f2d58482d3d901884b09657ba85",
+          "english": "Top Left"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "8537c17b8e3e8ce3a4ce5640e74ceecfacbd35ca1a32e9f40503536bddabb97c",
+          "english": "Bottom Left"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "eafc0f9c266b399d9af1ccbc550a1b53d1871f16a044d526345a5a6cccdade0a",
+          "english": "Always Show"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "8704b15e84f538f7797097a8869605a1f08145c5b4d85d6003a60c53681e94ef",
+          "english": "Automatic Lock-On"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "3ac909bffc994b065cfcab040b7ea03c48e81a273ce8a227722d31e2318af3cc",
+          "english": "Enabled"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "383bbb5e8490445a209b509cb1df049413a7b9a53a859c268ffbd3e841b46a9d",
+          "english": "Disabled"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "270e6d7aea12682d25e827618cfc37b0c7954550b03fd49d2c9e5f0e76ad0b22",
+      "uexp_sha256": "4b3ee95edf0960329a63d6c9169db965387ed7ce47603f690a5567593791e767",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "4d0328e2abe453845ab85112c4b0834d573d8349aa9c66bd0dbed5c97b1c9373",
+          "english": "Switch Shortcut Ring"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "339a7697b480000b1cd190f9a71cb2e7602e5bc2513563b192adbb9463c99a4e",
+          "english": "Edit Shortcut Ring"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "42ae807941f80aae7090475884cbca88945d37de510d3d67fcee1f71e7acb231",
+          "english": "Owned Only"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "3042da15cdf1d1e5f621f8220dd579eb67eb392693e4da8479194a4633729729",
+      "uexp_sha256": "d9f87b7261898826f1279b7e6d983911af43591b57215c6ad808f0bc4c95ea1d",
+      "rows": [
+        {
+          "ordinal": 4,
+          "source_sha256": "0620da76ecf6c857f87e03b54b59d223cc5e6792011b9875651916b2f58b88c0",
+          "english": "Move Backward"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "1565eff12a0b7193266ed650a36f7c8534fa5c4f19330dbd013d9c04496f577c",
+          "english": "Combat Controls"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "6762b7bae83d504261d21893b02d1654fcba2ef7acce68c36ab2970796ecd946",
+          "english": "Shortcut Ring Controls"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "ad6dcb703c5b7c5b0c911be22869e72651b34dea6235bd674f642af812ac8d61",
+          "english": "Discard Changes"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "523352111bc6ee6e484c8704a6d15a79eba6681300c7f35d4581321938d586ab",
+          "english": "Class to Configure"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "1111f61852f253e7d8d73e8b84c75aed9b5143e9d3fbb466404455b294b9d892",
+          "english": "Save these settings?"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "f911333e2b26f0f9313f08cde66314c3b2335b40b4dca2fb7fbdbd20d5aa9151",
+          "english": "Discard your changes?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "713f2c59eac40899d3ec723cb7b20144a6c2c5799dab5c31c4e0e504de5172a3",
+          "english": "Changes discarded."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "7c06c6c722b092d9abf37cfc06f42d85414362c614ac909105ca74779917e7e2",
+          "english": "Control settings applied."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "6575bdd1a9b4c725060e913950786ec665f5af7efaa576bb19eeedb31cabdd43",
+          "english": "Basic Controls"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "050e1c57abb4c75c35bed8a79ffa7f32df53402b76da9071f3e16343a2e404aa",
+          "english": "Other Controls"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "b8647675c45eeca116238f569ee8cbaaaba09e9962221a227f8ebd5fb6f348cd",
+          "english": "Walk"
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "698ed33d733791b49abcb9bd0912e133bd7f05266fb88879bbfd5b04ed4e5149",
+          "english": "Display Controls"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "3ac909bffc994b065cfcab040b7ea03c48e81a273ce8a227722d31e2318af3cc",
+          "english": "Enabled"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "383bbb5e8490445a209b509cb1df049413a7b9a53a859c268ffbd3e841b46a9d",
+          "english": "Disabled"
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "ebd19d05d7042e2517033c91ead065efa6adf3f59c0896da016ff3df8943706d",
+          "english": "Hold Facing Direction"
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "cd4277b62fdb8092de580386a9a2cd93d6fbc0b6f9372ff328773cab21204f94",
+          "english": "Add Bookmark"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "f3dee6af0a0876223a01ca15e98ada96a0382abf784e0de21e2b10fe49453ff6",
+          "english": "Show Control Guide"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "3506ecfd8580a4c094495a853aa887ecf072980dff75f125c622ee4045efb861",
+      "uexp_sha256": "72d2a15040dddb7ad433e8e8c0c4906b24e445e94cbc247b0e6da87fed5539b6",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "6c5f2db4a617280d19a8a90bc390fae25479cfb96f12eda30fc89377695fd89e",
+          "english": "Borderless Fullscreen"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "b00a91ad116d077b59747258f5f42fcace60dea3e49a734e0335acbfabe6e56d",
+          "english": "Grass Density"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "b1410e406c26c8a5c1a263e58830677d7668a419345bb89919c82f0060727e69",
+          "english": "High Quality"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "31f7c1524dfab1df6114b0cc8380489cde5ffddc1f232f9754b15fd1d8cbf9f8",
+          "english": "Frame Rate Limit"
         }
       ]
     },
@@ -440,6 +760,57 @@
       ]
     },
     {
+      "uasset_sha256": "63786bf28e359e2049865c077376b55f1982a3dfc11e6c89aa24dcb9c3a097eb",
+      "uexp_sha256": "3ac0877085e1a613e656d3d82dd4d123db28b22495d7bda56d00dd805719730b",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "c9351065213e7e123548be051049418b9418d6e5f0c4f6ea3a068bd154588cfe",
+          "english": "Hide"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "4b098134c0caed560c413fea17aac746a2908366dd8bbbf6893be9d921288b71",
+          "english": "Show"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "32904cac42dfdabe6139b6c1e30fda3e1cbbece8d6947cd7fcf9cc9ceeaaea6b",
+          "english": "License Notice in Screenshots"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "fef304a69096b2c3e87df752dcf6b13980ac4f2d58482d3d901884b09657ba85",
+          "english": "Top Left"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "8537c17b8e3e8ce3a4ce5640e74ceecfacbd35ca1a32e9f40503536bddabb97c",
+          "english": "Bottom Left"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "eafc0f9c266b399d9af1ccbc550a1b53d1871f16a044d526345a5a6cccdade0a",
+          "english": "Always Show"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "8704b15e84f538f7797097a8869605a1f08145c5b4d85d6003a60c53681e94ef",
+          "english": "Automatic Lock-On"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "3ac909bffc994b065cfcab040b7ea03c48e81a273ce8a227722d31e2318af3cc",
+          "english": "Enabled"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "383bbb5e8490445a209b509cb1df049413a7b9a53a859c268ffbd3e841b46a9d",
+          "english": "Disabled"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "69c35531abf3dfad492c14186f4c7f6d4da172ba0a01a9b720f2c8886c1843c8",
       "uexp_sha256": "652b4084c430eb02cd4e56bdba93730795f5a180db1274afadc2b7397eb2f41d",
       "rows": [
@@ -495,6 +866,37 @@
       ]
     },
     {
+      "uasset_sha256": "80dd78f9d18aa2e046214058dd9709075a7472dc11cd929e9725c72d8522b4f2",
+      "uexp_sha256": "e025d6087be79ab1215f94a6e5ed9d8586fcb04505dfd2d21ecaa2c972f4100a",
+      "rows": [
+        {
+          "ordinal": 16,
+          "source_sha256": "b62ad63c5ecf7a904776f3f108da6735b0703f1bc1e4411f457ca8348b7968fc",
+          "english": "Sheathe Weapon:"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "6ff86076bfcd3913e58e2429526686341efc053ed8d1d644c62ebebbb5ca6589",
+          "english": "Switch Target Left:"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "11763148bec87d6c720278d27f8a1725d52fdc39c57ceea11f020fcb11bcd04f",
+          "english": "Switch Target Right:"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "659029af53b67270d52315932fb6db30cf01d432b8d050a985536248e35f6741",
+          "english": "Hold Facing Direction:"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "68d5eb99c64e4d728b6deba222c3a59ad1d75cb012ea3150e47be24aa2fa3ed2",
+          "english": "Switch Skill Palette:"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "86514a177f617a6c8015c62691337cbabec580fbe88e90816d5176a33ed1e099",
       "uexp_sha256": "0c9b4af6229d31ebb9e69cb09557c3f40bc5dcfa06cf0e6f0fbc233d5997f24c",
       "rows": [
@@ -502,6 +904,27 @@
           "ordinal": 49,
           "source_sha256": "bc997f450a6b63cafdd2af07db4a051bfd3a5d5e680751b8ad182785c540c8a6",
           "english": "[Bonus Contents]"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "9295363fc924098b090323442d38050ef0bb5394d2ab46cf947a951265148ea6",
+      "uexp_sha256": "b8ac84df24e4fc9dda201afc28786d803b43da54ebe969b6f2e9ca5b66f4e9bb",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "4d0328e2abe453845ab85112c4b0834d573d8349aa9c66bd0dbed5c97b1c9373",
+          "english": "Switch Shortcut Ring"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "339a7697b480000b1cd190f9a71cb2e7602e5bc2513563b192adbb9463c99a4e",
+          "english": "Edit Shortcut Ring"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "42ae807941f80aae7090475884cbca88945d37de510d3d67fcee1f71e7acb231",
+          "english": "Owned Only"
         }
       ]
     },
@@ -1227,6 +1650,98 @@
       ]
     },
     {
+      "uasset_sha256": "e91ed09f4ea518625a49c6c3e45e8fe6d0e44e2059627b2b925ff1327bd10d3d",
+      "uexp_sha256": "7d2590f3fe0abc462c91aa3e29a80e3e91a13f298dee03a5b9540901cd699f07",
+      "rows": [
+        {
+          "ordinal": 19,
+          "source_sha256": "721a31ee6041956900838041415388bb4407f77c137801b63e3c1af0b5387ffd",
+          "english": "Incorrect secondary password."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "571176344c47804bd270db18791379dfef729e5cad3544c81dcbff203e1f1741",
+          "english": "Delete Now"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "95d10bd0ef48a146518522eae4f0bc2754d5d232bb62107157ae41a1bc4f364e",
+          "english": "Restore this character?"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "d68124b599b1cc2c54075f53e1be4e2d40eb64fdcb0f8b735e4e64635f83abce",
+          "english": "Character restored."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "30661f3a9eb358afad1b61b07c4b92edbf32d61ad2e53924988f8c8e3653eb94",
+          "english": "Permanently delete this character?"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "dd7f89b185ccf53d251160ed255602ef6f75b55c42bfb1ba81ae9f1649861cb6",
+          "english": "Character permanently deleted."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "8355ab464ccea9157df830a518e3d2523881b7629ed06e27b7ed76aee3696599",
+          "english": "You can no longer rejoin your last party."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "daff5240953d5fe5f96140dd3258b635a9bca89505dd14c4e31cd9c3d47b4910",
+          "english": "Use the name “{name}”?"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "ab0a02ecb246ac4204d42e433d4fb6668997b5c15264bbcbca8de8e83b502785",
+          "english": "Rose Orbs Required"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "b7a473c8556c465d3e5efa389beed3312703c788cfb22bc703432bf417e74928",
+          "english": "Add a character slot?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "3e2b04ee68e187eeb49c3d6365a460b96bcedc91b4ccb7fa2f8e39eaa3b1c494",
+          "english": "Add Slot"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "a841ca815634c01a2a40113a071245c15c6c01cd58bcd242ec31d490986269f5",
+          "english": "Character slot added."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "104992e5cf48bb0591fa322be946ed975775e759885d117111889c646bcb40e8",
+          "english": "You’ve reached the character slot limit."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
+          "english": "Couldn’t add a character slot."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "eb3fcad5366c8926f66777fab73c923cc76bd20eecb9ecbc0ea436d5cd55b385",
+      "uexp_sha256": "5ec0e674633bf41d8a748e1306caa288b09693ce20af00f90edbaa9e2694bd81",
+      "rows": [
+        {
+          "ordinal": 16,
+          "source_sha256": "b62ad63c5ecf7a904776f3f108da6735b0703f1bc1e4411f457ca8348b7968fc",
+          "english": "Sheathe Weapon:"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "659029af53b67270d52315932fb6db30cf01d432b8d050a985536248e35f6741",
+          "english": "Hold Facing Direction:"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "f12a70447e9253600eed25a42f426641906a888b86f739686d39bf4d4d24e804",
       "uexp_sha256": "a7cf08fa3b05a0eff9e544a9ddc1c6337ed5cee1dd9f38fffe4b8ba41c1551fa",
       "rows": [
@@ -1284,6 +1799,82 @@
           "ordinal": 13,
           "source_sha256": "53a2d149497aea7a2bd1e54e3eb0a490b1a8eff964431d5cb57f85b1cc31a5e1",
           "english": "Defeat the Demidragon!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "fceb091dce465e415d12c336c39d334171ddc3a30c3fa456062c4670d4679041",
+      "uexp_sha256": "8c536ea1cca1a92b2afd6c3f4a79ffc78413a0374ade86d9a515694ad8604413",
+      "rows": [
+        {
+          "ordinal": 19,
+          "source_sha256": "721a31ee6041956900838041415388bb4407f77c137801b63e3c1af0b5387ffd",
+          "english": "Incorrect secondary password."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "571176344c47804bd270db18791379dfef729e5cad3544c81dcbff203e1f1741",
+          "english": "Delete Now"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "95d10bd0ef48a146518522eae4f0bc2754d5d232bb62107157ae41a1bc4f364e",
+          "english": "Restore this character?"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "d68124b599b1cc2c54075f53e1be4e2d40eb64fdcb0f8b735e4e64635f83abce",
+          "english": "Character restored."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "30661f3a9eb358afad1b61b07c4b92edbf32d61ad2e53924988f8c8e3653eb94",
+          "english": "Permanently delete this character?"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "dd7f89b185ccf53d251160ed255602ef6f75b55c42bfb1ba81ae9f1649861cb6",
+          "english": "Character permanently deleted."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "8355ab464ccea9157df830a518e3d2523881b7629ed06e27b7ed76aee3696599",
+          "english": "You can no longer rejoin your last party."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "daff5240953d5fe5f96140dd3258b635a9bca89505dd14c4e31cd9c3d47b4910",
+          "english": "Use the name “{name}”?"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "ab0a02ecb246ac4204d42e433d4fb6668997b5c15264bbcbca8de8e83b502785",
+          "english": "Rose Orbs Required"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "b7a473c8556c465d3e5efa389beed3312703c788cfb22bc703432bf417e74928",
+          "english": "Add a character slot?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "3e2b04ee68e187eeb49c3d6365a460b96bcedc91b4ccb7fa2f8e39eaa3b1c494",
+          "english": "Add Slot"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "a841ca815634c01a2a40113a071245c15c6c01cd58bcd242ec31d490986269f5",
+          "english": "Character slot added."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "104992e5cf48bb0591fa322be946ed975775e759885d117111889c646bcb40e8",
+          "english": "You’ve reached the character slot limit."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
+          "english": "Couldn’t add a character slot."
         }
       ]
     },
