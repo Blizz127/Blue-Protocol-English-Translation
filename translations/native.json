@@ -3752,6 +3752,47 @@
       ]
     },
     {
+      "uasset_sha256": "61be01addf5381ad79a1f2f5e89e86af068aa9fafe1fe501bad51d925170dfbc",
+      "uexp_sha256": "f44e0e3e446345c348ca53799329ca211a36820925fee9424b3b4fbd79a28cd6",
+      "rows": [
+        {
+          "ordinal": 10,
+          "source_sha256": "a3478de173635c56b5a4273e7770cc5014524da358c68427c7f1795782ea0148",
+          "english": "Ever tried “Install Plug” on your weapon?\r\nThat's how you give it an ability."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "6a3c8cdb64bd2a8295123be7cbf45777e1f048a99b5c407a308415969713d930",
+          "english": "Tune your weapon and you can change\r\nthat ability's precision grade!"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "ad51297fdfeb90539537b567c5f637f7a279a1571b0c3e11165c5578031f1cd0",
+          "english": "Same ability, higher precision grade, more power!\r\nThat's what you're after when you tune."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "7b636f4d1c9164bc442799d794d0f20bb07ae11a77154bc1dc56688a698bdcb9",
+          "english": "With a little tuning,\r\nyou can raise an ability's precision grade!"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "103bbf7df56163b7f4cacdfbd0482c76535d380eff85fcdbe20ea9ca20ee9630",
+          "english": "Top precision grade on every ability? You bet!\r\nKeep at it till that weapon suits you just right."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "91d5c8da357534b808d1c6c5f84b2eb6ce508e3ad2c5fc6daaf04105f2f6f62b",
+          "english": "Your ideal precision grade takes luck and patience."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "a5b75c2d74aa0fb6110da668dc637b5cc7e62880ba189dbcc8ac69f3ba20961e",
+          "english": "Like an ability's precision grade as it is?\r\nUse “Keep” to protect it when you tune."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "63786bf28e359e2049865c077376b55f1982a3dfc11e6c89aa24dcb9c3a097eb",
       "uexp_sha256": "3ac0877085e1a613e656d3d82dd4d123db28b22495d7bda56d00dd805719730b",
       "rows": [
