@@ -777,6 +777,67 @@
       ]
     },
     {
+      "uasset_sha256": "34ed90b25c9480629b069738d42296862fa1d05e45c7b0fba38b8fbbb423cbe4",
+      "uexp_sha256": "bbe2ba2d818cf54546c32dcc6ccf1a3b6c569174c793bad4b2f146879191ad1d",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "910908c24f0191cbd80de968dcda59fc4ef1eb29ff9346ce233f0080387edcd2",
+          "english": "Tell me, how does this Chronoleap business work?\r\nCould you let me in on it, just a little?"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "85088e91b65071c367e895e3b73c752a5ee7546736e5bc47cb1aa0a80a4f597e",
+          "english": "Oh, I've no plans to misuse it, mind you.\r\nJust a little healthy curiosity, eh? Quite!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "cf2b369e952bfb92b1582c5cd3d2c0389e6b4c5742f773f0c2056e9f89e7e221",
+          "english": "Of course. I can tell you a little.\r\nI trust you all. You know that, don't you?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "3a0313cff7443dd0b621c9cf4d1af85af217f9ab611e14ca0959e1f1c7e8a932",
+          "english": "Yes. The greater the span of time one leaps across,\r\nthe more chronogram it takes."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "9b54cc12ad4712f080222cccb33a7aa9f8c586883d245cc98d7fa9542fe43742",
+          "english": "The trouble is, chronogram is terribly scarce…"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "3199574dd9910a75071373f53be3dc259092204c074ae2c5878026a9309f8b6a",
+          "english": "All I could gather was just enough\r\nto bring Tyris and me to this era."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "0618c635cb9e2a6b9875878b9243189bb9f2c62785910d06768cba3571c24bf6",
+          "english": "I see.\r\nAnd how would one go about making this chronogram[――]"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "f0fdb81810d8465a9e9be37472d744e2a1a6b82b9da7e0a70bee20b2eb5ea6f1",
+          "english": "Don't go getting any ideas, all right?\r\nStaying alive is part of an adventurer's job, too."
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "7fd891b92fd168001c084a0245b10a40497a1d8ae43f057ce22914ec73bad881",
+          "english": "Mooom, what about the Sacred Pillar cookies?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "63b15cb14908aaf228686ac5192aeae2037a3f6912f058e439e3fd67596380c5",
+          "english": "As I mentioned,\r\neverything to do with Chronoleaps is strictly confidential."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "39250768f20393a55bd6b564ca3ac8ed1bcd599ae7205136b9e169702e0036e8",
+          "english": "That goes for chronogram as well, of course.\r\nPlease take care never to speak of it to anyone else."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "3506ecfd8580a4c094495a853aa887ecf072980dff75f125c622ee4045efb861",
       "uexp_sha256": "72d2a15040dddb7ad433e8e8c0c4906b24e445e94cbc247b0e6da87fed5539b6",
       "rows": [
