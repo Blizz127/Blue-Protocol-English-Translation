@@ -1015,6 +1015,16 @@
       "uexp_sha256": "354799e928faf3fbc7e04ce0c835915521be9e5804fbf39a063d9583bc6d5025",
       "rows": [
         {
+          "ordinal": 0,
+          "source_sha256": "9241a259a47ee49afd8c84c4749ac2b55d82f1f6fc1ee05f94fd8d090249e94b",
+          "english": "There's a valley called Giant Dragon's Clawmark\r\non the northeast edge of the Asteria Plains."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "de0adf786e5bc374d952a9d2422207a4522799a6c08f53bf07c6fb77304441a7",
+          "english": "Uh... I can't think of one offhand.\r\nAnyway, the guy's amazing!"
+        },
+        {
           "ordinal": 108,
           "source_sha256": "196facbc7ee53ea9be3a5e96a8922c554adb5108e925fbd12effd4fe4d3cca69",
           "english": "Did you know? The Principality of Bernhardt gave us this tree\r\nas a token of friendship."
@@ -4147,6 +4157,16 @@
       "uasset_sha256": "67db44e0373309143ffc56744dc44aa432411179a33752d74102d35cfe0c7ede",
       "uexp_sha256": "ed90ff0648e1ff0e3fe0235de0e1fd2f4ea2d550f98e2812cc8a720a0f512f2e",
       "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "9241a259a47ee49afd8c84c4749ac2b55d82f1f6fc1ee05f94fd8d090249e94b",
+          "english": "There's a valley called Giant Dragon's Clawmark\r\non the northeast edge of the Asteria Plains."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "de0adf786e5bc374d952a9d2422207a4522799a6c08f53bf07c6fb77304441a7",
+          "english": "Uh... I can't think of one offhand.\r\nAnyway, the guy's amazing!"
+        },
         {
           "ordinal": 112,
           "source_sha256": "196facbc7ee53ea9be3a5e96a8922c554adb5108e925fbd12effd4fe4d3cca69",
