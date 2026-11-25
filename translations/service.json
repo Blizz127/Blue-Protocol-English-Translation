@@ -693,6 +693,12 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 179,
+      "source_sha256": "29b1e0c27c9fe9ed243cb4b22771f3078a2a79cde549af109591206df00d48ee",
+      "english": "Cheers on the spot, temporarily granting you a small boost to damage dealt, a small boost to movement speed, medium Quick Interval, and Super Armor."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 197,
       "source_sha256": "e70c3e0d66d9e5935ef9050a194f4571668fc926870e4e086d1aa8386b09edec",
       "english": "Sweeps enemies aside with its antlers, making them flinch."
@@ -723,6 +729,12 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 239,
+      "source_sha256": "53166159ba71b9484c86871295e4d1cfdd7fe2086e896e8602eba133ba105740",
+      "english": "Fires a series of beams that deal fire damage. Enemies hit take moderately more damage."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 247,
       "source_sha256": "fb1008cea828e95655bafff46d5658bcd2a1e7321f04dd7eb925251aa0f68415",
       "english": "Fires a concussive shot that explodes and deals lightning damage."
@@ -741,6 +753,12 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 374,
+      "source_sha256": "13512fb6935debc75eb66c154639198883e83087fa78cafbfc79b7278049b4df",
+      "english": "Gathers power and fires a shot that makes enemies flinch. The shot explodes on impact, giving allies within the blast a small boost to damage dealt."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 390,
       "source_sha256": "ec9b2a47942b3e9c0ea863911fb9031a8b21aeefd9ea2d0b2ae7d8115a2ac96d",
       "english": "Deals fire damage with a cone of breath in front of it."
@@ -750,6 +768,12 @@
       "id": 1121,
       "source_sha256": "3962fe8d0662c3739e6a1e0bfeebf324882ae3c1fbf0bc6693aa8f614ac9f672",
       "english": "Deals ice damage with a cone of breath in front of it."
+    },
+    {
+      "table": "master_imagine_text",
+      "id": 1200,
+      "source_sha256": "1fe9f2bc487ba68396579d2791d1a94f830d826fc949949312f0373fe86f89fb",
+      "english": "Fires an arrow that pierces enemies in a straight line and makes them flinch."
     },
     {
       "table": "master_imagine_text",
