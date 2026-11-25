@@ -4093,6 +4093,17 @@
       ]
     },
     {
+      "uasset_sha256": "696d8ec5121cb451463dc36675effd0927882cc5b3deb6362d704282f446354d",
+      "uexp_sha256": "b792de51fefbdd50837e8102e44f62e965d3348a6e906409d79292ef36760321",
+      "rows": [
+        {
+          "ordinal": 23,
+          "source_sha256": "1fd5c58b639a85485b79fb825a3310b529ee82b12d4c12163edffab54ac3e02d",
+          "english": "Yeah... you're right. I won't give up hope.\r\nBut I've still gotta answer for what happened."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "69c35531abf3dfad492c14186f4c7f6d4da172ba0a01a9b720f2c8886c1843c8",
       "uexp_sha256": "652b4084c430eb02cd4e56bdba93730795f5a180db1274afadc2b7397eb2f41d",
       "rows": [
