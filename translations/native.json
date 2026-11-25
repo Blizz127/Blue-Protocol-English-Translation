@@ -751,6 +751,47 @@
       ]
     },
     {
+      "uasset_sha256": "2764b80701b82648784017d6c29a1d32fb8e746be20fbd79d094aeb82676fd4a",
+      "uexp_sha256": "b5b3c177b7f5e0de58446e4c9109fd5afdb1196cbf9e253b11e707cba9a7d66f",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "8d754897fd2d783ee0e67f0a54bc9538ce5695aa58ea426d92f3d983273bfac1",
+          "english": "You lot[――]Ahem!\r\nThere is something I would ask of you."
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "2033385ed09c5e9c4e76392b8e7a1f677f0d07d319a2fcae7fe794c449f06c89",
+          "english": "The biometric records match.\r\nThis is the Avaritia we're to release."
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "5e27d2cffe3c3568cd39c22776381b197f3175ab95ff9a2fc9adc5d9f4b47934",
+          "english": "Miss Priestess! I just saw someone over there\r\nwho looked like Einrain!"
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "0ff27308d33279493fc6e32a35e10d8ebca9202b055505aac8dbeb665c8acd8e",
+          "english": "I shall now release the Avaritia."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "f91a8bc7194ef1692892d77fe46fafc6e27a1e046896692f0302b640470b722f",
+          "english": "This reading…!"
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "061929b1d3fabbda89f0620bd27a5843a94688930f03b6942cfc779047eeb253",
+          "english": "Lord Voldigen's been waiting for her to release the Avaritia.\r\nHe knew it would activate that woman's bio-engram."
+        },
+        {
+          "ordinal": 161,
+          "source_sha256": "ed1453550ad314e6667537ab1aadf6c16b39d6ed59a9b865e6d982012f8a18a6",
+          "english": "Death at Lord Voldigen's hand\r\nis more of a reward than you lot deserve."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2c7d7e280dbcc5cfab77411e8746377ee5f2a1bbce9d7fa0779535a171a8d69a",
       "uexp_sha256": "9918af225b36a373403f47f5923a97247cd7e128b442ef5875af083400cc5117",
       "rows": [
@@ -1153,6 +1194,11 @@
           "ordinal": 5,
           "source_sha256": "de9ba95d3ed10fac6ac9bd6e48e933c055e6b6d994aa61fde93d39c8bf6bb10c",
           "english": "Thieves and bandits are a dime a dozen,\r\nbut attacking a traveling troupe onstage? That bothers me."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "b8587afe6dd38b3ac4e7517eda2b4431c2046f6b1c0bba53599d74a26699152d",
+          "english": "…Sometimes she scared me,\r\nbut I never disliked Elektra."
         }
       ]
     },
@@ -3355,6 +3401,16 @@
           "ordinal": 12,
           "source_sha256": "59bb942766174f49c41ab502d1c2d8b150144e6adba4806170ed7f5099149cd2",
           "english": "You've gone to such trouble to indulge an old man's whim.\r\nI scarcely know how to thank you…"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "240931bf71d75dc9334d166bb160f6af4beb225e9c27ae6c276101c005dad834",
+          "english": "Will you slay the Avaritia… please?"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "86e7b56811e80679e11166f340b7737a0dc6d0bc48482443144037a79e43a1e4",
+          "english": "We can't go on with the pilgrimage like this,\r\nand everyone's worried…"
         },
         {
           "ordinal": 18,
