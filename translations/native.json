@@ -532,6 +532,17 @@
       ]
     },
     {
+      "uasset_sha256": "207ee8a7bd24e3c4714001979b54aa2835630e277e51db41c136441aa81fe1e7",
+      "uexp_sha256": "9bcbe60ccbc6df7d607cfa768036b2faf0b2ff9d048c629522bd3a6342c2f2c6",
+      "rows": [
+        {
+          "ordinal": 21,
+          "source_sha256": "32481d265f0adf8f57d0fe827517cd5b48ce302663827fb7dfe1cc77e97c9eb6",
+          "english": "I know, big sis! Feste can help you\r\nget your memories back!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "23a4f81fcc3b7343f6f4784eebb38f32588823e79557b479782ef8fba2a06377",
       "uexp_sha256": "559730b92d69a5cb3b540b2f03ec40399ffd8baf3ba66f572a5f380eabd066ff",
       "rows": [
@@ -998,6 +1009,26 @@
           "ordinal": 15,
           "source_sha256": "0b8dec579c1a222aed76725ac30dca454aa074e1dcac998ab7343cb43fe95587",
           "english": "Congratulations! You've reached Adventurer Rank 7.\nI look forward to seeing what you do next."
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "41a12b4be04e36964ba7d824abcc32151d0caf0152fae2c272288871bc359e55",
+          "english": "When a rank-up battle becomes available,\ncome talk to me again."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "d132636b873ff3c6959880d978eabc2160a4cedf6928f2067d1d4d754851f597",
+          "english": "You need to manage your stamina in combat too.\nA good adventurer keeps an eye on the whole fight."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "7d606a24c2c807fc59d31f24f3e895dbdff5abbaa90f6a1a07c9abad06da0172",
+          "english": "In this rank-up battle, you'll come across\na mechanism that can inflict Bind."
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "629a287948523d11cf91824d475f9fd734957517257cf0a462d51634a0533b89",
+          "english": "Bind holds you in place. You can't move at all.\nYou'll need a way to deal with it to get through."
         }
       ]
     },
@@ -1696,9 +1727,79 @@
       "uexp_sha256": "7f7cf4b7e536a4df0a5cf35a820d26de4c9206cffd7ea8ffa9532ac55d28d236",
       "rows": [
         {
+          "ordinal": 7,
+          "source_sha256": "bc2796086d6d86fc1dc92928e5af39ab4ab0114cdb3bcb7a5c8b7ab765e252a4",
+          "english": "Watch out for Stun in this exam.\nTry equipping an Enhance Imagine with Stun Resistance."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "eeaf113ad5de1f15ae6fc0d013b34b6210f11627c1bf22e756f8c4b1e1364a42",
+          "english": "Watch out for Paralysis in this exam.\nTry equipping an Enhance Imagine with Paralysis Resistance."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "90d8e5b7c2e889b073983c666a4b291a0d53f4b3f972e6648c88fd68b7a039a9",
+          "english": "Watch out for Poison in this exam.\nTry equipping an Enhance Imagine with Poison Resistance."
+        },
+        {
           "ordinal": 15,
           "source_sha256": "0b8dec579c1a222aed76725ac30dca454aa074e1dcac998ab7343cb43fe95587",
           "english": "Congratulations! You've reached Adventurer Rank 7.\nI look forward to seeing what you do next."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "9575ef25550597c1d6d992fb6042b44079b4bf49d8d58b5c3a086febd34faf6b",
+          "english": "For this rank-up battle, you'll want the\nStun Resistance Up effect."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "5b1cb05200fcf762fc30dbaa07d6bb829212e17fea8a24a31afdc7c79c73d707",
+          "english": "Equip the right Enhance Imagine\nto reduce the chance you'll be stunned."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "0c522118f8930787b8d76a7b7d1504d61f8a270fcf31291f8cbf43524c990c8b",
+          "english": "I'd equip a second Enhance Imagine too.\nIt'll give your stats a boost."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "7d6a2c6db0530756604f6ac06a73e3b4078c74317537f46868d1b246b6d66fe3",
+          "english": "If you can, equip two Battle Imagines as well.\nThat should make the fight go more smoothly."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "41109b1e5b39172cabe57b710fe3a02a8adf07071d5b7eb1a0feeb3b38fd44c9",
+          "english": "Stun trips up a lot of adventurers in particular.\nMake sure you're ready for it!"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "04da1175e991d457a2e189a14191592c33d447c3b996ece53d0df05b8c631ee6",
+          "english": "Just like in your last rank-up battle, there are\nEnhance Imagines to raise each of those resistances."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "a1fb0db64761ee9a4268158fde2d3af4e8276b6ce9b1bc1363cbc94e62fcd58a",
+          "english": "Pay close attention to status ailments.\nThe monsters ahead are tougher, so get into the habit now."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "19e09528b43dc295928ed55c13c0fa6dc04aa34a1802103f16eaf60df3368bf2",
+          "english": "First, watch how much damage you're taking.\nYou need to stay on your feet."
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "065cf7697766e4b68abd69a3d4f67d903612c21655a8d75912ac453551ba0f96",
+          "english": "This is one of the tougher rank-up battles.\nShow us what you can do. I know you've got it in you!"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "7b429852119e49bebaea88499fe000e242e1e44bf02bf9ea50bda2e2a0b8d473",
+          "english": "There's more to do than raise your Adventurer Rank.\nTry a few different adventures!"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "41a12b4be04e36964ba7d824abcc32151d0caf0152fae2c272288871bc359e55",
+          "english": "When a rank-up battle becomes available,\ncome talk to me again."
         }
       ]
     },
@@ -1985,6 +2086,42 @@
           "ordinal": 24,
           "source_sha256": "659029af53b67270d52315932fb6db30cf01d432b8d050a985536248e35f6741",
           "english": "Hold Facing Direction:"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "eed8f7db843d3f74e5e2a93579ab0e984959abd57ce75c97219d4417a4dc8f80",
+      "uexp_sha256": "9475808cd454e03b6b26f0c1ab92612dd48aba1b32c686d4bee457257caf4dcf",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "1024d1edd9c4bb48338713b528eb4cb4f6c2fa9ebf93c5c871d810650bd4595a",
+          "english": "These settings are unavailable because no audio device was found."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "146e74b8d75f767e907080080fb2e8384265a868c902f1d55955fbccc11a8915",
+          "english": "Apply Outfit Voice Effects"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "e6d542f57c647471e7e89e31ba97fc608ac2251eb4e761e44bc0454dc904c92f",
+          "english": "Play Voices During Gestures"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "b61b349da29aa532e84661b1de5ed00e03d6d9bd0a2764d4469d17d15cd0a6a2",
+          "english": "Nearby"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "3861b38097f325126db3788a4c4ff4d47b0d0bf010b645551bb7c8a110663e25",
+          "english": "Zone-wide"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "8a8933939cc83ec7417eff8e9f9f39b24e23421e3e0e1ab739e024dea7d7837e",
+          "english": "Play Audio When the Game Is in the Background"
         }
       ]
     },
