@@ -124,6 +124,22 @@
       ]
     },
     {
+      "uasset_sha256": "0b90bf8cc7bf72fc1f5a73359a3fee9c6b4a74538bd6d6d80b3ce303bc98e80c",
+      "uexp_sha256": "0cf1c249676bdc0e96bf56f873ee86006357b27f5c7ad425a4af3371f5da1268",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "b06f4b271067c8ac59b6c3be30c7d8eb05f7cb1673142c67cb24f6d08afe6fb8",
+          "english": "Leave things here in the village to us.\r\nWe’ll make enough noise to draw the queen and her people away."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "ca30381aacfc570a12480b631b2d838b268e51456a1c53ad9d17c4e3d9702237",
+          "english": "Make for the road first.\r\nThere should be fewer guards there soon."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0e79989c80967dd6ea834d086d56356d8052f1f254dab91264166d3f22399fb3",
       "uexp_sha256": "5b13f9ec412fc74b1cd42d735c6bc80de8cb4af72de67b8a8aa9e585698a14f7",
       "rows": [
@@ -6064,6 +6080,102 @@
           "ordinal": 57,
           "source_sha256": "41a12b4be04e36964ba7d824abcc32151d0caf0152fae2c272288871bc359e55",
           "english": "When a rank-up battle becomes available,\ncome talk to me again."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d72d3f6eaf6543cfd2f63b12ce326869a0e2fb680e40fab2293e011efb71b737",
+      "uexp_sha256": "2f3723ee8d33e1db19cfe644944785ecda13a6afea5258a9b22d7c7febb30b2e",
+      "rows": [
+        {
+          "ordinal": 19,
+          "source_sha256": "c7c60b0c9b6a4d28bc3eb7758388c10a59819097d43dea20caaac4aa34b175ed",
+          "english": "No time to waste!　Hurry!"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "bbc0e1bf6958014373ffb246303a006a72429b6780f2cd1d7d80f0f87557bf9f",
+          "english": "A warrior owes his opponent an introduction. I am Ernyiges.\r\nI serve Voldigen, the Dragon King, and stand as his sworn ally."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "dc50c9a01f3b7ca11e62049f245b486abfce84c1c872e78c81f85ca9c014e86c",
+          "english": "…Yet for the sake of my sworn ally,\r\nand ultimately for all dragonkind, I must."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "5e394625784b949d63f167127fd75592a344edc1c7f4d45a70944c0c61d28f6c",
+          "english": "That’s it!　The Avaritia that ravaged our village!"
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "71bd6ff6a8fd6310e46a28e7bdc11d9c6479fa64b0264c6a7cb144e351ba0bac",
+          "english": "Maaaaaah～～～"
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "87e6b2c46f06ab306d9ee530dea488d05b45b5ebe516a5299995d17a45325079",
+          "english": "…Here’s our chance to bring it down. We can’t let it slip away."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "fcd06c43f28a1eadb4cb367ff8dac8d54ae83e47c02094dd34e825d215923869",
+          "english": "After it!　Keep up the pressure!"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "f16d322c7b877adfe8794a69a5310274d8fda6589e28d5405de4bd088eaf063c",
+          "english": "Whatever laws were broken, surely your childhood friend is still dear to you?"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "3898ccff10ebcefa88f0610e536a6da61d64049277ff211bb843de7ba4be63cd",
+          "english": "Queen Pipimaruka…"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "49d1841681564a3ecfc16015aa5c701770f7207754bb35a8642e828f2c551662",
+          "english": "You’re the ones who caused this disturbance, are you?"
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "34e6061a1184a7ab093874bd15340535d0c2d743002a4ef6d805f0f7c50e9ed9",
+          "english": "Your comrades are in my cells.\r\nRest easy. They still live."
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "97296941a5a2e6420e662036fdd218c26dcac1de66ed8c48ddbba9ee3d06f94b",
+          "english": "If you persist in defying my orders,\r\nthere will be a price to pay."
+        },
+        {
+          "ordinal": 110,
+          "source_sha256": "cf9e6d7e2cb7c17432bd07f11a3efae0ce9459137cf331ba214d8474adfd96dc",
+          "english": "Your Majesty, we have no time to quarrel among ourselves!"
+        },
+        {
+          "ordinal": 120,
+          "source_sha256": "cc273b3b0f2257c8598c92bd570c0117ea0152bff869ebd068f40810c73a673e",
+          "english": "The rest of you share his guilt.\r\nLeave the village with Kapakuku."
+        },
+        {
+          "ordinal": 121,
+          "source_sha256": "062ff826540e45be21dc3f0235a83e6d3f6b9a3c4a0f2bf7fbdcd68124b1b79c",
+          "english": "Queen Pipimaruka!!"
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "c5d792a1de6611c11afd67a3e028dc3c71f6ea07dcda628237bb24abec7c89d8",
+          "english": "Please, stop!!!"
+        },
+        {
+          "ordinal": 125,
+          "source_sha256": "f80f0eb60789bcb643385e48c001fa4403661a3daa74dbb85fc2d2ba1b667b5c",
+          "english": "…I’ll obey. Just… please…"
+        },
+        {
+          "ordinal": 131,
+          "source_sha256": "d016ddc5c028fa9cfc690863852f0715a944bf1f63b09bdc1083ea5c429817e4",
+          "english": "Go. Now.\r\nI shall pass judgment on your comrades in due course."
         }
       ]
     },
