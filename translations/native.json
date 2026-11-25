@@ -462,6 +462,11 @@
           "english": "Increased Gathering Yield\nWith this Liquid Memory active,\nyou get more materials each time you gather.\nIt activates as you defeat enemies in the field and as time passes."
         },
         {
+          "ordinal": 130,
+          "source_sha256": "38b35df20ed414ca054a5649c32e888c4239cd2576462fed71a4df990e1f1318",
+          "english": "Reduced Gathering Time\nThis Liquid Memory\nincreases your gathering speed, reducing the time it takes to gather.\nIt activates as you clear missions and as time passes."
+        },
+        {
           "ordinal": 150,
           "source_sha256": "98acc1a77170acebe28e8a16a05de99a4006cb3551c0e20cb670e7d7d6a24c8b",
           "english": "Stats"
@@ -2800,6 +2805,11 @@
           "ordinal": 128,
           "source_sha256": "90d1b6c31172db452086a3239bd20927283c052ff69ca676ffc8cfc57f365d4c",
           "english": "Increased Gathering Yield\nWith this Liquid Memory active,\nyou get more materials each time you gather.\nIt activates as you defeat enemies in the field and as time passes."
+        },
+        {
+          "ordinal": 130,
+          "source_sha256": "38b35df20ed414ca054a5649c32e888c4239cd2576462fed71a4df990e1f1318",
+          "english": "Reduced Gathering Time\nThis Liquid Memory\nincreases your gathering speed, reducing the time it takes to gather.\nIt activates as you clear missions and as time passes."
         },
         {
           "ordinal": 150,
