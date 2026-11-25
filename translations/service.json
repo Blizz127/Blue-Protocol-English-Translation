@@ -98,6 +98,12 @@
       "english": "{CharacterName} took a ready stance facing {OtherCharacterName}."
     },
     {
+      "table": "quest_sub_chapter01_text",
+      "id": 131,
+      "source_sha256": "615c94c33e94fd4e44ce882919f33c9282cf3da6d6abe4a865d8786788a34c53",
+      "english": "I'm Like. I brew magic potions. Hee hee hee.\nI need a few ingredients for a new potion. You don't think I'd ask you to fetch anything suspicious, do you?\nI'm counting on you. Hee hee hee hee hee..."
+    },
+    {
       "table": "weapon_perk_text",
       "id": 2881,
       "source_sha256": "486ed2782f7cbdf788a2ff21f831f03fe8ca03ff21d3768745c8b50df9393f01",
