@@ -311,6 +311,16 @@
       "uexp_sha256": "6c1cf6ec2a3492a2ae583b423d4d038839f1c38b7b8cfd119f44b55f6e3d4ff4",
       "rows": [
         {
+          "ordinal": 75,
+          "source_sha256": "3f8bd383c27d7ea7e45a135597d5fb4877cf5fc7f83bba58e7c03379873450b1",
+          "english": "A pleasant breeze sweeps through these hills.\nIn the village of Minsterhorn, the steady wind keeps\nthe famous local windmills turning."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "86e55ce9d6a5da3877d9ab5998a3f2959974469b8e47d097c2888cb2828bc45c",
+          "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
+        },
+        {
           "ordinal": 128,
           "source_sha256": "b06126d80cc8ad6c0a0de3fcee620cdb5865784ca18cd0f187fcdb4a81c06a2c",
           "english": "Menacing Dragon Ridge"
@@ -1595,6 +1605,22 @@
           "ordinal": 54,
           "source_sha256": "c3cffd0839bce535225e9416cc43164216afc6edc22d84a6e533a23247d10faf",
           "english": "Earth Resistance Up"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "7eab924c47521d903206836636ad716578a75ad79909f9a47c75519ecb9b5226",
+      "uexp_sha256": "69f42b2e22d01613038075d85160e1ce54af276845fd99ceca27a9b57b9fb1cb",
+      "rows": [
+        {
+          "ordinal": 75,
+          "source_sha256": "3f8bd383c27d7ea7e45a135597d5fb4877cf5fc7f83bba58e7c03379873450b1",
+          "english": "A pleasant breeze sweeps through these hills.\nIn the village of Minsterhorn, the steady wind keeps\nthe famous local windmills turning."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "86e55ce9d6a5da3877d9ab5998a3f2959974469b8e47d097c2888cb2828bc45c",
+          "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
         }
       ]
     },
