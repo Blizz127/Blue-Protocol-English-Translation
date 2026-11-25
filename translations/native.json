@@ -1843,6 +1843,16 @@
           "ordinal": 371,
           "source_sha256": "306411654ca4a9c19ab9e71399a9d34ed4f734dccf4f61de395cc63eabe7d36a",
           "english": "Even if it was a coincidence,\r\nwe can still be glad that things have improved."
+        },
+        {
+          "ordinal": 411,
+          "source_sha256": "26aa1a5225546704cca7070334245af2c1eef3509b47a6fa47c9476093fe25cf",
+          "english": "Well, it should be little enough trouble.\r\nCome, my servant. Let's make quick work of this search."
+        },
+        {
+          "ordinal": 415,
+          "source_sha256": "03560132c9affcbce8bba73205b59667630794bcb443af6e06b399698c8a891f",
+          "english": "Send them packing, servant!"
         }
       ]
     },
@@ -2675,6 +2685,82 @@
       ]
     },
     {
+      "uasset_sha256": "7d6e7fae4ecb5b28f9de2e06e5bb44c0981ef62ba4cd43642c7c30e12ce92279",
+      "uexp_sha256": "88b977e020ecc00b06d7de8b5e149f469d5e8fce289ef03d0d9b0b3736b078f5",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "8751c37dfd6e1436a96b5d1dbca3c8930a557781054bfb50d35481d1734e27b9",
+          "english": "Go to Minsterhorn.\r\nRyugerio's already gone on ahead."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "8bdd3cbe7a26181e35ee8e26aa816fab9dd299c16e5d3f7f80f7b1e5a4e5265c",
+          "english": "They're practicing Star Spirit Festival customs and greetings instead of singing.\r\nLalaforte was quite fired up."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "1093e1883e43a7cd56990a6d6f1a57b3e989fd1342caf9e9c7985d3ccfc14282",
+          "english": "Normally, anyone who discovers ruins\r\nis supposed to report them to the Order right away."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "2419dd7594298ab1a55d070c62b8c312f1ee3e6b073f63e0e73b38a8ce7ceac3",
+          "english": "Hmm… Oh, well. I can worry about that later!\r\nRight now it's all about the metal plate, the metal plate♪"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "2a9efe831b4e85104db6d70391b70477b7bf6271c1ce36616ab6f2a4262525b9",
+          "english": "Yes, right there! Straighten your back and stand tall!\r\nHold it a little longer! Come on, keep that chin up!"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "366a58df683dbb5b50a915aa66d9cb39e818393a972d9dd7477eab97c18d0d55",
+          "english": "That's a grimace! Give me a smile, a big smile!\r\nDon't let those arms shake! Hold it, hold it!"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "80db2f5fc2047d3c22dfdc4a357f20d69fbe028feb05ce08d09063c5465b41f6",
+          "english": "I… I can't. I'm at my limit…!"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "bc70a459d557b57e0cc50fbd31a79d1ce422530894446c7079411abb2cf61777",
+          "english": "You can't if you keep telling yourself you can't!\r\nNow then, shall we move on to vocal exercises?"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "3248bd9144aaf855278c14fa0a6d436e0a5e3057138f08c24fc4554f31864d28",
+          "english": "L-like this…?! You're kidding, right?!\r\nThere's no way… I can't get a sound out like this!!"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "6d79b77b8d69aabbdddd6239ae4d58903d919f9cd9ae18a19ac2ee9b5abcd6f5",
+          "english": "Oh, my! That was quite a voice I just heard.\r\nWith that much energy, you've got plenty left in you♪"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "96271aa95cb62ff70dc80fc0f95937ca82cfc49347fb6c191fc2a5278d761f3f",
+          "english": "Hmm-hmm♪ Come on, my dear little metal plate♪\r\nShow me a few more of history's secrets today."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "4af0bc55706d10a110468e5a5f29f88df892ccbd4cd104737c1cc6694b0b16bd",
+          "english": "And I can look through all the books and records I want at the temple.\r\nMy research is really going to take off!"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "24cd49fba3410e5b813696ac5419cc1376c6908f2c71f4210355e5dc11a56050",
+          "english": "Well, I just happened to be passing by.\r\nThat's when I spotted her."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "a452e6b7a0eecb9cd22972e1696a1077c4f03a2617251ca94c186ad704428424",
+          "english": "Why, the nerve of him! High priest or no,\r\nthere are lines even he can't cross!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "7eab924c47521d903206836636ad716578a75ad79909f9a47c75519ecb9b5226",
       "uexp_sha256": "69f42b2e22d01613038075d85160e1ce54af276845fd99ceca27a9b57b9fb1cb",
       "rows": [
@@ -3224,6 +3310,16 @@
           "ordinal": 59,
           "source_sha256": "bdb4c6dabae1c50f08abba3ef2625d9b0418a59ea2cf3b943efaaf532149f222",
           "english": "When you're as good a merchant as my dad,\r\nyou're used to little hiccups like that."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "41524b7fc7e273f97f4755cfddf0d216173bc06b9a2ad0e68ad4b156d0ce77f0",
+          "english": "It looks like a giant shark standing upright,\r\nlike a demi-human carrying a weapon…"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "3b700224a5617ad7a97bf2fe470fdf21d5fa2e2f09e0e581395f5a3a3fd28fe5",
+          "english": "That's… kind of different from what I pictured."
         },
         {
           "ordinal": 67,
