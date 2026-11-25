@@ -1121,6 +1121,17 @@
       ]
     },
     {
+      "uasset_sha256": "531b8f12501cb44ca2fb317f829cb61dae552e7adafed8f82a864511229d2c8f",
+      "uexp_sha256": "b99e2c411d91cd490e13432097cb8c9237d4045bd00296280efcaf8a9adf48f2",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "f732304fd1f56f0c1f0252b0e4dd497add829443711e1c976522045ea838ef8c",
+          "english": "She can be a real piece of work,\r\nbut underneath it all, she's a soft touch."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5423959be9e97ac056ca4ff24431f0fec841f02e813b377ee9392c17358c5572",
       "uexp_sha256": "12eabc87b9ee1e1d4e4a75a848705f3fb761ec5ae794fc79707918b1a53b8aa4",
       "rows": [
@@ -2883,6 +2894,27 @@
           "ordinal": 65,
           "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
           "english": "Couldn’t add a character slot."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ea1e7a699ab34abb53251afde5b9875df7d0d54eb90e0113a07c99050ba9a838",
+      "uexp_sha256": "93f5417c02950c1f4a0db71522e5dad0b488118f48e678747c69f5eb96e0733c",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "8a9047d4d249456bd6613ff2f44af2d5816533a1f4a75d6165f1d4c7d8c93ad9",
+          "english": "And Jake's going with you?!"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "497da26a09713d6637ff5403d6a73cee3bf09c0ef3fa7cba5a1b6794b88e2d31",
+          "english": "It's dangerous in there, though.\r\nI hear someone's seen a strange monster there recently, too."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "e0ceacfd3d24dc7ee24b98e32f483a8a15ff3c5e60cd2eb02eb4ed874d930e49",
+          "english": "Hm? You weren't going to call it quits after one visit,\r\nwere you? That'd be a waste."
         }
       ]
     },
