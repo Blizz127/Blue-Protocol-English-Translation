@@ -1908,6 +1908,57 @@
       ]
     },
     {
+      "uasset_sha256": "712c2e67458f63b14a418946fb5c94ffed7db31d03b053cf649282715ba6692a",
+      "uexp_sha256": "9f457d620a49399c4c407161e83e8061641ed1f39c5595cb663395230c17eb2c",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "c54e209036919a9f94fb5644bc23bef27a71b017ec56ab15a60c0c950a58c79a",
+          "english": "Lady Einrain..."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "252522f5e0438be197fcd31bdfec232cdd145b0bf22e435fd4eab018e7b24a74",
+          "english": "O God of Bapharia...\r\nForgive us foolish mortals."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "a7263321dd23f431503c215a25a4614237e2ff216106b3d1eab8fa25dd81790a",
+          "english": "Send an envoy to find out what's happening.\r\nIf this goes on, we could have a war on our hands!"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "ff518f2f75a19365eca930488d0808a8ba672dd8ace1d802db92d28175813861",
+          "english": "Our own history is bound up with that place.\r\nThose ruins preserve the traditions of ancient Bapharia."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "97e897f2eae4fb11c5bdc27be57f6e78cbbfdd897288a4a7d317995378e226e7",
+          "english": "Use whatever means you must.\r\nReach someone in authority at once!"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "1f5d517504794e5a8bd5b336fe621c23860b02ad9db16dd453b5cb7e985d04a2",
+          "english": "How could I pass up a chance to explore them?\r\nI can't wait to see what turns up! ♪"
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "a4a7a5e3fb0cb6862b0c18e210b6416c9807e80b11f76a74805375607d9d82b8",
+          "english": "Decades from now, perhaps centuries, some heir to my cause\r\nwill dig up this letter!"
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "f17e7e9926110d5a8eb24b0898d71e755f7421ec3b94d4b2c4bdbd372d36d8be",
+          "english": "The gatekeeper's spite! The priests' underhanded ways!\r\nI'll set it all down and leave it buried here for posterity!"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "c638011bd0f494c21f8c3bd335d6d0aca1ec97093d5391590d6eb1c63c9551ed",
+          "english": "Ha ha ha ha ha!\r\nBy the time they're sorry, it'll be too late!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "7278290c7f0452eaff7780d85ad8b7b99432e3a5a5dbe215f9f3f7510a79ab1e",
       "uexp_sha256": "2f8d7e9d4c5fbb4cf027737625ef268398853af7fb81fbdba1bc76c7f2c33b19",
       "rows": [
@@ -2263,6 +2314,47 @@
           "ordinal": 49,
           "source_sha256": "bc997f450a6b63cafdd2af07db4a051bfd3a5d5e680751b8ad182785c540c8a6",
           "english": "[Bonus Contents]"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "8952d02743ff7265b8ab734cebaa173bdf8b08bbcf3e4623fd38401011be090c",
+      "uexp_sha256": "663f4b3d1bed28a8f1cb0fee9d330ea1c246183097b606f32bf3c1ed7820ce72",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "8cb6f9df93943a16e0eda461af7e8a103fa55338abd5433c4dfad4cf71150191",
+          "english": "She's all right... She's sleeping now..."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "f115c8939f576d7bd9fddd7c9b7d5ab94b5d50ea459d829e31e16cb3049035d0",
+          "english": "...Did you manage to defeat Avaritia?"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "f402f2a6fae19463776105ff89ea3b338ef392d0d99088a5490b9c2705ffbb16",
+          "english": "Hey! You lot skulking around over there!\r\nGet out here."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "a76d7db4d3fa009c56e1d94105cc15f8dd5dcb5ec6098fa7e1f69e4f6acea525",
+          "english": "Hmm?\r\n...Does something seem amiss in town to you?"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "6307c1a7d0207531bf6fd45fd3d2a40dd08355c1aa9d3f44115f240db4cc2311",
+          "english": "I don't know much about it myself,\r\nbut I do know a bunch of guards got hurt!"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "63d5dc115c57fea3652825af55b615f1ee338ce73a689894b28858cc725dac2d",
+          "english": "If you want to stay out of trouble,\r\nyou'd best keep away from the temple for now."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "f5a3b902e83865e23e2ec6ac22aba2dd9a77d84c8231c87e83735d6a1fed9d38",
+          "english": "Hmm. Something's happened at the temple, it seems.\r\nCome, let's see what Ryugerio has to say."
         }
       ]
     },
