@@ -765,6 +765,12 @@
     },
     {
       "table": "master_imagine_text",
+      "id": 1052,
+      "source_sha256": "c7a1eb5709cd3ae0602b72f1aabb152cd4161a9852b50d980125a34dd329fb79",
+      "english": "Fires a laser at the ground, creating an area that deals fire damage."
+    },
+    {
+      "table": "master_imagine_text",
       "id": 1121,
       "source_sha256": "3962fe8d0662c3739e6a1e0bfeebf324882ae3c1fbf0bc6693aa8f614ac9f672",
       "english": "Deals ice damage with a cone of breath in front of it."
