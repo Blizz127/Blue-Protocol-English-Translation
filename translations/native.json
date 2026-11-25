@@ -2571,6 +2571,22 @@
       ]
     },
     {
+      "uasset_sha256": "ba8535ebba6f35beefdf2fb498d20b20a86a0b23090ac6ca1fad085577af3ce5",
+      "uexp_sha256": "33f130a540359350bb344fb2c46c3edb0889c5cf1dfe6df02d24dcdc511f259c",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "6aa2479eaff98a57a759412a913d8dff05e6a6ffa5672a4f76d9acad5ad68844",
+          "english": "Very few people venture there, though,\r\nso the Order has simply kept watch."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "38c3ff61a766b4dafa2b7339fe140abab4a24a7cc3b7a73ed208bedd407eb0e8",
+          "english": "Welcome.\r\nPlease feel free to offer a prayer here."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "bf296ed04f3ddcdb0a906f15c1f029f5f07bbd24e5c2f644ee8dc92ca7112f97",
       "uexp_sha256": "5e64f749c9a6cc807a9e2cc29f1ffe294394567bda15f69daa17ef12840d2168",
       "rows": [
@@ -3430,6 +3446,57 @@
           "ordinal": 57,
           "source_sha256": "41a12b4be04e36964ba7d824abcc32151d0caf0152fae2c272288871bc359e55",
           "english": "When a rank-up battle becomes available,\ncome talk to me again."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "daa44fcfd01ec7e6f3c207aac1344b286bfa8361398790b10d35f44d863945c0",
+      "uexp_sha256": "80f166510db09b94c6c7b1b30818519eb6b57db87e387b25b534652e01c7f010",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "758894ef3fb3044cbdc0a7d480b6ec38cbbc588041b492b5eb0eb59e9bd50ce0",
+          "english": "Does Einrain have to stay here\r\nto keep the barrier up?"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "f0aa9988647bb741fe81024878b01873030a7991d8ebc3c3e4817dab220b90ea",
+          "english": "The other faithful can only lend their aid.\r\nOnly the Oracle Priestess can raise a barrier like this."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "3de91ab4f4070aa5e5b73db4904e41aed89a60c3664328b6fe8f6f24d787358a",
+          "english": "If Lady Einrain were to leave this place,\r\ncracks would form in the barrier. Before long, it would collapse."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "7bad02d3351a38e596f972c05b23db1867f274d99e3bbc73db5f16a4873303a5",
+          "english": "In that case, we can hardly\r\nlet things go on like this forever."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "0d705c93c4684e35084f10e600040b6121b6a5a2b94f58dcaa2476b2ae11b09f",
+          "english": "We’re tracking Voldigen’s movements from here.\r\nIf he makes a move, I’ll be in touch."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "f47751716ffe603f4f03ec8bbe75550277b25a71d7c12821e052af0577ee2ad5",
+          "english": "…Bachelard?\r\nYou remember things as they were before history changed?"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "352aa6bc510cc97976c763cdcbaef9a6d528e7c4239577bb9189027b1af38059",
+          "english": "[――]We have no time for idle talk.\r\nIf you want to save this world, act quickly."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "5fb8e19b314f952d4848031ee8b919e0c64d87231dd644aaa640931ed9dcb526",
+          "english": "Well? Shall we do as Bachelard says\r\nand go free the Avaritia?"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "2514addd0f427d9d9c351ed109ca5a2e03024964807db7a5e02bdc14b2b17678",
+          "english": "Now… I shall begin the rite to free the Avaritia."
         }
       ]
     },
