@@ -8906,6 +8906,16 @@
           "english": "As a Beat Performer, you can set up an Amp in combat.\nHit it with attacks and skills to extend their reach.\nLanding hits with these extended attacks fills your Heat Gauge.\nWhen it's full, you can activate High Spirit.\nHigh Spirit powers up your attacks and skills,\nso keep up the pressure while it's active."
         },
         {
+          "ordinal": 765,
+          "source_sha256": "eb38fcf7698ac2f3f81c6a9dde60afabde73ad777169a8b641456dc24305388e",
+          "english": "This is a special kind of Battle Imagine.\nIts Possession Skill and Awakening Ability both grow\nstronger as its Limit Break level rises.\n\nHold the skill button to use the Possession Skill.\nYou enter the Possessed state and gain temporary\nbenefits, such as stat boosts, unique to that Imagine.\n\nThe Awakening Ability boosts your weapon's Limit Break Effect\nand adds the Imagine's Battle Score while its conditions hold.\n※ Only weapons of certain levels qualify."
+        },
+        {
+          "ordinal": 785,
+          "source_sha256": "8837329337125e2c2f44e399f9f969d0fe59741a2b5e8383f90630837966fb12",
+          "english": "Ways to get Imagine Relief include login bonuses,\nitem shop purchases, limited-time event rewards,\nand trading in Exceed Flam.\n\nTrade Relief for Extra Battle Imagines or\nB-Imagine Limit Break Substitute Tickets.\n\nRelief never expires, but there's a deadline to\ntrade it for a given Battle Imagine or ticket.\nKeep some Relief on hand so you're ready to trade."
+        },
+        {
           "ordinal": 796,
           "source_sha256": "34e4827c89d0bbf8e556d7e08b3ba1af1438f5f81e166c276d90abfbac623c4c",
           "english": "You can also earn bonus survey points by meeting certain conditions.\nCheck Event Effects for details."
