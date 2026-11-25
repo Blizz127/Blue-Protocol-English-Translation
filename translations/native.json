@@ -1035,6 +1035,11 @@
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
         },
         {
+          "ordinal": 428,
+          "source_sha256": "9c17bbc5e9529d42f714baf152018cebcae17dfb85321eae84b77ba9a47d11b8",
+          "english": "O-okay.\r\nTomorrow I'll ask someone I look up to if they'd like to swim with me…"
+        },
+        {
           "ordinal": 473,
           "source_sha256": "ef4180d4dbb212f3588efde2816ab899e00e92deb7f40d150e1cecc9cac4adbb",
           "english": "That building you see up there is the Reclamation Bureau.\r\nPlease don't ask me for directions anywhere else."
@@ -1539,6 +1544,17 @@
           "ordinal": 6,
           "source_sha256": "817a65b5c3ffad6e2ab20091cfcb04afbd2a79916744873ad5e748996aa1ee39",
           "english": "It's a necessary step if we're to hold the line.\r\nI hope you understand."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "2263beb2648d196d2209d68a95d3d2b593540fa02e1d1baf62496e69ec47cb79",
+      "uexp_sha256": "f0949a41279e4058366e46dc617900597bdf33302567f0e6d16d3af51d44223e",
+      "rows": [
+        {
+          "ordinal": 56,
+          "source_sha256": "5db9d71b665d870cfbc3b6d2eb805f360e5647ec03f878e46944e7aa55f888cb",
+          "english": "Um… this is for you.\r\nPlease take it!"
         }
       ]
     },
@@ -4154,6 +4170,17 @@
       ]
     },
     {
+      "uasset_sha256": "65bd0e20d6eeb46c1e5fe3518fe428bc3c1cd4639789e0b1e882846d93eda670",
+      "uexp_sha256": "30203ff3f8648b0682bb72b26ef64485b05b9c542fad816cb4c86c91085b7f8f",
+      "rows": [
+        {
+          "ordinal": 56,
+          "source_sha256": "5db9d71b665d870cfbc3b6d2eb805f360e5647ec03f878e46944e7aa55f888cb",
+          "english": "Um… this is for you.\r\nPlease take it!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "67db44e0373309143ffc56744dc44aa432411179a33752d74102d35cfe0c7ede",
       "uexp_sha256": "ed90ff0648e1ff0e3fe0235de0e1fd2f4ea2d550f98e2812cc8a720a0f512f2e",
       "rows": [
@@ -4176,6 +4203,11 @@
           "ordinal": 184,
           "source_sha256": "f56e59c21199d7bf0b2f381c57dcbc825b724e3eb96768fd939bd1e0d3abf332",
           "english": "Many's the time I sailed to the Principality of Bernhardt.\r\nI went farther afield, too. Even made it to the Outer Continent."
+        },
+        {
+          "ordinal": 432,
+          "source_sha256": "9c17bbc5e9529d42f714baf152018cebcae17dfb85321eae84b77ba9a47d11b8",
+          "english": "O-okay.\r\nTomorrow I'll ask someone I look up to if they'd like to swim with me…"
         },
         {
           "ordinal": 477,
