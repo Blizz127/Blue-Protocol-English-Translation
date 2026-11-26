@@ -1791,6 +1791,12 @@
     },
     {
       "table": "weapon_perk_text",
+      "id": 2867,
+      "source_sha256": "1126a3177b6481dc9377927cc6f846cd85e5413b18e255208be0a8ef88fc8d82",
+      "english": "Fall Seven, Rise Eight"
+    },
+    {
+      "table": "weapon_perk_text",
       "id": 2881,
       "source_sha256": "486ed2782f7cbdf788a2ff21f831f03fe8ca03ff21d3768745c8b50df9393f01",
       "english": "Full HP Guard - Life"
