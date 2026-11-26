@@ -345,6 +345,30 @@
     },
     {
       "table": "achievements_text",
+      "id": 4128,
+      "source_sha256": "ebd861a01ab04e244454c85a2affd2b190892bad952ed878861285feace497e2",
+      "english": "Well Stocked"
+    },
+    {
+      "table": "achievements_text",
+      "id": 4129,
+      "source_sha256": "587d66b8d9d7fde8e38ab9faf9e17dc086fb844f3aad725c79d50a0cc46de841",
+      "english": "A Hundred Ways to Fight"
+    },
+    {
+      "table": "achievements_text",
+      "id": 4159,
+      "source_sha256": "caaf521985abca1589a60dee5a1b5394ae519ec23115481f0a4429b329e864e1",
+      "english": "Collect 100 different weapons for the Illustrated Book."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4160,
+      "source_sha256": "caaf521985abca1589a60dee5a1b5394ae519ec23115481f0a4429b329e864e1",
+      "english": "Collect 500 different weapons for the Illustrated Book."
+    },
+    {
+      "table": "achievements_text",
       "id": 4799,
       "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
       "english": "Reach level 90 as an Aegis Fighter."
