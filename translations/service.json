@@ -1472,6 +1472,12 @@
       "english": "I'm Like. I brew magic potions. Hee hee hee.\nI need a few ingredients for a new potion. You don't think I'd ask you to fetch anything suspicious, do you?\nI'm counting on you. Hee hee hee hee hee..."
     },
     {
+      "table": "quest_sub_chapter01_text",
+      "id": 544,
+      "source_sha256": "365385343afb36b4215d8b021f597ce29f32ba8c1ad2fe92389b68cd5e253faa",
+      "english": "Recover the Valuable Stone from a mineral gathering point in Yunagi Terraces. {progress}"
+    },
+    {
       "table": "quest_sub_chapter02_text",
       "id": 52,
       "source_sha256": "55e86cd69e7c575944aff99ff40985f7080b8e77c25b32ae8af6f788dc779c0e",
