@@ -4539,6 +4539,11 @@
           "english": "Uh... I can't think of one offhand.\r\nAnyway, the guy's amazing!"
         },
         {
+          "ordinal": 96,
+          "source_sha256": "3e82efb4502263819c17cfe8009cffae501fc1edaed468596588c6661bdff82d",
+          "english": "See that over there? That's the Crafting Machine.\r\nThat big contraption does the crafting for you."
+        },
+        {
           "ordinal": 112,
           "source_sha256": "196facbc7ee53ea9be3a5e96a8922c554adb5108e925fbd12effd4fe4d3cca69",
           "english": "Did you know? The Principality of Bernhardt gave us this tree\r\nas a token of friendship."
