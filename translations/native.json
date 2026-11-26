@@ -2152,6 +2152,17 @@
       ]
     },
     {
+      "uasset_sha256": "334701222d7c72903d236de37fd59ed78dc76186f09169dc338132487822dcaa",
+      "uexp_sha256": "868be1bcd6bed67666cfc76f62c5b5621298bb66ef7cf89b7faac7c5ae8536a1",
+      "rows": [
+        {
+          "ordinal": 40,
+          "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
+          "english": "The new mission\n{MissionName}\nis now available."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "34843e52e28a71695371f549ddbb99a3a6b7f111e7375540257c587d5c6a1b55",
       "uexp_sha256": "1a4c535f8ecc5d85268929dead4f6a06c677c7e18fb3873c591e7c8809d924cd",
       "rows": [
@@ -8411,6 +8422,16 @@
       "uasset_sha256": "d36196ac577cfca30a20435d48fb3ea0ca2af569255775c32cfe733e7d4c2985",
       "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
       "rows": [
+        {
+          "ordinal": 41,
+          "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
+          "english": "The new mission\n{MissionName}\nis now available."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "b3d1a9631d3a7e63723733e685853cea12ad5c0fc50f23114be67f17dcdace05",
+          "english": "The new dungeon\n{MissionName}\nis now available."
+        },
         {
           "ordinal": 80,
           "source_sha256": "c26bc32b98ded7873874de943bb0ceb535ba261eaef3ece96d827263bddb0bd0",
