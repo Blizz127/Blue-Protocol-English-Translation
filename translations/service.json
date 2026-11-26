@@ -921,6 +921,12 @@
     },
     {
       "table": "item_text",
+      "id": 8318,
+      "source_sha256": "f4d2758ec2d68f3267f26561a3996ea6b7e5063fdd8acec9d82ae26fb4e579ce",
+      "english": "For 20 seconds, you deal 20% more damage."
+    },
+    {
+      "table": "item_text",
       "id": 9248,
       "source_sha256": "87103adb2ad9773365f6c1e97b165f5fb3f4d0b2cef7531e4b2b916ffd2caf2c",
       "english": "“More Luno with Fuerino!” Every adventurer knows the slogan for this drink made just for them. The flavor is so hard to pin down that anyone who can put it into words is said to be a full-fledged adventurer."
@@ -969,6 +975,12 @@
     },
     {
       "table": "item_text",
+      "id": 9944,
+      "source_sha256": "233dbd14c259e5a678ea652b05e518c2404ee382c44d87c50e4e7986cd8bc08a",
+      "english": "For 20 seconds, you have 1.2 times your usual chance to land a critical hit."
+    },
+    {
+      "table": "item_text",
       "id": 10069,
       "source_sha256": "e9a302f0634811f79aeb400cacb8e6c65b00fe0e715bb36b6b40b06d4938ac4c",
       "english": "Starfall Malachite"
@@ -978,6 +990,12 @@
       "id": 16480,
       "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
       "english": "Trick Box M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "item_text",
+      "id": 20109,
+      "source_sha256": "5fc94c8d2aba34c7c7cc2fe82244bf2749af523dbffc99cf4cd9e3b3b5a69ec8",
+      "english": "For 5 minutes, you have 1.2 times your usual chance to land a critical hit."
     },
     {
       "table": "item_text",
