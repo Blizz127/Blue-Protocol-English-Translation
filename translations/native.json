@@ -1726,6 +1726,11 @@
           "english": "You lot[――]Ahem!\r\nThere is something I would ask of you."
         },
         {
+          "ordinal": 36,
+          "source_sha256": "3cce64f0b36ce80271c8829bd7d6b61ce4a9c946b663e85425a3fa1d63287ae7",
+          "english": "Thank you for seeing this through with me."
+        },
+        {
           "ordinal": 74,
           "source_sha256": "2033385ed09c5e9c4e76392b8e7a1f677f0d07d319a2fcae7fe794c449f06c89",
           "english": "The biometric records match.\r\nThis is the Avaritia we're to release."
@@ -4694,6 +4699,11 @@
           "ordinal": 126,
           "source_sha256": "7a158b44362f66c345fe8f3532db021630f972f3eb5558df737de1639f23f55f",
           "english": "Thank you for all you've done. Quite a bit happened\r\nwhile we were resting, didn't it?"
+        },
+        {
+          "ordinal": 168,
+          "source_sha256": "51c08c47d8b5d451acaf8b9c5671a4a8f930446e46cde5e49ac68eb74106fe04",
+          "english": "Could we take this on?\r\nI can't just leave him like this..."
         },
         {
           "ordinal": 208,
