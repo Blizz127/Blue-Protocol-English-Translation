@@ -1128,6 +1128,11 @@
           "ordinal": 535,
           "source_sha256": "bd2190c3fff2cf22e0fcc5ba0cc46b5996492ae277cb0cbd40c6e2deb12898fc",
           "english": "That's sacrilege!\r\nI doubt the Principality of Bernhardt will let that slide."
+        },
+        {
+          "ordinal": 537,
+          "source_sha256": "0b142367f373601acbec9f47d118c78116c7aed879f1e54a349705673628db18",
+          "english": "At the top is the high priest, aided by first-class priests.\r\nThese chosen few lead the Bapharian Order."
         }
       ]
     },
@@ -4632,6 +4637,11 @@
           "ordinal": 545,
           "source_sha256": "bd2190c3fff2cf22e0fcc5ba0cc46b5996492ae277cb0cbd40c6e2deb12898fc",
           "english": "That's sacrilege!\r\nI doubt the Principality of Bernhardt will let that slide."
+        },
+        {
+          "ordinal": 547,
+          "source_sha256": "0b142367f373601acbec9f47d118c78116c7aed879f1e54a349705673628db18",
+          "english": "At the top is the high priest, aided by first-class priests.\r\nThese chosen few lead the Bapharian Order."
         }
       ]
     },
