@@ -1110,9 +1110,19 @@
           "english": "The Principality of Bernhardt and the Bapharian faith\r\ngo way, way back!"
         },
         {
+          "ordinal": 525,
+          "source_sha256": "6a3bcacc0a6b1354a77093bc7cdfe955a36234f36a0356ac872b70cfc1e73610",
+          "english": "People all over the world follow the Bapharian faith.\r\nThe Order's word carries a lot of weight, you know."
+        },
+        {
           "ordinal": 526,
           "source_sha256": "ac1acd3cac01bf7e46288d8aeef7ac03ed3941185660c1f3f9c9c863a86f98ab",
           "english": "Even the Principality of Bernhardt owes its standing\r\nto the backing of the Bapharian Order."
+        },
+        {
+          "ordinal": 532,
+          "source_sha256": "94d8336153817044a8a2c301e1464104a3537c13558b67332dc3f47150f82c59",
+          "english": "Still, there's no way the Bapharian Order\r\nand the Principality of Bernhardt would ever fight."
         },
         {
           "ordinal": 535,
@@ -4604,9 +4614,19 @@
           "english": "The Principality of Bernhardt and the Bapharian faith\r\ngo way, way back!"
         },
         {
+          "ordinal": 535,
+          "source_sha256": "6a3bcacc0a6b1354a77093bc7cdfe955a36234f36a0356ac872b70cfc1e73610",
+          "english": "People all over the world follow the Bapharian faith.\r\nThe Order's word carries a lot of weight, you know."
+        },
+        {
           "ordinal": 536,
           "source_sha256": "ac1acd3cac01bf7e46288d8aeef7ac03ed3941185660c1f3f9c9c863a86f98ab",
           "english": "Even the Principality of Bernhardt owes its standing\r\nto the backing of the Bapharian Order."
+        },
+        {
+          "ordinal": 542,
+          "source_sha256": "94d8336153817044a8a2c301e1464104a3537c13558b67332dc3f47150f82c59",
+          "english": "Still, there's no way the Bapharian Order\r\nand the Principality of Bernhardt would ever fight."
         },
         {
           "ordinal": 545,
