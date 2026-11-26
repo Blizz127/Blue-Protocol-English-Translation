@@ -62,6 +62,300 @@
       "english": "Hunter of Hostile Plants"
     },
     {
+      "table": "achievements_text",
+      "id": 2466,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 10 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2467,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 20 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2468,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 30 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2469,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 45 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2470,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 10 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2471,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 20 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2472,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 30 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2473,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 45 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2474,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 10 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2475,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 20 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2476,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 30 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2477,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 45 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2478,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 10 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2479,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 20 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2480,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 30 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2481,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 45 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2482,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 10 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2483,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 20 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2484,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 30 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2485,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 45 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2486,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 10 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2487,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 20 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2488,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 30 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2489,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 45 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3062,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 60 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3063,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 60 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3064,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 60 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3065,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 60 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3066,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 60 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3067,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 60 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3861,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 10 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3862,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 20 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3863,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 30 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3864,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 45 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3865,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 60 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3926,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 75 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3927,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 75 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3928,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 75 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3929,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 75 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3930,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 75 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3931,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 75 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 3932,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 75 as a Beat Performer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4799,
+      "source_sha256": "619ff1724767feaa46ee782558500b535870fc64f9f4d9d2d8f7ae62dddd56da",
+      "english": "Reach level 90 as an Aegis Fighter."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4800,
+      "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
+      "english": "Reach level 90 as a Twin Striker."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4801,
+      "source_sha256": "6685aaef048d9ad89d45239621f2f54e0faf9f36f96239996fcee1625abe1b48",
+      "english": "Reach level 90 as a Blast Archer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4802,
+      "source_sha256": "41154ed563a974996e5381394a4bc4409744f39002fa5c0cb3c3d1aff4cd3eb0",
+      "english": "Reach level 90 as a Spell Caster."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4803,
+      "source_sha256": "0e813fdaee9f86cb9a2839469a4e509fba734b724b071c1d99dac6c66f8b72f1",
+      "english": "Reach level 90 as a Heavy Smasher."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4804,
+      "source_sha256": "f0882058607274c81d36cda99f6f1bb2216e464cc74c6a375d8e2c262820c55f",
+      "english": "Reach level 90 as a Blitz Lancer."
+    },
+    {
+      "table": "achievements_text",
+      "id": 4805,
+      "source_sha256": "9f9d0678d5cbfecc52098dfddabd74104aabfb170641c6893a6612ec31447706",
+      "english": "Reach level 90 as a Beat Performer."
+    },
+    {
       "table": "costume_text",
       "id": 3743,
       "source_sha256": "5159636171959300d3436fb8443e350b3d44b3220967c50fefa6da245c38dd96",
