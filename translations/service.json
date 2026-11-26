@@ -1281,6 +1281,18 @@
     },
     {
       "table": "quest_main_chapter01_text",
+      "id": 57,
+      "source_sha256": "11c3e42673fb8d82c7a965c3f02dc0f84dabf3c17d5519439d7c246377a231cf",
+      "english": "Tell Millene in Minsterhorn that Walkin is safe."
+    },
+    {
+      "table": "quest_main_chapter01_text",
+      "id": 119,
+      "source_sha256": "4b0a57b523c2938c576b55745b9846605b272f6e83c1a0bdf6a063b7e20ff494",
+      "english": "Ask the First Class Priest at Bapharia Temple in Asterleeds about the Visitors."
+    },
+    {
+      "table": "quest_main_chapter01_text",
       "id": 154,
       "source_sha256": "3e56e930a8902452e63d82bca772e8f6e5eb056ebcd213c36e098cc216ca4d25",
       "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nThere's a huge transfer portal in City Gate Square.\nI hear I can use it to get back to the city in an instant.\nI should touch the portal to register it."
@@ -1290,6 +1302,12 @@
       "id": 155,
       "source_sha256": "9ccdf77ad68cff6a7c870f75e6980a940b4a5b0bc4767c5a5d8f8820ac9cc57d",
       "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nI've registered the transfer portal in City Gate Square here in Asterleeds.\nI'm all set.\nTime to head out of the city and look for clues to my past."
+    },
+    {
+      "table": "quest_main_chapter01_text",
+      "id": 188,
+      "source_sha256": "f5670fadc5a6f667495c7147bdd33f33842b103eb442b2979116d67771ff08a8",
+      "english": "Go to Andorra Basin to hear what Walkin has to say."
     },
     {
       "table": "quest_main_chapter01_text",
