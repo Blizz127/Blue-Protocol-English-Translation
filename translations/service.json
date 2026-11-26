@@ -1869,6 +1869,42 @@
     },
     {
       "table": "weapon_text",
+      "id": 899,
+      "source_sha256": "f4ccb1cd6837eae1aed0790a28386feeeb2a768a2e58d2e4f6d37bd285450076",
+      "english": "Dual axes for a Twin Striker, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, they bear the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
+      "id": 983,
+      "source_sha256": "511805918277182c950d318d4d0ddf4ca949d1e9b669b06834528632a64de565",
+      "english": "A sword and shield for an Aegis Fighter, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, they bear the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1081,
+      "source_sha256": "6e9f416e19c902f835fcd1aace753b6b8f8428eb29599450bd7b85dd9ff93eac",
+      "english": "A two-handed spear for a Blitz Lancer, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, it bears the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1165,
+      "source_sha256": "bae7dcf56ea9e27acddf2249a3e8eaf532aa67b09ff6bade9e5eed72d01e8ffc",
+      "english": "A bow for a Blast Archer, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, it bears the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1249,
+      "source_sha256": "fa29ab335d74e32cd1914e49befb37735596e39aad82e1fee365b5dd105732d5",
+      "english": "A hammer for a Heavy Smasher, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, it bears the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1347,
+      "source_sha256": "b80eacfe591813e97444b6b4cb81589fa7e6d2bf5df5b2b5ae55b33a42e90850",
+      "english": "A staff for a Spell Caster, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, it bears the imprint of the earth's power, which still slumbers in the mine."
+    },
+    {
+      "table": "weapon_text",
       "id": 1975,
       "source_sha256": "cfe1ad6e98e74ea4f9f93025814967207ba5a725a0df81aee38089832f9362d4",
       "english": "Light That Cleaves the Night"
@@ -1944,6 +1980,12 @@
       "id": 2137,
       "source_sha256": "fa7d9a402e8da54e1fc1ce7bf438fd8d1c618d860805eae8f062ef875b0ac0f3",
       "english": "A Beat Performer's guitar with a burning passion sealed inside. Crimson flames rage to the growl of its music. Heat washes over the whole area, spurring everyone onward."
+    },
+    {
+      "table": "weapon_text",
+      "id": 2704,
+      "source_sha256": "210bb6d604664e3e5aca5001bb93eb4b3d4b0c2008539251c62c33ae01f5b7ec",
+      "english": "A guitar for a Beat Performer, crafted from materials found in the Zelma Mine Ruins. Built for heft and reliability, it bears the imprint of the earth's power, which still slumbers in the mine."
     }
   ]
 }
