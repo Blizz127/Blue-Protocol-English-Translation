@@ -207,6 +207,36 @@
     },
     {
       "table": "achievements_text",
+      "id": 2572,
+      "source_sha256": "9a780c5bc39519c163228311a4d6363032550c00d7ad2f02d7795faef4d129f7",
+      "english": "Send 1,000 likes."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2576,
+      "source_sha256": "069e406819f0cccb4b92c1d2fb08d1aa31db5ad042289d0590869fe28e9d1348",
+      "english": "Revive allies 10 times."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2577,
+      "source_sha256": "069e406819f0cccb4b92c1d2fb08d1aa31db5ad042289d0590869fe28e9d1348",
+      "english": "Revive allies 100 times."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2578,
+      "source_sha256": "069e406819f0cccb4b92c1d2fb08d1aa31db5ad042289d0590869fe28e9d1348",
+      "english": "Revive allies 1,000 times."
+    },
+    {
+      "table": "achievements_text",
+      "id": 2579,
+      "source_sha256": "069e406819f0cccb4b92c1d2fb08d1aa31db5ad042289d0590869fe28e9d1348",
+      "english": "Revive allies 10,000 times."
+    },
+    {
+      "table": "achievements_text",
       "id": 3062,
       "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
       "english": "Reach level 60 as a Twin Striker."
