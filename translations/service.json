@@ -1926,6 +1926,24 @@
       "id": 2031,
       "source_sha256": "a836847d47dcb483c60e25c4c2cb60113c2de07ccb0f8cf5c3d3259add55c603",
       "english": "Resounding Thunder Strings"
+    },
+    {
+      "table": "weapon_text",
+      "id": 2111,
+      "source_sha256": "f875db4b84c20baff52ca3c46eb1a51b98edccc08f5bb6c01b4b6b0f9c90c357",
+      "english": "This guitar holds a power like a raging fire. They say its first notes shake the body to its core and kindle such passion in player and audience alike that all march into battle."
+    },
+    {
+      "table": "weapon_text",
+      "id": 2129,
+      "source_sha256": "cb2e515620a2023e9b7602dd03d1bf9ae5879b8a479693d2d26af292255ea0c6",
+      "english": "The mechanism inside this guitar is a work of art, every part essential. Sound surges from its strings in waves that overwhelm the listener with their sheer force."
+    },
+    {
+      "table": "weapon_text",
+      "id": 2137,
+      "source_sha256": "fa7d9a402e8da54e1fc1ce7bf438fd8d1c618d860805eae8f062ef875b0ac0f3",
+      "english": "A Beat Performer's guitar with a burning passion sealed inside. Crimson flames rage to the growl of its music. Heat washes over the whole area, spurring everyone onward."
     }
   ]
 }
