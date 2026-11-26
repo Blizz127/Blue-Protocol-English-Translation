@@ -968,6 +968,12 @@
       "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nI've registered the transfer portal in City Gate Square here in Asterleeds.\nI'm all set.\nTime to head out of the city and look for clues to my past."
     },
     {
+      "table": "quest_main_chapter01_text",
+      "id": 194,
+      "source_sha256": "cd11b9ac23432e5abc6cab16944da0b9caf75ef4a09d0b9ba962df6bb19ee3d6",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nI can get into Lakerid Mine through a Star Vein Hole.\nI hear there are Star Vein Holes all over, leading to ruins, caves, and all sorts of other places.\nWhen I come across one, I'll make a point of remembering where it is."
+    },
+    {
       "table": "quest_main_chapter07_text",
       "id": 1,
       "source_sha256": "04d6e20bef061abfd9d954d5455419dcf534d57a327822dad227766ca610741c",
