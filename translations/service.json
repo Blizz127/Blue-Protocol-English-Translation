@@ -1797,6 +1797,30 @@
     },
     {
       "table": "weapon_perk_text",
+      "id": 2901,
+      "source_sha256": "4b987755942eabfe9e7bc2386f5203c711827287ddf88a6400f67e206757f2d2",
+      "english": "Critical Mantra - Life"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2902,
+      "source_sha256": "8f9aff48d332f3649bdd677980a207806758a67e9038a21581cc740325557cf9",
+      "english": "Critical Mantra - Spirit"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2903,
+      "source_sha256": "e299de0ed02e2de44d5015528ed91fc7b05fea85d696c9540006cee5e598782a",
+      "english": "Critical Mantra - Hot Blood"
+    },
+    {
+      "table": "weapon_perk_text",
+      "id": 2904,
+      "source_sha256": "a199e806bb0602b7905092632817c5c9fa85eef80a52500d3be27e33bd429eb7",
+      "english": "Critical Mantra - Durable"
+    },
+    {
+      "table": "weapon_perk_text",
       "id": 3074,
       "source_sha256": "77abb514f61db7e5e05d79acf87c37208154643cedd1b548ccd5b295848189c5",
       "english": "Torrent of Spirit G5"
