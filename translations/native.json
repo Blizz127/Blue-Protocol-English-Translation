@@ -3047,6 +3047,182 @@
       ]
     },
     {
+      "uasset_sha256": "46a7d34418ec3a951189f6937f3f939e711a14d62607b0923dd0b8b4243f69d1",
+      "uexp_sha256": "e788ceefa00b6f9de4babf1269c6fb01bc5e687320c3cfcadef4ce85a788472e",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "41b711905636f145eac1d2f32220a22c2c401fd3a8ae83b2e57a4497c00c57b9",
+          "english": "Fancy meeting you here in Salamzahd!\r\nNo, no, you needn't explain."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "cad4e52ebbb49631a3028315398acfe8f950c65e79afadeb6f47faf3aa16c666",
+          "english": "You had a hunch there was a clue here too, didn't you?\r\nYou've got good instincts!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "929a5a2edf8a7d7654396953c29808a79bda97910825d4f7c17037fe9df671e1",
+          "english": "I used to be able to see it whenever I pleased.\r\nA priest of the third rank has no such privilege."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "3f10dc372d9f5267e66c866967b8378311892b15013b0541b51512ee7b93b07b",
+          "english": "Those thickheaded priests...\r\nIf they think they can bury the truth, they're sorely mistaken!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "5965944c45b45041a08719b9cef8deea7fafcd9abcbf3b28ddee013193a6d12b",
+          "english": "Oh! Do forgive me.\r\nIn any case, I'd like to get my hands on an actual coin."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "07bf48ec6cf2c582316bd678c7b1fdc938ecbacf90fe987251693d9a6abfbb77",
+          "english": "It might be worth asking them what they've heard.\r\nWell then, I leave it in your hands."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "33db06a99e83d148c536b08d9fc5673c83463c7a39acc8a1ac7f791450500d8f",
+          "english": "Word is you can find the ancient coin\r\nin the Bapharian ruins out on the Orvid Plains."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "4dd9f0af1125819b4028b8dbbd81ef41cb01ac25fe8592e3e63bb8705f3154dd",
+          "english": "Heh.\r\nHere for the ancient coin too, are you?"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "52d1301bc107aba8dbc8547a5ffb97d65ecb03e5d5c8bd3d68cff7e8a3a09837",
+          "english": "Heh.\r\nAaron. Adventurer. A pleasure."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "a621fbc10306ddeaf719d46a161e1ce762ad38e4b0272b2e7657129f4a376c0d",
+          "english": "Splendor is such a fleeting thing.\r\nHow much more so the lost splendor of ages past."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "938cf95d9ff4b83fa94e5826e757c9a001b6086f81c44dfd0d44d5dde05f91ff",
+          "english": "Heh...\r\nRather reminds me of myself."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "f449da6cf4cbbe93d2319c8fd36519d6794a708b4d13337ff5aba61cf2838b5e",
+          "english": "Someone put in a request with the Reclamation Bureau\r\nto deal with the trouble before it came to that."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "9c6ab11cfc5652ba0332951509af5ab7dadc81e2d60a7606d21533b3fc428e87",
+          "english": "Heh...\r\nSeems I took on more than I could handle."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "a2c36b4c717854f124d003cad5956dbd8ee03102651f9ef66afc38fee64fa971",
+          "english": "Would you take over the hunt for me?\r\nI'll see that you get the reward, of course."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "d03698bbfac2d26c6e67e7c0e873294b4c8fae909e8c5a353fcadfe5d3883b00",
+          "english": "Oh, and you can have the coin I found, too.\r\nI hope it'll be some help to you."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "8991dd2bb57865e4921d0e0606e237a925c3c9b427344ea30084e8177874e043",
+          "english": "Heh...\r\nWhat a fragile thing I am, for an adventurer."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "8bd190a32bbeeb256fcae31fdbf6b99f2a3bc3f3ae87f0962c76f5e263b9801a",
+          "english": "Come back here when you've finished the job.\r\nI'll give you the ancient coin I found."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "db5aabee63d4a49525e50cda12b7b67be43e71d0ae2c025b438838c5371a3fa2",
+          "english": "Heh.\r\nYour deed has earned a verse in the epic I carry in my heart."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "bbe481f5d6505385f75c161f8f26432ceb435d087a7fc23e33954b672a11c671",
+          "english": "No one knows quite how it works.\r\nA minor detail, if you ask me."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "b6897d3f361f08baae6efdf45021128bfe46a8fd4bc23d8df4871b53545c6949",
+          "english": "It's beautiful all the same.\r\nSuch a fragile little glimmer of an age gone by."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "c7805ab111659f8d327e19e99e0669ca33acb8301cfcef811d21822fdd7dfda2",
+          "english": "Heh...\r\nThere's a kind of romance in that, too."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "f43d1b8dba81f61f6328b8bc182219cbe84335196a7def5e1edca0c29268eb0f",
+          "english": "Take care on your way back, won't you?\r\nHeh. Until we meet again."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "139510f1e7a4f45b71aa20ba568ea508dcc92b359b3cf8412a54c6372d04c024",
+          "english": "Heh... That coin I gave you?\r\nDo whatever you like with it."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "1c8002d1b7b6d2aadd7746c7c4f5cdd4ae2ff21ec3a39b7c4085718ebbf39443",
+          "english": "My word, that takes me back.\r\nMy heart still races at the sight of it."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "64f48fb9e3e46fff76fc88d35e7a69f47518173471d6d62d9f19ca712f228ce3",
+          "english": "That's where it all began for me.\r\nI've long wanted one to keep close at hand."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "83d4deb8209d85283009d563213e50e741731df060e3e520d7f1376b64d81ab9",
+          "english": "If I'm right, this coin comes from a civilization\r\nquite separate from the Bapharians."
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "af44ef28d78d7edc9fd3db4fa6555d0ab299c98efe9afae8a2d7a23524e91c24",
+          "english": "I suspect that rainbow glow was there to foil counterfeiters.\r\nEven today we couldn't make a coin that does the same."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "7c9254f76c64cc5ecee027c9fb327ffba25f66458a4e6779ca0693b69a78c258",
+          "english": "Do you see the puzzle now?\r\nPrecisely! What's a coin like this doing in those ruins?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "5b287d96812a35c8fd5b7b94ca37fdc8bc4694eb44eb40f07b954c372988e1e6",
+          "english": "Another world, or another age entirely!\r\nSuppose a Visitor came from there carrying this coin..."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "eac42b3f9984961046768dce3822230f25fed57c6c2e0d5ecc144ec0f32b00e9",
+          "english": "That would explain how a coin from another civilization\r\ncame to be in Bapharian ruins!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "c2b8790a32b011a1c81e1938ed1fff4d9f72a0b6cc57d29eb0a3c7d4948da457",
+          "english": "A Visitor brought this ancient coin here!\r\nIt may even have a link to the divine in Bapharia!"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "8eb9df3b1bec28be118c1fce977db4881f599dd14b10c4e989c95e81440611f0",
+          "english": "Whew. Do pardon me.\r\nI've gone and gotten carried away again."
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "e0d99b118b43e543179c4f989c2b0bc9dc3bdd58c650e93ec5664a8acc9eca61",
+          "english": "Seeing this coin has renewed my resolve.\r\nI shall uncover the truth about our history. You have my word."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "7069986370b48d5a5e1d28e8b2fd0ae9a9021f707b8156cef01343de5e537cb2",
+          "english": "Our paths do seem to keep crossing.\r\nWhen next they do, let's have another good debate."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "4a5d3394e79248d4afe460776e5b1eb9fdef6ec23e102365a5f67486d23c5a9c",
       "uexp_sha256": "a2b76c64aae0da121e3aff450fac0c8e15a900ffe5a586e58aa7f728c0f8c3f9",
       "rows": [
@@ -5423,6 +5599,147 @@
           "ordinal": 16,
           "source_sha256": "1651ef947ec311aeded19d4dd8230b4f4a003076773e589cac2f621c99ff7e30",
           "english": "Directional Buttons"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "9ada560bc13b561798dd21279788d6c31c1413b5b3e2e06b3923bce14d0dbd1a",
+      "uexp_sha256": "20b984835a47aa37bfb69d730bba138ef1e45f29ca7c04e912dedac37bb77b69",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "cad4e52ebbb49631a3028315398acfe8f950c65e79afadeb6f47faf3aa16c666",
+          "english": "You had a hunch there was a clue here too, didn't you?\r\nYou've got good instincts!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "929a5a2edf8a7d7654396953c29808a79bda97910825d4f7c17037fe9df671e1",
+          "english": "I used to be able to see it whenever I pleased.\r\nA priest of the third rank has no such privilege."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "3f10dc372d9f5267e66c866967b8378311892b15013b0541b51512ee7b93b07b",
+          "english": "Those thickheaded priests...\r\nIf they think they can bury the truth, they're sorely mistaken!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "5965944c45b45041a08719b9cef8deea7fafcd9abcbf3b28ddee013193a6d12b",
+          "english": "Oh! Do forgive me.\r\nIn any case, I'd like to get my hands on an actual coin."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "07bf48ec6cf2c582316bd678c7b1fdc938ecbacf90fe987251693d9a6abfbb77",
+          "english": "It might be worth asking them what they've heard.\r\nWell then, I leave it in your hands."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "4dd9f0af1125819b4028b8dbbd81ef41cb01ac25fe8592e3e63bb8705f3154dd",
+          "english": "Heh.\r\nHere for the ancient coin too, are you?"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "52d1301bc107aba8dbc8547a5ffb97d65ecb03e5d5c8bd3d68cff7e8a3a09837",
+          "english": "Heh.\r\nAaron. Adventurer. A pleasure."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "a621fbc10306ddeaf719d46a161e1ce762ad38e4b0272b2e7657129f4a376c0d",
+          "english": "Splendor is such a fleeting thing.\r\nHow much more so the lost splendor of ages past."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "938cf95d9ff4b83fa94e5826e757c9a001b6086f81c44dfd0d44d5dde05f91ff",
+          "english": "Heh...\r\nRather reminds me of myself."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "9c6ab11cfc5652ba0332951509af5ab7dadc81e2d60a7606d21533b3fc428e87",
+          "english": "Heh...\r\nSeems I took on more than I could handle."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "a2c36b4c717854f124d003cad5956dbd8ee03102651f9ef66afc38fee64fa971",
+          "english": "Would you take over the hunt for me?\r\nI'll see that you get the reward, of course."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "d03698bbfac2d26c6e67e7c0e873294b4c8fae909e8c5a353fcadfe5d3883b00",
+          "english": "Oh, and you can have the coin I found, too.\r\nI hope it'll be some help to you."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "8991dd2bb57865e4921d0e0606e237a925c3c9b427344ea30084e8177874e043",
+          "english": "Heh...\r\nWhat a fragile thing I am, for an adventurer."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "8bd190a32bbeeb256fcae31fdbf6b99f2a3bc3f3ae87f0962c76f5e263b9801a",
+          "english": "Come back here when you've finished the job.\r\nI'll give you the ancient coin I found."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "db5aabee63d4a49525e50cda12b7b67be43e71d0ae2c025b438838c5371a3fa2",
+          "english": "Heh.\r\nYour deed has earned a verse in the epic I carry in my heart."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "b6897d3f361f08baae6efdf45021128bfe46a8fd4bc23d8df4871b53545c6949",
+          "english": "It's beautiful all the same.\r\nSuch a fragile little glimmer of an age gone by."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "c7805ab111659f8d327e19e99e0669ca33acb8301cfcef811d21822fdd7dfda2",
+          "english": "Heh...\r\nThere's a kind of romance in that, too."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "f43d1b8dba81f61f6328b8bc182219cbe84335196a7def5e1edca0c29268eb0f",
+          "english": "Take care on your way back, won't you?\r\nHeh. Until we meet again."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "139510f1e7a4f45b71aa20ba568ea508dcc92b359b3cf8412a54c6372d04c024",
+          "english": "Heh... That coin I gave you?\r\nDo whatever you like with it."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "1c8002d1b7b6d2aadd7746c7c4f5cdd4ae2ff21ec3a39b7c4085718ebbf39443",
+          "english": "My word, that takes me back.\r\nMy heart still races at the sight of it."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "64f48fb9e3e46fff76fc88d35e7a69f47518173471d6d62d9f19ca712f228ce3",
+          "english": "That's where it all began for me.\r\nI've long wanted one to keep close at hand."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "83d4deb8209d85283009d563213e50e741731df060e3e520d7f1376b64d81ab9",
+          "english": "If I'm right, this coin comes from a civilization\r\nquite separate from the Bapharians."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "7c9254f76c64cc5ecee027c9fb327ffba25f66458a4e6779ca0693b69a78c258",
+          "english": "Do you see the puzzle now?\r\nPrecisely! What's a coin like this doing in those ruins?"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "5b287d96812a35c8fd5b7b94ca37fdc8bc4694eb44eb40f07b954c372988e1e6",
+          "english": "Another world, or another age entirely!\r\nSuppose a Visitor came from there carrying this coin..."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "eac42b3f9984961046768dce3822230f25fed57c6c2e0d5ecc144ec0f32b00e9",
+          "english": "That would explain how a coin from another civilization\r\ncame to be in Bapharian ruins!"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "8eb9df3b1bec28be118c1fce977db4881f599dd14b10c4e989c95e81440611f0",
+          "english": "Whew. Do pardon me.\r\nI've gone and gotten carried away again."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "7069986370b48d5a5e1d28e8b2fd0ae9a9021f707b8156cef01343de5e537cb2",
+          "english": "Our paths do seem to keep crossing.\r\nWhen next they do, let's have another good debate."
         }
       ]
     },
