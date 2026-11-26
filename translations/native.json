@@ -4013,6 +4013,42 @@
       ]
     },
     {
+      "uasset_sha256": "5b4f08fef816e9e52f2cd509bc88f23ef1e98dcd9296c1005f11e60b5f61ca68",
+      "uexp_sha256": "0c52048e9ba0663f6b85e44443f16b45676a302e354eff031ecd565dea9806fa",
+      "rows": [
+        {
+          "ordinal": 72,
+          "source_sha256": "f0ba76762e238d80764721c068e4f6c20d5c80c0341ab7008f0f6dae142045cb",
+          "english": "Did you hear Bergmar got attacked\r\na little while back?"
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "df859519efb5318e37aa129e4809d11ada249e9f7957f04b84425bcc7548f592",
+          "english": "Guess I ought to call it Bergmar Village Ruins now...\r\nThere's nothing left of the village but ruins."
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "fb0ea46ce3625f569e0b97270c232f509c8db57f1626a918a0b42bf31fb7af81",
+          "english": "I understand the Bapharian pilgrims\r\nhave set out for Bergmar."
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "28a5b35208783be546e93dcbc4df3cb42d2712c6d85b49891c8016c315277c92",
+          "english": "I'm very grateful to hear that."
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "2f8776a9ad4128734d9f267e3a1fa4c04e9e83a311b322a4f3f74086581f0996",
+          "english": "I do hope the pilgrims will offer my prayers\r\nalong with their own."
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "a416db2a06e2bff1c6e9c6129fb0789b7501f06ee55c503c168cf819c6b452cc",
+          "english": "I think what happened in Bergmar set them off."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5daeef1f2e5f60a34c3f87c2942843f10c38d0d005d4722e175c5439480719fa",
       "uexp_sha256": "0674b730ea4022087aed4fef73a5cd190e02142f2757007692903ff34debbd33",
       "rows": [
