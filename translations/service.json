@@ -956,6 +956,18 @@
       "english": "I caught Aeryn and Tyris talking about something intriguing.\nThere's so much I don't know about these two who say they're from the future. Maybe I'll get a glimpse of what they've been keeping to themselves."
     },
     {
+      "table": "quest_main_chapter01_text",
+      "id": 154,
+      "source_sha256": "3e56e930a8902452e63d82bca772e8f6e5eb056ebcd213c36e098cc216ca4d25",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nThere's a huge transfer portal in City Gate Square.\nI hear I can use it to get back to the city in an instant.\nI should touch the portal to register it."
+    },
+    {
+      "table": "quest_main_chapter01_text",
+      "id": 155,
+      "source_sha256": "9ccdf77ad68cff6a7c870f75e6980a940b4a5b0bc4767c5a5d8f8820ac9cc57d",
+      "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nI've registered the transfer portal in City Gate Square here in Asterleeds.\nI'm all set.\nTime to head out of the city and look for clues to my past."
+    },
+    {
       "table": "quest_main_chapter07_text",
       "id": 1,
       "source_sha256": "04d6e20bef061abfd9d954d5455419dcf534d57a327822dad227766ca610741c",
