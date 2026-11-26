@@ -1979,6 +1979,62 @@
       ]
     },
     {
+      "uasset_sha256": "2c0a1c401eb4aef042fd41cd4df8988b246d59e11baf3cadc5c7074d9cf38fd7",
+      "uexp_sha256": "fd3d54596e36ffc4f0e2058dc6a043e0c7202fcf5e14dfcf080f0580163305f3",
+      "rows": [
+        {
+          "ordinal": 25,
+          "source_sha256": "738232188e8f14f7e7fa605323f39dd25dbd9172e7ca5f7099412786de3d12db",
+          "english": "But what this stone is worth…\r\nyou can't put a price on that."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "a6ef0eb62c4c81ae3d0b0a50cffac882cd3893d70aac22415f3d56c247ddbcb8",
+          "english": "The size of it… that rough, gritty surface…\r\nEvery shade in just the right place."
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "46e1e2472527362171230d1e2d24ae5a9f0ae2f65cf8e35216d689906a2c299f",
+          "english": "And then… see it?\r\nThat crack running straight down… right there."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "065503fc778be412c172aedbefdb1887d9d036340a867dc6877f7273ac2586b0",
+          "english": "You don't see it? …Ah.\r\nA shame… Most folks don't."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "772c24a4fc48a57457dd6679be3053504c728af70cbc567f29490a508ead8d40",
+          "english": "You can ride it out in the field…\r\nand in town, too."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "e1735243ad850ffb27f9f6aa0c2d54792781f0e2b8e071831331f9826da95005",
+          "english": "When it dashes… it can really move."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "99d4b5132acfab261c01b6ff563afa047db3c87b8665bd213466a558d9ada55f",
+          "english": "Uses up stamina, though…\r\nGive it time and it'll come back… I think."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "f298e0ab59785a0b57222880536dc5651ca86b88438eb691f88b7c544717ed4a",
+          "english": "Me, I walk… I'd hate to miss a stone.\r\nFor an adventurer, though… a mount comes in handy."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "9c890290bc89a8de4105577fbc4409f34439f6f99d906276c640d1ddc9a3ef05",
+          "english": "That's all right… I've got my stones.\r\nYou go enjoy that mount… and your adventures."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "dea9107bdea0413b359032acec986bb81ad60947ddea6534c29a95253a8b7de5",
+          "english": "Thanks for the stone… really.\r\nIf something else comes up… can I count on you again?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2c7d7e280dbcc5cfab77411e8746377ee5f2a1bbce9d7fa0779535a171a8d69a",
       "uexp_sha256": "9918af225b36a373403f47f5923a97247cd7e128b442ef5875af083400cc5117",
       "rows": [
