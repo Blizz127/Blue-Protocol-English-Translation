@@ -808,6 +808,11 @@
           "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
         },
         {
+          "ordinal": 89,
+          "source_sha256": "950510bf28112c9a7f558b40548c405c91909c34016d4d2d410946609c7c0c8c",
+          "english": "The famed Great Cave of Ritze follows the Melisos River.\nThe scenery is famous, too. Falling Dragon Falls is\nso steep they say even dragons tumble over the brink.\nAt the eastern edge, the Arid Valley Checkpoint leads\nto the desert. Guards stand watch to keep people safe."
+        },
+        {
           "ordinal": 103,
           "source_sha256": "fc14910f8d786fd030b51d8e53762aacf99a6ffb9050208f72dc43f34c158790",
           "english": "The knights who are the pride of the Principality of Bernhardt\nfought the dragonfolk time and again on this battlefield.\nThe ruined fortresses, crumbling buildings, and wrecked gun emplacements\nstill bear witness to the ferocity of those battles."
@@ -5364,6 +5369,11 @@
           "ordinal": 81,
           "source_sha256": "86e55ce9d6a5da3877d9ab5998a3f2959974469b8e47d097c2888cb2828bc45c",
           "english": "A trade route to Ritze has crossed these foothills since ancient times.\nRecent attacks like the one on Bergmar Village have given the route\na reputation for danger. Goblins have a settlement here, too.\nEven the Oracle Priestess now takes seasoned guards with her\nwhen she makes her pilgrimage."
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "950510bf28112c9a7f558b40548c405c91909c34016d4d2d410946609c7c0c8c",
+          "english": "The famed Great Cave of Ritze follows the Melisos River.\nThe scenery is famous, too. Falling Dragon Falls is\nso steep they say even dragons tumble over the brink.\nAt the eastern edge, the Arid Valley Checkpoint leads\nto the desert. Guards stand watch to keep people safe."
         },
         {
           "ordinal": 102,
