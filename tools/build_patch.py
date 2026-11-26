@@ -114,21 +114,53 @@ def build_service(args, catalog):
           f"{drift} source mismatches skipped, {len(index) - len(matched)} catalog rows absent.")
 
 
-def native_index(catalog):
+def exact_fields(obj, fields):
+    if not isinstance(obj, dict) or set(obj) != set(fields):
+        raise ValueError("Unexpected board template catalog fields")
+
+
+def native_index(catalog, board_template=None):
     index = {}
     for entry in array(catalog, "tables"):
+        if board_template is not None:
+            exact_fields(entry, ("uasset_sha256", "uexp_sha256", "rows"))
         header = hashed(entry, "uasset_sha256")
         body = hashed(entry, "uexp_sha256")
         rows = {}
         for row in array(entry, "rows"):
+            if board_template is not None:
+                exact_fields(row, ("ordinal", "source_sha256"))
             ordinal = row["ordinal"]
             if type(ordinal) is not int or ordinal < 0:
                 raise ValueError("Invalid native row ordinal")
-            add_unique(rows, ordinal, replacement(row))
+            if board_template is None:
+                value = replacement(row)
+            else:
+                value = (hashed(row, "source_sha256"), board_template)
+            add_unique(rows, ordinal, value)
         if not rows:
             raise ValueError("Empty native row group")
         add_unique(index.setdefault(header, {}), body, rows)
     return index
+
+
+def add_board_templates(index, catalog):
+    from native_tables import BoardNameTemplate
+
+    exact_fields(catalog, ("schema_version", "kind", "english_template", "tables"))
+    if (type(catalog["schema_version"]) is not int or catalog["schema_version"] != 2
+            or catalog["kind"] != "local-board-name"):
+        raise ValueError("Unsupported board template catalog")
+    templates = native_index(catalog, BoardNameTemplate(text_value(catalog, "english_template")))
+    if not templates:
+        raise ValueError("Empty board template catalog")
+    for header, editions in templates.items():
+        for body, rows in editions.items():
+            literals = index.setdefault(header, {}).setdefault(body, {})
+            if literals.keys() & rows.keys():
+                raise ValueError("Native and board template catalogs bind the same row")
+            literals.update(rows)
+    return templates
 
 
 def native_files(root):
@@ -151,6 +183,11 @@ def build_native(args, catalog):
     if root in args.output.resolve().parents:
         raise ValueError("Choose an output directory outside the input tree")
     index = native_index(catalog)
+    template_editions = {}
+    template_path = getattr(args, "board_templates", None)
+    if template_path is not None:
+        template_editions = add_board_templates(index, read_json(template_path))
+    matched_templates = set()
     logical_paths = []
     matched_rows = drift = 0
     with tempfile.TemporaryDirectory(dir=args.output.parent) as tmp:
@@ -158,15 +195,24 @@ def build_native(args, catalog):
         ready.mkdir()
         for source in native_files(root):
             asset = source.read_bytes()
-            editions = index.get(digest(asset))
+            header = digest(asset)
+            editions = index.get(header)
             if editions is None:
                 continue
             companion = source.with_suffix(".uexp")
             if not companion.is_file() or companion.is_symlink():
+                if header in template_editions:
+                    raise ValueError("Missing matching board template export")
                 drift += 1
                 continue
             export = companion.read_bytes()
-            rows = editions.get(digest(export))
+            body = digest(export)
+            if header in template_editions:
+                pair = (header, body)
+                if body not in template_editions[header] or pair in matched_templates:
+                    raise ValueError("Unrecognized or ambiguous local board template pair")
+                matched_templates.add(pair)
+            rows = editions.get(body)
             if rows is None:
                 drift += 1
                 continue
@@ -179,6 +225,8 @@ def build_native(args, catalog):
                     out.write(data)
                 logical_paths.append(logical_path.as_posix())
             matched_rows += len(rows)
+        if template_editions and not matched_templates:
+            raise ValueError("No approved board template pair matched this input")
         if drift and args.strict:
             raise ValueError(f"{drift} known native headers lacked the matching export")
         if not logical_paths:
@@ -220,6 +268,9 @@ def main():
         sub.add_argument("--strict", action="store_true",
                          help="Fail if a known ID or package header has a changed source")
         if name == "native":
+            sub.add_argument("--board-templates", type=Path, nargs="?", metavar="CATALOG",
+                             const=CATALOGS / "native-board-templates.json",
+                             help="Apply board prompts using names from the matching local text")
             sub.add_argument("--archive", action="store_true",
                              help="Also build an uncompressed local overlay archive")
     args = parser.parse_args()

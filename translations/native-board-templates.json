@@ -1,0 +1,99 @@
+{
+  "schema_version": 2,
+  "kind": "local-board-name",
+  "english_template": "In the Adventure Board menu, select\n{BoardName}, then choose Activate Board.",
+  "tables": [
+    {
+      "uasset_sha256": "d36196ac577cfca30a20435d48fb3ea0ca2af569255775c32cfe733e7d4c2985",
+      "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
+      "rows": [
+        {
+          "ordinal": 46,
+          "source_sha256": "f91b0e5f299cfbac225a58425aa0a88db13ec4492dc0cbae348010a193bdbe19"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "8e6e181128f269fa0081141d6d65323bcb1a26260f12df27c8e3c02623f2d067"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "4760ab60ce4fcdc87e4fd9f62a9d97c95acf4d17d5ef747cf4cc159239aedbfa"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "0b33fbd03267e7ecb67072ece95b8f7c20b15ce7a034f5dd656adb19af0ee5d6"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "99c00bc047547de0edae62e5c4117eb3935f9b75e28d4ec085ec7a43dbd65680"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "24f6956359a54ff7c82b4312f89b8755b72410040d0811b54ab0f2544a464e79"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "e84fe0a37b377426af58b5e424573f7cec4e1af845754e71847ca815107309c6"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "f6adddc68b903ebb91518b8e83806b3fdfba59f006c643edda4440093b5f4aa7"
+        },
+        {
+          "ordinal": 54,
+          "source_sha256": "73a1ef2313df5663d512b594c39ecf127057a942452bc01cda040ba9afe242e3"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "8f67625f6d8207aba744e54e7deb9d7edadff29e5fb4b3e736b96697bab01dd3"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "34d8fe251ca9bfd831f2a112e6d705ac4e9e056d6ac07639b9b113a33d84dc61"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "5ba901815990ebdb851a5566879653e945fd79ef6e5e9d2b1a992972771ba592"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "334701222d7c72903d236de37fd59ed78dc76186f09169dc338132487822dcaa",
+      "uexp_sha256": "868be1bcd6bed67666cfc76f62c5b5621298bb66ef7cf89b7faac7c5ae8536a1",
+      "rows": [
+        {
+          "ordinal": 43,
+          "source_sha256": "f91b0e5f299cfbac225a58425aa0a88db13ec4492dc0cbae348010a193bdbe19"
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "8e6e181128f269fa0081141d6d65323bcb1a26260f12df27c8e3c02623f2d067"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "4760ab60ce4fcdc87e4fd9f62a9d97c95acf4d17d5ef747cf4cc159239aedbfa"
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "0b33fbd03267e7ecb67072ece95b8f7c20b15ce7a034f5dd656adb19af0ee5d6"
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "99c00bc047547de0edae62e5c4117eb3935f9b75e28d4ec085ec7a43dbd65680"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "24f6956359a54ff7c82b4312f89b8755b72410040d0811b54ab0f2544a464e79"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "e84fe0a37b377426af58b5e424573f7cec4e1af845754e71847ca815107309c6"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "f6adddc68b903ebb91518b8e83806b3fdfba59f006c643edda4440093b5f4aa7"
+        }
+      ]
+    }
+  ]
+}

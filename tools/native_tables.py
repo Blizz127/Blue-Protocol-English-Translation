@@ -2,7 +2,9 @@
 
 from dataclasses import dataclass
 from hashlib import sha256
+import re
 from struct import pack, pack_into, unpack_from
+from typing import Union
 
 
 PACKAGE_TAG = pack("<I", 0x9E2A83C1)
@@ -148,8 +150,32 @@ class _Export:
         return rows, (array.size_at, elements.size_at)
 
 
-def rebuild_table(asset: bytes, export: bytes, replacements: dict[int, tuple[str, str]]) -> tuple[bytes, bytes]:
-    """Patch {ordinal: (original UTF-8 SHA-256, English)} into an owned table pair.
+@dataclass(frozen=True)
+class BoardNameTemplate:
+    english: str
+
+    def __post_init__(self):
+        slot = "{BoardName}"
+        _check(isinstance(self.english, str) and self.english.count(slot) == 1,
+               "Expected one board name placeholder")
+        literal = self.english.replace(slot, "")
+        _check(literal.strip() and all(c == "\n" or 32 <= ord(c) <= 126 for c in literal)
+               and not any(c in literal for c in "<>{}"), "Invalid English board template")
+
+    def render(self, original):
+        _check(all(c in "\n\r\t" or c.isprintable() for c in original),
+               "Unexpected nonprinting character in board prompt")
+        _check(original.count("<") == 1 and original.count(">") == 1
+               and "{" not in original and "}" not in original, "Ambiguous original board prompt")
+        element = re.search(r'<([A-Za-z]+) ([a-z]+)="([A-Za-z]+)" ([a-z]+)="([1-9][0-9]{8})"/>', original)
+        _check(element is not None and element.groups()[:4] == ("value", "type", "adventureBoardId", "id"),
+               "Unrecognized board name control")
+        return self.english.replace("{BoardName}", element.group(0))
+
+
+def rebuild_table(asset: bytes, export: bytes,
+                  replacements: dict[int, tuple[str, Union[str, BoardNameTemplate]]]) -> tuple[bytes, bytes]:
+    """Patch verified English strings or board name templates into an owned table pair.
 
     The caller identifies the exact original pair by file hashes. Ordinals are
     zero-based and count every row, including repeated IDs. Both returned byte
@@ -167,6 +193,8 @@ def rebuild_table(asset: bytes, export: bytes, replacements: dict[int, tuple[str
             source_hash, value = replacements[ordinal]
             _check(sha256(original.encode("utf-8")).hexdigest() == source_hash,
                    f"Source text hash mismatch at row {ordinal}")
+            if isinstance(value, BoardNameTemplate):
+                value = value.render(original)
             if value != original:
                 payload = _encode(value)
                 result.extend(export[cursor:field.size_at])

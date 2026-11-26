@@ -29,6 +29,8 @@ python3 tools/build_patch.py native --input owned-files --output patched-files -
 
 On Windows, you can use `py -3` in place of `python3`. The tool writes the translated pairs under `patched-files/BLUEPROTOCOL/Content/Text/` and builds `patched-files/blue_protocol_english_1_P.pak`. It checks the original file hashes and reads each rebuilt table back before writing the result. Omit `--archive` if you only need the translated pairs.
 
+To include Adventure Board prompts, add `--board-templates` to the native command. It loads `translations/native-board-templates.json` and fills the board-name slot from the matching row in your own game files. You can supply a different template catalog with `--board-templates PATH`.
+
 For a client setup that supports local overlays, close the game and place the new archive in `BLUEPROTOCOL/Content/Paks/~mods/` within the installation. Keep a copy of any older English overlay you replace. To undo the installation, remove the archive you added and restore the earlier overlay if you used one. The build command leaves your input files in place.
 
 ## Build the Chapter 1 dialogue overlay

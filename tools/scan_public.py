@@ -24,12 +24,15 @@ TOOLS = {
 }
 SERVICE = "translations/service.json"
 NATIVE = "translations/native.json"
+BOARD_TEMPLATES = "translations/native-board-templates.json"
+BOARD_CATALOG_SHA256 = "b6114645fd6272eea3c29d8dfee9d2cc069f9925a498b601a2419dec4b3f52c3"
+BOARD_POSITIONS_SHA256 = "82bfa767aff27c9cd9e902841a1033325e3e7e863774fdeed432a04eb8a8688f"
 MENU = "translations/menu-inline.json"
 MENU_RUNTIME = "translations/menu-runtime.json"
 SCRIPT = "translations/script.json"
 SCRIPT_SOURCES = "translations/script-sources.json"
 INDEXED = {MENU, "translations/image-labels.json", SCRIPT}
-FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, MENU_RUNTIME, SCRIPT_SOURCES}
+FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, BOARD_TEMPLATES, MENU_RUNTIME, SCRIPT_SOURCES}
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 OBJECT = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
 TABLE_NAME = re.compile(r"[A-Za-z][A-Za-z0-9_]*\Z")
@@ -167,8 +170,44 @@ class Checks:
         require(isinstance(value, str), ctx, "English value must be a string")
         self.text(value, ctx, english=True)
 
+    def board_templates(self, obj):
+        name = BOARD_TEMPLATES
+        exact(obj, ("schema_version", "kind", "english_template", "tables"), name)
+        require(type(obj["schema_version"]) is int and obj["schema_version"] == 2
+                and obj["kind"] == "local-board-name", name, "unsupported template format")
+        english = obj["english_template"]
+        self.english(english, name)
+        slot = "{BoardName}"
+        require(english.count(slot) == 1, name, "expected exactly one board-name slot")
+        literal = english.replace(slot, "")
+        require(re.search("[A-Za-z]", literal) and all(c == "\n" or 32 <= ord(c) <= 126 for c in literal)
+                and not any(c in literal for c in "<>{}"), name, "unexpected template text or markup")
+        require(isinstance(obj["tables"], list) and obj["tables"], name, "expected template tables")
+        pairs, positions, roster = set(), set(), []
+        for table in obj["tables"]:
+            exact(table, ("uasset_sha256", "uexp_sha256", "rows"), name)
+            pair = (table["uasset_sha256"], table["uexp_sha256"])
+            require(all(isinstance(h, str) and HEX.fullmatch(h) for h in pair), name, "invalid table fingerprint")
+            require(pair not in pairs, name, "duplicate template table")
+            pairs.add(pair)
+            require(isinstance(table["rows"], list) and table["rows"], name, "empty or invalid template table")
+            for row in table["rows"]:
+                exact(row, ("ordinal", "source_sha256"), name)
+                ordinal, source = row["ordinal"], row["source_sha256"]
+                require(type(ordinal) is int and ordinal >= 0, name, "invalid template ordinal")
+                require(isinstance(source, str) and HEX.fullmatch(source), name, "invalid source fingerprint")
+                position = (*pair, ordinal)
+                require(position not in positions, name, "duplicate template ordinal")
+                positions.add(position)
+                roster.append((*position, source))
+        encoded = json.dumps(sorted(roster), separators=(",", ":")).encode("ascii")
+        require(digest(encoded) == BOARD_POSITIONS_SHA256, name, "unexpected template positions")
+        return positions
+
     def catalog(self, name, raw):
         obj = parse_json(raw)
+        if name == BOARD_TEMPLATES:
+            return self.board_templates(obj)
         collection = "tables" if name == NATIVE else "entries"
         exact(obj, ("schema_version", collection), name)
         require(type(obj["schema_version"]) is int and obj["schema_version"] == 1, name, "unsupported schema")
@@ -250,7 +289,9 @@ class Checks:
             text = raw.decode("utf-8", errors="strict")
             if name not in DOCS | TOOLS:
                 keys = self.catalog(name, text)
-                if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES}:
+                if name == BOARD_TEMPLATES:
+                    require(sha == BOARD_CATALOG_SHA256, name, "unreviewed template catalog digest")
+                if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES}:
                     self.catalog_keys[sha] = keys
             else:
                 self.text(text, name, python_source=name in TOOLS)
@@ -325,6 +366,7 @@ def scan(repo, commit, policy):
     require(OBJECT.fullmatch(resolved), "commit", "unable to resolve revision")
     pending, commits, trees, blobs = [resolved], set(), {}, {}
     tip_tree = None
+    literal_positions = {}
     while pending:
         oid = pending.pop()
         if oid in commits:
@@ -357,6 +399,18 @@ def scan(repo, commit, policy):
                 require(len(raw) == size, name, "blob readback mismatch")
                 blobs[key] = checks.blob(name, raw)
             entries[name] = dict(mode=mode, git_blob=obj, **blobs[key])
+        if BOARD_TEMPLATES in entries:
+            require(NATIVE in entries, BOARD_TEMPLATES, "missing native catalog")
+            native = entries[NATIVE]["git_blob"]
+            if native not in literal_positions:
+                catalog = parse_json(git(repo, "cat-file", "blob", native))
+                literal_positions[native] = {
+                    (table["uasset_sha256"], table["uexp_sha256"], row["ordinal"])
+                    for table in catalog["tables"] for row in table["rows"]
+                }
+            template_positions = checks.catalog_keys[entries[BOARD_TEMPLATES]["sha256"]]
+            require(template_positions.isdisjoint(literal_positions[native]),
+                    BOARD_TEMPLATES, "template position also present in native catalog")
         for bindings, english in ((MENU_RUNTIME, MENU), (SCRIPT_SOURCES, SCRIPT)):
             if bindings in entries:
                 require(english in entries, bindings, "missing translation catalog")
