@@ -987,6 +987,24 @@
     },
     {
       "table": "item_text",
+      "id": 12099,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12101,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12103,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
       "id": 16480,
       "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
       "english": "Trick Box M (Sleight-of-Hand Artist)"
