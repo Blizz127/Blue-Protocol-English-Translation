@@ -3585,6 +3585,12 @@
     },
     {
       "table": "quest_sub_chapter01_text",
+      "id": 154,
+      "source_sha256": "78025c03ae0823725f3f0b2f4f8770fb963e4837f839605d4cd118485ebdc744",
+      "english": "I'm... Studs. Stones, those are what I collect... I travel the world for them.\nOn the way here... monsters attacked me.\nI threw my stone aside without thinking... and ran.\nThat stone... it's worth a great deal.\nLeaving it where I dropped it... I can't do that.\nCould you go back... and pick it up for me? Please..."
+    },
+    {
+      "table": "quest_sub_chapter01_text",
       "id": 544,
       "source_sha256": "365385343afb36b4215d8b021f597ce29f32ba8c1ad2fe92389b68cd5e253faa",
       "english": "Recover the Valuable Stone from a mineral gathering point in Yunagi Terraces. {progress}"
