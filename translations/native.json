@@ -2020,6 +2020,22 @@
       ]
     },
     {
+      "uasset_sha256": "2a5018bbdc342f297dcd6fdb5b211846f89b5028b47776a525cfa35ea40c887c",
+      "uexp_sha256": "90352c61955cb5acb02143b4a7532eff3abb74db73673a8f65dd9e73ccfeba4e",
+      "rows": [
+        {
+          "ordinal": 48,
+          "source_sha256": "2e2492352bafdabb8377e9b824fd27144278e525e5642c8f4352b07f817e3e04",
+          "english": "You must be the adventurer Pissarri mentioned.\r\nI'm Helmut, Lakail's commanding officer."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "1ce24666d8bc26916caa86932b3cbc5a77ce7533cfdb0f382cac58b73ff16d8b",
+          "english": "Once the fighting was over, though,\r\nPissarri ran off the wrong way for some reason..."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2c0a1c401eb4aef042fd41cd4df8988b246d59e11baf3cadc5c7074d9cf38fd7",
       "uexp_sha256": "fd3d54596e36ffc4f0e2058dc6a043e0c7202fcf5e14dfcf080f0580163305f3",
       "rows": [
