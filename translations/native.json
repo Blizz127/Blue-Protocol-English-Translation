@@ -3343,6 +3343,17 @@
       ]
     },
     {
+      "uasset_sha256": "5372761966a2e420ce56c89f6b608112ae44d81f7026ba10195db7ab3fe6b1ed",
+      "uexp_sha256": "2ed1fe7e7ae72d3ba873dd71b94da7fdd99d25e119b23cda9f0eaba3b1c37865",
+      "rows": [
+        {
+          "ordinal": 44,
+          "source_sha256": "fecdd07b3b14f82a7fb24cfca347003820ecd92e5decda9c789b8090ee78f2ae",
+          "english": "Each time you gather something,\r\nyour Liquid Memory charges up a little!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "5423959be9e97ac056ca4ff24431f0fec841f02e813b377ee9392c17358c5572",
       "uexp_sha256": "12eabc87b9ee1e1d4e4a75a848705f3fb761ec5ae794fc79707918b1a53b8aa4",
       "rows": [
