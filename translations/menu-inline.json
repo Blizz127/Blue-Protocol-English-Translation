@@ -155,7 +155,7 @@
     },
     {
       "key_sha256": "2353975451bd70ac8ed438d8154ea9de5d7440a393c1d18eec49c9782f19a20a",
-      "english": "Create Avatar"
+      "english": "New Character"
     },
     {
       "key_sha256": "23c2342407167305a2f5bf4a4bda36f4560eef56ac0c0b2ea902263b8541a7fa",
@@ -723,7 +723,7 @@
     },
     {
       "key_sha256": "8fa7472a8f803c9c341a4e6d9110b890e859e0eee77fbd3fa91f42c381c5c289",
-      "english": "※This character's possessions will be lost\n※You can cancel deletion within 24 hours if your Adventurer Rank is ○ or higher"
+      "english": "This character will lose all their assets.\nYou can undo deletion within 24 hours if the character\nis Adventurer Rank 1 or higher."
     },
     {
       "key_sha256": "9072c7a024e6e33c5007d5e7429ae50201e64638fe0d8fc4a26fc37d4858bec7",
@@ -815,7 +815,7 @@
     },
     {
       "key_sha256": "a27505bef8a3529330e1e34b5308981dd1a2d62941049298b99fc7a0e3bd7333",
-      "english": "Are you sure you want to delete?"
+      "english": "Are you sure you want to delete this character?"
     },
     {
       "key_sha256": "a2928e68c1cdab506b94b8e40ddfaf5bb400707cae5266a607e569b93d7e6f1b",
@@ -1191,7 +1191,7 @@
     },
     {
       "key_sha256": "f021292f681abf111987fd9e8b54bf7401ecfaa4bed502a0b4d278e6cc740b2c",
-      "english": "Expansions cannot be canceled.\r\nFree Rose Orbs are spent first. Expansions cannot be canceled.\r\nFree Rose Orbs are spent first.g"
+      "english": "Adding a character slot is final.\nFree Rose Orbs are spent first."
     },
     {
       "key_sha256": "f096e73dc855c855247bded09de1f12a7c22e2122ae72e771543cf6945373efb",
