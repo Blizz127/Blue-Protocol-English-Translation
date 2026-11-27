@@ -3326,6 +3326,36 @@
       "english": "This Mount Imagine has the form of a mighty wolf. It flashes across the land so quickly that people liken it to a streak of lightning. Its sleek outline has never gone out of favor."
     },
     {
+      "table": "master_season_pass_rewards_text",
+      "id": 12,
+      "source_sha256": "51762d1fbccd10a78bb3bcf4332da3fba78af8e735f930f687a08d052171e2a5",
+      "english": "Urban Hat Selection Box (Black, M or F)"
+    },
+    {
+      "table": "master_season_pass_rewards_text",
+      "id": 46,
+      "source_sha256": "ed4f035d201f2dc57156e36404d9c801f01cd2ab526f0492542c09943c4956b5",
+      "english": "Urban Gloves Selection Box (Black, M or F)"
+    },
+    {
+      "table": "master_season_pass_rewards_text",
+      "id": 66,
+      "source_sha256": "affb9727a9e286b0d6646a55ed974076f395236805b91a48f281b73e6368e82e",
+      "english": "Urban Boots Selection Box (Black, M or F)"
+    },
+    {
+      "table": "master_season_pass_rewards_text",
+      "id": 104,
+      "source_sha256": "5d784297f0655b6394e9ac670e18b542c48d674ed9f885532295c524bbb131f8",
+      "english": "Urban Bottoms Selection Box (Black, M or F)"
+    },
+    {
+      "table": "master_season_pass_rewards_text",
+      "id": 124,
+      "source_sha256": "bab497acd9030f532e2f4ef6171fcca1c0b58a30000f85e385d5207eeaa22e68",
+      "english": "Urban Coat Selection Box (Black, M or F)"
+    },
+    {
       "table": "quest_main_chapter01_text",
       "id": 21,
       "source_sha256": "276b046ef3eba739e70665cef64de7329210af5572c666b3785e18b557104c0f",
