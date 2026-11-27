@@ -3542,10 +3542,22 @@
       "english": "　　　　　　◇　　　　　◇　　　　　◇　　　　　◇\n\nDoren seemed to feel a little better once we gave him some engram crystals.\nWe left the rest with him in the hope that they'd be of use to Valmlant.\nDoren looked at us with suspicion, but Aeryn smiled. “I just couldn’t leave someone to suffer.”"
     },
     {
+      "english": "The Reclamation Bureau has a request.\nLindsay, who writes letters for a living, left a letter in our care. The thing is...\nI know Lindsay's handwriting. This looks nothing like it.\nThe writing is such a scrawl that I can barely make it out, but I believe it's addressed to Saul.\nWould you deliver it and see if you can find out what's going on?",
+      "id": 113,
+      "source_sha256": "f890e7d4f95944691e8f09fff4d4e4d82a492a96688b206a8505ffbcf08a03af",
+      "table": "quest_sub_chapter01_text"
+    },
+    {
       "table": "quest_sub_chapter01_text",
       "id": 131,
       "source_sha256": "615c94c33e94fd4e44ce882919f33c9282cf3da6d6abe4a865d8786788a34c53",
       "english": "I'm Like. I brew magic potions. Hee hee hee.\nI need a few ingredients for a new potion. You don't think I'd ask you to fetch anything suspicious, do you?\nI'm counting on you. Hee hee hee hee hee..."
+    },
+    {
+      "english": "Name's Gerrit. I'm a courier. Ahhh, would you look at that sky?\nOn a day like this it's easy to look up and forget you've got work to do.\nLast time I did that, I actually fell in the sea, parcels and all. Too risky. These days, when my mind starts wandering, I give the deliveries a rest.\nSo, how about making the rounds for me?\nIt won't take long. There's a transfer portal close to every address.",
+      "id": 141,
+      "source_sha256": "c2b2fc0ca15085bcc0f15b0526a7611ee553e661fc29235937f6e41d54f312c0",
+      "table": "quest_sub_chapter01_text"
     },
     {
       "table": "quest_sub_chapter01_text",
