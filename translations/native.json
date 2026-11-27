@@ -2003,6 +2003,36 @@
       "uexp_sha256": "fd3d54596e36ffc4f0e2058dc6a043e0c7202fcf5e14dfcf080f0580163305f3",
       "rows": [
         {
+          "ordinal": 11,
+          "source_sha256": "f85214e37120a4aa1207f21c5d16aacb0eda98a994a614d2ab0b2a26a23e5030",
+          "english": "A Mount Imagine... know what that is?\r\nIt's an Imagine you can ride..."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "767f8cb5d5b40ff2c68385428eaa766aef23c3fde7a0b920c62f266c9f9fbaa9",
+          "english": "Ride one and you'll go... a lot faster than you would on foot.\r\nYou can call it out anytime... Pretty handy."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "50674fb2f2a87043b2fa72f37277cc79688f8e06777e6608ea525759c4c2b41a",
+          "english": "Me, though... I like stones better."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "a64fc0ac0d0e8bb2b22d1b8e7455f07d4110a4f8b3b7a6c8de68a5bd8a02bd92",
+          "english": "There was something about that stone... I wouldn't trade it for anything.\r\nMaybe... even a monster would take a liking to it."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "8a177b57d653c59d213fafb09c3082d78a300d2910aa63eba9e490558f174ee1",
+          "english": "Before someone spots it and takes it... please, go get it."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "01bce68dd4082146716aeb8bf066f15bbe195773e4726081058ef8b747f92e7e",
+          "english": "It's no ordinary stone...\r\nBring me the \"Valuable Stone\"... I'm counting on you."
+        },
+        {
           "ordinal": 25,
           "source_sha256": "738232188e8f14f7e7fa605323f39dd25dbd9172e7ca5f7099412786de3d12db",
           "english": "But what this stone is worth…\r\nyou can't put a price on that."
