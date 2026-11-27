@@ -5706,6 +5706,112 @@
       ]
     },
     {
+      "uasset_sha256": "85ba27a266e58488728d06c3fd363cf48f3836e591444233d5041e4659d84038",
+      "uexp_sha256": "c9311a547e9a9946f5d3e4cb4d2eb109e64c1b3e6ccafb24810643984047de46",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "98841eea448b4e4940e5706f9451969d3556638529489814db392d6026486786",
+          "english": "Wow! They've only just found these ruins, and here you are.\r\nStill got a nose for a find, eh, little demi-human?"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "f356538b539f8007b366ebfed0bdfe4f92008ba5a9754fe844365608903cc3aa",
+          "english": "Such praise! I'm deeply honored. You could've left out “self-proclaimed,” though."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "f7b4e1c292ada742b7577e110b3cc04814a7a480920cb4da02761c5a867dd980",
+          "english": "Too late, I'm afraid. We've already cleared these ruins.\r\nOff you go, then. Shoo!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "22cfcf1d03040c311bc917f48681071e53e72058316c40931ecddc5af06917f0",
+          "english": "What? What about the monster trouble in there?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "9d5dec6c6146af314ed15341bffa4de1a3072eecf058cf01a5ed7c608a0a3b7c",
+          "english": "Hmph. With me on the job, it was over in a flash."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "a32efbf5cd9b3ad631d9f35da1c14dfbf3cf42e6341dbf4edf96be23f09e8089",
+          "english": "The survey made it sound like a tough fight...\r\nYou handled it? All on your own?"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "1f16a0d2f1116f7e1e2bb3604aae10bc4c91ad1b4ae8ffb61a7efa96b3d95fcc",
+          "english": "Good! That's impressive! I haven't seen you around before.\r\nNew to Asterleeds? Registered as an adventurer yet?"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "3f11927a3f9b3eecf57960e254c844923a9fb033e7e999a27a46804e43b49b7b",
+          "english": "Not as yet...\r\nWhy? Would you put in a good word?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "40928a8a3a54e970b068b90f01909d64fb1ec4c3330f6e2e35457f0f1c9ae2e8",
+          "english": "Of course! There's always room for talent!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "01bc171789fe9225d1c24d2a4d98f4de7a72f5d31fe736a99b46243ea3674770",
+          "english": "I'd suggest you call on the great Jake himself.\r\nYou're welcome anytime!"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "f5356121116f8239a4180411d86ab29c00c1cc22500c89721730bdabc44208f8",
+          "english": "You'll find me at the Reclamation Bureau.\r\nDrop by if you decide you're interested. See you around!"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "09b46dd4e689c95f2cb5d7cddacda06502959596ca87e84967b494ff6aa0fa6b",
+          "english": "Hmph. Still the same old peacock."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "0b0b8a4a1ef560efb947076da3d2f4908a8dca8ebe461ce124b710abe29773f4",
+          "english": "Well, with him to lend a hand,\r\nregistering as an adventurer should be easy enough."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "ed79485337f950357ae59e7a5ee0c800d4d7db93ac186ef3ea8f077e2a8f0659",
+          "english": "He can be a bit much, but the adventurers here\r\nin Asterleeds look to him for direction."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "d407d0ec06c7411e360a79827ac946d2da7726f3b733ca13b0128e7fa3b8cc74",
+          "english": "A stroke of luck, meeting him here.\r\nFortune's taken quite a shine to you, hasn't she?"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "b312f1290f088151297179f4bbb24019d51152ed0cf8bb45782f0523d7734f69",
+          "english": "Now, I know those missing memories are on your mind,\r\nbut first we must see that you can make a living."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "4d1f5af5d76f13120dbfa8070438d5551adebbe4ffd08ad0f7791015f765f268",
+          "english": "And what do you need for that[――]"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "53095cd73bfc0ba940cf09c43f5d94faac26e9b2641f7ec95938831034a5ce0d",
+          "english": "Why, it's…"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "181e33727986db4c081bfb32d77b6276485da15d4aa4170bcfe00db8ed9041ed",
+          "english": "Besides, all sorts of news reaches the Bureau.\r\nOne day you may hear something that stirs a memory."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "1135905a5d06b95bb8338334bde42e5a303dc924612f8fdea43d4ab6cd72348c",
+          "english": "Well, that's settled. No sense dawdling!\r\nCome along. Let's go find Jake at the Reclamation Bureau."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "86514a177f617a6c8015c62691337cbabec580fbe88e90816d5176a33ed1e099",
       "uexp_sha256": "0c9b4af6229d31ebb9e69cb09557c3f40bc5dcfa06cf0e6f0fbc233d5997f24c",
       "rows": [
@@ -5895,6 +6001,112 @@
           "ordinal": 56,
           "source_sha256": "f5a3b902e83865e23e2ec6ac22aba2dd9a77d84c8231c87e83735d6a1fed9d38",
           "english": "Hmm. Something's happened at the temple, it seems.\r\nCome, let's see what Ryugerio has to say."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "91aa34239bfaeed80fa1a0cd50fac5c90834f8597b11392d27502467502afc93",
+      "uexp_sha256": "237544d98b5df8916affc4330c9944494b0c77c80f4a9348f601f11791fff4c0",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "98841eea448b4e4940e5706f9451969d3556638529489814db392d6026486786",
+          "english": "Wow! They've only just found these ruins, and here you are.\r\nStill got a nose for a find, eh, little demi-human?"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "f356538b539f8007b366ebfed0bdfe4f92008ba5a9754fe844365608903cc3aa",
+          "english": "Such praise! I'm deeply honored. You could've left out “self-proclaimed,” though."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "f7b4e1c292ada742b7577e110b3cc04814a7a480920cb4da02761c5a867dd980",
+          "english": "Too late, I'm afraid. We've already cleared these ruins.\r\nOff you go, then. Shoo!"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "22cfcf1d03040c311bc917f48681071e53e72058316c40931ecddc5af06917f0",
+          "english": "What? What about the monster trouble in there?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "9d5dec6c6146af314ed15341bffa4de1a3072eecf058cf01a5ed7c608a0a3b7c",
+          "english": "Hmph. With me on the job, it was over in a flash."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "a32efbf5cd9b3ad631d9f35da1c14dfbf3cf42e6341dbf4edf96be23f09e8089",
+          "english": "The survey made it sound like a tough fight...\r\nYou handled it? All on your own?"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "1f16a0d2f1116f7e1e2bb3604aae10bc4c91ad1b4ae8ffb61a7efa96b3d95fcc",
+          "english": "Good! That's impressive! I haven't seen you around before.\r\nNew to Asterleeds? Registered as an adventurer yet?"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "3f11927a3f9b3eecf57960e254c844923a9fb033e7e999a27a46804e43b49b7b",
+          "english": "Not as yet...\r\nWhy? Would you put in a good word?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "40928a8a3a54e970b068b90f01909d64fb1ec4c3330f6e2e35457f0f1c9ae2e8",
+          "english": "Of course! There's always room for talent!"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "01bc171789fe9225d1c24d2a4d98f4de7a72f5d31fe736a99b46243ea3674770",
+          "english": "I'd suggest you call on the great Jake himself.\r\nYou're welcome anytime!"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "f5356121116f8239a4180411d86ab29c00c1cc22500c89721730bdabc44208f8",
+          "english": "You'll find me at the Reclamation Bureau.\r\nDrop by if you decide you're interested. See you around!"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "09b46dd4e689c95f2cb5d7cddacda06502959596ca87e84967b494ff6aa0fa6b",
+          "english": "Hmph. Still the same old peacock."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "0b0b8a4a1ef560efb947076da3d2f4908a8dca8ebe461ce124b710abe29773f4",
+          "english": "Well, with him to lend a hand,\r\nregistering as an adventurer should be easy enough."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "ed79485337f950357ae59e7a5ee0c800d4d7db93ac186ef3ea8f077e2a8f0659",
+          "english": "He can be a bit much, but the adventurers here\r\nin Asterleeds look to him for direction."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "d407d0ec06c7411e360a79827ac946d2da7726f3b733ca13b0128e7fa3b8cc74",
+          "english": "A stroke of luck, meeting him here.\r\nFortune's taken quite a shine to you, hasn't she?"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "b312f1290f088151297179f4bbb24019d51152ed0cf8bb45782f0523d7734f69",
+          "english": "Now, I know those missing memories are on your mind,\r\nbut first we must see that you can make a living."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "4d1f5af5d76f13120dbfa8070438d5551adebbe4ffd08ad0f7791015f765f268",
+          "english": "And what do you need for that[――]"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "53095cd73bfc0ba940cf09c43f5d94faac26e9b2641f7ec95938831034a5ce0d",
+          "english": "Why, it's…"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "181e33727986db4c081bfb32d77b6276485da15d4aa4170bcfe00db8ed9041ed",
+          "english": "Besides, all sorts of news reaches the Bureau.\r\nOne day you may hear something that stirs a memory."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "1135905a5d06b95bb8338334bde42e5a303dc924612f8fdea43d4ab6cd72348c",
+          "english": "Well, that's settled. No sense dawdling!\r\nCome along. Let's go find Jake at the Reclamation Bureau."
         }
       ]
     },
