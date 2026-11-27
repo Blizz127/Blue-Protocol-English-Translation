@@ -993,6 +993,12 @@
     },
     {
       "table": "item_text",
+      "id": 12100,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
       "id": 12101,
       "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
       "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
@@ -1005,9 +1011,1959 @@
     },
     {
       "table": "item_text",
+      "id": 12421,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12422,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12423,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12424,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12425,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12485,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12486,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12487,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12488,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12489,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12490,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12493,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12494,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12497,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12498,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12499,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12500,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12501,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12502,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12503,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12504,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12505,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12506,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12935,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12936,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12937,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12938,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12939,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12940,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12941,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12942,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12943,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12944,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12945,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12946,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12947,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12948,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12949,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12950,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12951,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12952,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12953,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12954,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12955,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12956,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12957,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12958,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12959,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12960,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12961,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12962,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12963,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12964,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12965,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12966,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12967,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12968,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12969,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12970,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12971,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12972,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12973,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12974,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12975,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12976,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12977,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12978,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12979,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12980,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12981,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12982,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12983,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12984,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12985,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12986,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12987,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12988,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12989,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12990,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12991,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12992,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12993,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12994,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12995,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12996,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12997,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12998,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 12999,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13000,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13001,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13002,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13003,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13004,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13005,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13006,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13007,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13008,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13009,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13010,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13011,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13012,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13013,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13014,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13015,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13016,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13017,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13018,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13019,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13020,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13021,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13022,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13023,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13024,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13025,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13026,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13027,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13028,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13029,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13030,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13031,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13032,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13033,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13034,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13035,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13036,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13037,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13038,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13039,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13040,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13041,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13042,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13043,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13044,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13045,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13046,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13047,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13048,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13049,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13050,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13051,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13052,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13053,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13054,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13055,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13056,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13057,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13058,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13059,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13060,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13061,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13062,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13063,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13064,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13065,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13066,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13067,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13068,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13069,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13070,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13071,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13072,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13073,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13074,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13075,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13076,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13077,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13078,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13079,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13080,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13081,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13082,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13083,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13084,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13085,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13086,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13087,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13088,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13089,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13090,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13091,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13092,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13093,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13094,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13095,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13096,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13097,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13098,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13099,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13100,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13101,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13102,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13103,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13104,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13105,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13106,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13107,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13108,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13109,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13110,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13111,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13112,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13113,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13114,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13115,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13116,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13117,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13118,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13119,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13120,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13121,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13122,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13123,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13124,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13125,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13126,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13127,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13128,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13129,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13130,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13131,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13132,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13133,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13134,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13135,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13136,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13137,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13138,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13139,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13140,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13141,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13142,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13143,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13144,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13145,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13146,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13147,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13148,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13149,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13150,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 13151,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 16269,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 16270,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 16271,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
       "id": 16480,
       "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
       "english": "Trick Box M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "item_text",
+      "id": 17082,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17083,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17084,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17085,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17086,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17087,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17088,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17089,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17090,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17091,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17092,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17093,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17094,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17095,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17096,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17097,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17098,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17099,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17100,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17101,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17102,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17103,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17104,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17105,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17106,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17107,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17108,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17109,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17110,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17111,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17112,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17113,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17114,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17115,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17116,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17117,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17118,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17119,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17120,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17121,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17122,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17123,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17124,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17125,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17126,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 17127,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18734,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18735,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18736,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18737,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18738,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18739,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18740,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18741,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18742,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18743,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18744,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18745,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18746,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18747,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18748,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18749,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18750,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18751,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18752,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18753,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18754,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18755,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18756,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18757,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18758,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18759,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18760,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 18761,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19572,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19573,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19574,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19575,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19576,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19577,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19578,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
+    },
+    {
+      "table": "item_text",
+      "id": 19579,
+      "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
+      "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
     },
     {
       "table": "item_text",
