@@ -19,6 +19,35 @@ python3 tools/build_menu.py --input owned-files --output english-menus --archive
 
 A complete matching input builds 322 menu entries. The command writes the translated resource and `english-menus/blue_protocol_menus_1_P.pak`. On a setup that supports local overlays, close the game and copy that archive to `BLUEPROTOCOL/Content/Paks/~mods/`. You can use it alongside the native text archive below. Keep a backup if you replace a previous overlay. To undo the change, remove the archive you added and restore the backup. Omit `--require-all` to build the entries present in a partial extraction. Choose a fresh output folder each time.
 
+## Build the English startup notice
+
+The notice builder draws five English labels on the startup artwork from your own client. Start with these two files from your existing extraction in the `owned-files/` folder.
+
+- `BLUEPROTOCOL/Content/UI/Startup/UI_StartupCaution1.uasset`
+- `BLUEPROTOCOL/Content/UI/Startup/UI_StartupCaution1.uexp`
+
+Use Python 3.11 or newer for the notice builder. It was tested with Pillow 13.0.0 and FreeType 2.14.3. On Windows, you can install the tested Pillow version in a separate environment using PowerShell.
+
+```powershell
+py -3.11 -m venv .notice-venv
+.\.notice-venv\Scripts\python.exe -m pip install Pillow==13.0.0
+```
+
+Use that same `.\.notice-venv\Scripts\python.exe` in place of `python3` in the build command below. Supply these two Liberation Sans font files from your computer. The builder checks the SHA-256 of each file, so a different version with the same filename can fail the check.
+
+| Option | Font file | Required SHA-256 |
+| --- | --- | --- |
+| `--title-font` | `LiberationSans-Regular.ttf` | `075e71be4c58beda172ecb574a799308f04c3d054c6a5b7434954d3b0f1b28d8` |
+| `--body-font` | `LiberationSans-Bold.ttf` | `b72c65e551d653b54217ffad0d1454ce0657e4e8d4a28bcc79e0acd2598f4bf3` |
+
+Replace each `PATH` with the path to the matching font file and choose a new output folder.
+
+```sh
+python3 tools/build_notice.py --input owned-files --output english-notice --title-font PATH --body-font PATH --archive
+```
+
+On a setup that supports local overlays, close the game and copy `english-notice/blue_protocol_notice_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/` in your installation. To undo the change, remove the archive you added. If you replace an earlier notice archive, keep a backup to restore.
+
 ## Build a native text overlay
 
 You need Python 3.9 or newer and an extracted copy of the game’s effective text files, with later game updates applied in their normal order. Your input folder should contain `BLUEPROTOCOL/Content/Text/` with matching `.uasset` and `.uexp` pairs. Run this command from the repository directory. Choose an output folder that does not yet exist.
@@ -57,7 +86,7 @@ The tool matches the table, the ID including its type, and the SHA-256 of the or
 
 `translations/native.json` indexes each native table by its two file hashes and each translated row by its ordinal and source hash. `translations/service.json` indexes service text by table, row ID and source hash. A partial input can build an overlay for the matching tables it contains. Text outside the catalogs keeps its existing value.
 
-The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. Image labels are available as a reference catalog. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
+The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. The notice builder supports the five startup labels in `image-labels.json`. The other image labels are available for reference. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
 
 | Catalog | Fields in the lookup array, in order |
 | --- | --- |

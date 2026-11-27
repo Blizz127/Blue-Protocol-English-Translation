@@ -21,6 +21,7 @@ DOCS = {"README.md", "LICENSE", "STYLE.md", ".gitignore"}
 TOOLS = {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
     "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
+    "tools/build_notice.py", "tools/notice_lettering.py", "tools/notice_texture.py",
 }
 SERVICE = "translations/service.json"
 NATIVE = "translations/native.json"

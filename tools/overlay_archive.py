@@ -10,6 +10,7 @@ from pathlib import Path
 
 _LOCALIZED_MEMBER = re.compile(
     r"BLUEPROTOCOL/Content/(?:(?:Text|Script)/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
+    r"|UI/Startup/UI_StartupCaution1\.(?:uasset|uexp)"
     r"|Localization/Game/ja/Game\.locres)"
 )
 _INT = struct.Struct("<i")
