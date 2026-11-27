@@ -3056,6 +3056,30 @@
       "english": "Miniature Kunai Box"
     },
     {
+      "table": "master_adventure_board_quests_text",
+      "id": 3367,
+      "source_sha256": "3ac044738ad85d787a04bf3d1596c785394757d349134b36206a14d600a758cb",
+      "english": "Use a Recovery Potion G1 from your own stock. Supplied potions don't count."
+    },
+    {
+      "table": "master_adventure_board_quests_text",
+      "id": 3372,
+      "source_sha256": "78c0ae7320838cfd896aadb24d22c8aa7ec9b907c5696a50fc9de5cedfb70502",
+      "english": "Switch to Talk Mode and send a stamp."
+    },
+    {
+      "table": "master_adventure_board_quests_text",
+      "id": 4865,
+      "source_sha256": "3ac044738ad85d787a04bf3d1596c785394757d349134b36206a14d600a758cb",
+      "english": "Use a Recovery Potion G1 from your own stock. Supplied potions don't count."
+    },
+    {
+      "table": "master_adventure_board_quests_text",
+      "id": 4871,
+      "source_sha256": "78c0ae7320838cfd896aadb24d22c8aa7ec9b907c5696a50fc9de5cedfb70502",
+      "english": "Switch to Talk Mode and send a stamp."
+    },
+    {
       "table": "master_emote_text",
       "id": 317,
       "source_sha256": "a896a1338a62583514a7cf671a54764cffb113c97601c0410e3bbcf407dce094",
