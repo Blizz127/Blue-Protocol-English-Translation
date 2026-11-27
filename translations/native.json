@@ -1517,6 +1517,56 @@
           "ordinal": 86,
           "source_sha256": "a6362da72bc3bf5090906a9f7c14d58b38a41712f8b4f8dabd462643659e20ee",
           "english": "Go, my servant! Send them scattering!"
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "90a403841d24e1157852fbf59fde4ed9c79f5496c0cedc326d90b50ec781c248",
+          "english": "Ho ho ho! I knew I was right about you.\r\nThat was some fine fighting!"
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "c5ff911c9da1610e0c686cf62857fc9cbf1eac4a83049ed16ea33560c5c24bdb",
+          "english": "Now then, you were lying somewhere up ahead, weren't you?\r\nCome, let's have a look!"
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "f9db4d0d395707a4c45b81236682e00362a4274c2341e1e529af22c48824ddcd",
+          "english": "It was around here somewhere…"
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "1b916a97ceb4cc3bf19525f5db3c9931af316239a0e5f53eb87808b5acb19c5e",
+          "english": "What, you've forgotten Imagine Seeds too?\r\nThat memory loss of yours is worse than I thought…"
+        },
+        {
+          "ordinal": 93,
+          "source_sha256": "51297b589a9c6188306a0008ba7dde471403a3cacaf4f163e323abb2ec058bda",
+          "english": "Now, listen closely.\r\nAn Imagine Seed is will in crystal form."
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "8f0356a2bb5febac7aa1d456fb474508aeb4056fce858935d60afb44439eab71",
+          "english": "Every living thing on this planet has an engram[――]\r\nand a strong enough will can give it physical form."
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "3e0922c6ca3f24d3c4bc2da9c506f05942e37f43bc8da9ad55e6e0af127599b1",
+          "english": "That's an Imagine Seed. Following me so far?"
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "857e069fed29eba2c963aebd40ae6b3ef06c9a7c4c87fe2a80aa687362d2cdf4",
+          "english": "Pour your own engram into an Imagine Seed,\r\nand you can draw all sorts of powers from it."
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "4421c2e8653f042a9e817ba5ebe8c73aa2d158adee15b53377d2eaded6e9d35c",
+          "english": "Well, it can't hurt to hang on to it.\r\nNow then, do you see anything else that might be a clue?"
+        },
+        {
+          "ordinal": 98,
+          "source_sha256": "a3d760c5dddc8e816f3e2c0f565fb057e323093372f141a71562f372eb1b6066",
+          "english": "I see… Ah well. Let's head back to Asterleeds for now.\r\nNo sense lingering in a dangerous place like this."
         }
       ]
     },
