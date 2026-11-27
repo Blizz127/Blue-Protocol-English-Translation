@@ -3410,6 +3410,30 @@
       "english": "Urban Coat Selection Box (Black, M or F)"
     },
     {
+      "english": "G1: Fire a sound wave in the direction you aim to bind enemies on hit. A wave spread by your amp triggers an area attack on hit. The area attack also binds enemies it hits. The skill deals more damage in High Spirit.",
+      "id": 1972,
+      "source_sha256": "672bb9308b874f8ee778715b2dedc31738d832ff0293193f35a3f230b7299997",
+      "table": "master_skill_data_text"
+    },
+    {
+      "english": "G1: Fire a sound wave in the direction you aim to bind enemies on hit. A wave spread by your amp triggers an area attack on hit. The area attack also binds enemies it hits. The skill deals more damage in High Spirit.\nG2: Repeated presses of the skill button let you fire up to two ranged attacks in total.",
+      "id": 2179,
+      "source_sha256": "01fa57b8b4ad886335c7b404c109971406907b761ff32da5b30f422f32747842",
+      "table": "master_skill_data_text"
+    },
+    {
+      "english": "G1: Fire a sound wave in the direction you aim to bind enemies on hit. A wave spread by your amp triggers an area attack on hit. The area attack also binds enemies it hits. The skill deals more damage in High Spirit.\nG2: Repeated presses of the skill button let you fire up to two ranged attacks in total.\nG3: Repeated presses of the skill button let you fire up to three ranged attacks in total.",
+      "id": 2180,
+      "source_sha256": "e3e8827ce9da1b9c97ff503e89c601aa32262c3d6dd7ca8c36294b9158a6c551",
+      "table": "master_skill_data_text"
+    },
+    {
+      "english": "G1: Fire a sound wave in the direction you aim to bind enemies on hit. A wave spread by your amp triggers an area attack on hit. The area attack also binds enemies it hits. The skill deals more damage in High Spirit.\nG2: Repeated presses of the skill button let you fire up to two ranged attacks in total.\nG3: Repeated presses of the skill button let you fire up to three ranged attacks in total.\nG4: Both the ranged attack and the area attack deal more damage.",
+      "id": 2229,
+      "source_sha256": "17eaa71d1788c8a03e80bf11cd769a1a486383c5c59c484c5e6d8bb8894953ce",
+      "table": "master_skill_data_text"
+    },
+    {
       "table": "quest_main_chapter01_text",
       "id": 21,
       "source_sha256": "276b046ef3eba739e70665cef64de7329210af5572c666b3785e18b557104c0f",
