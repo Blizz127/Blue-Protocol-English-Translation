@@ -1325,7 +1325,7 @@
       "table": "quest_main_chapter01_text",
       "id": 57,
       "source_sha256": "11c3e42673fb8d82c7a965c3f02dc0f84dabf3c17d5519439d7c246377a231cf",
-      "english": "Tell Millene in Minsterhorn that Walkin is safe."
+      "english": "On the Asteria Plains, tell Millene in Minsterhorn that Walkin is safe."
     },
     {
       "table": "quest_main_chapter01_text",
@@ -1349,7 +1349,7 @@
       "table": "quest_main_chapter01_text",
       "id": 188,
       "source_sha256": "f5670fadc5a6f667495c7147bdd33f33842b103eb442b2979116d67771ff08a8",
-      "english": "Go to Andorra Basin to hear what Walkin has to say."
+      "english": "Go to Andorra Basin on the Asteria Plains to hear what Walkin has to say."
     },
     {
       "table": "quest_main_chapter01_text",
