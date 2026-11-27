@@ -1507,6 +1507,16 @@
           "ordinal": 84,
           "source_sha256": "de76cff434b654f9804f4ca80128a3b15b3f4ea375e0a0d1532bd25b2150a62f",
           "english": "No need to strain yourself trying to remember.\r\nCome, let's be on our way!"
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "b4dfd177d41c77ebc105b408f2cdfbdfdee4874eae44ec2c21110363bb9a25b2",
+          "english": "Tch! How could I, of all people, miss that?"
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "a6362da72bc3bf5090906a9f7c14d58b38a41712f8b4f8dabd462643659e20ee",
+          "english": "Go, my servant! Send them scattering!"
         }
       ]
     },
