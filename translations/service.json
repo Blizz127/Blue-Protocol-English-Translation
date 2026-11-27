@@ -2361,6 +2361,30 @@
     },
     {
       "table": "weapon_text",
+      "id": 1997,
+      "source_sha256": "beee1d88ce34070a615b8a1945541127fe79b7a256e505941aa52c75ab2333fc",
+      "english": "A sword and shield modeled on the favored arms of the armored knight hailed as “the Valiant Rampart of Bernhardt.” They say the knight held their ground against an army of dragons. Even when surrounded, the knight halted the enemy’s advance and saved the lives of many comrades."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1999,
+      "source_sha256": "dd5bbfeb107b114d4050ecc6504322b313209b1d2fe0c0bb12549f77bf990ecb",
+      "english": "A bow modeled on the weapon of the first farm knight. Bow and hoe in hand, the knight went to the front lines and sometimes even excavated ruins. Remembered across the land as a hero, this knight of many talents won recognition from the duke of Bernhardt as well."
+    },
+    {
+      "table": "weapon_text",
+      "id": 2001,
+      "source_sha256": "aac6073f428aa172d6a6717eb91f979f2f5a94c663159d6560f577c31035f0ef",
+      "english": "A hammer carried by a tragic knight said to have died for love of someone of a different station. To this day, the people of the Principality of Bernhardt cherish the tale of how a knight so tender in love could fight like a war god on the battlefield."
+    },
+    {
+      "table": "weapon_text",
+      "id": 2002,
+      "source_sha256": "412c50f895bcb7c83014fefbf8346f185826d24750bb239213255c8c7fb93fff",
+      "english": "A two-handed spear prized by a knight who won renown fighting the dragons in the days of Bernhardt’s founding. That knight of old still stands as a model of chivalry and a stirring symbol of the dauntless Bernhardt Knights."
+    },
+    {
+      "table": "weapon_text",
       "id": 2025,
       "source_sha256": "fc87a9c8b8950cc8032bf63172b55deb76ff9d461149a8fc90047b7576b4c31d",
       "english": "Swift Thundersteel Blade"
