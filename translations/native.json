@@ -2003,6 +2003,11 @@
       "uexp_sha256": "fd3d54596e36ffc4f0e2058dc6a043e0c7202fcf5e14dfcf080f0580163305f3",
       "rows": [
         {
+          "ordinal": 5,
+          "source_sha256": "90940f0147908c467fec6da61a7ef6a577f6d0205599f5d67566dc4a2210f7d1",
+          "english": "But on my way to Minsterhorn...\r\na monster jumped me."
+        },
+        {
           "ordinal": 11,
           "source_sha256": "f85214e37120a4aa1207f21c5d16aacb0eda98a994a614d2ab0b2a26a23e5030",
           "english": "A Mount Imagine... know what that is?\r\nIt's an Imagine you can ride..."
