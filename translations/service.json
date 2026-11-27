@@ -4485,6 +4485,18 @@
     },
     {
       "table": "weapon_text",
+      "id": 1838,
+      "source_sha256": "b09b76706b3e556048c7158ff02b695c45ef8c722562eedf66b824607bb55c00",
+      "english": "These Twin Striker axes bring together advanced techniques for controlling engrams. A single swing shakes the earth and drives back evil. Legend says grass and trees sprout on the battlefield once the fighting is over."
+    },
+    {
+      "table": "weapon_text",
+      "id": 1840,
+      "source_sha256": "1234de19180168358adfd5b80ad598ec92213d026bf0cec36ddca0411134fa99",
+      "english": "This Blast Archer bow has absorbed the engrams of consecrated soil. Every part is perfectly balanced and aligned, allowing the bow to deliver a shot of unrivaled power even at great distances."
+    },
+    {
+      "table": "weapon_text",
       "id": 1975,
       "source_sha256": "cfe1ad6e98e74ea4f9f93025814967207ba5a725a0df81aee38089832f9362d4",
       "english": "Light That Cleaves the Night"
