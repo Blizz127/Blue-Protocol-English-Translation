@@ -63,6 +63,36 @@
     },
     {
       "table": "achievements_text",
+      "id": 1963,
+      "source_sha256": "c3817a8ca0b359fa9274716f0da0d5a822e733418b9f0ac0b0efd12844f49abc",
+      "english": "Guardian of the Mine"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1968,
+      "source_sha256": "ee7fc08e331f71448ffe1246eb7eaf06707149b6164c721ee47a8dc91d534bbb",
+      "english": "Foreign Envoy"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1971,
+      "source_sha256": "75904942d2be1db08b826685024671169b5599a875576f21f39d8cbd6aedad2d",
+      "english": "Solemn Melody"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1972,
+      "source_sha256": "2ba30f3df3f92ad8db87b9f1392140c8bbbdc402e0601660699d8f763f4ec0c8",
+      "english": "Hidden Resolve"
+    },
+    {
+      "table": "achievements_text",
+      "id": 1974,
+      "source_sha256": "b768632b85a0207e253b3eff0368a0a529533221b38efb84bd1fecff714a0eb0",
+      "english": "Dedicated Researcher"
+    },
+    {
+      "table": "achievements_text",
       "id": 2466,
       "source_sha256": "0c31003fc4ccc45cf5ab438952836824fd02abb513c60e19b8bf18b877143ab2",
       "english": "Reach level 10 as a Twin Striker."
