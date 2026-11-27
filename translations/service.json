@@ -2451,6 +2451,30 @@
     },
     {
       "table": "item_text",
+      "id": 15214,
+      "source_sha256": "fe85fc74fb1d1530d566dbb818dcd01c70f91590b60c462724171b477405fcc2",
+      "english": "Sturdy Heat Viper Shell"
+    },
+    {
+      "table": "item_text",
+      "id": 15304,
+      "source_sha256": "f46ddedcb625740a7aa99f85307f1ffb7a214efc63dacced7725ef9153271f0f",
+      "english": "A claw dropped by a Sand Lizard. Strong and flexible, it holds up well to wear. Adventurers prize the character it takes on with use."
+    },
+    {
+      "table": "item_text",
+      "id": 15318,
+      "source_sha256": "9d25e5f9e5ed1eafd75d90b627cfc8fd5aade0ec108cd77d39d8e631c84fddb1",
+      "english": "An uncommon claw dropped by a Kaiser Elk. Strong and flexible, it holds up well to wear. Adventurers prize the character it takes on with use."
+    },
+    {
+      "table": "item_text",
+      "id": 15322,
+      "source_sha256": "d4361c2f24247f2d4aa878f9fe6521de30c9a5eeda382a3c41e130e1c32b66ae",
+      "english": "An uncommon shell dropped by a Heat Viper. Strong and flexible, it holds up well to wear. Adventurers prize the character it takes on with use."
+    },
+    {
+      "table": "item_text",
       "id": 16269,
       "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
       "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
@@ -2751,6 +2775,12 @@
     },
     {
       "table": "item_text",
+      "id": 17632,
+      "source_sha256": "a8bcee934113e4cc596c0f46e231977da3cd196c29e60629d3bb21651d593394",
+      "english": "A beak dropped by a Lightning Pecker. Strong and flexible, it holds up well to wear. Adventurers prize the character it takes on with use."
+    },
+    {
+      "table": "item_text",
       "id": 18734,
       "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
       "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
@@ -2919,6 +2949,12 @@
     },
     {
       "table": "item_text",
+      "id": 19538,
+      "source_sha256": "82a5ae707094f94457b3947ccea8f53830cacde4b4ac23301206457ff1999139",
+      "english": "Sustained Combat Tactics G5 Single Plug"
+    },
+    {
+      "table": "item_text",
       "id": 19572,
       "source_sha256": "61a9dae714feda7abdd8ab2cde1d9d9b1d416da2c832bc57a821f8d4ccd849db",
       "english": "Fit this plug into a weapon to add special effects. It’s an especially intricate Bapharian relic, so handle it with care. If you remove it the wrong way, it will crack and become unusable."
@@ -2976,6 +3012,12 @@
       "id": 24148,
       "source_sha256": "3875e62c23ccb9627950d6463fa9b36a6baa38a0808e4c23205ed0bb75927dc9",
       "english": "Trick Box M (Sleight-of-Hand Artist)"
+    },
+    {
+      "table": "item_text",
+      "id": 25022,
+      "source_sha256": "aca7a08d0d4b2265b635c47d077a30cfbe0860c4de61df5abd00fff3f24df76d",
+      "english": "An egg dropped by a Heat Viper. Its beautiful texture once made it a luxury. Today it's a material most people recognize."
     },
     {
       "table": "item_text",
