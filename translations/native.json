@@ -1472,6 +1472,41 @@
           "ordinal": 21,
           "source_sha256": "32481d265f0adf8f57d0fe827517cd5b48ce302663827fb7dfe1cc77e97c9eb6",
           "english": "I know, big sis! Feste can help you\r\nget your memories back!"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "7cf5cef9c88cf9cbd54523b70aa2cc9ee1d2e190a0e319ff9cf18b16d5ac7557",
+          "english": "Here lie the Asteria Plains,\r\nthe richest grasslands on the southern tip of Magna."
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "6c2f900d27ac18fadd7379cb7c7b571feeb540215789b97f836a6a650966b52a",
+          "english": "There's much of use to be found here,\r\nand Bapharian ruins lie hidden all across the plains."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "ab9a88ce99a9a0d44477e4ff74ba125f5c43cf07ea2f8993ea8015179071ee42",
+          "english": "You may even find a clue to those lost memories of yours."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "a5b00cb82d6f7e335efbe57123abfd931b22ee48aa09779599bca8b4e523e4f4",
+          "english": "See those ruins over yonder? That's where we met.\r\nBest make for them first."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "378f627de6d42d45aca3e3a851feafd3fce3573fc67fd9fefa782fd01f4d8357",
+          "english": "They were only recently discovered. Hardly a soul has set foot there."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "3fb4757e8f03961dcb0f892496b9b2aaf7531033d36793fdd197f7078f6190ac",
+          "english": "Still... for you to have been there of all places,\r\nyou must have been well informed indeed, eh?"
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "de76cff434b654f9804f4ca80128a3b15b3f4ea375e0a0d1532bd25b2150a62f",
+          "english": "No need to strain yourself trying to remember.\r\nCome, let's be on our way!"
         }
       ]
     },
