@@ -940,6 +940,11 @@
       "uexp_sha256": "f4d7662df16fcd62879efd6ce5fccfc554939c9bf068e532fd15986ccc9b55e7",
       "rows": [
         {
+          "ordinal": 28,
+          "source_sha256": "fcf746b4defd9ec040095e4f11f0c51938de00d5705d4d01cfa1f65b5ba03d13",
+          "english": "To see the route for a different quest, open the Command Menu.\nUnder Quest, open Accepted Quests\nand select the quest you want directions for."
+        },
+        {
           "ordinal": 36,
           "source_sha256": "0cffaa87e5a15632708c1896debbc5e26afff97983272a4c2888ceb5a5adc3c8",
           "english": "Aegis Fighter Basics"
@@ -5580,6 +5585,32 @@
       ]
     },
     {
+      "uasset_sha256": "84b6f98054548b8de9ce6afac2547e53e4713f813f77b8eb55fe132cdc535ed9",
+      "uexp_sha256": "c370b9462ccc78013c12c571f6257521664e6a29c12725834ca704a352de1a8e",
+      "rows": [
+        {
+          "ordinal": 16,
+          "source_sha256": "f6f11f7984441a0a4e826d45e65a1437e3467499cd63feaed5bbceb2fb6540bb",
+          "english": "Couldn't save map pin data."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "0fcfa1ef82989196186a2774bbb987ff11d884c3e39833464328289774b73a3e",
+          "english": "Couldn't load map pin data."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "a2f25a325f1c00ade660b5043f0f88fa48614fec2195eff5ffb9ffaa3b6fd307",
+          "english": "Teleport to {WarpPointName}?\nThis will cancel your Challenge Quest."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "0ad2f4265c064e796dc96d2e71195bbf7db1e3320c07e5e041d5c065acc3e84b",
+          "english": "Pin Note"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "86514a177f617a6c8015c62691337cbabec580fbe88e90816d5176a33ed1e099",
       "uexp_sha256": "0c9b4af6229d31ebb9e69cb09557c3f40bc5dcfa06cf0e6f0fbc233d5997f24c",
       "rows": [
@@ -5587,6 +5618,11 @@
           "ordinal": 49,
           "source_sha256": "bc997f450a6b63cafdd2af07db4a051bfd3a5d5e680751b8ad182785c540c8a6",
           "english": "[Bonus Contents]"
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "0d59938f0e75163a4a2c120992ff0dae5d1522f2f9de8c5829f8b04c7537a30d",
+          "english": "Parts of the store are undergoing maintenance.\nVisit the official website for details."
         }
       ]
     },
@@ -6227,6 +6263,17 @@
       ]
     },
     {
+      "uasset_sha256": "ac49a59f9f7c365e687549d44ac8d81bf6e0cf4503191f5ce103b727e6cdaba7",
+      "uexp_sha256": "9fc55a4bd5480ac61e24fdedf36d377428bd8bd76d4bdae9f012ad9d057e9abc",
+      "rows": [
+        {
+          "ordinal": 96,
+          "source_sha256": "0d59938f0e75163a4a2c120992ff0dae5d1522f2f9de8c5829f8b04c7537a30d",
+          "english": "Parts of the store are undergoing maintenance.\nVisit the official website for details."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "add0daeff54afa1bb9d349c0737ab11f2055fac978600b6e2ab9e8a32946a2b5",
       "uexp_sha256": "7b56104fe9310c3d0247aa46c473dc00f4a9196d54b624200a862feb18c9c58e",
       "rows": [
@@ -6246,6 +6293,26 @@
       "uasset_sha256": "adf3005bddbf02bff6bcd4f94c5efc84d168074ee3de59fcc19cee3b444fcde0",
       "uexp_sha256": "e569f9f0e54f6eb6a2a00a64b378a1642912a51304a93ec8d9bcf985f6b9a9ef",
       "rows": [
+        {
+          "ordinal": 16,
+          "source_sha256": "f6f11f7984441a0a4e826d45e65a1437e3467499cd63feaed5bbceb2fb6540bb",
+          "english": "Couldn't save map pin data."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "0fcfa1ef82989196186a2774bbb987ff11d884c3e39833464328289774b73a3e",
+          "english": "Couldn't load map pin data."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "a2f25a325f1c00ade660b5043f0f88fa48614fec2195eff5ffb9ffaa3b6fd307",
+          "english": "Teleport to {WarpPointName}?\nThis will cancel your Challenge Quest."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "0ad2f4265c064e796dc96d2e71195bbf7db1e3320c07e5e041d5c065acc3e84b",
+          "english": "Pin Note"
+        },
         {
           "ordinal": 45,
           "source_sha256": "98b00ac1483382c64442f824dfa62147f8d176cb51b1951df4f641ed0f88a1b3",
@@ -9335,6 +9402,11 @@
       "uasset_sha256": "e869d3b30862cdf67ec47b7918cf41ddf3eea4f60917a3064d84cc5db728d95f",
       "uexp_sha256": "3c1294e8bd882ae82c6b6c9da643c9acdd4a13dd43dcdf5a3079835b8445bd15",
       "rows": [
+        {
+          "ordinal": 28,
+          "source_sha256": "fcf746b4defd9ec040095e4f11f0c51938de00d5705d4d01cfa1f65b5ba03d13",
+          "english": "To see the route for a different quest, open the Command Menu.\nUnder Quest, open Accepted Quests\nand select the quest you want directions for."
+        },
         {
           "ordinal": 36,
           "source_sha256": "0cffaa87e5a15632708c1896debbc5e26afff97983272a4c2888ceb5a5adc3c8",
