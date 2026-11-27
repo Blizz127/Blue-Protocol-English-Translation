@@ -3042,6 +3042,22 @@
       ]
     },
     {
+      "uasset_sha256": "45303861335f776414579408c3f86d9fa6e88e2b30bed197b17d0746737f901e",
+      "uexp_sha256": "5f8094c4728d464365ccafe5484d33b2f57a987251958dd79e54ca215b5e3607",
+      "rows": [
+        {
+          "ordinal": 105,
+          "source_sha256": "2c3152fd2b56b889da2d69ef4498933519d9a4a7af98863041319c67d4cb1da1",
+          "english": "Glen? Oh, wait…\r\nDoes that mean Gim is your older brother?"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "39293912d11f18b25245d00c021938df845f919c4ea493bd662b92a753ecb0ea",
+          "english": "Um… yes. If you’ll excuse me, then.\r\nSee you later, Glen. You too, adventurer."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "45ff0354a3506b1d9400c8345c124fe1b920c173c6a98b822b348109a50ead6d",
       "uexp_sha256": "fe73697d615913a3c2790e717815983570e3d44759ffdaf664790ccc938ef086",
       "rows": [
@@ -8967,6 +8983,17 @@
           "ordinal": 46,
           "source_sha256": "2e5d5e093e4f93d00a570f74dad0b60d279d050df104418105c803c34a643042",
           "english": "To honor his wishes, the Reclamation Bureau decided\r\nto preserve books of all kinds in Rector's Great Bookshelf."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d9daa797e393db713229485427326eb632bfa597582977b95a0b619762751161",
+      "uexp_sha256": "14d2cc304732fbc8eb75838ad83d5a976bd0978367f2d9db4368a029b015e410",
+      "rows": [
+        {
+          "ordinal": 52,
+          "source_sha256": "4a61cfd75d70573df9ef84cc517a95f8ebb12bd7998533675b50e04c39caed32",
+          "english": "That’s how a Beat Performer got this job, too.\r\nIt’s what Lord Gim wanted."
         }
       ]
     },
