@@ -794,6 +794,27 @@
       ]
     },
     {
+      "uasset_sha256": "14986e16b8394cbe7fd617f88064c249c10860e5bfa442ec2453846db97414b2",
+      "uexp_sha256": "5f8aa45cdc49a7cfa41e30e97316943c24f9605435141a0fb7354fea71641ae6",
+      "rows": [
+        {
+          "ordinal": 25,
+          "source_sha256": "cf0f4d1fd6dac2dfb17e46b7e6d024b6b85714551928dc4d2aa33b719bb8a0fe",
+          "english": "See, Toto? I keep telling you.\r\nYou always play rock first..."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "118a2c1fcd8f9ed239e3a6b87bcd5e0db0a75913d9b4ce918ab8cde71763baa6",
+          "english": "(You know what?\r\n Toto plays scissors when he's mad.)"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "d200ad003d0d33800388789af8a292b6cb45b5b4fc6451b4789a1b5485306c75",
+          "english": "See what I mean, Toto?\r\nWhen you're mad, you always play scissors..."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "16ca48b810f416cf8a674e1ec8f9d9386bca30397b63963ddd72a698f907ca24",
       "uexp_sha256": "6c1cf6ec2a3492a2ae583b423d4d038839f1c38b7b8cfd119f44b55f6e3d4ff4",
       "rows": [
