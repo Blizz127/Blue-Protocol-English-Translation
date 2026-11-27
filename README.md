@@ -48,6 +48,21 @@ python3 tools/build_notice.py --input owned-files --output english-notice --titl
 
 On a setup that supports local overlays, close the game and copy `english-notice/blue_protocol_notice_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/` in your installation. To undo the change, remove the archive you added. If you replace an earlier notice archive, keep a backup to restore.
 
+## Translate the HUD preset diagrams
+
+The left and right preset previews in HUD settings each have 19 labels. This tool translates 12 labels on each diagram, including the FPS counter, quest list, chat logs and ST gauge. The other seven keep the Japanese lettering from your client.
+
+Extract both original file pairs into `owned-files/BLUEPROTOCOL/Content/UI/Option/HUD/` from your copy of the Japanese 1.08.001 client. The filenames are `UI_OptionMenuHudLeft.uasset`, `UI_OptionMenuHudLeft.uexp`, `UI_OptionMenuHudRight.uasset` and `UI_OptionMenuHudRight.uexp`.
+
+Supply a local copy of `LiberationSansNarrow-Bold.ttf` with SHA-256 `3271f41b67a81a806aadbf71762c14a405e617b738d9ceeb81191dd681c66fc4`. This build was tested with Python 3.12 and OpenCV 5.1.0, wheel build 95. Run them in an environment where you want the image libraries installed. Replace the font filename with its path on your computer.
+
+```sh
+python3 -m pip install Pillow==13.0.0 numpy==2.5.1 'opencv-python-headless~=5.1.0'
+python3 tools/build_hud.py --input owned-files --output english-hud --font LiberationSansNarrow-Bold.ttf --archive
+```
+
+The command checks the four stock files, draws on their original pixels and writes the translated pairs to a new folder. On a setup that supports local overlays, close the game and copy `english-hud/blue_protocol_hud_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/`. Keep a backup if you replace an older HUD overlay. To undo the change, remove the added archive and restore that backup if you made one.
+
 ## Build a native text overlay
 
 You need Python 3.9 or newer and an extracted copy of the game’s effective text files, with later game updates applied in their normal order. Your input folder should contain `BLUEPROTOCOL/Content/Text/` with matching `.uasset` and `.uexp` pairs. Run this command from the repository directory. Choose an output folder that does not yet exist.
@@ -86,7 +101,7 @@ The tool matches the table, the ID including its type, and the SHA-256 of the or
 
 `translations/native.json` indexes each native table by its two file hashes and each translated row by its ordinal and source hash. `translations/service.json` indexes service text by table, row ID and source hash. A partial input can build an overlay for the matching tables it contains. Text outside the catalogs keeps its existing value.
 
-The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. The notice builder supports the five startup labels in `image-labels.json`. The other image labels are available for reference. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
+The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. The notice builder uses the five startup labels in `image-labels.json`, and the HUD builder uses the 24 preset-diagram labels. The eight help-image labels are available for reference. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
 
 | Catalog | Fields in the lookup array, in order |
 | --- | --- |

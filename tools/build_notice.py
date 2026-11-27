@@ -20,7 +20,7 @@ LINES = (
 )
 
 
-def load_lines():
+def load_lines(expected_lines=LINES):
     data = json.loads(CATALOG.read_text(encoding="utf-8"))
     if not isinstance(data, dict) or type(data.get("schema_version")) is not int or data["schema_version"] != 1:
         raise ValueError("Unsupported image label catalog")
@@ -35,26 +35,57 @@ def load_lines():
             raise ValueError("Invalid or duplicate image label")
         labels[key] = line
     result = []
-    for key, expected in LINES:
+    for key, expected in expected_lines:
         line = labels.get(key)
         if line is None or hashlib.sha256(line.encode("utf-8")).hexdigest() != expected:
-            raise ValueError("The image catalog does not contain the five matching startup lines")
+            raise ValueError("The image catalog does not contain the matching labels")
         result.append(line)
     return result
+
+
+def output_locations(input_directory, output_directory):
+    root = input_directory.resolve(strict=True)
+    if not root.is_dir():
+        raise ValueError("Expected an extracted client directory")
+    if os.path.lexists(output_directory):
+        raise ValueError("Choose a new output directory")
+    output = output_directory.resolve()
+    if root == output or root in output.parents or not output.parent.is_dir():
+        raise ValueError("Choose a new output outside the extracted client with an existing parent")
+    return root, output
+
+
+def write_members(output, members, archive_name, prefix):
+    with tempfile.TemporaryDirectory(prefix=prefix, dir=output.parent) as temporary:
+        staging = Path(temporary)
+        for name, expected in members.items():
+            member = staging / name
+            member.parent.mkdir(parents=True, exist_ok=True)
+            member.write_bytes(expected)
+            if member.read_bytes() != expected:
+                raise OSError(f"Image member failed readback: {name}")
+        if archive_name:
+            from overlay_archive import write_overlay
+            write_overlay(staging, list(members), staging / archive_name)
+        output.mkdir()
+        moved = []
+        try:
+            for child in staging.iterdir():
+                target = output / child.name
+                child.rename(target)
+                moved.append(target)
+        except BaseException:
+            for target in reversed(moved):
+                target.rename(staging / target.name)
+            output.rmdir()
+            raise
 
 
 def build(args):
     from notice_lettering import render_notice
     from notice_texture import decode_notice, encode_notice
 
-    root = args.input.resolve(strict=True)
-    if not root.is_dir():
-        raise ValueError("Expected an extracted client directory")
-    if os.path.lexists(args.output):
-        raise ValueError("Choose a new output directory")
-    output = args.output.resolve()
-    if root == output or root in output.parents or not output.parent.is_dir():
-        raise ValueError("Choose a new output outside the extracted client with an existing parent")
+    root, output = output_locations(args.input, args.output)
     paths = [PACKAGE + suffix for suffix in (".uasset", ".uexp")]
     inputs = []
     for name in paths:
@@ -68,29 +99,7 @@ def build(args):
     if result == inputs[1]:
         raise ValueError("The notice export was unchanged")
 
-    with tempfile.TemporaryDirectory(prefix="bp-notice-", dir=output.parent) as temporary:
-        staging = Path(temporary)
-        for name, expected in zip(paths, (inputs[0], result)):
-            member = staging / name
-            member.parent.mkdir(parents=True, exist_ok=True)
-            member.write_bytes(expected)
-            if member.read_bytes() != expected:
-                raise OSError(f"Notice member failed readback: {name}")
-        if args.archive:
-            from overlay_archive import write_overlay
-            write_overlay(staging, paths, staging / ARCHIVE)
-        output.mkdir()
-        moved = []
-        try:
-            for child in staging.iterdir():
-                target = output / child.name
-                child.rename(target)
-                moved.append(target)
-        except BaseException:
-            for target in reversed(moved):
-                target.rename(staging / target.name)
-            output.rmdir()
-            raise
+    write_members(output, dict(zip(paths, (inputs[0], result))), ARCHIVE if args.archive else None, "bp-notice-")
     print(f"Built the five English startup lines in {output}")
     if args.archive:
         print(f"Wrote {output / ARCHIVE}")

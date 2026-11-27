@@ -18,7 +18,12 @@ from urllib.parse import urlsplit
 
 
 DOCS = {"README.md", "LICENSE", "STYLE.md", ".gitignore"}
-TOOLS = {
+HUD_TOOLS = {"tools/build_hud.py", "tools/hud_lettering.py"}
+HUD_FPS_KEYS = {
+    "8ffe8133b6aad633360606950a7188207e827cedbfd8d69483d319d5743c4c2f",
+    "70e63a4f698584f24d3daca662bbc0178ca6a3cacf1f16a64bf5e1601a48f401",
+}
+TOOLS = HUD_TOOLS | {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
     "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
     "tools/build_notice.py", "tools/notice_lettering.py", "tools/notice_texture.py",
@@ -32,7 +37,8 @@ MENU = "translations/menu-inline.json"
 MENU_RUNTIME = "translations/menu-runtime.json"
 SCRIPT = "translations/script.json"
 SCRIPT_SOURCES = "translations/script-sources.json"
-INDEXED = {MENU, "translations/image-labels.json", SCRIPT}
+IMAGE_LABELS = "translations/image-labels.json"
+INDEXED = {MENU, IMAGE_LABELS, SCRIPT}
 FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, BOARD_TEMPLATES, MENU_RUNTIME, SCRIPT_SOURCES}
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 OBJECT = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
@@ -368,6 +374,7 @@ def scan(repo, commit, policy):
     pending, commits, trees, blobs = [resolved], set(), {}, {}
     tip_tree = None
     literal_positions = {}
+    hud_catalogs = set()
     while pending:
         oid = pending.pop()
         if oid in commits:
@@ -400,6 +407,15 @@ def scan(repo, commit, policy):
                 require(len(raw) == size, name, "blob readback mismatch")
                 blobs[key] = checks.blob(name, raw)
             entries[name] = dict(mode=mode, git_blob=obj, **blobs[key])
+        if HUD_TOOLS.intersection(entries):
+            require(HUD_TOOLS.issubset(entries), "HUD tools", "missing companion tool")
+            require(IMAGE_LABELS in entries, IMAGE_LABELS, "missing HUD label catalog")
+            image_catalog = entries[IMAGE_LABELS]["git_blob"]
+            if image_catalog not in hud_catalogs:
+                catalog = parse_json(git(repo, "cat-file", "blob", image_catalog))
+                fps_keys = {row["key_sha256"] for row in catalog["entries"] if row["english"] == "FPS Counter"}
+                require(HUD_FPS_KEYS <= fps_keys, IMAGE_LABELS, "missing matching FPS label for a HUD preset")
+                hud_catalogs.add(image_catalog)
         if BOARD_TEMPLATES in entries:
             require(NATIVE in entries, BOARD_TEMPLATES, "missing native catalog")
             native = entries[NATIVE]["git_blob"]

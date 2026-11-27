@@ -38,6 +38,10 @@
       "english": "Party Chain"
     },
     {
+      "key_sha256": "70e63a4f698584f24d3daca662bbc0178ca6a3cacf1f16a64bf5e1601a48f401",
+      "english": "FPS Counter"
+    },
+    {
       "key_sha256": "7192c56edeaeca643dcc2b6cd6765f2fde364b04aabcb11877157ec173dcff90",
       "english": "Lock-on Target Info"
     },
@@ -68,6 +72,10 @@
     {
       "key_sha256": "8e07790c59be61a5b2e51b6dbe5e35a05791405ba01a4b656f8186687a55cbbf",
       "english": "For your health, take a break of about 15 minutes after every hour of play."
+    },
+    {
+      "key_sha256": "8ffe8133b6aad633360606950a7188207e827cedbfd8d69483d319d5743c4c2f",
+      "english": "FPS Counter"
     },
     {
       "key_sha256": "92165bc5efc48eeac795009f2d155764cd058510652533d2c24b315c33e2167e",
