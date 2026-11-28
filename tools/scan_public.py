@@ -23,7 +23,18 @@ HUD_FPS_KEYS = {
     "8ffe8133b6aad633360606950a7188207e827cedbfd8d69483d319d5743c4c2f",
     "70e63a4f698584f24d3daca662bbc0178ca6a3cacf1f16a64bf5e1601a48f401",
 }
-TOOLS = HUD_TOOLS | {
+HELP_TOOLS = {"tools/build_help.py", "tools/help_lettering.py"}
+HELP_LABELS = {
+    ("13b5d75d219377e0f64cef4f7fb20effb10e20e92385aa1df313596b577a6c6a", "Increased GC from Mission Rewards"),
+    ("38defdcc1d74a1027bd628d5ef59ba3c414795f0ed661b03ce05a68203578f6d", "Weapon Crafting Luno Discount"),
+    ("d6518c6cf80fe9a9e00b587b42699779aada92c57f7d880bc0aaae22a11a88f2", "Increased Team EXP"),
+    ("ee01c55844b04347d5b2d08c613d935b9da07535260ebce1910078c5168945c1", "Increased EXP from Enemies"),
+    ("ac427cebc99d00935c9703de702868230a5d31003c828449e093136b074cbf42", "Increased Gathering Yield"),
+    ("8c67e7a0607f7cd8e89df9141fec68307ddc0381b1c4fb793236c6472688892f", "Reduced Gathering Time"),
+    ("92165bc5efc48eeac795009f2d155764cd058510652533d2c24b315c33e2167e", "Increased Item Sale Value"),
+    ("a8b16d7f433a68bbcff8abac8af76fff6782642ff9f1ef6f9312019c15ec0063", "Increased Enemy Drop Rate"),
+}
+TOOLS = HUD_TOOLS | HELP_TOOLS | {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
     "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
     "tools/build_notice.py", "tools/notice_lettering.py", "tools/notice_texture.py",
@@ -375,6 +386,7 @@ def scan(repo, commit, policy):
     tip_tree = None
     literal_positions = {}
     hud_catalogs = set()
+    help_catalogs = set()
     while pending:
         oid = pending.pop()
         if oid in commits:
@@ -416,6 +428,15 @@ def scan(repo, commit, policy):
                 fps_keys = {row["key_sha256"] for row in catalog["entries"] if row["english"] == "FPS Counter"}
                 require(HUD_FPS_KEYS <= fps_keys, IMAGE_LABELS, "missing matching FPS label for a HUD preset")
                 hud_catalogs.add(image_catalog)
+        if HELP_TOOLS.intersection(entries):
+            require(HELP_TOOLS.issubset(entries), "Help tools", "missing companion tool")
+            require(IMAGE_LABELS in entries, IMAGE_LABELS, "missing help label catalog")
+            image_catalog = entries[IMAGE_LABELS]["git_blob"]
+            if image_catalog not in help_catalogs:
+                catalog = parse_json(git(repo, "cat-file", "blob", image_catalog))
+                pairs = {(row["key_sha256"], row["english"]) for row in catalog["entries"]}
+                require(HELP_LABELS <= pairs, IMAGE_LABELS, "missing matching help image label")
+                help_catalogs.add(image_catalog)
         if BOARD_TEMPLATES in entries:
             require(NATIVE in entries, BOARD_TEMPLATES, "missing native catalog")
             native = entries[NATIVE]["git_blob"]
