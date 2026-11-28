@@ -957,6 +957,17 @@
       ]
     },
     {
+      "uasset_sha256": "1837b1fac5963edf15727b537ae88757e18843017486065130c31d8f223db5e6",
+      "uexp_sha256": "3459e0bb44d6f5e8414a47a188110ae701cd97c67b50f4adc2262fc968efaf9f",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "51723faa593991940caf824a732e953fb8a095d7b95563e594488d7685a5e9c6",
+          "english": "Apply this preset?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "186370a43b2726a753b5a0588467c2a89ff3919f73f270eb87e2945d74a0d2ee",
       "uexp_sha256": "f4d7662df16fcd62879efd6ce5fccfc554939c9bf068e532fd15986ccc9b55e7",
       "rows": [
@@ -1844,6 +1855,21 @@
           "ordinal": 30,
           "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
           "english": "Return to the previous screen? You’ll lose your progress on this character."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "cf063f4e60f5330b250ea3fc38c8944c69796c95c571c9f7dbaa82b9b6f6f03e",
+          "english": "Failed to upload the image."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "f80d18ba050cf09edcf90fd36a0ce1732146a251a8ac4b2c7d0d4446d7147c11",
+          "english": "Failed to create your character."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "01a035683cf3b96a2c262c3c22834bc75d5e68c6d0e8af51c2ae941f60562c16",
+          "english": "Start as {name}?"
         }
       ]
     },
@@ -8407,6 +8433,21 @@
           "ordinal": 30,
           "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
           "english": "Return to the previous screen? You’ll lose your progress on this character."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "cf063f4e60f5330b250ea3fc38c8944c69796c95c571c9f7dbaa82b9b6f6f03e",
+          "english": "Failed to upload the image."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "f80d18ba050cf09edcf90fd36a0ce1732146a251a8ac4b2c7d0d4446d7147c11",
+          "english": "Failed to create your character."
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "01a035683cf3b96a2c262c3c22834bc75d5e68c6d0e8af51c2ae941f60562c16",
+          "english": "Start as {name}?"
         }
       ]
     },
