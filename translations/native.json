@@ -1383,6 +1383,11 @@
           "english": "Knockouts and Rescue"
         },
         {
+          "ordinal": 285,
+          "source_sha256": "61853d93fe8d3f39f3e88b8eecaffd6aaa89cd413bba9ca72b1bd250d3755cfe",
+          "english": "When you're out in the field and no enemies have spotted you,\nyour HP gradually recovers while your weapon is sheathed.\nThe Sit gesture increases the amount you recover,\nso take a seat when you're low on HP."
+        },
+        {
           "ordinal": 295,
           "source_sha256": "b65a8196c242a271187fa08a97ab66dfd728ca9d34e7a73c6c046c4f7140aaa9",
           "english": "While this effect is active, a counter appears that decreases\neach time an enemy damages you. Reaching 0 incapacitates you.\nYou cannot be revived by other players and must immediately respawn,\nwhich inflicts \"Loss.\"\n* \"Dead Count\" cannot be prevented or removed."
@@ -6852,6 +6857,32 @@
           "ordinal": 5,
           "source_sha256": "df9a1c76fd62bbc6437c39cde904a6b7f7a9e7818d1c5d5afe96af55ecedf245",
           "english": "I hear the assassin got away and is still at large.\r\nWhat a dreadful business."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "6fc8393be718f8590a1419412e2e86e5f2cdedd3ee844eeb5f988a88c4223455",
+      "uexp_sha256": "726dd85af2eedbe7224978284053a9ff5848585834e0e13ed907f54ade6aba94",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "bd3493219d20f40d87f0b797b40cfff3fced984fb5e690dc53c8b427205fb270",
+          "english": "Go Now"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "8632e064a2c7dd617c91d846a04ae0719fdf461b41171d07963bf9aab10e9ede",
+          "english": "Go there now?"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "8b3f60b595761b9bef88e1c06b360d6e08db90f1bdae9454204245bd4e77da5c",
+          "english": "Couldn't load the image."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "e023a9be6f98c1ee2ff8d76c5cb04719181b5e6351eff6049672a22e6714e0a0",
+          "english": "Time left: {RemainTimespan}"
         }
       ]
     },
