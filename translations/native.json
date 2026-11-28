@@ -4960,6 +4960,27 @@
       ]
     },
     {
+      "uasset_sha256": "647cd0bd2ffa3ec30a1eb65cc0ffe0f933fcdafa9d0f33cc325134c5310ace1b",
+      "uexp_sha256": "2dd233a45a6ed72912142887a294bb76de31f3179b59fa68983b99295be27501",
+      "rows": [
+        {
+          "ordinal": 45,
+          "source_sha256": "bb72afe49f9fa389ad70868b5911aecb7f0b2039c73fd6da300abd03091f19d9",
+          "english": "Right, then! Steel yourself and charge!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "feacfa4bc3c7665097e6b23e4627456f43a7feadd5d074971267379d9bccf429",
+          "english": "Is that... Could it be?!"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "d1e182ffacf650b7056d9aa7b32db89e7a60710de219883e270e5ac89eb784e7",
+          "english": "[――]No, never mind!\r\nJust focus on taking it down!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "6550a1639bb65a34e44c80be3dead2e7eaf9402f9a273ceeac39fb8b63e2c966",
       "uexp_sha256": "51b5c5b86689011df78dc96e7b3ee2050ed26758ba018f443f785d2bef05dba2",
       "rows": [
