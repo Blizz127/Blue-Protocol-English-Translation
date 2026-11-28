@@ -5659,6 +5659,111 @@
           "ordinal": 87,
           "source_sha256": "322c5e4274349076e3af084f07eeee6f520a8e458bb3f0d9ec4cd6a3fabc198a",
           "english": "Anyway, before we forget,\r\nwe must collect our reward from Jake! Come along!"
+        },
+        {
+          "ordinal": 88,
+          "source_sha256": "1bc40417f04c8a0d0435fe717f5285d7782fa82158a6b7d232c3545f9496d86a",
+          "english": "Hey, good work out there!\r\nHere's your reward. You've earned it."
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "e6cb0268b6d1150ed6b6cbbce2722d98debfdcf34a056cdb85b486c75b6f18c5",
+          "english": "Listen... I heard something that worries me.\r\nFigured you ought to hear it, too."
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "6a52c92b5bcd4648acb86908728aa604c1b3a7f8b7ba8b7384abb0b1e50c6403",
+          "english": "Folks all over have been seeing strange creatures lately.\r\nI took another look at those reports[――]"
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "b3ceb2858b3ba66997926eef9cb4a223dd08baecd7727f4a2b09ec04298d0962",
+          "english": "Quite a few of those sightings...\r\nwell, they sound like Avaritia."
+        },
+        {
+          "ordinal": 93,
+          "source_sha256": "4da60d0ad53414bb166c9582872952f0d5b87c755a12c858e62fd02dc8fef13c",
+          "english": "There's one more thing."
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "996038fa4f53432b0eeedcf71f54bee1f5e915f174f9d8b6d44aeefc65bb9cb3",
+          "english": "Those reports started pouring in right when\r\nthe dragonkin started running wild."
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "2678162ff1c2fa2d1f830cb526120a1252b3ca709f99f85754156c6c7d41c12b",
+          "english": "Hmm...\r\nI'd hesitate to call that mere coincidence."
+        },
+        {
+          "ordinal": 96,
+          "source_sha256": "b42e260ea4d48927326c3b44833db697792270060155f6b6e02e57584b0cf09a",
+          "english": "I hear the dragonkin fought as a unit this time.\r\nThey never used to. Gives me chills."
+        },
+        {
+          "ordinal": 97,
+          "source_sha256": "0c0ae267dd3652eb606c01fafb265b8dafd5be63091c1b4adcfc35ea4d1c7176",
+          "english": "I'd rather not think about what that could mean..."
+        },
+        {
+          "ordinal": 99,
+          "source_sha256": "26e40513b667c6225da45816733914e53cc0359dd9f1210e697c34b738ecbe46",
+          "english": "Well, we'd need more than that to say the dragonkin\r\nhave anything to do with Avaritia[――]"
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "04683b0da80c3c2a396e4467400c764e0ad0f224e097f27a941e9b43fa7153a8",
+          "english": "I'll keep digging."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "9cb82812c23e8c8121f87d6c7bd0b9dbd5372a583939f57351fb0bc90d50b38b",
+          "english": "If you hear anything, let me know."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "20a02e193f2f14f39d7f6cb3afc92fa624aa86e81fe4089ca913c6efec5c9e79",
+          "english": "Oh, and think about getting yourself a new weapon.\r\nYou'll want it if you run into them."
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "6387a30f1e0ab3217df011474fddbb16fe19dc30177d96a67c9f8396718b72c0",
+          "english": "Hm? Never heard it before."
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "51ea7febb2464bfa7298ddd3e0afdf72ae079a420b9c09ed73e64542df6fe6f6",
+          "english": "So, uh... Millie. You talked to her, right?\r\nWhat did she say about... well, about me?"
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "3191dd19551e302187d16dcc005b23b7d0dc85faa8230a8392c61ffd3a78ef01",
+          "english": "What about the way I look at her?!"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "e853978aec22bc52c89b099a6c36f8b0bfb0d7638262d0fb70618f3f6cb640a3",
+          "english": "That's as much as your reward buys you.\r\nFarewell, then!"
+        },
+        {
+          "ordinal": 111,
+          "source_sha256": "3708bd7de31b0e533b692a67966a8998d18c190777eee57a7b4e26ba60174647",
+          "english": "Ho ho ho! A lady's secrets fetch a high price.\r\nMarket price, mind you."
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "337d5ac46b4623caa0afc8d62f7bf73af3d9973a2105cbd639f2702f842a4084",
+          "english": "Gah!"
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "694e2fb0a1ce11ee08105acb80727c4e03361879bd4b49c9f14bfcee9f177582",
+          "english": "...Oh, right. Stop by the Coin Inn.\r\nThe owner wants to treat you for a job well done."
+        },
+        {
+          "ordinal": 114,
+          "source_sha256": "5ffa621628a6d9e769ca79337ac8c8786b2d52ff54add871f76f5ee0e543cf89",
+          "english": "What!? Why didn't you say so sooner?\r\nCome, minion! To the Coin Inn!"
         }
       ]
     },
