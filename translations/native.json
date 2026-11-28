@@ -5966,6 +5966,36 @@
           "ordinal": 53,
           "source_sha256": "441a07ccfd39c89a18a813388c085dd99d8e39f5a6028cea961b70ed9ae03d0d",
           "english": "Of course! But if you want in on that, you'd better\r\npass that test without breaking a sweat!"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "cb4a0b732a2b0fe12359df1c7f24b9d214842862b046d215d00b5d88ee624c8a",
+          "english": "All right.\r\nLet's see... Jake was your sponsor, wasn't he?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "a8b99ea8781af1c20438773ef2bc28e93e41d9a12106724c765b76e36690d896",
+          "english": "And you've already taken down goblins...\r\nIn that case, a quick check of your skills should do."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "5761c93fba22373bcfff46407c43872ef269ed6564fa58010c3561964ff5316c",
+          "english": "There are a few tasks\r\nI'd like you to complete."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "f276de1f03da5376314b5b52c68172d38107a5b56508d41bba8ece60881bf415",
+          "english": "You might feel there's little point in fighting them again.\r\nI'm sorry to ask, but those are the rules."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "ae9abe4eb2004cf0e2ac3dc869278d4cbe9c42e4db7ac8d76518c4baae09b020",
+          "english": "Try a few different things in battle.\r\nYou could use a Battle Imagine, for instance."
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "74669f51731c3faf6101043cad7e1526b9217bcf728a96b8c7e2c8645cc33df4",
+          "english": "You've already got one, haven't you?\r\nAn Imagine gives you all sorts of new ways to fight."
         }
       ]
     },
@@ -6380,6 +6410,56 @@
           "ordinal": 53,
           "source_sha256": "441a07ccfd39c89a18a813388c085dd99d8e39f5a6028cea961b70ed9ae03d0d",
           "english": "Of course! But if you want in on that, you'd better\r\npass that test without breaking a sweat!"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "cb4a0b732a2b0fe12359df1c7f24b9d214842862b046d215d00b5d88ee624c8a",
+          "english": "All right.\r\nLet's see... Jake was your sponsor, wasn't he?"
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "a8b99ea8781af1c20438773ef2bc28e93e41d9a12106724c765b76e36690d896",
+          "english": "And you've already taken down goblins...\r\nIn that case, a quick check of your skills should do."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "f4f20844a4df4fadab3b2046f991c82fc8e4c51da974a24c7a418a381821c14e",
+          "english": "For your exam, I'd like you to go\r\ninvestigate a dungeon."
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "d9eb4fad4f874a850e38f05b52dfa881254c734ea4dbbdc57ada32c0a65ab133",
+          "english": "Lakerid Mine, eh?\r\nAn old mine, if memory serves. I hear the name now and again."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "3e51aa78b445a2870e138fa6d1ebbb0d1d720e534d86142bf9fc8f0e79f8aeec",
+          "english": "The old mine tunnels are what's left, to be precise.\r\nI want you to explore them and reach the far end."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "542b5a8500626351d1983a5e76a5ecae9abf26b7e2a6be083dee62905b202d73",
+          "english": "You see, monsters moved in after the mine closed.\r\nThey're not all that dangerous, though."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "0a0f3fb6692322925979f4484af875746d7a268f7aefa2f4f7400cfddbef19db",
+          "english": "Oho! That's a rougher trial than I'd have expected from you."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "8fd6e9903324046fea7aaf9efda56329fb8ec2c24ce211d81b6376a50221061f",
+          "english": "Hehe. Surely an adventurer ought to be able to handle\r\nthat much on their own."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "8dca46ffb65bebcb5c03d5a4eca4cf1963e7754055d9283e5d2b4a7093531be7",
+          "english": "So, for your adventurer registration exam,\r\nyou'll be exploring Lakerid Mine."
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "4e4694127f16325f02ff8db23c6966638acb5cab3ec45cb9bc8b38bf9fdcad4e",
+          "english": "You've earned Jake's approval, and I've got high hopes for you too.\r\nGood luck out there!"
         }
       ]
     },
