@@ -2,6 +2,32 @@
   "schema_version": 1,
   "tables": [
     {
+      "uasset_sha256": "0170755dcbedf2f96fcb83e3066e8aa42b853f826735f1fdfe9987b06908a7c3",
+      "uexp_sha256": "3c546e398f0ca2313753bec880f4eca811759d39e13432a2aae7b1164eb0017b",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "86de52d178203799951d818b1d3af85f13288de66bf2b0373cc21f53b1e42ff4",
+          "english": "Element"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "c4322846fc0283a70c281c14510f94ce2d09eed3e37a5925beabaad620169a0f",
+          "english": "Slot"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "c4322846fc0283a70c281c14510f94ce2d09eed3e37a5925beabaad620169a0f",
+          "english": "Slot"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "208c451066f47671707fbc01be17581ae9a7cdffe258e7c7fbe5da28327fa1f1",
+          "english": "Change Settings"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "01d1b8ba71b46006143c406448c016fc5799bf983c17f742739fbf7547c9c448",
       "uexp_sha256": "9f45c6949eb200c0a9d53f148e619a310cdcacb6ad535a57e62ca0b00b8b6068",
       "rows": [
@@ -313,6 +339,147 @@
       ]
     },
     {
+      "uasset_sha256": "0bf81a432b8a1403c6583a29965b42fee704c59540b98f692fb604906081b95e",
+      "uexp_sha256": "b72f2fdbfd281c859f476af8618f3348eea5887dba4be9f320d4da2d29e04f98",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "832f5344352075f6d21c8cc80d2e0179e4740f14041af7ab1768cead0b351bc4",
+          "english": "None Held"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "8ac6874505237b6ea6302c59882737cab0ebd2771af1c0468e055d45ffdabfae",
+          "english": "This isn't a consumable."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "1b22cc34b8f31495b34d2ef974347879b9aa1b638f9f72002a32419ad1093a29",
+          "english": "Your class level is too low to use this."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "feb61f72f0716273ef54ee95d72aa6656cf195e164033d8b0106e6b226414bd4",
+          "english": "You can't use this while incapacitated."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "816b2687fbd90356297ef8f2f27d1fa952d7e7f1352b512d21d7fd452329c974",
+          "english": "You can't use items in your current state."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "5aaf2a6488d250561fad9b7505156fddbd68e056b8631520fff2df574ad1dff8",
+          "english": "You can't use this while operating an Engram Cannon."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "97f5b72c269ef9e43aa069acd45993adf6a6a7e3d1a55b72ac9eec03b44de699",
+          "english": "This item is on cooldown."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "c9c1ff5702efbd2ba5365a5966df0120cef1f2f4d19bf2c7583a46b8a57d0db3",
+          "english": "You can't use this item while climbing."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "0945e58a692c9c5bec76d05407208dcb07172e3e6dac2b5dd867a4e31917b049",
+          "english": "Sheathe your weapon to use this item."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "b9264eec49008ba62dc6529e7db19434fb4743e3e68863fd7e4c044ae5711ea0",
+          "english": "You can't use this item while mounted."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "164e6114857d36804b892f6c556e5145e4368063e1878570d39f63333f230e40",
+          "english": "You can't use this item while jumping."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "1648198c50e5dcf2fdd87e65b217bc75a601356ad542d279f1b1554c6c604724",
+          "english": "You can't use this item while swimming."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "44fbf20dc4d2b1b226542184f2168930c97da985f1041f7312e40afbbac87ebd",
+          "english": "You can't use this while fishing."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "b3813a6419585e6b8bce458cf4a40b654d3b9387084725be6ef3fd42852a1e4a",
+          "english": "Unlock this item to use it."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "082b8f7819a9845dc4dcb13a970ac11c4185f652ca98a7a7dc1bc97daef0440e",
+          "english": "Your current class can't use this."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "eb172c55f4b5b80b2919736a524b4a3480a6a940a2c6f4fe7abe7d410dffece7",
+          "english": "You can't use this at your current class level."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0ce7237f374c2267cfab4d6720528a0bb7531404bccb64b9b9b7c6753ffba004",
       "uexp_sha256": "b1f2387ea3f404ee8e17ebe9df9815c9a4469c7f3fd00f4b2f1dc65c5a338573",
       "rows": [
@@ -450,6 +617,22 @@
           "ordinal": 79,
           "source_sha256": "d62a4c68b4c1be1299456a8e8dbbf3d5cad52f5baa36b9f40c09f27e385c7541",
           "english": "I hope the people who read this in years to come\r\nwill face the Order with their eyes open! Ha ha ha ha ha!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "0d1344d12bf917154316125d22ace5a7335143c25b49d24402b51599bd30639a",
+      "uexp_sha256": "f7728ea8219022f915d8067dfb757e151900f71983c0d92d77e5c55605784c48",
+      "rows": [
+        {
+          "ordinal": 55,
+          "source_sha256": "526c89ede5171bc119125367470d4a12d00e44295fe29fe6972de45879e7170f",
+          "english": "Degrades in"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "44e35687fb4ae99440c28f9e593825919f11e15d4913e0aaad45576afa67f875",
+          "english": "Valid for:"
         }
       ]
     },
@@ -641,6 +824,107 @@
       ]
     },
     {
+      "uasset_sha256": "109ff4d52feaa0fc66d82b7b52cdaf809b7271cf91dc2184a14bb056066f8748",
+      "uexp_sha256": "ce456fa0064ecd52c37f3fb4dadb0aa457cfac14591c385153cbb1f513ccfafc",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "3ff7d1edd34de79f5d3c508f464a0ce09f038eb83f581cefd130f718c6fcaf24",
+          "english": "Open {itemname}"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "95086ce43be8a6f7a5fa1033061df46ae3fa44e8c766c46a1c5ccf4437a08a06",
+          "english": "Receive all items."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "2c8960b8a588b289a85024dc9d004a7618ddc54133051c2c46e34080f1b6ff0a",
+          "english": "Receive {num} at random."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "1d8dfe70fe231b57d2b05e81482351158a1d82cfe0c191e144b56220a49c9cdf",
+          "english": "Choose {num} to receive."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "d5cdf1395dc93b2e23a29988a9f54a493669d4514ce60b56dbc0c6019fd2386e",
+          "english": "Destination (depends on random results)"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "74c4002d77fd759a5e40bea738cc48bd792f736357b6c7fbee317116f8bd7af7",
+          "english": "Equipment Bag"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "79d1849acbd90206af5e8c1553d3011a92e8b60f413748f01534e95f0ae23684",
+          "english": "Allow items over the limit to be lost"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "0eeb5f474c504f520569ab7a71c42911161e3682379a92e6df51fd7c63febb55",
+          "english": "Includes equipment you can't equip."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "6acdfc96d10d275b9dc8203666d3a1aa3b4d2d7c927496ad2ce378f38451b313",
+          "english": "Contents of {itemname}"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "e265dce259217da4a3cab6c7b79296c97a46664c5b0ac4fa7373857f81eb2025",
+          "english": "You can open another box of the same type."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "2e6a2b52e86801c539cff75ac59b99d6862fbe61d377c1db3196abbebe8428cc",
+          "english": "Lost because you reached the holding limit."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "ab56fe2db207ea541dd18f4c2aa792260d0e83a4fa5bc593035b66de39db33d7",
+          "english": "Sold: {Num}"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "0def2e4f735dbafd3a0d8de7608fac86a3ce3dac0adadfabd184eda1fa880132",
+          "english": "Quantity Received"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "e0990e271088748f7122567fe8be4f831511bd7858cf62407159a00627fe94d0",
+          "english": "Currently Held"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "9e95b0c8bed7d4f918f81e77d1f38bfb351295d309961bb9fbdda51214e44c36",
+          "english": "The destination is full."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "6d8a9d222f341bf0c77398ba5ea03aa0ca00cdcbf6bac24a75a68fec3ed0022e",
+          "english": "You already have the maximum number of this item."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "fe72ab759b362a70d822411e92890a684288ffc676e304c2d42575b7a65af202",
+          "english": "Confirm that you agree to sell these items."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "8b9f36c8fda5623905f371afd6c91ecb91d2cec5b580b3d9c735a9ea04fa04d4",
+          "english": "Confirm that you agree to lose these items."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "96c6a00805a2f28a8e00d1c4b5dc7b8beaca025fe5ca78c79e8fe66ce84c7c46",
+          "english": "Select more items to continue."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "1114cacf74609d7dc4ff675d30d772b8ae69d2363bd00a53ef28100b408b3969",
       "uexp_sha256": "e0f579af6d3db72cc68e58e738c4303cf997a9a7fe6ea568e40fb120d9bf2b05",
       "rows": [
@@ -815,6 +1099,17 @@
       ]
     },
     {
+      "uasset_sha256": "13613267473a1e8a544c1979b751c31ea0fd50078bf55b978fb3dc9227fb95dc",
+      "uexp_sha256": "61ba98817b154404f4715b5f462f008ed9f4b2dd01fa0688eaef4ec54695891a",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "597a80237c94958ee72b3fd641207796a27d401e9ac7b70d6db132e09d63976a",
+          "english": "Items"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "14986e16b8394cbe7fd617f88064c249c10860e5bfa442ec2453846db97414b2",
       "uexp_sha256": "5f8aa45cdc49a7cfa41e30e97316943c24f9605435141a0fb7354fea71641ae6",
       "rows": [
@@ -953,6 +1248,32 @@
           "ordinal": 298,
           "source_sha256": "80e51524ff5d8973fff2d9898d4d39639f6bce807e9716b08772999e256cb856",
           "english": "Throwing Actions"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "17603478deea4a901d3af4d8e7b3d486bddc4bc60b9fb4e579880fca6822cbfd",
+      "uexp_sha256": "2761f67bb5dde965a9db2bac5a694625bb0611d9e7561f754313821a7f40bfd7",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "86de52d178203799951d818b1d3af85f13288de66bf2b0373cc21f53b1e42ff4",
+          "english": "Element"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "c4322846fc0283a70c281c14510f94ce2d09eed3e37a5925beabaad620169a0f",
+          "english": "Slot"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "c4322846fc0283a70c281c14510f94ce2d09eed3e37a5925beabaad620169a0f",
+          "english": "Slot"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "208c451066f47671707fbc01be17581ae9a7cdffe258e7c7fbe5da28327fa1f1",
+          "english": "Change Settings"
         }
       ]
     },
@@ -1464,6 +1785,17 @@
       ]
     },
     {
+      "uasset_sha256": "1a55816081a6d9d5fa4413b4a7d51da71089745e219d585b5d2ae320e70ba01b",
+      "uexp_sha256": "f45556b1ae92e0ad192d90b3cefea39a7364ebead9b8370f0950a3a243936e02",
+      "rows": [
+        {
+          "ordinal": 36,
+          "source_sha256": "9adc8f54d2d07448446ea644adbe3356d4aa329338cc98e3307d30e1bf373110",
+          "english": "{EquipmentName} has expired."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "1dfa2f52d9d275a2e531a113e0255f275e1da16800e19f9e312e371796f01997",
       "uexp_sha256": "545a8e3228ab69a80961ce0b88e4c50dba55b86068f9177a5f14c38136858226",
       "rows": [
@@ -1493,6 +1825,17 @@
           "ordinal": 26,
           "source_sha256": "69ed375a375321d7422990f406a3fe519c6b35904bd7a4af68048731a200892c",
           "english": "Check the requests filed with the Reclamation Bureau.\r\nYou should find one that offers an Adventure Board as a reward."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "205230dc5a0849a6ac6ebbb73dfea31bb74a5fb1a638a82a9cc1e844bd3d5651",
+      "uexp_sha256": "dc1e3555f5e25a4e1d762075364a8e0c2f17dd07c6d8a168ef9332dde775d079",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "38a127fb29c2f041d4d1a655476eb4850919f721066e653ad408d10f20de9b3e",
+          "english": "General Materials"
         }
       ]
     },
@@ -1973,6 +2316,132 @@
           "ordinal": 49,
           "source_sha256": "92601302c386e1b564e881550b8a04ace18c0be11440eda15a48cd5dbaf26d79",
           "english": "That's Lord Kava Aku to you, you simpering little fraud, po[――――]!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "251959f7d355e128b3cf057291a858004c50f31d2433cae0e0f199a7162c831f",
+      "uexp_sha256": "88c86e370d9d4b4ff77dfa9c785068628b6f3690f916c1dd9c4083a2770a2cc1",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "832f5344352075f6d21c8cc80d2e0179e4740f14041af7ab1768cead0b351bc4",
+          "english": "None Held"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "8ac6874505237b6ea6302c59882737cab0ebd2771af1c0468e055d45ffdabfae",
+          "english": "This isn't a consumable."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "1b22cc34b8f31495b34d2ef974347879b9aa1b638f9f72002a32419ad1093a29",
+          "english": "Your class level is too low to use this."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "aa13e899e880880f3cb135e1756f99065ad5a868f525c21ef7f7bef62f991d00",
+          "english": "You can't use this item here."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "feb61f72f0716273ef54ee95d72aa6656cf195e164033d8b0106e6b226414bd4",
+          "english": "You can't use this while incapacitated."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "816b2687fbd90356297ef8f2f27d1fa952d7e7f1352b512d21d7fd452329c974",
+          "english": "You can't use items in your current state."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "5aaf2a6488d250561fad9b7505156fddbd68e056b8631520fff2df574ad1dff8",
+          "english": "You can't use this while operating an Engram Cannon."
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "97f5b72c269ef9e43aa069acd45993adf6a6a7e3d1a55b72ac9eec03b44de699",
+          "english": "This item is on cooldown."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "c9c1ff5702efbd2ba5365a5966df0120cef1f2f4d19bf2c7583a46b8a57d0db3",
+          "english": "You can't use this item while climbing."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "0945e58a692c9c5bec76d05407208dcb07172e3e6dac2b5dd867a4e31917b049",
+          "english": "Sheathe your weapon to use this item."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "b9264eec49008ba62dc6529e7db19434fb4743e3e68863fd7e4c044ae5711ea0",
+          "english": "You can't use this item while mounted."
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "164e6114857d36804b892f6c556e5145e4368063e1878570d39f63333f230e40",
+          "english": "You can't use this item while jumping."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "1648198c50e5dcf2fdd87e65b217bc75a601356ad542d279f1b1554c6c604724",
+          "english": "You can't use this item while swimming."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "44fbf20dc4d2b1b226542184f2168930c97da985f1041f7312e40afbbac87ebd",
+          "english": "You can't use this while fishing."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "7841bae46d78f48559c7b2b9bc5466e8c4128b8b08d344c630969fb7babcbd19",
+          "english": "You can't use this item right now."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "b3813a6419585e6b8bce458cf4a40b654d3b9387084725be6ef3fd42852a1e4a",
+          "english": "Unlock this item to use it."
         }
       ]
     },
@@ -2549,6 +3018,11 @@
       "uexp_sha256": "868be1bcd6bed67666cfc76f62c5b5621298bb66ef7cf89b7faac7c5ae8536a1",
       "rows": [
         {
+          "ordinal": 8,
+          "source_sha256": "658de5750c4f7aca8de2fb20b616ebb9863df1241f88b776dc1bb2803c896e34",
+          "english": "Discard {ItemName}?"
+        },
+        {
           "ordinal": 10,
           "source_sha256": "601e6a1453b0ae104801405e0edca0d8bb3227e3f604b6311c472f97b018fd8c",
           "english": "(Up to 12 characters)"
@@ -2562,6 +3036,11 @@
           "ordinal": 40,
           "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
           "english": "The new mission\n{MissionName}\nis now available."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "fde857f7667ffaa80e20ed203d7120c8ace14cd5cde1a0e5193cbe4073721f2d",
+          "english": "You've selected unused equipment. Mark it as applied?\nOnce applied, equipment can no longer be exchanged for BP Points."
         },
         {
           "ordinal": 57,
@@ -2704,6 +3183,11 @@
       "uasset_sha256": "366a9b6504be5fe31f95849f5ec08693c03f53a514f06861ddc87bc2d2b3a4cd",
       "uexp_sha256": "e004f3f2a79fd9587992eb3f1188d6b7204e0d8e30b79a3632594bbe4161aca9",
       "rows": [
+        {
+          "ordinal": 13,
+          "source_sha256": "d7a5fe945883594a794a921d57f543934863f2c9ec654642066d495e9ac4fe4d",
+          "english": "Limit Break Stat Boosts"
+        },
         {
           "ordinal": 15,
           "source_sha256": "2b979b0c79f66519bf45c87ec0782b752ba670df0120976aa5a737da207a790b",
@@ -3750,6 +4234,26 @@
       "uexp_sha256": "e4278a54503ada9df2ad51c03ea07a7c1b0aab90694034d9da1b9d782a683976",
       "rows": [
         {
+          "ordinal": 15,
+          "source_sha256": "22f87469a4cc758498b3123b49fa84f54bd7ea262b1cb9794bf60cdfb9538664",
+          "english": "Which side would you like to wear it on?"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "d827686a26cf4b04274abe221b3d865c09979db91bffb15149de642b7a21f8d9",
+          "english": "Unequip All"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "0933cf4a5a089d2367a1c073a399e9551c962bf3844091fa38da712ea0007832",
+          "english": "Could not load your earned titles."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "99311a9f63445fb501bd3b23ebf7ae07c4909043c1491da065c0550899f6fe5e",
+          "english": "Could not save the selected title."
+        },
+        {
           "ordinal": 127,
           "source_sha256": "6a9dfc7efebb2f696672801614be040767f41f273c6e7b22fc62d7f1304b1ba9",
           "english": "Class-Specific"
@@ -3763,6 +4267,22 @@
           "ordinal": 159,
           "source_sha256": "802a02037c1c08f2c8af67bf34c9e190cda404fc2ee9239d7be2e1404374663a",
           "english": "You can't equip shared abilities from your current class."
+        },
+        {
+          "ordinal": 192,
+          "source_sha256": "f4de088b4f6c1df42569153e4180c2d418112a7efbc30243e47350591d5397f1",
+          "english": "Bonus Damage Details"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "4e9576b0e4a4809a7920463dc81f0721b15aaa86351ac18476d1e4b94fed8714",
+      "uexp_sha256": "bbf50934f90ea60116a2451ae10d1b2fb81fcd8758b6d62c8528ef1f423f9bf2",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "9b8804b3f343636b08b0d87e873a5ca710d88b86eb39f2cc8ac1ce4ca2a9106a",
+          "english": "Offense"
         }
       ]
     },
@@ -4734,6 +5254,11 @@
       "uexp_sha256": "640f60c6711f388e7d63a0d59f05f2f6144c7a00dbeac94fb62ed617515d2330",
       "rows": [
         {
+          "ordinal": 0,
+          "source_sha256": "31cb80e41a9a54fa992067fad13db18f3563bc8b39004204c47abf0473f7d2be",
+          "english": "During {condition}, you cannot change {target}."
+        },
+        {
           "ordinal": 3,
           "source_sha256": "a748edfcf1feaedc08827680219a92c593c7e82860bd077571337f9ec2d84072",
           "english": "Unable to change {target}."
@@ -4977,6 +5502,32 @@
           "ordinal": 1,
           "source_sha256": "5ce8bd3ac4204ab4a90a7e199f13aff035edba8b643792e1d11a8f583da8a6e8",
           "english": "If they were just flying overhead, that'd be one thing…"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "6472f4d42e3460e91b225756b4e9ec325c13c8d1bc93bcd9434a5e939b404d9e",
+      "uexp_sha256": "3b68eeeb31a91294e54d92c86e4c9833c065ea9308ddd09cc16aeedfd7abd960",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "e450e73b45d778e1807e28d4b0474013bf11b6f5502d86409f750538dfbf385f",
+          "english": "Determined at random"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "03d6031373b136433fad3d7a6e3437ae5adf19aac0bcf332fe3939f6b7982856",
+          "english": "Open Sockets"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "f90627966fd03c14d0918d1329ed37291222286b78fbb209caeff827a2c12770",
+          "english": "Quantity to Craft"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "e3fc2ce19ab1e9b40354eef7e3af8ce48fff30af9ce3b09da4ddcb5cecbcee02",
+          "english": "Great Success Results"
         }
       ]
     },
@@ -5454,9 +6005,39 @@
           "english": "Acquired (Oldest First)"
         },
         {
+          "ordinal": 8,
+          "source_sha256": "156eb99d281f96a96b53d3b3711d83cdbdc9af35119ae06ba305fcb6276db89e",
+          "english": "Level (Low to High)"
+        },
+        {
           "ordinal": 9,
           "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
           "english": "Acquired (Newest First)"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "f2c48d61da3f8db51aa6058a97278785eb2e8d6212ed47be843d5eb77a405dbf",
+          "english": "Level (High to Low)"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "7bd53b93cbe1a51bcc2cf37848ab3870b971d75e66a4008dd32bfa081a009067",
+          "english": "Sockets Required (Low to High)"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "a080dff7bf9c9b975355040cd64133961c0b7afda9b82a13b04388496aca8a64",
+          "english": "Sockets Required (High to Low)"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "60ff41dbd2460be9867ea1a879ce0a54b1de30f9ebab448e74521d3650880dd9",
+          "english": "Max Sockets (Low to High)"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "3bd802448db7b3269d65c8a717ae6cba6af25dedea8b759d561b53f9ca17856f",
+          "english": "Max Sockets (High to Low)"
         }
       ]
     },
@@ -5566,6 +6147,22 @@
           "ordinal": 106,
           "source_sha256": "a73292c0742be304d44efa47436dfee2d3b6c24dc397dffab080ec3a619d8383",
           "english": "Cannot Rebind"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "7321ec45b96fecbe2658c8186105018b853480b4981c8654577227e7d4cb1a81",
+      "uexp_sha256": "3b5f35b2f9506836ea0d16b4a2d18dbe266cf95b2ea1a6d1ac3380b2dfbe612a",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "880eeb0e8ba43e9f26766c53cf5a69f609f6ab6a6c50b9cc54a135386815088c",
+          "english": "Normal / No Bonus Effect"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "227464b6be24cd400119888820c91f03be664d7ae4a8d249a3fa47bd64a8531c",
+          "english": "Bonus Effect Rarity"
         }
       ]
     },
@@ -5714,6 +6311,22 @@
           "ordinal": 5,
           "source_sha256": "035f427db97834c76324a1a03f98742cad79a397a1b1e02020110cee781048c7",
           "english": "Hey, did you hear the Principality of Bernhardt\r\ncame under attack from the dragonfolk?"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "76335c5ae96b1bf7bde7dc0044901c3535351d28e3a8e95b89594cc9f3cbd992",
+      "uexp_sha256": "8ab228a5503a1e4e3fd5f9be79aee3bd80b8078d81acb8dfa0a3352852766c40",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "6448195cd7a60caa9c774399fb272540ce524abebf10bf8ef2b1bfb09de2e4d3",
+          "english": "Ears"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "48e3a023f89979771bf7c88683b1624393731c30796bce679f0f67dfb3d98bda",
+          "english": "Hands"
         }
       ]
     },
@@ -7009,6 +7622,26 @@
       "uexp_sha256": "923eb267801aae02b4f0102e227fe088fda63de765eb2bef84461d4f539bcf62",
       "rows": [
         {
+          "ordinal": 15,
+          "source_sha256": "22f87469a4cc758498b3123b49fa84f54bd7ea262b1cb9794bf60cdfb9538664",
+          "english": "Which side would you like to wear it on?"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "d827686a26cf4b04274abe221b3d865c09979db91bffb15149de642b7a21f8d9",
+          "english": "Unequip All"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "0933cf4a5a089d2367a1c073a399e9551c962bf3844091fa38da712ea0007832",
+          "english": "Could not load your earned titles."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "99311a9f63445fb501bd3b23ebf7ae07c4909043c1491da065c0550899f6fe5e",
+          "english": "Could not save the selected title."
+        },
+        {
           "ordinal": 122,
           "source_sha256": "6a9dfc7efebb2f696672801614be040767f41f273c6e7b22fc62d7f1304b1ba9",
           "english": "Class-Specific"
@@ -7465,6 +8098,194 @@
           "ordinal": 16,
           "source_sha256": "1651ef947ec311aeded19d4dd8230b4f4a003076773e589cac2f621c99ff7e30",
           "english": "Directional Buttons"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "96462f571aafb1b695dcc738127df7496264ec67ae957e2c2d40b3a4f5335331",
+      "uexp_sha256": "f307abea3994eac837c2d0bb2a5e28ea9c49938b3902faf5c2ee24f1429dc8f9",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "66f989a1dd7e5eeb62de4729cbcc151c66681183d90b854e7e689a520990e523",
+          "english": "Select equipment."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e721d064de4863b29d2b5fd328338b20a076e3636d48d7ff1f13a2bda2b3685f",
+          "english": "Select"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "5ab8cbb6c51e89cad11b6c8e2637788f6dacd3234821c39adabd583126ee9a16",
+          "english": "Total Sale Price"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "ec643269d718401ff68f50860a45f1254aa4d6a41445bd8c712d16ece2e5fd70",
+          "english": "Equipment Slot"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "a5df854620f018c1ee1106d82c247d647efd7ba812b51449be8e099b470f886e",
+          "english": "Equipment Storage"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "74c4002d77fd759a5e40bea738cc48bd792f736357b6c7fbee317116f8bd7af7",
+          "english": "Equipment Bag"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "53ff9260dcfd130702671d17b4c3ae287792616db58ef32dd5d89057758f59cf",
+          "english": "{UnitPrice} Luno × {Num} = {TotalPrice} Luno total"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "00d2383d8fefbee1c9a87e84897b75168804384944bdbd4aa193da89cb2dd4af",
+          "english": "Choose how many to sell."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "f1911102d4a47f5386d1e8e510478f501eead3f0339156dea8b6af5aade94e51",
+          "english": "Choose how many to discard."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "85bf0369fc16e110a05f33ab5a300b1f8ee273a71ca3f26ab3bf1943f95a69d8",
+          "english": "Choose how many to move."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "215ff6f4a0068d88157546d897ab12a5a924514a51b98208e02f58637a6cbc9d",
+          "english": "Sell for {MoneyNum} Luno?\nAny Luno over the holding limit will be lost."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "078f3631d331499cb029a1ff270e91d4013e85d00eb153cb7be4359a9d881916",
+          "english": "Discard the listed items?\nItems that can't be discarded are excluded."
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "c92f0c8111ece35eaa659401553c6b5b42cf4ec3647a1e6e2c19f152ba41db8a",
+          "english": "Sell the listed items for {MoneyNum} Luno?\nAny Luno over the holding limit will be lost. Items that can't be sold are excluded."
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "34e4a529658a58e2b88a7a2a4c5315cf23c339aa62cf84b5222d54a042b21a14",
+          "english": "Select items from either storage or your bag to transfer them."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "d06a2bac04e742a238182eb0e38fdae7d0a690096eadf937436f6ffa0bd4105a",
+          "english": "Select multiple: [{Auxiliary}+{LeftClick}]  Move instantly: [{RightClick}]"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "970c8984ead6fb9ed665c0e89e593fd43be70a359c3aff7ffbb966df914deeb6",
+      "uexp_sha256": "56941e36fe09ee3ee95c34fc580cefc76873c022f640295c6c2d638ffecfb022",
+      "rows": [
+        {
+          "ordinal": 43,
+          "source_sha256": "ad9ee7ee0b9bf1dd92121d2c9fa470d41e8832bd415bc1c17073db9361a39fc0",
+          "english": "Cooldown"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "b438c14cb313e41f3cc53573ad47e0947c2a8587bc92d5fd5437093a21aeca6a",
+          "english": "Duration After Pickup"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "f8040a5c0229b74158f05b720a8b17faa90cd63d2e288d9b4dfb13ae3e3ca1b1",
+          "english": "Cannot Sell"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "71e080f310d116921c0fce8e83ead3d42f121e5032a3a02b26fcafe68c4e1350",
+          "english": "Ineligible for BPP"
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "02fd6aef487767ecc3d80f1a5532ab8afb946732d80b28938fba9246abd0c576",
+          "english": "Cannot Limit Break"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "492f8f2919d27ce75080f8ef7a5849ce2b81612b1def4c4fda3471abc76f0a53",
+          "english": "Use this item?"
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "67c601d5dbf463cfd60496d49471d74a2a23a8269a5ac12d443da906cd1125d1",
+          "english": "XP +{num}"
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "5c51349cdc5c3f3196f2648b624750b59e25e5267b302d022afb44261ecdaa8d",
+          "english": "Couldn't upload character creation data."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "e5f6054bb1a3dca2d6f6d6dc894301eb099447c07aa4e3e8b7e88fa7caba6000",
+          "english": "You'll reach the class level cap. Any excess class XP will be lost."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "f9baa5ba7deaf992242d4540776bc68dea79048bfc8397dea1f9f1aad012200e",
+          "english": "Your class level is at its cap. You can't use this item."
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "b97e424a7761fa6dda9e1363878a789fe3dfd8cc4caaa7e0c89d1fae24092366",
+          "english": "This equipment will disappear when it expires."
+        },
+        {
+          "ordinal": 99,
+          "source_sha256": "e2f1354fe2843763aedf09912e5272144d96991cf4cb8355422332827abdaa1a",
+          "english": "You can't receive more currency or tickets once you reach the holding limit for that type."
+        },
+        {
+          "ordinal": 125,
+          "source_sha256": "d7c683f994cc3e116ee9cf8c5fb22efbb7cb11766491e21e1a959fe8e0d0a51a",
+          "english": "Choose a quantity."
+        },
+        {
+          "ordinal": 127,
+          "source_sha256": "43167cdc453165a75aad320d81e3ffecb643f69a0f11630b611b643d0b9a5e0d",
+          "english": "Show details for the selected item."
+        },
+        {
+          "ordinal": 128,
+          "source_sha256": "94d0414abdb8e9c86bd9404ea67823194d37312bc1771c5f5f16da5ebb7d628f",
+          "english": "Show details for the selected equipment."
+        },
+        {
+          "ordinal": 132,
+          "source_sha256": "c7028f4d4acc6776218d38196d1c17751088e60fcdfb2d21ef08def9e983a38a",
+          "english": "Using this item will replace the active effect of the same type.\nUse it anyway?"
+        },
+        {
+          "ordinal": 145,
+          "source_sha256": "ab7028bf7180c180373d76d03bbb1402a488d6d13fc18c8e0725e99b3fe001ac",
+          "english": "Max Limit Break"
+        },
+        {
+          "ordinal": 160,
+          "source_sha256": "4d768d316f538336da668e71115a1545645e1304b1f75367fd5bb71efa01640d",
+          "english": "Show details for the selected furnishing."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "97a13d575b58a04a486febb60fe50e8961840ae8246b56929e54ac2b2556a673",
+      "uexp_sha256": "c7291d6f0e6554877b8d518fe486b62c9c5aa949a93ad1c82ffb402f28d39d24",
+      "rows": [
+        {
+          "ordinal": 22,
+          "source_sha256": "03d6031373b136433fad3d7a6e3437ae5adf19aac0bcf332fe3939f6b7982856",
+          "english": "Open Sockets"
         }
       ]
     },
@@ -7988,6 +8809,17 @@
           "ordinal": 45,
           "source_sha256": "98b00ac1483382c64442f824dfa62147f8d176cb51b1951df4f641ed0f88a1b3",
           "english": "  Upcoming Event"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ae9587c921763cc19d7a761f611becdf20afee1f391da291d8e519f351389f44",
+      "uexp_sha256": "53f95ca54a260157e14c60ddabd335e9206d7133906c16c1e4d5b4cd4448f4af",
+      "rows": [
+        {
+          "ordinal": 22,
+          "source_sha256": "03d6031373b136433fad3d7a6e3437ae5adf19aac0bcf332fe3939f6b7982856",
+          "english": "Open Sockets"
         }
       ]
     },
@@ -8614,6 +9446,43 @@
       ]
     },
     {
+      "uasset_sha256": "bbf30ff554e82737f3c4f49c549290b3957b99f5115d85e3b0ddc3dde8d5875b",
+      "uexp_sha256": "0eee91eb0e981e65053e22f8a0aa9742cf73006bac42600d4aae3f9e3ff07213",
+      "rows": [
+        {
+          "ordinal": 54,
+          "source_sha256": "526c89ede5171bc119125367470d4a12d00e44295fe29fe6972de45879e7170f",
+          "english": "Degrades in"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "bcdd1e5746b2df2e1495a89b6b418f9f5f5b147f5d7d27521075e7f9960c5a26",
+      "uexp_sha256": "0a34fc06b79186336a3e084fb6655a2adbc250e7002097ad04a7cb20f8cc153c",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "8c3be25e7682efb16dd08f2f439c7207511813cfb01a8f5e394e35f4931d8a97",
+          "english": "Requires 1 Socket"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "06ba42b28681294baa1632d1dd2330d178b0eef620e180411787c6f578e4ed64",
+          "english": "Requires 2 Sockets"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "e5e38799546fe0c9aea04cd35799c32c41a5e15f466ee959d24bb703fc2fe1b9",
+          "english": "Requires 3 Sockets"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "12d1644b8040bf8b109e3291225fdf20a790ba1c4ae0020464d914ef9777dd6c",
+          "english": "Requires 4 Sockets"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "be02b600ae0cdd08ae439ac4b6cfda819eb23f4901171da1c1c52c184d7abf02",
       "uexp_sha256": "872d078906ad98535e3ef4bed679eca160c0835ae5fcb58d09de13496dbf6538",
       "rows": [
@@ -9052,6 +9921,118 @@
       ]
     },
     {
+      "uasset_sha256": "bf6655e5c35eef6a4665b9bccae30e2b6d78e004e49af3266988fcaabc7332a2",
+      "uexp_sha256": "644e7ce3c6a0924e469c28c426ec20f434338ba98048865627c20364c08014f8",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "31cb80e41a9a54fa992067fad13db18f3563bc8b39004204c47abf0473f7d2be",
+          "english": "During {condition}, you cannot change {target}."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "bf7dd1d93adae1e60b2e6f8b091ec59974359c388e94be785c85e209da80a0db",
+      "uexp_sha256": "732b7a6ca0cf66f833386c569797543f646862a71bb0c87430f3af3b0b4c6971",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "3ff7d1edd34de79f5d3c508f464a0ce09f038eb83f581cefd130f718c6fcaf24",
+          "english": "Open {itemname}"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "95086ce43be8a6f7a5fa1033061df46ae3fa44e8c766c46a1c5ccf4437a08a06",
+          "english": "Receive all items."
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "2c8960b8a588b289a85024dc9d004a7618ddc54133051c2c46e34080f1b6ff0a",
+          "english": "Receive {num} at random."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "1d8dfe70fe231b57d2b05e81482351158a1d82cfe0c191e144b56220a49c9cdf",
+          "english": "Choose {num} to receive."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "0511983db537f3543f1984c7473719283a25106fee14bf7d1f284b95fdf7abaf",
+          "english": "Storage Location (may vary)"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "74c4002d77fd759a5e40bea738cc48bd792f736357b6c7fbee317116f8bd7af7",
+          "english": "Equipment Bag"
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "79d1849acbd90206af5e8c1553d3011a92e8b60f413748f01534e95f0ae23684",
+          "english": "Allow items over the limit to be lost"
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "0eeb5f474c504f520569ab7a71c42911161e3682379a92e6df51fd7c63febb55",
+          "english": "Includes equipment you can't equip."
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "6acdfc96d10d275b9dc8203666d3a1aa3b4d2d7c927496ad2ce378f38451b313",
+          "english": "Contents of {itemname}"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "e265dce259217da4a3cab6c7b79296c97a46664c5b0ac4fa7373857f81eb2025",
+          "english": "You can open another box of the same type."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "2e6a2b52e86801c539cff75ac59b99d6862fbe61d377c1db3196abbebe8428cc",
+          "english": "Lost because you reached the holding limit."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "ab56fe2db207ea541dd18f4c2aa792260d0e83a4fa5bc593035b66de39db33d7",
+          "english": "Sold: {Num}"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "0def2e4f735dbafd3a0d8de7608fac86a3ce3dac0adadfabd184eda1fa880132",
+          "english": "Quantity Received"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "e0990e271088748f7122567fe8be4f831511bd7858cf62407159a00627fe94d0",
+          "english": "Currently Held"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "19cedc97d98d27f10f728c5929e76a9bd9bbb814da053d20cfa111aa1b5317de",
+          "english": "Your bag is full."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "26d782d8a8c9a8fef50e1601e321191f9c236affbd2f68132c2031178415b610",
+          "english": "Some items under Other Belongings can't be lost."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "fe72ab759b362a70d822411e92890a684288ffc676e304c2d42575b7a65af202",
+          "english": "Confirm that you agree to sell these items."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "8b9f36c8fda5623905f371afd6c91ecb91d2cec5b580b3d9c735a9ea04fa04d4",
+          "english": "Confirm that you agree to lose these items."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "96c6a00805a2f28a8e00d1c4b5dc7b8beaca025fe5ca78c79e8fe66ce84c7c46",
+          "english": "Select more items to continue."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "c0b41e7f75674633345d370d939b17c5125a6050ef9a1db0baacfd1bec443369",
       "uexp_sha256": "6d3d703c568ae70d7fd6bf4b11a346996a4231d01fb300085f1567543d16e761",
       "rows": [
@@ -9071,9 +10052,59 @@
           "english": "Acquired (Oldest First)"
         },
         {
+          "ordinal": 8,
+          "source_sha256": "156eb99d281f96a96b53d3b3711d83cdbdc9af35119ae06ba305fcb6276db89e",
+          "english": "Level (Low to High)"
+        },
+        {
           "ordinal": 9,
           "source_sha256": "b47927c58ce25c0df7719a0474e295ffb60654c5b401577d1c37e89c748b584e",
           "english": "Acquired (Newest First)"
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "f2c48d61da3f8db51aa6058a97278785eb2e8d6212ed47be843d5eb77a405dbf",
+          "english": "Level (High to Low)"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "7bd53b93cbe1a51bcc2cf37848ab3870b971d75e66a4008dd32bfa081a009067",
+          "english": "Sockets Required (Low to High)"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "a080dff7bf9c9b975355040cd64133961c0b7afda9b82a13b04388496aca8a64",
+          "english": "Sockets Required (High to Low)"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "60ff41dbd2460be9867ea1a879ce0a54b1de30f9ebab448e74521d3650880dd9",
+          "english": "Max Sockets (Low to High)"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "3bd802448db7b3269d65c8a717ae6cba6af25dedea8b759d561b53f9ca17856f",
+          "english": "Max Sockets (High to Low)"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "db43c4b51f2b4d488a90f18ea7e8a84de4a0bc0424e0f0c1419aaf21ce0622ad",
+          "english": "Limit Break (Low to High)"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "85b2efe78dc8f29f8b3fcfebe96fe2a80671648a56bcceae766c908a319615eb",
+          "english": "Limit Break (High to Low)"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "77523ac1750565307d6e8f65659c5911eb3f04865580ced11d128a453ff6d0b6",
+          "english": "Battle Score (Low to High)"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "fa56ed38b6413c52dbd8caea0fa9f632fc1e109507e530ad65edba3d7e77015f",
+          "english": "Battle Score (High to Low)"
         }
       ]
     },
@@ -9085,6 +10116,17 @@
           "ordinal": 11,
           "source_sha256": "aaf12843552c7ce385d5bffff575188b8239f0fe53959d831ae46de6083cba5d",
           "english": "Millie"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "c38acc4ccb90fffe4d8a6c615e9af21f3369522519e40298a5b138419e5613ab",
+      "uexp_sha256": "0716e43bd92dd8d93d113399bc415d76173b657bc807811c0ff86a99056faed2",
+      "rows": [
+        {
+          "ordinal": 36,
+          "source_sha256": "9adc8f54d2d07448446ea644adbe3356d4aa329338cc98e3307d30e1bf373110",
+          "english": "{EquipmentName} has expired."
         }
       ]
     },
@@ -10343,9 +11385,131 @@
       ]
     },
     {
+      "uasset_sha256": "d129938de04ad827b7c3c6167a8d5b4a29e5546b28beeb135748115ad8a66e90",
+      "uexp_sha256": "648d78767c574eb59dfa2fd9ca2bcc024553d9a53c450d8c4733b00ae8c589d3",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "e450e73b45d778e1807e28d4b0474013bf11b6f5502d86409f750538dfbf385f",
+          "english": "Determined at random"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "03d6031373b136433fad3d7a6e3437ae5adf19aac0bcf332fe3939f6b7982856",
+          "english": "Open Sockets"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "f90627966fd03c14d0918d1329ed37291222286b78fbb209caeff827a2c12770",
+          "english": "Quantity to Craft"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "e3fc2ce19ab1e9b40354eef7e3af8ce48fff30af9ce3b09da4ddcb5cecbcee02",
+          "english": "Great Success Results"
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "a0d0119c5bbceab29e47bf25027c947d40439c25eaf7643f3389e54346f50bb1",
+          "english": "The crafting period has ended."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "417699dd3c98c378f4d26738aeed1fb8baff4618c221c4238d3fb5a0737d495b",
+          "english": "Cannot craft with expired materials."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d26b2ed6822f166e90de5058d8eb32bc268e0ac0d86e6d77e0bd9ba213d5ed33",
+      "uexp_sha256": "2d1810123f91afda70dd214cae9cff91d84385ea90f0601dc5fce6708956a3ff",
+      "rows": [
+        {
+          "ordinal": 5,
+          "source_sha256": "66f989a1dd7e5eeb62de4729cbcc151c66681183d90b854e7e689a520990e523",
+          "english": "Select equipment."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e721d064de4863b29d2b5fd328338b20a076e3636d48d7ff1f13a2bda2b3685f",
+          "english": "Select"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "5ab8cbb6c51e89cad11b6c8e2637788f6dacd3234821c39adabd583126ee9a16",
+          "english": "Total Sale Price"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "ec643269d718401ff68f50860a45f1254aa4d6a41445bd8c712d16ece2e5fd70",
+          "english": "Equipment Slot"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "a5df854620f018c1ee1106d82c247d647efd7ba812b51449be8e099b470f886e",
+          "english": "Equipment Storage"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "74c4002d77fd759a5e40bea738cc48bd792f736357b6c7fbee317116f8bd7af7",
+          "english": "Equipment Bag"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "53ff9260dcfd130702671d17b4c3ae287792616db58ef32dd5d89057758f59cf",
+          "english": "{UnitPrice} Luno × {Num} = {TotalPrice} Luno total"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "00d2383d8fefbee1c9a87e84897b75168804384944bdbd4aa193da89cb2dd4af",
+          "english": "Choose how many to sell."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "f1911102d4a47f5386d1e8e510478f501eead3f0339156dea8b6af5aade94e51",
+          "english": "Choose how many to discard."
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "85bf0369fc16e110a05f33ab5a300b1f8ee273a71ca3f26ab3bf1943f95a69d8",
+          "english": "Choose how many to move."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "215ff6f4a0068d88157546d897ab12a5a924514a51b98208e02f58637a6cbc9d",
+          "english": "Sell for {MoneyNum} Luno?\nAny Luno over the holding limit will be lost."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "6d9866d9bcea1ad92bf508b1673200d701d462d90362246b9e0dcb1bd6a387d2",
+          "english": "Discard the listed items?\nLocked items are excluded."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "6557c6ecc14f1cd06ed772559bae8d6474f5e62d90b9c2e2304ee3518ba2ff25",
+          "english": "Sell the listed items for {MoneyNum} Luno?\nAny Luno over the holding limit will be lost. Locked items are excluded."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "34e4a529658a58e2b88a7a2a4c5315cf23c339aa62cf84b5222d54a042b21a14",
+          "english": "Select items from either storage or your bag to transfer them."
+        },
+        {
+          "ordinal": 47,
+          "source_sha256": "d06a2bac04e742a238182eb0e38fdae7d0a690096eadf937436f6ffa0bd4105a",
+          "english": "Select multiple: [{Auxiliary}+{LeftClick}]  Move instantly: [{RightClick}]"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "d36196ac577cfca30a20435d48fb3ea0ca2af569255775c32cfe733e7d4c2985",
       "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
       "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "658de5750c4f7aca8de2fb20b616ebb9863df1241f88b776dc1bb2803c896e34",
+          "english": "Discard {ItemName}?"
+        },
         {
           "ordinal": 10,
           "source_sha256": "601e6a1453b0ae104801405e0edca0d8bb3227e3f604b6311c472f97b018fd8c",
@@ -10355,6 +11519,11 @@
           "ordinal": 11,
           "source_sha256": "441b81ca25fe147e45f49f61fa78d2eae87ac384b0d9407c0a61f3340e32bb94",
           "english": "(Up to 10 characters)"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "b356a536440cc896d8f3160e8c269a510991e9c225f814196349f1432c6287bc",
+          "english": "The selected equipment has a weapon skin.\nThe skin will also be lost. Continue?"
         },
         {
           "ordinal": 41,
@@ -10845,6 +12014,87 @@
           "ordinal": 131,
           "source_sha256": "d016ddc5c028fa9cfc690863852f0715a944bf1f63b09bdc1083ea5c429817e4",
           "english": "Go. Now.\r\nI shall pass judgment on your comrades in due course."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d73e5ff645865a8b71164b46195a5b987715c13ee92c16475de593d1bd2f1813",
+      "uexp_sha256": "d3a50697bf2ebbafdb84ba5f168a9f7e5664c2a840bb01dc18942178ffbccdaa",
+      "rows": [
+        {
+          "ordinal": 43,
+          "source_sha256": "ad9ee7ee0b9bf1dd92121d2c9fa470d41e8832bd415bc1c17073db9361a39fc0",
+          "english": "Cooldown"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "b438c14cb313e41f3cc53573ad47e0947c2a8587bc92d5fd5437093a21aeca6a",
+          "english": "Duration After Pickup"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "f8040a5c0229b74158f05b720a8b17faa90cd63d2e288d9b4dfb13ae3e3ca1b1",
+          "english": "Cannot Sell"
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "71e080f310d116921c0fce8e83ead3d42f121e5032a3a02b26fcafe68c4e1350",
+          "english": "Ineligible for BPP"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "492f8f2919d27ce75080f8ef7a5849ce2b81612b1def4c4fda3471abc76f0a53",
+          "english": "Use this item?"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "67c601d5dbf463cfd60496d49471d74a2a23a8269a5ac12d443da906cd1125d1",
+          "english": "XP +{num}"
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "5c51349cdc5c3f3196f2648b624750b59e25e5267b302d022afb44261ecdaa8d",
+          "english": "Couldn't upload character creation data."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "e5f6054bb1a3dca2d6f6d6dc894301eb099447c07aa4e3e8b7e88fa7caba6000",
+          "english": "You'll reach the class level cap. Any excess class XP will be lost."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "f9baa5ba7deaf992242d4540776bc68dea79048bfc8397dea1f9f1aad012200e",
+          "english": "Your class level is at its cap. You can't use this item."
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "b97e424a7761fa6dda9e1363878a789fe3dfd8cc4caaa7e0c89d1fae24092366",
+          "english": "This equipment will disappear when it expires."
+        },
+        {
+          "ordinal": 98,
+          "source_sha256": "e2f1354fe2843763aedf09912e5272144d96991cf4cb8355422332827abdaa1a",
+          "english": "You can't receive more currency or tickets once you reach the holding limit for that type."
+        },
+        {
+          "ordinal": 124,
+          "source_sha256": "d7c683f994cc3e116ee9cf8c5fb22efbb7cb11766491e21e1a959fe8e0d0a51a",
+          "english": "Choose a quantity."
+        },
+        {
+          "ordinal": 126,
+          "source_sha256": "43167cdc453165a75aad320d81e3ffecb643f69a0f11630b611b643d0b9a5e0d",
+          "english": "Show details for the selected item."
+        },
+        {
+          "ordinal": 127,
+          "source_sha256": "94d0414abdb8e9c86bd9404ea67823194d37312bc1771c5f5f16da5ebb7d628f",
+          "english": "Show details for the selected equipment."
+        },
+        {
+          "ordinal": 131,
+          "source_sha256": "c7028f4d4acc6776218d38196d1c17751088e60fcdfb2d21ef08def9e983a38a",
+          "english": "Using this item will replace the active effect of the same type.\nUse it anyway?"
         }
       ]
     },
@@ -12126,6 +13376,27 @@
           "ordinal": 82,
           "source_sha256": "bde6b6d5e4f260e6520ca9107bd7788c39dd004d290c383e6498b7a2981f6b62",
           "english": "Now to spread the word about all the other villages!\r\nHere I gooo♪"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "f4413493c7ff002e0a7e837171420876135ea91d9369ba47c3a163033aec3877",
+      "uexp_sha256": "4960acf95a08dd828acac7f1087365fc2921931114beaaf8867a9946b8c8d466",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "e3a574432d334e9a5391ea989b949951405a62e00cc891f74950ac0f2acf7edb",
+          "english": "Tops"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "ee39143420b11f70cc8e7e6ffb7748d8f2f1a8a7727019bde2c54a3bb22b1846",
+          "english": "Bottoms"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "21fd5b3f9819442d7eae00be0a1fd11598a8e42c9d18cedabf36e0f4e59be32e",
+          "english": "Multi-Slot Outfits"
         }
       ]
     },
