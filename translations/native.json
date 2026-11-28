@@ -1026,6 +1026,16 @@
           "english": "Teleport to meet up?"
         },
         {
+          "ordinal": 59,
+          "source_sha256": "44f1ac831ea0b3b1acd978b4c344976b960d08cc5208a4cd7a2f5f77010fd04e",
+          "english": "Removed this player from your friends list."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "d033458321eb96b1dcf7a3915ddb7b2052021f6d3122fd60c9201b17f77be3d6",
+          "english": "Couldn't remove this friend."
+        },
+        {
           "ordinal": 64,
           "source_sha256": "47aad8ea4ea9bb9ade8bef6cf099088bab0e08b6b6fba3f31cf033ed27a5d3a6",
           "english": "This player's friends list is full.\nYou can't send them your Adventurer Card."
@@ -3651,6 +3661,36 @@
           "ordinal": 19,
           "source_sha256": "47893a3eae3fd7083075d4273890ee986cf1e8796675fc8a7ce8c60d84b0708a",
           "english": "Matchmaking Only"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "531e8e9a46869bb3c376c1061052962ffeaf711e399051ef442cd4179b506d1e",
+          "english": "Cancel matchmaking?"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "1310ab17df346935ff071c36bfdc4904541ec245bf830b27dfb716d5a73b6706",
+          "english": "Players in Matchmaking"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "a63e441e53993a7f367c2fa8e9c033c1f6e5fc94a88b5fa4f662ce6d768c84de",
+          "english": "Cancel party recruitment?"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "158e567711114d9e4ceb74679fc60eafb4f0d04b1e6d846a474644f94f60acfe",
+          "english": "Join in Progress"
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "45d55867c477057a7cd5ccc2256545870f209ce4d374bb3f9c4d8f904c1131ad",
+          "english": "Join a mission already in progress?\n※ You'll join if a mission matches your criteria."
+        },
+        {
+          "ordinal": 95,
+          "source_sha256": "07a219f54fa66bc4ab5f1fe78252504a79c86e40f475f6c02b001eb10380c454",
+          "english": "Open the party listings."
         }
       ]
     },
@@ -3683,6 +3723,36 @@
           "ordinal": 19,
           "source_sha256": "47893a3eae3fd7083075d4273890ee986cf1e8796675fc8a7ce8c60d84b0708a",
           "english": "Matchmaking Only"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "531e8e9a46869bb3c376c1061052962ffeaf711e399051ef442cd4179b506d1e",
+          "english": "Cancel matchmaking?"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "1310ab17df346935ff071c36bfdc4904541ec245bf830b27dfb716d5a73b6706",
+          "english": "Players in Matchmaking"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "a63e441e53993a7f367c2fa8e9c033c1f6e5fc94a88b5fa4f662ce6d768c84de",
+          "english": "Cancel party recruitment?"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "158e567711114d9e4ceb74679fc60eafb4f0d04b1e6d846a474644f94f60acfe",
+          "english": "Join in Progress"
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "45d55867c477057a7cd5ccc2256545870f209ce4d374bb3f9c4d8f904c1131ad",
+          "english": "Join a mission already in progress?\n※ You'll join if a mission matches your criteria."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "07a219f54fa66bc4ab5f1fe78252504a79c86e40f475f6c02b001eb10380c454",
+          "english": "Open the party listings."
         }
       ]
     },
@@ -4156,6 +4226,11 @@
           "english": "Withdraw Invitation"
         },
         {
+          "ordinal": 24,
+          "source_sha256": "54cdf474474960149efb1732a030d643c5e6854c2a478f4ec2a7440d2e04195e",
+          "english": "Invitation Pending"
+        },
+        {
           "ordinal": 33,
           "source_sha256": "eb6007861a4e473ef2e9711188c2e01a70728a1febc92e3855b136e2c4140f9e",
           "english": "Are you sure you want to withdraw?"
@@ -4281,6 +4356,16 @@
           "english": "Enter your party listing details."
         },
         {
+          "ordinal": 114,
+          "source_sha256": "5c186bfc26999d45ec5495238f1b0f0ebd350f3893e0c63277ce5e8ab834a8df",
+          "english": "You're already in a party and can't join another."
+        },
+        {
+          "ordinal": 115,
+          "source_sha256": "d1bce5a68dedd5668a9b684049945993b5927c3bec4135f687626c9f70354957",
+          "english": "You don't meet the requirements to join."
+        },
+        {
           "ordinal": 116,
           "source_sha256": "0ec572e82450356d7fc2c21ef24693950c2e56f5301e0453ceffd03e95b1fa1b",
           "english": "Couldn't load your previous criteria."
@@ -4311,6 +4396,11 @@
           "english": "You'll decline your current party invitation.\nJoin this party?"
         },
         {
+          "ordinal": 129,
+          "source_sha256": "6bf9826fb10a7980836d965e88f9eb418514e638064d16fe2cbab26f76867b26",
+          "english": "You can't join while recruiting for a party."
+        },
+        {
           "ordinal": 130,
           "source_sha256": "f1b1dbe7db716ab7faf94f7680e8d5d306be443470584af3c6ec70f4050a951d",
           "english": "You can't recruit while your party invitations are pending.\nWithdraw the invitations and start recruiting?"
@@ -4329,6 +4419,11 @@
           "ordinal": 133,
           "source_sha256": "6734f4cd960fac5f4db1c1d25cdcf5dc2d4eb092c95e93262baac0996a766c2f",
           "english": "If you leave this unspecified, your listing will be private.\nOnly players who know the listing ID can join."
+        },
+        {
+          "ordinal": 137,
+          "source_sha256": "fdd90c95671fe460d0885def60a9f433df77be91cdc4d473dfe92e1034902eb2",
+          "english": "Friends for {Day}d {Hour}h"
         }
       ]
     },
@@ -4794,6 +4889,11 @@
           "ordinal": 21,
           "source_sha256": "eedc87950c8bfca789e278a527452c3f8df95381cc3683ce2eb5553390bcace7",
           "english": "{name} is now the party leader."
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "ec2f3b863b0bfe255a9ce56718eee0044c16bc975fa6ec7804f4f302a8be4394",
+          "english": "Couldn't kick {name} from the party."
         },
         {
           "ordinal": 25,
@@ -7937,6 +8037,11 @@
           "ordinal": 114,
           "source_sha256": "c1ba36bc7b75d26d840d0de605838ef6ee3771ad08889dbfead1ae62708dad67",
           "english": "Playing in a Party"
+        },
+        {
+          "ordinal": 127,
+          "source_sha256": "91d9e6bd62a6a0cd21f1991406c1e084b4888bc31dfe5d91ce28d724dfb20aa8",
+          "english": "Automatically exchange Adventurer Cards with players on the waiting list"
         }
       ]
     },
@@ -8684,6 +8789,16 @@
           "ordinal": 55,
           "source_sha256": "ba44b040bf280d92b4be4091e7a6a329ddb3d80ce55927c65df9e6792ac34c01",
           "english": "Teleport to meet up?"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "44f1ac831ea0b3b1acd978b4c344976b960d08cc5208a4cd7a2f5f77010fd04e",
+          "english": "Removed this player from your friends list."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "d033458321eb96b1dcf7a3915ddb7b2052021f6d3122fd60c9201b17f77be3d6",
+          "english": "Couldn't remove this friend."
         },
         {
           "ordinal": 64,
@@ -9880,6 +9995,11 @@
           "english": "Withdraw Invitation"
         },
         {
+          "ordinal": 24,
+          "source_sha256": "54cdf474474960149efb1732a030d643c5e6854c2a478f4ec2a7440d2e04195e",
+          "english": "Invitation Pending"
+        },
+        {
           "ordinal": 33,
           "source_sha256": "eb6007861a4e473ef2e9711188c2e01a70728a1febc92e3855b136e2c4140f9e",
           "english": "Are you sure you want to withdraw?"
@@ -10015,6 +10135,16 @@
           "english": "Enter your party listing details."
         },
         {
+          "ordinal": 114,
+          "source_sha256": "5c186bfc26999d45ec5495238f1b0f0ebd350f3893e0c63277ce5e8ab834a8df",
+          "english": "You're already in a party and can't join another."
+        },
+        {
+          "ordinal": 115,
+          "source_sha256": "d1bce5a68dedd5668a9b684049945993b5927c3bec4135f687626c9f70354957",
+          "english": "You don't meet the requirements to join."
+        },
+        {
           "ordinal": 116,
           "source_sha256": "0ec572e82450356d7fc2c21ef24693950c2e56f5301e0453ceffd03e95b1fa1b",
           "english": "Couldn't load your previous criteria."
@@ -10043,6 +10173,11 @@
           "ordinal": 123,
           "source_sha256": "74dce872bd84f53bf178169c621bfead84d8aca9d068dbe918737b689689125e",
           "english": "You'll decline your current party invitation.\nJoin this party?"
+        },
+        {
+          "ordinal": 129,
+          "source_sha256": "6bf9826fb10a7980836d965e88f9eb418514e638064d16fe2cbab26f76867b26",
+          "english": "You can't join while recruiting for a party."
         },
         {
           "ordinal": 130,
@@ -13348,6 +13483,11 @@
           "ordinal": 113,
           "source_sha256": "c1ba36bc7b75d26d840d0de605838ef6ee3771ad08889dbfead1ae62708dad67",
           "english": "Playing in a Party"
+        },
+        {
+          "ordinal": 126,
+          "source_sha256": "644e5219b01a273ae852d8de0b2f0211ed0f527655cefe233376bc141c3820e2",
+          "english": "Automatically exchange with players on the waiting list"
         }
       ]
     },
