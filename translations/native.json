@@ -3746,6 +3746,27 @@
       ]
     },
     {
+      "uasset_sha256": "4d3be65407a6ee5ff8e2ddb71f601fc814afa1d1c2937d229a545612f979b952",
+      "uexp_sha256": "e4278a54503ada9df2ad51c03ea07a7c1b0aab90694034d9da1b9d782a683976",
+      "rows": [
+        {
+          "ordinal": 127,
+          "source_sha256": "6a9dfc7efebb2f696672801614be040767f41f273c6e7b22fc62d7f1304b1ba9",
+          "english": "Class-Specific"
+        },
+        {
+          "ordinal": 128,
+          "source_sha256": "058c2b90f397962466871acec24328521d5b5dc992e7bca6f19f67cb4765b1c9",
+          "english": "Shared Across Classes"
+        },
+        {
+          "ordinal": 159,
+          "source_sha256": "802a02037c1c08f2c8af67bf34c9e190cda404fc2ee9239d7be2e1404374663a",
+          "english": "You can't equip shared abilities from your current class."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "506ba8ce8cdb5cc370848d1dfc0f54014dc04580df15944cdb2fba355891c8cf",
       "uexp_sha256": "083d96299fa1abad45d93d86ad755d5c6a28207ae15aaff252b3855768dc161a",
       "rows": [
@@ -6870,6 +6891,27 @@
           "ordinal": 56,
           "source_sha256": "f5a3b902e83865e23e2ec6ac22aba2dd9a77d84c8231c87e83735d6a1fed9d38",
           "english": "Hmm. Something's happened at the temple, it seems.\r\nCome, let's see what Ryugerio has to say."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "8ef1261178a3e51f87f5c8666fb8f913ad07b71b09ff9cdc981a3570b9d00ee4",
+      "uexp_sha256": "923eb267801aae02b4f0102e227fe088fda63de765eb2bef84461d4f539bcf62",
+      "rows": [
+        {
+          "ordinal": 122,
+          "source_sha256": "6a9dfc7efebb2f696672801614be040767f41f273c6e7b22fc62d7f1304b1ba9",
+          "english": "Class-Specific"
+        },
+        {
+          "ordinal": 123,
+          "source_sha256": "058c2b90f397962466871acec24328521d5b5dc992e7bca6f19f67cb4765b1c9",
+          "english": "Shared Across Classes"
+        },
+        {
+          "ordinal": 152,
+          "source_sha256": "802a02037c1c08f2c8af67bf34c9e190cda404fc2ee9239d7be2e1404374663a",
+          "english": "You can't equip shared abilities from your current class."
         }
       ]
     },
