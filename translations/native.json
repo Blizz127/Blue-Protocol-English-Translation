@@ -1603,6 +1603,32 @@
       ]
     },
     {
+      "uasset_sha256": "217fd3c30d368fbd63540a7e14b8b73ec3523644a9c827157d462f68b4e153f2",
+      "uexp_sha256": "c35a76138a28d9d17856bf257782e34b2148e3da8eb208a7c74c666581e4af65",
+      "rows": [
+        {
+          "ordinal": 101,
+          "source_sha256": "b849b045d94ecd100e161ca641af479c0f72fa9ddc9e5898bb4977a9221cc93f",
+          "english": "Scroll Up"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "6d8d72891ae12006597efb0e1b9f7b4e041bdfc13a8d12a7cfa994c74e60d0e8",
+          "english": "Scroll Down"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "6bc3d9d671e3a352b0c4b2f68bdcde67e0d7e395e1c79ffcf59c8647a0e3ee07",
+          "english": "Mouse Wheel"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "a73292c0742be304d44efa47436dfee2d3b6c24dc397dffab080ec3a619d8383",
+          "english": "Cannot Rebind"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "21b17210e259eca4a74076417ed90195923f427a51a4b578521bac4dfa10f58e",
       "uexp_sha256": "91efc37e53287e90d35bdd93a42a09cd793cd09af278d08fed451cf676cbd948",
       "rows": [
@@ -1746,6 +1772,57 @@
           "ordinal": 29,
           "source_sha256": "733032f702f714fa99d76b5d788139132a717846329c9c899697c03dd414b230",
           "english": "I don't know why, but ever since I heard that,\r\nI haven't been able to stop shaking."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "224854de09c045d138e519e2b16fd021194bb6a4feef0681873ec933f7b68850",
+      "uexp_sha256": "38add04fadb5fab08cbcf130fb073e7d141f0753d2c31d6a153f98a5e6349acf",
+      "rows": [
+        {
+          "ordinal": 100,
+          "source_sha256": "f6c34c0bfab1a92da0c9ed3f161eb4424ae3624a55b0c37194f1b4c1422f044a",
+          "english": "Mouse Button 4"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "c75a0c717e6197de9cb5bb59a1dd17f11b47249154a770f8221bbb3fc49d2e08",
+          "english": "Mouse Button 5"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "b849b045d94ecd100e161ca641af479c0f72fa9ddc9e5898bb4977a9221cc93f",
+          "english": "Scroll Up"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "6d8d72891ae12006597efb0e1b9f7b4e041bdfc13a8d12a7cfa994c74e60d0e8",
+          "english": "Scroll Down"
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "6bc3d9d671e3a352b0c4b2f68bdcde67e0d7e395e1c79ffcf59c8647a0e3ee07",
+          "english": "Mouse Wheel"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "a73292c0742be304d44efa47436dfee2d3b6c24dc397dffab080ec3a619d8383",
+          "english": "Cannot Rebind"
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "7033458397957ff1d8c996ae32c651d4d067682a38c2bd8982c6d421d92d0912",
+          "english": "Modifier 1"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "b919efbd73ac3883fac97abc70566d06cc9a621787f1c88bc7e719722451031c",
+          "english": "Modifier 2"
+        },
+        {
+          "ordinal": 110,
+          "source_sha256": "f9c3752ab17648f8c6d64ae66168278bca888289bcc55ead29194eb8e4ba5195",
+          "english": "Controller Not Supported"
         }
       ]
     },
@@ -2188,6 +2265,67 @@
       ]
     },
     {
+      "uasset_sha256": "289939b7e1c428342d05eb04e3c7db6c25d590a6a155a14b749df5bff8151aad",
+      "uexp_sha256": "09bc2ad39b5301fd966559ca9d0b935a4ec816a0c7f67c35655666693c53e00c",
+      "rows": [
+        {
+          "ordinal": 100,
+          "source_sha256": "f6c34c0bfab1a92da0c9ed3f161eb4424ae3624a55b0c37194f1b4c1422f044a",
+          "english": "Mouse Button 4"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "c75a0c717e6197de9cb5bb59a1dd17f11b47249154a770f8221bbb3fc49d2e08",
+          "english": "Mouse Button 5"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "b849b045d94ecd100e161ca641af479c0f72fa9ddc9e5898bb4977a9221cc93f",
+          "english": "Scroll Up"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "6d8d72891ae12006597efb0e1b9f7b4e041bdfc13a8d12a7cfa994c74e60d0e8",
+          "english": "Scroll Down"
+        },
+        {
+          "ordinal": 104,
+          "source_sha256": "6bc3d9d671e3a352b0c4b2f68bdcde67e0d7e395e1c79ffcf59c8647a0e3ee07",
+          "english": "Mouse Wheel"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "a73292c0742be304d44efa47436dfee2d3b6c24dc397dffab080ec3a619d8383",
+          "english": "Cannot Rebind"
+        },
+        {
+          "ordinal": 108,
+          "source_sha256": "7033458397957ff1d8c996ae32c651d4d067682a38c2bd8982c6d421d92d0912",
+          "english": "Modifier 1"
+        },
+        {
+          "ordinal": 109,
+          "source_sha256": "b919efbd73ac3883fac97abc70566d06cc9a621787f1c88bc7e719722451031c",
+          "english": "Modifier 2"
+        },
+        {
+          "ordinal": 110,
+          "source_sha256": "f9c3752ab17648f8c6d64ae66168278bca888289bcc55ead29194eb8e4ba5195",
+          "english": "Controller Not Supported"
+        },
+        {
+          "ordinal": 112,
+          "source_sha256": "b7ec0e675f0c3250ecf85e6497e8d0c0016350697f325212cc6d0823592a1c18",
+          "english": "Key Binding Required"
+        },
+        {
+          "ordinal": 113,
+          "source_sha256": "5d5e9a184ec809160b260033350d65ff1882bf476e6830069b501bf5a806bdc0",
+          "english": "Button Binding Required"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2a5018bbdc342f297dcd6fdb5b211846f89b5028b47776a525cfa35ea40c887c",
       "uexp_sha256": "90352c61955cb5acb02143b4a7532eff3abb74db73673a8f65dd9e73ccfeba4e",
       "rows": [
@@ -2414,6 +2552,17 @@
           "ordinal": 40,
           "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
           "english": "The new mission\n{MissionName}\nis now available."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "33dd2fc00d455a19d8c0e9257144a0f1227c65725f57fddbcf98b8a37a7cb8c9",
+      "uexp_sha256": "80b0e8dac5c516fc280dafa91cac2e22cbcc6ed75609a22317082c3cbd1a1f8a",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "b2b7da62b5f803a184636a769eb32bf2825b5565ce2131af603a06e38fdf2bbd",
+          "english": "Controls"
         }
       ]
     },
@@ -4812,6 +4961,32 @@
       ]
     },
     {
+      "uasset_sha256": "65f995f8dea1e6131f3fdc9b151944d58be4108d358b2b5e3f891bf33b3a65b1",
+      "uexp_sha256": "c9c7a6ac75904ee5b5e13a64f4be543e522d882cdb710dda1a0cc33d6627d3ec",
+      "rows": [
+        {
+          "ordinal": 14,
+          "source_sha256": "724c96967b4846077f04a7bafcbbee28fc0ad54e6053fe2aec1bbdcce83c0380",
+          "english": "D-pad Up"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "8c450a634956b91bc31b7214c33feb31194121f8dd828e288d5fbd6872841cd5",
+          "english": "D-pad Down"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "d49e7ddcef15d0aae97610089c13961168a708b1db7ff7a2ead5166ffc217300",
+          "english": "D-pad Left"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "9b910226b88a30b3abd18c7bd242e2cf38081f6aee5fad236254f2318d3aa4bf",
+          "english": "D-pad Right"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "67db44e0373309143ffc56744dc44aa432411179a33752d74102d35cfe0c7ede",
       "uexp_sha256": "ed90ff0648e1ff0e3fe0235de0e1fd2f4ea2d550f98e2812cc8a720a0f512f2e",
       "rows": [
@@ -5086,6 +5261,42 @@
       ]
     },
     {
+      "uasset_sha256": "72f4e6dac438379e8758453e282a55eec6e71d907aaebc0c97bf067342291bfe",
+      "uexp_sha256": "261d651031d8b07f41e2ae029750ec21bd65eec4dea4b228322c09958f9a2a84",
+      "rows": [
+        {
+          "ordinal": 99,
+          "source_sha256": "f6c34c0bfab1a92da0c9ed3f161eb4424ae3624a55b0c37194f1b4c1422f044a",
+          "english": "Mouse Button 4"
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "c75a0c717e6197de9cb5bb59a1dd17f11b47249154a770f8221bbb3fc49d2e08",
+          "english": "Mouse Button 5"
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "b849b045d94ecd100e161ca641af479c0f72fa9ddc9e5898bb4977a9221cc93f",
+          "english": "Scroll Up"
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "6d8d72891ae12006597efb0e1b9f7b4e041bdfc13a8d12a7cfa994c74e60d0e8",
+          "english": "Scroll Down"
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "6bc3d9d671e3a352b0c4b2f68bdcde67e0d7e395e1c79ffcf59c8647a0e3ee07",
+          "english": "Mouse Wheel"
+        },
+        {
+          "ordinal": 106,
+          "source_sha256": "a73292c0742be304d44efa47436dfee2d3b6c24dc397dffab080ec3a619d8383",
+          "english": "Cannot Rebind"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "74a82358dfdce65ed042373451b42528c0d6bb45fae4624f5a11d4a6ab47a3f6",
       "uexp_sha256": "a2cdf56511a49b3be167a7c1c11aadc95f5c831c6f59cb1bcebab3aa0822e9a1",
       "rows": [
@@ -5316,6 +5527,27 @@
           "ordinal": 209,
           "source_sha256": "71e6e32e57f01db00936efee3e70a4e7ec3cf18f5e1292c3281e8009a50a1728",
           "english": "Looks like we'll have to bring that thing down!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "77a249d5c360445fb60f857d830c9f01d0c7f783a74b1f9b153454d8f324c35f",
+      "uexp_sha256": "732dc9dcac8a3a676ae3f9b21a65ab6dbc2b3fa1827a3f48a034e33bf19333b0",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "8f26d438109c877447c80b84eb7e4ba1e6768ebcfc5408f0bc3c0725956bf039",
+          "english": "Quit"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "7f726490106d1ad179dd1648a51c881c1eb47d287150c360a971d3357985628f",
+          "english": "Remember me"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "dcc8cdd5e997128fa80fa68a4b6454acb363c13ec1402d5072266ac4457afce4",
+          "english": "Create Account"
         }
       ]
     },
@@ -6314,6 +6546,92 @@
       ]
     },
     {
+      "uasset_sha256": "901e8cead595928cb7dd68b5b3328a60fc569d08ed8e97d86475354afebb4e7a",
+      "uexp_sha256": "b5a4a7466042ada8d5fc9a9c31030d7fa00e752cefe11a80b2fc14c36561ea1e",
+      "rows": [
+        {
+          "ordinal": 14,
+          "source_sha256": "724c96967b4846077f04a7bafcbbee28fc0ad54e6053fe2aec1bbdcce83c0380",
+          "english": "D-pad Up"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "8c450a634956b91bc31b7214c33feb31194121f8dd828e288d5fbd6872841cd5",
+          "english": "D-pad Down"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "d49e7ddcef15d0aae97610089c13961168a708b1db7ff7a2ead5166ffc217300",
+          "english": "D-pad Left"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "9b910226b88a30b3abd18c7bd242e2cf38081f6aee5fad236254f2318d3aa4bf",
+          "english": "D-pad Right"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "8d8ab2a2dd7a2cb60ebe0a8288a5a7c146352d3e54d3445290d74d26f3f7b552",
+          "english": "Modifier 1 + D-pad Up"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "95040da2ad731407861cf4ab9d41c01592fa2999887ce3a5310faf5ef4e30e85",
+          "english": "Modifier 1 + D-pad Down"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "b9a15e6b48ec4f0d4a08b1dd3d70b7af8531a468289a993e7b30158c5ff3dff9",
+          "english": "Modifier 1 + D-pad Right"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "7b1f80cb5f7cbec695406a03e48622d1d189cb753b322dcf7cd73886bfde6fa0",
+          "english": "Modifier 1 + D-pad Left"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "046e0af279010ceabffb3b8d33f2f406a096d96c89e79be71d194cbe8005743c",
+          "english": "Modifier 2 + A"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "98608a285e09a2d1c28cdd1410d0160804789b73b868469cdb9b794c996e531e",
+          "english": "Modifier 2 + B"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "e0a5ecbfd59e1072158b4e00fc8b96b74a5fd22dea547c0973b6fb5aa9524b4f",
+          "english": "Modifier 2 + X"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "a5d64a1bc91efac24d5577e130d5690f2c2adc1b09a3199a7c303e2f6251c517",
+          "english": "Modifier 2 + Y"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "aba25743b97dfff6ecc4c56759afd67f83d8e9c873c76048facad8a01ae9f0cc",
+          "english": "Modifier 2 + D-pad Up"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "dd043d44f3f5ce736defe1780b74d4724575e2668697890bb09c64ed7b046bb1",
+          "english": "Modifier 2 + D-pad Down"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "faca9a64fedc67abc07da182e3843eee700c4e7632a84aa4b622b447e00d98c4",
+          "english": "Modifier 2 + D-pad Right"
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "f8a8d61cd5ebd56361eea15fcdad026bea2db2a7b908147054c63869d792c5c8",
+          "english": "Modifier 2 + D-pad Left"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "91aa34239bfaeed80fa1a0cd50fac5c90834f8597b11392d27502467502afc93",
       "uexp_sha256": "237544d98b5df8916affc4330c9944494b0c77c80f4a9348f601f11791fff4c0",
       "rows": [
@@ -6778,6 +7096,32 @@
           "ordinal": 55,
           "source_sha256": "7069986370b48d5a5e1d28e8b2fd0ae9a9021f707b8156cef01343de5e537cb2",
           "english": "Our paths do seem to keep crossing.\r\nWhen next they do, let's have another good debate."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "9c09adb75345aa95f2a2f185f038959a8271fe16acc3b016003d55e3ff6a070f",
+      "uexp_sha256": "a6613dcce03800ba0f79083e9dcb3b09c8be7164b8b6bbe2ddbf8df4c0a198e3",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "8f26d438109c877447c80b84eb7e4ba1e6768ebcfc5408f0bc3c0725956bf039",
+          "english": "Quit"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "7f726490106d1ad179dd1648a51c881c1eb47d287150c360a971d3357985628f",
+          "english": "Remember me"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "dcc8cdd5e997128fa80fa68a4b6454acb363c13ec1402d5072266ac4457afce4",
+          "english": "Create Account"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "29c063f7d395bd1a821232e0541817d43df31e7ddd8683f0aa817512d6e4527f",
+          "english": "Your control settings have been reset.\nIf you’ve customized your controls, we recommend reviewing your settings.\nWould you like to open Control Settings?"
         }
       ]
     },
@@ -9505,6 +9849,22 @@
           "ordinal": 82,
           "source_sha256": "b9eeb611e470f99304f03d2743986e6da5bcf721e74edcda90d8962596e5aeca",
           "english": "Do not show this again"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d37e3525e3edec2050c25b4d63bda37f042496e9ee5d89752ec86ddd5ac7d7ef",
+      "uexp_sha256": "6ab3be3f73565a87d8f3fefb42835303228b956b9f0ed527643bac75d70bc1ee",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "897af7996788d57640f5cf4270cbfbbc115ea8fd6bef3bd4d3de348a7abe9cef",
+          "english": "Announcements"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "a5ef402294d4b6961028498412de699ccf114e3e6d12b227a99bf3c7afa13815",
+          "english": "Settings"
         }
       ]
     },
