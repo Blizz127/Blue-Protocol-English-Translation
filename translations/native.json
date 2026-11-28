@@ -1350,6 +1350,11 @@
       "uexp_sha256": "f4d7662df16fcd62879efd6ce5fccfc554939c9bf068e532fd15986ccc9b55e7",
       "rows": [
         {
+          "ordinal": 22,
+          "source_sha256": "61de24ae4049498f1c9f8e91a623526a9e7dfc35d884e2d0f257db399e653e3e",
+          "english": "Targeting and Attacking"
+        },
+        {
           "ordinal": 28,
           "source_sha256": "fcf746b4defd9ec040095e4f11f0c51938de00d5705d4d01cfa1f65b5ba03d13",
           "english": "To see the route for a different quest, open the Command Menu.\nUnder Quest, open Accepted Quests\nand select the quest you want directions for."
@@ -1385,6 +1390,26 @@
           "english": "Smasher Basics"
         },
         {
+          "ordinal": 67,
+          "source_sha256": "b19753f0964139451bdcb51a5b38b57c7bd05dcb48befd42bb1c990b542068a8",
+          "english": "Battle Lock Walls block your path in dungeons.\nMeet the conditions, such as defeating specific enemies,\nto open the wall and move on.\nIf you can't get through, try defeating the enemies nearby."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "61dfad279255cd1ad02da1167f8ee6347229de2c58796cf8de3c22d7c82f526c",
+          "english": "Attack Warnings"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "7bffaa508e9341cd808b2fb401d6f0483b6ce5de71a63d9473dcf23e50b641c8",
+          "english": "Some enemies give warning before they attack.\nWhen a marked area appears, an attack is about to hit there.\nFocus on getting clear of it."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "db563db578d964857ffa7e8bab46219e2db14415b401b98a7462a2ed7e3dec60",
+          "english": "Mission Supplies"
+        },
+        {
           "ordinal": 92,
           "source_sha256": "4189133dbf97d6b93b7c8fa75c58f864a219126ae35ced4b3b037068e3cf2247",
           "english": "Open the Command Menu and select Character ＞ Battle Build.\nEquip a different type of weapon there\nto switch to the corresponding class.\nYou can only change classes in safe places, such as towns.\n\nYou can now accept class quests.\nEach class has its own class partner.\nYou'll learn about your class together on these quests.\nWhether you stick with your current class or try a new one,\nstart by taking a class quest at the Adventurers' Bureau."
@@ -1393,6 +1418,11 @@
           "ordinal": 105,
           "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
           "english": "Raise Your Adventurer Rank"
+        },
+        {
+          "ordinal": 117,
+          "source_sha256": "9623bd8603dd4863afe94753d92b308c08c159a573120df65a6e917d1c026f7b",
+          "english": "Incapacitation"
         },
         {
           "ordinal": 125,
@@ -7435,9 +7465,34 @@
           "english": "Teleport to {WarpPointName}?\nThis will cancel your Challenge Quest."
         },
         {
+          "ordinal": 29,
+          "source_sha256": "8e892d88400c52ca18cd44bfa2646d88d03ddf47dc3c585e9a4d6c9b81bba6a2",
+          "english": "Transparency"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "31a1b1bfbd4952a8957e9631bb579d98175e863b228b2d2da1e14f03e7f06ef1",
+          "english": "Restore the default settings?"
+        },
+        {
           "ordinal": 35,
           "source_sha256": "0ad2f4265c064e796dc96d2e71195bbf7db1e3320c07e5e041d5c065acc3e84b",
           "english": "Pin Note"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "99ab12f111bd83062dd3fd91c4eed67154c32efca8d599ac06798be101c0035d",
+          "english": "Town Map Zoom"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "1b670566f5fa968a4d2321f5d09a4d79e6168a4d687a65ae2a78edc9ac67f155",
+          "english": "Field Map Zoom"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "2fd4d6e2339eec228b9c824eeb7fccef8df1f2c9c43e022665b0ab435eaa77b6",
+          "english": "Dungeon Map Zoom"
         }
       ]
     },
@@ -9084,6 +9139,27 @@
       ]
     },
     {
+      "uasset_sha256": "9e121f87aa58ebfa81f084cda97b4a99fe6d3a42fd07ae7f7927d7033e97a57c",
+      "uexp_sha256": "f56b3e850f2a21aadd6da3408923627c54452a13e124814e598efe54e9f7b4a8",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "bda516bac58e945b063519656d1f8fa1c0737433f7c284c253edf8875860f7be",
+          "english": "Ride a Mount Imagine\nto travel faster across the world.\nLet's equip one now!"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "a2be900fbdb5e4f4bf59aee76e6c57c356645065c6efbff566b139dbe53652d6",
+          "english": "To equip a Mount Imagine, open the Command Menu\nand select Outfits and Mounts.\nFollow the prompts to try it."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "e927d9d96d8a88c08844ca3a88da51006907ac2720ae0bea0e977f8963fb9e36",
+          "english": "Press ［<key action=\"ImagineMount\"/>］ to mount or dismount.\nPut your Mount Imagine to good use!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "a6c97f01b0a442b58d92eb3ae0ae924542bad22187e5c8c9bfbce50d030ef39f",
       "uexp_sha256": "7b56104fe9310c3d0247aa46c473dc00f4a9196d54b624200a862feb18c9c58e",
       "rows": [
@@ -9276,9 +9352,34 @@
           "english": "Teleport to {WarpPointName}?\nThis will cancel your Challenge Quest."
         },
         {
+          "ordinal": 29,
+          "source_sha256": "8e892d88400c52ca18cd44bfa2646d88d03ddf47dc3c585e9a4d6c9b81bba6a2",
+          "english": "Transparency"
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "31a1b1bfbd4952a8957e9631bb579d98175e863b228b2d2da1e14f03e7f06ef1",
+          "english": "Restore the default settings?"
+        },
+        {
           "ordinal": 35,
           "source_sha256": "0ad2f4265c064e796dc96d2e71195bbf7db1e3320c07e5e041d5c065acc3e84b",
           "english": "Pin Note"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "99ab12f111bd83062dd3fd91c4eed67154c32efca8d599ac06798be101c0035d",
+          "english": "Town Map Zoom"
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "1b670566f5fa968a4d2321f5d09a4d79e6168a4d687a65ae2a78edc9ac67f155",
+          "english": "Field Map Zoom"
+        },
+        {
+          "ordinal": 39,
+          "source_sha256": "2fd4d6e2339eec228b9c824eeb7fccef8df1f2c9c43e022665b0ab435eaa77b6",
+          "english": "Dungeon Map Zoom"
         },
         {
           "ordinal": 45,
@@ -13184,6 +13285,11 @@
       "uexp_sha256": "3c1294e8bd882ae82c6b6c9da643c9acdd4a13dd43dcdf5a3079835b8445bd15",
       "rows": [
         {
+          "ordinal": 22,
+          "source_sha256": "61de24ae4049498f1c9f8e91a623526a9e7dfc35d884e2d0f257db399e653e3e",
+          "english": "Targeting and Attacking"
+        },
+        {
           "ordinal": 28,
           "source_sha256": "fcf746b4defd9ec040095e4f11f0c51938de00d5705d4d01cfa1f65b5ba03d13",
           "english": "To see the route for a different quest, open the Command Menu.\nUnder Quest, open Accepted Quests\nand select the quest you want directions for."
@@ -13219,6 +13325,26 @@
           "english": "Smasher Basics"
         },
         {
+          "ordinal": 67,
+          "source_sha256": "b19753f0964139451bdcb51a5b38b57c7bd05dcb48befd42bb1c990b542068a8",
+          "english": "Battle Lock Walls block your path in dungeons.\nMeet the conditions, such as defeating specific enemies,\nto open the wall and move on.\nIf you can't get through, try defeating the enemies nearby."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "61dfad279255cd1ad02da1167f8ee6347229de2c58796cf8de3c22d7c82f526c",
+          "english": "Attack Warnings"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "7bffaa508e9341cd808b2fb401d6f0483b6ce5de71a63d9473dcf23e50b641c8",
+          "english": "Some enemies give warning before they attack.\nWhen a marked area appears, an attack is about to hit there.\nFocus on getting clear of it."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "db563db578d964857ffa7e8bab46219e2db14415b401b98a7462a2ed7e3dec60",
+          "english": "Mission Supplies"
+        },
+        {
           "ordinal": 92,
           "source_sha256": "289be1e465528661c82bc2425e49f902cd0b7489c3b8533c3c2407ea364eca71",
           "english": "Open the Command Menu and select Character ＞ Battle Build.\nEquip a different type of weapon there\nto switch to the corresponding class.\nYou can change classes in towns, out in the field, and on free exploration maps.\n(You can't change classes while an enemy is targeting you.)\n\nYou can now accept class quests.\nEach class has its own class partner.\nYou'll learn about your class together on these quests.\nWhether you stick with your current class or try a new one,\nstart by taking a class quest at the Adventurers' Bureau."
@@ -13227,6 +13353,11 @@
           "ordinal": 105,
           "source_sha256": "323957e991f7a7bf83e69a121a17a5ebd8cc79d92852ab87964b5a29a9311a97",
           "english": "Raise Your Adventurer Rank"
+        },
+        {
+          "ordinal": 117,
+          "source_sha256": "9623bd8603dd4863afe94753d92b308c08c159a573120df65a6e917d1c026f7b",
+          "english": "Incapacitation"
         },
         {
           "ordinal": 125,
