@@ -14747,6 +14747,16 @@
           "english": "Fields are divided into zones and channels.\nDotted lines on the map mark zone boundaries.\nThere are no loading screens within a zone.\nEach zone has multiple channels.\n(Towns have multiple channels, too.)\n\nEven in Roaring Sea Plains, two players\non different channels can't see each other.\nIf your party is on different channels,\nask your leader to use \"Rally Members\"\nso you can regroup on the same channel."
         },
         {
+          "ordinal": 675,
+          "source_sha256": "208dd6588949e44feb581c21be107853d63ff3064cf68586b2a72bb6460a5c44",
+          "english": "More Shortcut Ring Options"
+        },
+        {
+          "ordinal": 676,
+          "source_sha256": "2bcf807390db67dd1571bf7dc515c85e9e604a28ee0031cbffae90501a905501",
+          "english": "You can now open Command Menu screens\nfrom your Shortcut Ring.\nIn the ring editor, select “Command”\nand add the menus you want to open.\nPut the ones you use most on the ring\nso they're always easy to reach."
+        },
+        {
           "ordinal": 681,
           "source_sha256": "d56ea5dbbce7f6af971668de33bc0c1fb9838a941e45b3bad991f780cb5b921f",
           "english": "Medals honor adventurers who perform\nat the highest level.\n\nIn the Command Menu, select Socials >\nAdventurer Card to display medals you've earned.\nYou can see the full list under Notebook > Achievements.\nEach medal takes effort to earn.\nSee how many you can collect!"
