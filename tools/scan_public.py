@@ -54,6 +54,10 @@ HELP_LABELS = {
 DIALOGUE_TOOLS = {"tools/dialogue_controls.py", "tools/glossary_alias.py"}
 DIALOGUE_CATALOG = "translations/native-dialogue-controls.json"
 DIALOGUE_CATALOG_SHA256 = "7c196eef06523b0e8b36313f1006819e353ad733cde88b50a75ffe3fd07007b4"
+DIALOGUE_VISITOR_SHA256 = "142d3c0335250993bcd8725fc68c1beae35b695a8dbec5d37b150b0f728fd725"
+DIALOGUE_VISITOR_PAIR = ("f3b1d68730f643d21aab142c941908997c17217ee385e52b3573dc9b7f721531",
+                        "c21c7f8330950764a35cd1023c8b71d9b3ba37d03a78e2696bfa251fdd4490c4")
+VISITOR_KEY = "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
 DIALOGUE_TOOLS_SHA256 = {
     "tools/build_patch.py": "cba9fd414f7519bf16079305776f2ce0ee4509f77ee1a4ea6b394ef07b9547c3",
     "tools/overlay_archive.py": "78bd59f76766b3c3035473f0e6b7482a31579316ed249e993c8464c2d9a71bb9",
@@ -196,6 +200,7 @@ class Checks:
         self.shop_sources = set()
         self.dialogue_sources = set()
         self.dialogue_native = set()
+        self.visitor_scanners = set()
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -288,40 +293,49 @@ class Checks:
             require(re.fullmatch(r"[A-Za-z]+(?:[ -][A-Za-z]+)*", term["english"]), name, "unexpected glossary body")
             words[term["key_sha256"]] = term["english"]
         require(len(words) == 2, name, "duplicate glossary term")
-        require(isinstance(obj["tables"], list) and len(obj["tables"]) == 1, name, "expected one dialogue table")
-        table = obj["tables"][0]
-        exact(table, ("uasset_sha256", "uexp_sha256", "rows"), name)
-        require(pairs(table) == DIALOGUE_PAIR and isinstance(table["rows"], list) and len(table["rows"]) == 4,
-                name, "unexpected dialogue table or roster")
-        seen, used = set(), set()
-        for row in table["rows"]:
-            exact(row, ("ordinal", "source_sha256", "english", "controls"), name)
-            ordinal = row["ordinal"]
-            require(type(ordinal) is int and ordinal in DIALOGUE_ORDINALS and ordinal not in seen, name, "unexpected dialogue ordinal")
-            require(isinstance(row["source_sha256"], str) and HEX.fullmatch(row["source_sha256"]), name, "invalid source fingerprint")
-            seen.add(ordinal)
-            template = row["english"]
-            self.english(template, name)
-            slots = re.findall(r"\{[A-Za-z0-9]+\}", template)
-            literal = re.sub(r"\{[A-Za-z0-9]+\}", "", template).replace("\r\n", "\n")
-            require(re.search(r"[A-Za-z]", literal) and all(c == "\n" or 32 <= ord(c) <= 126 for c in literal)
-                    and not any(c in literal for c in "{}[]<>"), name, "unexpected dialogue prose or markup")
-            self.english(literal, name)
-            controls = row["controls"]
-            require(isinstance(controls, list) and all(isinstance(v, str) and HEX.fullmatch(v) for v in controls),
-                    name, "invalid dialogue control fingerprints")
-            if ordinal == 107:
-                require(slots == ["{OpenQuote}", "{CloseQuote}"] and tuple(controls) == DIALOGUE_QUOTES,
-                        name, "unexpected quotation controls")
-                resolved = template.replace("{OpenQuote}", "“").replace("{CloseQuote}", "”")
-            else:
-                require(slots == ["{Word0}"] and len(controls) == 1 and controls[0] in words,
-                        name, "unexpected word control")
-                used.update(controls)
-                resolved = template.replace("{Word0}", words[controls[0]])
-            self.english(resolved, name)
+        tables = obj["tables"]
+        require(isinstance(tables, list) and len(tables) in (1, 2), name, "unexpected dialogue table count")
+        rosters = [(DIALOGUE_PAIR, DIALOGUE_ORDINALS)]
+        if len(tables) == 2:
+            rosters.append((DIALOGUE_VISITOR_PAIR, {47, 48}))
+        used, positions = set(), set()
+        for table, (pair, roster) in zip(tables, rosters):
+            exact(table, ("uasset_sha256", "uexp_sha256", "rows"), name)
+            require(pairs(table) == pair and isinstance(table["rows"], list) and len(table["rows"]) == len(roster),
+                    name, "unexpected dialogue table or roster")
+            seen = set()
+            for row in table["rows"]:
+                exact(row, ("ordinal", "source_sha256", "english", "controls"), name)
+                ordinal = row["ordinal"]
+                require(type(ordinal) is int and ordinal in roster and ordinal not in seen, name, "unexpected dialogue ordinal")
+                require(isinstance(row["source_sha256"], str) and HEX.fullmatch(row["source_sha256"]), name, "invalid source fingerprint")
+                seen.add(ordinal)
+                template = row["english"]
+                self.english(template, name)
+                slots = re.findall(r"\{[A-Za-z0-9]+\}", template)
+                literal = re.sub(r"\{[A-Za-z0-9]+\}", "", template).replace("\r\n", "\n")
+                require(re.search(r"[A-Za-z]", literal) and all(c == "\n" or 32 <= ord(c) <= 126 or
+                        (pair == DIALOGUE_VISITOR_PAIR and c in "’…") for c in literal)
+                        and not any(c in literal for c in "{}[]<>"), name, "unexpected dialogue prose or markup")
+                self.english(literal, name)
+                controls = row["controls"]
+                require(isinstance(controls, list) and all(isinstance(v, str) and HEX.fullmatch(v) for v in controls),
+                        name, "invalid dialogue control fingerprints")
+                if ordinal == 107:
+                    require(slots == ["{OpenQuote}", "{CloseQuote}"] and tuple(controls) == DIALOGUE_QUOTES,
+                            name, "unexpected quotation controls")
+                    resolved = template.replace("{OpenQuote}", "“").replace("{CloseQuote}", "”")
+                else:
+                    require(slots == ["{Word0}"] and len(controls) == 1 and controls[0] in words,
+                            name, "unexpected word control")
+                    if pair == DIALOGUE_VISITOR_PAIR:
+                        require(controls == [VISITOR_KEY] and words[VISITOR_KEY] == "Visitor", name, "wrong Visitor lookup")
+                    used.update(controls)
+                    resolved = template.replace("{Word0}", words[controls[0]])
+                self.english(resolved, name)
+            positions.update((*pair, ordinal) for ordinal in seen)
         require(used == words.keys(), name, "unused glossary term")
-        return seen
+        return positions
 
     def catalog(self, name, raw):
         obj = parse_json(raw)
@@ -413,8 +427,8 @@ class Checks:
                 if name == BOARD_TEMPLATES:
                     require(sha == BOARD_CATALOG_SHA256, name, "unreviewed template catalog digest")
                 if name == DIALOGUE_CATALOG:
-                    require(sha == DIALOGUE_CATALOG_SHA256, name, "unreviewed dialogue catalog digest")
-                if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES}:
+                    require(sha in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256), name, "unreviewed dialogue catalog digest")
+                if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES, DIALOGUE_CATALOG}:
                     self.catalog_keys[sha] = keys
                 if name == IMAGE_LABELS:
                     self.image_pairs[sha] = {(row["key_sha256"], row["english"])
@@ -427,6 +441,12 @@ class Checks:
                         self.route_sources.add((name, sha))
                     if has_shop_source(name, source):
                         self.shop_sources.add((name, sha))
+                    if name == "tools/scan_public.py" and any(
+                        isinstance(node, ast.Assign) and len(node.targets) == 1 and isinstance(node.targets[0], ast.Name)
+                        and node.targets[0].id == "DIALOGUE_VISITOR_SHA256" and isinstance(node.value, ast.Constant)
+                        and node.value.value == DIALOGUE_VISITOR_SHA256 for node in source.body
+                    ):
+                        self.visitor_scanners.add(sha)
                     if has_dialogue_source(name, source):
                         self.dialogue_sources.add((name, sha))
                     for token in tokenize.generate_tokens(io.StringIO(text).readline):
@@ -458,21 +478,29 @@ class Checks:
                 require(all(fingerprint(n) == h for n, h in DIALOGUE_PREDECESSOR.items()),
                         "Dialogue controls", "incomplete withdrawal")
             return
-        require(new_scanner and fingerprint(DIALOGUE_CATALOG) == DIALOGUE_CATALOG_SHA256
+        sidecar = fingerprint(DIALOGUE_CATALOG)
+        six_callers = sidecar == DIALOGUE_VISITOR_SHA256
+        require(new_scanner and sidecar in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256)
+                and (fingerprint(scanner) in self.visitor_scanners) == six_callers
                 and all(fingerprint(n) == h for n, h in DIALOGUE_TOOLS_SHA256.items()),
                 "Dialogue controls", "missing or mismatched catalog, builder, glossary writer, archive or scanner")
         require(NATIVE in entries, "Dialogue controls", "missing native translation catalog")
         native = entries[NATIVE]["git_blob"]
-        if native not in self.dialogue_native:
+        cache_key = (native, sidecar)
+        if BOARD_TEMPLATES in entries:
+            board = self.catalog_keys[fingerprint(BOARD_TEMPLATES)]
+            require(board.isdisjoint(self.catalog_keys[sidecar]), BOARD_TEMPLATES, "board and dialogue control positions overlap")
+        if cache_key not in self.dialogue_native:
             doc = parse_json(git(repo, "cat-file", "blob", native))
             fields = {r["ordinal"]: r for t in doc["tables"] if (t["uasset_sha256"], t["uexp_sha256"]) == DIALOGUE_PAIR
                       for r in t["rows"]}
-            require(DIALOGUE_ORDINALS.isdisjoint(fields), NATIVE, "literal and dialogue control positions overlap")
+            occupied = {(t["uasset_sha256"], t["uexp_sha256"], r["ordinal"]) for t in doc["tables"] for r in t["rows"]}
+            require(self.catalog_keys[sidecar].isdisjoint(occupied), NATIVE, "literal and dialogue control positions overlap")
             witness = fields.get(72, {})
             require(witness.get("source_sha256") == "30de9588711d7478502c710a374e0c384fc6fb2a4564208d8c3016769ae819b1"
                     and digest(witness["english"].encode("utf-8")) == "325ad22e3bf233aac12b66d9b6356aa1e2c8d98e9857a4421c2703b545b444e8",
                     NATIVE, "missing original Visitor term witness")
-            self.dialogue_native.add(native)
+            self.dialogue_native.add(cache_key)
 
 
     def help_tree(self, entries):

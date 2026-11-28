@@ -40,6 +40,28 @@
           ]
         }
       ]
+    },
+    {
+      "rows": [
+        {
+          "controls": [
+            "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
+          ],
+          "english": "Hi there! Is there anyone around here\r\nwho knows much about {Word0}s?",
+          "ordinal": 47,
+          "source_sha256": "112a9d8774b4ad3bb26bee43997e3fb0bc734c7d36ba29cc2ce16a1fce27d210"
+        },
+        {
+          "controls": [
+            "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
+          ],
+          "english": "{Word0}s? That’s my teacher’s field,\r\nbut he’s away just now…",
+          "ordinal": 48,
+          "source_sha256": "6a25a41868932738239c966ac76f5badf1a2fcc320df5cad700a33ace16f0111"
+        }
+      ],
+      "uasset_sha256": "f3b1d68730f643d21aab142c941908997c17217ee385e52b3573dc9b7f721531",
+      "uexp_sha256": "c21c7f8330950764a35cd1023c8b71d9b3ba37d03a78e2696bfa251fdd4490c4"
     }
   ],
   "words": [
