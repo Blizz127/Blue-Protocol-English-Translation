@@ -187,6 +187,11 @@ def build_native(args, catalog):
     template_path = getattr(args, "board_templates", None)
     if template_path is not None:
         template_editions = add_board_templates(index, read_json(template_path))
+    dialogue = None
+    dialogue_path = getattr(args, "dialogue_controls", None)
+    if dialogue_path is not None:
+        from dialogue_controls import DialogueControls
+        dialogue = DialogueControls(read_json(dialogue_path))
     matched_templates = set()
     logical_paths = []
     matched_rows = drift = 0
@@ -197,10 +202,13 @@ def build_native(args, catalog):
             asset = source.read_bytes()
             header = digest(asset)
             editions = index.get(header)
-            if editions is None:
+            dialogue_header = dialogue is not None and header in dialogue.headers
+            if editions is None and not dialogue_header:
                 continue
             companion = source.with_suffix(".uexp")
             if not companion.is_file() or companion.is_symlink():
+                if dialogue_header:
+                    raise ValueError("Missing matching dialogue export")
                 if header in template_editions:
                     raise ValueError("Missing matching board template export")
                 drift += 1
@@ -212,7 +220,9 @@ def build_native(args, catalog):
                 if body not in template_editions[header] or pair in matched_templates:
                     raise ValueError("Unrecognized or ambiguous local board template pair")
                 matched_templates.add(pair)
-            rows = editions.get(body)
+            rows = editions.get(body) if editions is not None else None
+            if dialogue_header:
+                rows = dialogue.merge((header, body), asset, export, rows)
             if rows is None:
                 drift += 1
                 continue
@@ -227,6 +237,13 @@ def build_native(args, catalog):
             matched_rows += len(rows)
         if template_editions and not matched_templates:
             raise ValueError("No approved board template pair matched this input")
+        if dialogue is not None:
+            for member, data in dialogue.glossary_output(root).items():
+                target = ready / member
+                target.parent.mkdir(parents=True, exist_ok=True)
+                with target.open("xb") as out:
+                    out.write(data)
+                logical_paths.append(member.as_posix())
         if drift and args.strict:
             raise ValueError(f"{drift} known native headers lacked the matching export")
         if not logical_paths:
@@ -268,6 +285,9 @@ def main():
         sub.add_argument("--strict", action="store_true",
                          help="Fail if a known ID or package header has a changed source")
         if name == "native":
+            sub.add_argument("--dialogue-controls", type=Path, nargs="?", metavar="CATALOG",
+                             const=CATALOGS / "native-dialogue-controls.json",
+                             help="Include supported glossary and quotation dialogue from local game data")
             sub.add_argument("--board-templates", type=Path, nargs="?", metavar="CATALOG",
                              const=CATALOGS / "native-board-templates.json",
                              help="Apply board prompts using names from the matching local text")

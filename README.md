@@ -90,6 +90,8 @@ On Windows, you can use `py -3` in place of `python3`. The tool writes the trans
 
 To include Adventure Board prompts, add `--board-templates` to the native command. It loads `translations/native-board-templates.json` and fills the board-name slot from the matching row in your own game files. You can supply a different template catalog with `--board-templates PATH`.
 
+To translate four more lines in Jake and Feste’s conversations at the Giant Dragon’s Clawmark, add `--dialogue-controls` to the native command. Include the matching `.uasset` and `.uexp` pairs for `BLUEPROTOCOL/Content/Text/Scenario/MAV101_040` and `BLUEPROTOCOL/Content/Word/WordDataTable` in your extracted files. Under `BLUEPROTOCOL/Content/Blueprints/Manager`, include `DT_RichTextShortSyntaxDB.uasset` and its `.uexp` companion. The builder keeps the original voices and adds English glossary entries for those lines. You can use this option together with `--board-templates`.
+
 For a client setup that supports local overlays, close the game and place the new archive in `BLUEPROTOCOL/Content/Paks/~mods/` within the installation. Keep a copy of any older English overlay you replace. To undo the installation, remove the archive you added and restore the earlier overlay if you used one. The build command leaves your input files in place.
 
 ## Build the Chapter 1 dialogue overlay

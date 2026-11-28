@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "kind": "local-dialogue-controls",
+  "tables": [
+    {
+      "uasset_sha256": "647cd0bd2ffa3ec30a1eb65cc0ffe0f933fcdafa9d0f33cc325134c5310ace1b",
+      "uexp_sha256": "2dd233a45a6ed72912142887a294bb76de31f3179b59fa68983b99295be27501",
+      "rows": [
+        {
+          "ordinal": 57,
+          "source_sha256": "bbd06adc983a25333d1d71cee333ab5bbd135590f4bb2a92e8ee9b7721be8935",
+          "english": "Ha! That's some joke.\r\nAvaritia? You mean the monster from those {Word0}?",
+          "controls": [
+            "a0917480c73a4c492e0f1f8745999cf0670bd8f90f9dba90fb7f87168e5db1e4"
+          ]
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "a5cce42713b39f58b5abff33896e601d8d7e7180148a3b3804a3eede64012f3d",
+          "english": "Anyway, that fellow... He said something about a {Word0}, didn't he?",
+          "controls": [
+            "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
+          ]
+        },
+        {
+          "ordinal": 103,
+          "source_sha256": "928cadc41e2a54c5d994697203227dd3b513079ee6728d7acd9af33ebfecfda6",
+          "english": "Before I forget, I've a question for you.\r\nHave you ever heard the term {Word0}?",
+          "controls": [
+            "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
+          ]
+        },
+        {
+          "ordinal": 107,
+          "source_sha256": "3c8c3574065cd6b7f5321ecede72de043570abe82cd77450235b490b563b8fbd",
+          "english": "Ah, yes. As I recall...\r\n{OpenQuote}That smoldering look Jake gives me...{CloseQuote}",
+          "controls": [
+            "91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+            "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23"
+          ]
+        }
+      ]
+    }
+  ],
+  "words": [
+    {
+      "key_sha256": "a0917480c73a4c492e0f1f8745999cf0670bd8f90f9dba90fb7f87168e5db1e4",
+      "body_sha256": "cb9ffd2c98cc037cd18ac50b79e063655587f66c7066e25ad851f01d57ae6986",
+      "ruby_sha256": "a7151123742aa9eb549b41ea663361439607099e21f81ff6b59fd84c38698c84",
+      "english": "adventure stories"
+    },
+    {
+      "key_sha256": "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280",
+      "body_sha256": "f6af8023afdd917ac59ce6add3c81bf64330244bcf755aa3513d3b8fb8e97b59",
+      "ruby_sha256": "292197d286730012d4f7e6d992f7225a5f8d96ec0776d6953fb13cc7e0575c63",
+      "english": "Visitor"
+    }
+  ],
+  "word_editions": [
+    {
+      "uasset_sha256": "535ad96fc05e0715ce870828626f848df23b5e0b3db2032433b1563348f22e7c",
+      "uexp_sha256": "9d42827274fd592d3ba6492f39e5f7d3fa60ecea60a08409ae871b26c54488f1"
+    },
+    {
+      "uasset_sha256": "131371f3b4267a06e84940fb760a7259e8f5febe492f81050a25a7716c472865",
+      "uexp_sha256": "3b08f2659289989ceae9285831fd7958e28d7a4abb41469a27726382907c6ef4"
+    }
+  ]
+}

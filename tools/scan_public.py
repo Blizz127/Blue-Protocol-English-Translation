@@ -51,7 +51,26 @@ HELP_LABELS = {
     ("92165bc5efc48eeac795009f2d155764cd058510652533d2c24b315c33e2167e", "Increased Item Sale Value"),
     ("a8b16d7f433a68bbcff8abac8af76fff6782642ff9f1ef6f9312019c15ec0063", "Increased Enemy Drop Rate"),
 }
-TOOLS = HUD_TOOLS | ROUTE_TOOLS | {
+DIALOGUE_TOOLS = {"tools/dialogue_controls.py", "tools/glossary_alias.py"}
+DIALOGUE_CATALOG = "translations/native-dialogue-controls.json"
+DIALOGUE_CATALOG_SHA256 = "7c196eef06523b0e8b36313f1006819e353ad733cde88b50a75ffe3fd07007b4"
+DIALOGUE_TOOLS_SHA256 = {
+    "tools/build_patch.py": "cba9fd414f7519bf16079305776f2ce0ee4509f77ee1a4ea6b394ef07b9547c3",
+    "tools/overlay_archive.py": "78bd59f76766b3c3035473f0e6b7482a31579316ed249e993c8464c2d9a71bb9",
+    "tools/dialogue_controls.py": "2c055c21c9c35269c6384a48f8b2fcce8bcdcec89c0dcf767f7adb701e82f064",
+    "tools/glossary_alias.py": "c06e860d63ae96f20d0230833153c8d720843dd0077d16647a5c4b602cce3b60",
+}
+DIALOGUE_PREDECESSOR = {
+    "tools/build_patch.py": "bca4c8edf4b1d121a8a2928a7a9178221698babd34bc04fe36ea354b4b778926",
+    "tools/overlay_archive.py": "42d4f841d49099d42e359d44e4e3d1812aebbbff0b9bd3e7dbe888e0b926c6e3",
+}
+DIALOGUE_MEMBER_PATTERN = "dc9f95b7daee938d6d147c394ad8afcd156c0f495c65c3e1f4b0c77d0d90b4b4"
+DIALOGUE_PAIR = ("647cd0bd2ffa3ec30a1eb65cc0ffe0f933fcdafa9d0f33cc325134c5310ace1b",
+                 "2dd233a45a6ed72912142887a294bb76de31f3179b59fa68983b99295be27501")
+DIALOGUE_ORDINALS = {57, 85, 103, 107}
+DIALOGUE_QUOTES = ("91d7640678cdbcbbba1d3c263cb81578a9dad1262f88e2a56e4594456b1769ad",
+                   "b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23")
+TOOLS = HUD_TOOLS | ROUTE_TOOLS | DIALOGUE_TOOLS | {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
     "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
     "tools/build_notice.py", "tools/notice_lettering.py", "tools/notice_texture.py",
@@ -67,7 +86,7 @@ SCRIPT = "translations/script.json"
 SCRIPT_SOURCES = "translations/script-sources.json"
 IMAGE_LABELS = "translations/image-labels.json"
 INDEXED = {MENU, IMAGE_LABELS, SCRIPT}
-FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, BOARD_TEMPLATES, MENU_RUNTIME, SCRIPT_SOURCES}
+FILES = DOCS | TOOLS | INDEXED | {SERVICE, NATIVE, BOARD_TEMPLATES, MENU_RUNTIME, SCRIPT_SOURCES, DIALOGUE_CATALOG}
 HEX = re.compile(r"[0-9a-f]{64}\Z")
 OBJECT = re.compile(r"(?:[0-9a-f]{40}|[0-9a-f]{64})\Z")
 TABLE_NAME = re.compile(r"[A-Za-z][A-Za-z0-9_]*\Z")
@@ -175,6 +194,8 @@ class Checks:
         self.image_pairs = {}
         self.route_sources = set()
         self.shop_sources = set()
+        self.dialogue_sources = set()
+        self.dialogue_native = set()
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -242,10 +263,72 @@ class Checks:
         require(digest(encoded) == BOARD_POSITIONS_SHA256, name, "unexpected template positions")
         return positions
 
+    def dialogue_catalog(self, obj):
+        name = DIALOGUE_CATALOG
+        exact(obj, ("schema_version", "kind", "tables", "words", "word_editions"), name)
+        require(type(obj["schema_version"]) is int and obj["schema_version"] == 1
+                and obj["kind"] == "local-dialogue-controls", name, "unsupported dialogue format")
+        def pairs(edition):
+            result = (edition["uasset_sha256"], edition["uexp_sha256"])
+            require(all(isinstance(s, str) and HEX.fullmatch(s) for s in result), name, "invalid table fingerprint")
+            return result
+        require(isinstance(obj["word_editions"], list) and len(obj["word_editions"]) == 2, name, "expected two glossary editions")
+        editions = set()
+        for edition in obj["word_editions"]:
+            exact(edition, ("uasset_sha256", "uexp_sha256"), name)
+            editions.add(pairs(edition))
+        require(len(editions) == 2, name, "duplicate glossary edition")
+        require(isinstance(obj["words"], list) and len(obj["words"]) == 2, name, "expected two glossary terms")
+        words = {}
+        for term in obj["words"]:
+            exact(term, ("key_sha256", "body_sha256", "ruby_sha256", "english"), name)
+            require(all(isinstance(term[k], str) and HEX.fullmatch(term[k]) for k in ("key_sha256", "body_sha256", "ruby_sha256")),
+                    name, "invalid glossary binding")
+            self.english(term["english"], name)
+            require(re.fullmatch(r"[A-Za-z]+(?:[ -][A-Za-z]+)*", term["english"]), name, "unexpected glossary body")
+            words[term["key_sha256"]] = term["english"]
+        require(len(words) == 2, name, "duplicate glossary term")
+        require(isinstance(obj["tables"], list) and len(obj["tables"]) == 1, name, "expected one dialogue table")
+        table = obj["tables"][0]
+        exact(table, ("uasset_sha256", "uexp_sha256", "rows"), name)
+        require(pairs(table) == DIALOGUE_PAIR and isinstance(table["rows"], list) and len(table["rows"]) == 4,
+                name, "unexpected dialogue table or roster")
+        seen, used = set(), set()
+        for row in table["rows"]:
+            exact(row, ("ordinal", "source_sha256", "english", "controls"), name)
+            ordinal = row["ordinal"]
+            require(type(ordinal) is int and ordinal in DIALOGUE_ORDINALS and ordinal not in seen, name, "unexpected dialogue ordinal")
+            require(isinstance(row["source_sha256"], str) and HEX.fullmatch(row["source_sha256"]), name, "invalid source fingerprint")
+            seen.add(ordinal)
+            template = row["english"]
+            self.english(template, name)
+            slots = re.findall(r"\{[A-Za-z0-9]+\}", template)
+            literal = re.sub(r"\{[A-Za-z0-9]+\}", "", template).replace("\r\n", "\n")
+            require(re.search(r"[A-Za-z]", literal) and all(c == "\n" or 32 <= ord(c) <= 126 for c in literal)
+                    and not any(c in literal for c in "{}[]<>"), name, "unexpected dialogue prose or markup")
+            self.english(literal, name)
+            controls = row["controls"]
+            require(isinstance(controls, list) and all(isinstance(v, str) and HEX.fullmatch(v) for v in controls),
+                    name, "invalid dialogue control fingerprints")
+            if ordinal == 107:
+                require(slots == ["{OpenQuote}", "{CloseQuote}"] and tuple(controls) == DIALOGUE_QUOTES,
+                        name, "unexpected quotation controls")
+                resolved = template.replace("{OpenQuote}", "“").replace("{CloseQuote}", "”")
+            else:
+                require(slots == ["{Word0}"] and len(controls) == 1 and controls[0] in words,
+                        name, "unexpected word control")
+                used.update(controls)
+                resolved = template.replace("{Word0}", words[controls[0]])
+            self.english(resolved, name)
+        require(used == words.keys(), name, "unused glossary term")
+        return seen
+
     def catalog(self, name, raw):
         obj = parse_json(raw)
         if name == BOARD_TEMPLATES:
             return self.board_templates(obj)
+        if name == DIALOGUE_CATALOG:
+            return self.dialogue_catalog(obj)
         collection = "tables" if name == NATIVE else "entries"
         exact(obj, ("schema_version", collection), name)
         require(type(obj["schema_version"]) is int and obj["schema_version"] == 1, name, "unsupported schema")
@@ -329,6 +412,8 @@ class Checks:
                 keys = self.catalog(name, text)
                 if name == BOARD_TEMPLATES:
                     require(sha == BOARD_CATALOG_SHA256, name, "unreviewed template catalog digest")
+                if name == DIALOGUE_CATALOG:
+                    require(sha == DIALOGUE_CATALOG_SHA256, name, "unreviewed dialogue catalog digest")
                 if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES}:
                     self.catalog_keys[sha] = keys
                 if name == IMAGE_LABELS:
@@ -342,6 +427,8 @@ class Checks:
                         self.route_sources.add((name, sha))
                     if has_shop_source(name, source):
                         self.shop_sources.add((name, sha))
+                    if has_dialogue_source(name, source):
+                        self.dialogue_sources.add((name, sha))
                     for token in tokenize.generate_tokens(io.StringIO(text).readline):
                         if token.type == tokenize.COMMENT:
                             self.text(token.string, f"{name} line {token.start[0]}")
@@ -358,6 +445,34 @@ class Checks:
         except (UnicodeError, json.JSONDecodeError, SyntaxError) as error:
             raise ScanError(f"{name}: invalid UTF-8, JSON or Python source") from error
         return {"bytes": len(raw), "sha256": sha}
+
+    def dialogue_tree(self, entries, repo):
+        def fingerprint(name):
+            return entries.get(name, {}).get("sha256")
+        scanner = "tools/scan_public.py"
+        new_scanner = (scanner, fingerprint(scanner)) in self.dialogue_sources
+        active = (DIALOGUE_CATALOG in entries or bool(DIALOGUE_TOOLS.intersection(entries))
+                  or any((n, fingerprint(n)) in self.dialogue_sources for n in DIALOGUE_PREDECESSOR))
+        if not active:
+            if new_scanner:
+                require(all(fingerprint(n) == h for n, h in DIALOGUE_PREDECESSOR.items()),
+                        "Dialogue controls", "incomplete withdrawal")
+            return
+        require(new_scanner and fingerprint(DIALOGUE_CATALOG) == DIALOGUE_CATALOG_SHA256
+                and all(fingerprint(n) == h for n, h in DIALOGUE_TOOLS_SHA256.items()),
+                "Dialogue controls", "missing or mismatched catalog, builder, glossary writer, archive or scanner")
+        require(NATIVE in entries, "Dialogue controls", "missing native translation catalog")
+        native = entries[NATIVE]["git_blob"]
+        if native not in self.dialogue_native:
+            doc = parse_json(git(repo, "cat-file", "blob", native))
+            fields = {r["ordinal"]: r for t in doc["tables"] if (t["uasset_sha256"], t["uexp_sha256"]) == DIALOGUE_PAIR
+                      for r in t["rows"]}
+            require(DIALOGUE_ORDINALS.isdisjoint(fields), NATIVE, "literal and dialogue control positions overlap")
+            witness = fields.get(72, {})
+            require(witness.get("source_sha256") == "30de9588711d7478502c710a374e0c384fc6fb2a4564208d8c3016769ae819b1"
+                    and digest(witness["english"].encode("utf-8")) == "325ad22e3bf233aac12b66d9b6356aa1e2c8d98e9857a4421c2703b545b444e8",
+                    NATIVE, "missing original Visitor term witness")
+            self.dialogue_native.add(native)
 
 
     def help_tree(self, entries):
@@ -385,6 +500,21 @@ class Checks:
             require(ROUTE_LABEL in pairs, IMAGE_LABELS, "missing matching Route Guide description")
 
 
+def has_dialogue_source(name, source):
+    if name == "tools/build_patch.py":
+        return any(isinstance(node, ast.ImportFrom) and node.module == "dialogue_controls" for node in ast.walk(source))
+    if name == "tools/scan_public.py":
+        return any(isinstance(node, ast.Assign) and len(node.targets) == 1 and isinstance(node.targets[0], ast.Name)
+                   and node.targets[0].id == "DIALOGUE_CATALOG_SHA256" and isinstance(node.value, ast.Constant)
+                   and node.value.value == DIALOGUE_CATALOG_SHA256 for node in source.body)
+    if name == "tools/overlay_archive.py":
+        return any(isinstance(node, ast.Assign) and any(isinstance(t, ast.Name) and t.id == "_LOCALIZED_MEMBER" for t in node.targets)
+                   and isinstance(node.value, ast.Call) and len(node.value.args) == 1 and isinstance(node.value.args[0], ast.Constant)
+                   and isinstance(node.value.args[0].value, str) and digest(node.value.args[0].value.encode()) == DIALOGUE_MEMBER_PATTERN
+                   for node in source.body)
+    return False
+
+
 def has_shop_source(name, source):
     if name not in SHOP_PROFILES and name != "tools/scan_public.py":
         return False
@@ -400,7 +530,7 @@ def has_shop_source(name, source):
                 and value.func.attr == "compile" and len(value.args) == 1 and not value.keywords
                 and isinstance(value.args[0], ast.Constant) and isinstance(value.args[0].value, str)):
             return False
-        return digest(value.args[0].value.encode()) == SHOP_PROFILES[name][1]
+        return digest(value.args[0].value.encode()) in {SHOP_PROFILES[name][1], DIALOGUE_MEMBER_PATTERN}
     try:
         literal = ast.literal_eval(value)
     except (TypeError, ValueError, SyntaxError):
@@ -521,6 +651,7 @@ def scan(repo, commit, policy):
                 require(HUD_FPS_KEYS <= fps_keys, IMAGE_LABELS, "missing matching FPS label for a HUD preset")
                 hud_catalogs.add(image_catalog)
         checks.help_tree(entries)
+        checks.dialogue_tree(entries, repo)
         if BOARD_TEMPLATES in entries:
             require(NATIVE in entries, BOARD_TEMPLATES, "missing native catalog")
             native = entries[NATIVE]["git_blob"]

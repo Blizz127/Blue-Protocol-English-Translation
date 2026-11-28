@@ -10,6 +10,7 @@ from pathlib import Path
 
 _LOCALIZED_MEMBER = re.compile(
     r"BLUEPROTOCOL/Content/(?:(?:Text|Script)/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
+    r"|Word/WordDataTable\.(?:uasset|uexp)"
     r"|UI/Startup/UI_StartupCaution1\.(?:uasset|uexp)"
     r"|UI/Option/HUD/UI_OptionMenuHud(?:Left|Right)\.(?:uasset|uexp)"
     r"|UI/Image/TutorialHelp/(?:RouteGuide|LiquidMemory_guide_0[6-9]|UI_TutorialHelp0006[2-6])\.(?:uasset|uexp)"
@@ -34,6 +35,9 @@ def _record(offset, size, digest):
 def _inputs(root, names):
     if not names:
         raise ValueError("An overlay needs at least one localized file")
+    glossary = {"BLUEPROTOCOL/Content/Word/WordDataTable." + ext for ext in ("uasset", "uexp")}
+    if glossary.intersection(names) and not glossary.issubset(names):
+        raise ValueError("A glossary overlay needs both matching dictionary files")
     resolved = {}
     seen = set()
     for name in sorted(names):
