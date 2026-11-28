@@ -5828,6 +5828,101 @@
           "ordinal": 29,
           "source_sha256": "c81606e43ecaad0fc9d7958f61a6a9a62a8a9dad5a41847d5f18ec6e6030478c",
           "english": "Once you're an adventurer yourself,\r\nyou can take on jobs here and earn some coin!"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "8bc812704db74dfec09537e1eb87850c0e9c99ddd45fb341c428a52c11606c07",
+          "english": "Hey! Glad you made it, rookie. Welcome aboard!"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "7ba64f00419debbd30d536951d356183cfd7ada6ad749c436626d14ca4b2718a",
+          "english": "For now, your registration's provisional, with yours truly as your sponsor."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "cf913bf82ea3920518f78f331aa8b920abfb47b77b660ab349371e6e476e0c1c",
+          "english": "You'll take on a job for your registration test.\r\nThink of it as a chance to show us what you've got."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "f7610d8cca3f7dd82c69b054782baa7b9666a564061d99c140b67e6e03228d6d",
+          "english": "See the job through,\r\nand we'll make your registration official. Simple as that!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "ca0c16922cf88a6a1a30e8a3775e5eaa7bc3dcc37be916db8981bd80f8d917f1",
+          "english": "I'll let our Hot and Cute guide fill you in.\r\nCome on out, Millie!"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "e148a45ef46631ec53d7da6e0b3b60d90ebd2cafba65cd9dae1f67654124b557",
+          "english": "You must be our new recruit.\r\nI'm Millie. I work at the information desk. Nice to meet you!"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "e15ddf921566286b448745b2dad9a81a7284eb8a54868313ac1b20cc04e0e691",
+          "english": "First things first.\r\nLet me explain what we do here at the Reclamation Bureau."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "a10682888bcb539affc55ba63e781fda54698b0813ca8fcb49ea3ab8ee520230",
+          "english": "We get requests from all over.\r\nPeople ask us to do everything from hunting monsters to finding lost belongings."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "5811da7a953fd6e2b21bb83acf217d1aca7fd3c179177d7836a655d5540e33ac",
+          "english": "That covers the basics.\r\nShall we get started on your registration exam?"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "8aeb6fa2c6ad75a3a7d3cec5babf49eef5530f9e0c1a3e806b1b6efb36afc3b6",
+          "english": "No need to be nervous.\r\nI'll pick out a request that suits your skills."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "737756de5103729442779fe6d46e027a71ccf47e5dc21405f1d5fec24d893fc4",
+          "english": "Oh? That thing you're holding...\r\nIs that an Imagine Seed?"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "757392cd89b231466d2009bd85ce0a0b305f96b3b5a80398e109ba672e625395",
+          "english": "We picked it up at the Cliff Ruins...\r\nCan't say we know much about such things, though."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "091dfd452b061d9c67fa61562dcf8b1946806a0fba0cfcbe7dff8256539f8b93",
+          "english": "May I have a look?"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "73df446fff6d5cd2010abbdcdf9444d1513c44911782ee70f11e99c6ad4d370a",
+          "english": "Let's see..."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "99912b0640ca13c5c95d3f5fae41dbe7b2e0f08c5f663e696bac2311d2b15257",
+          "english": "You're lucky you found it in this condition.\r\nPut it to good use!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "6342f65b7849e08e37bf93c8ac437404df41135ee6b8a0b4b43139ca96e12af1",
+          "english": "Now then, let's begin your registration exam.\r\nTalk to me when you're ready."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "22dc379e2f4bac14b20f26e7ea5cfd4c81a175aaf53bd6a93faae7394290408f",
+          "english": "Once you're an adventurer, I should be able to send\r\nsome good-paying work your way before long."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "921155226109818167145540708106683e60cdc6bb4c430ec121e6b7199cb03c",
+          "english": "Oho! Good pay, you say?\r\nI have your word on that, do I?"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "441a07ccfd39c89a18a813388c085dd99d8e39f5a6028cea961b70ed9ae03d0d",
+          "english": "Of course! But if you want in on that, you'd better\r\npass that test without breaking a sweat!"
         }
       ]
     },
@@ -6147,6 +6242,101 @@
           "ordinal": 29,
           "source_sha256": "c81606e43ecaad0fc9d7958f61a6a9a62a8a9dad5a41847d5f18ec6e6030478c",
           "english": "Once you're an adventurer yourself,\r\nyou can take on jobs here and earn some coin!"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "8bc812704db74dfec09537e1eb87850c0e9c99ddd45fb341c428a52c11606c07",
+          "english": "Hey! Glad you made it, rookie. Welcome aboard!"
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "7ba64f00419debbd30d536951d356183cfd7ada6ad749c436626d14ca4b2718a",
+          "english": "For now, your registration's provisional, with yours truly as your sponsor."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "cf913bf82ea3920518f78f331aa8b920abfb47b77b660ab349371e6e476e0c1c",
+          "english": "You'll take on a job for your registration test.\r\nThink of it as a chance to show us what you've got."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "f7610d8cca3f7dd82c69b054782baa7b9666a564061d99c140b67e6e03228d6d",
+          "english": "See the job through,\r\nand we'll make your registration official. Simple as that!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "ca0c16922cf88a6a1a30e8a3775e5eaa7bc3dcc37be916db8981bd80f8d917f1",
+          "english": "I'll let our Hot and Cute guide fill you in.\r\nCome on out, Millie!"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "e148a45ef46631ec53d7da6e0b3b60d90ebd2cafba65cd9dae1f67654124b557",
+          "english": "You must be our new recruit.\r\nI'm Millie. I work at the information desk. Nice to meet you!"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "e15ddf921566286b448745b2dad9a81a7284eb8a54868313ac1b20cc04e0e691",
+          "english": "First things first.\r\nLet me explain what we do here at the Reclamation Bureau."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "a10682888bcb539affc55ba63e781fda54698b0813ca8fcb49ea3ab8ee520230",
+          "english": "We get requests from all over.\r\nPeople ask us to do everything from hunting monsters to finding lost belongings."
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "5811da7a953fd6e2b21bb83acf217d1aca7fd3c179177d7836a655d5540e33ac",
+          "english": "That covers the basics.\r\nShall we get started on your registration exam?"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "8aeb6fa2c6ad75a3a7d3cec5babf49eef5530f9e0c1a3e806b1b6efb36afc3b6",
+          "english": "No need to be nervous.\r\nI'll pick out a request that suits your skills."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "737756de5103729442779fe6d46e027a71ccf47e5dc21405f1d5fec24d893fc4",
+          "english": "Oh? That thing you're holding...\r\nIs that an Imagine Seed?"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "757392cd89b231466d2009bd85ce0a0b305f96b3b5a80398e109ba672e625395",
+          "english": "We picked it up at the Cliff Ruins...\r\nCan't say we know much about such things, though."
+        },
+        {
+          "ordinal": 44,
+          "source_sha256": "091dfd452b061d9c67fa61562dcf8b1946806a0fba0cfcbe7dff8256539f8b93",
+          "english": "May I have a look?"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "73df446fff6d5cd2010abbdcdf9444d1513c44911782ee70f11e99c6ad4d370a",
+          "english": "Let's see..."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "99912b0640ca13c5c95d3f5fae41dbe7b2e0f08c5f663e696bac2311d2b15257",
+          "english": "You're lucky you found it in this condition.\r\nPut it to good use!"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "6342f65b7849e08e37bf93c8ac437404df41135ee6b8a0b4b43139ca96e12af1",
+          "english": "Now then, let's begin your registration exam.\r\nTalk to me when you're ready."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "22dc379e2f4bac14b20f26e7ea5cfd4c81a175aaf53bd6a93faae7394290408f",
+          "english": "Once you're an adventurer, I should be able to send\r\nsome good-paying work your way before long."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "921155226109818167145540708106683e60cdc6bb4c430ec121e6b7199cb03c",
+          "english": "Oho! Good pay, you say?\r\nI have your word on that, do I?"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "441a07ccfd39c89a18a813388c085dd99d8e39f5a6028cea961b70ed9ae03d0d",
+          "english": "Of course! But if you want in on that, you'd better\r\npass that test without breaking a sweat!"
         }
       ]
     },
