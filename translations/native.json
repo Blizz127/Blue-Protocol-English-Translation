@@ -794,6 +794,22 @@
       ]
     },
     {
+      "uasset_sha256": "121f41e6b0fd3320a35ca0ed14e71f8ef1acf1c4ffe59834e72ecf1b50a43b70",
+      "uexp_sha256": "65357f4e109ad14ef53b86bf38a23aba24eb005df30115219a1695d9885f782e",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "1ecd5322e247ff7546d0dd1c6ebec784ba39bdd0e0da56b6fa12d8113130ccb5",
+          "english": "Load Character Data"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "5765cace972555cfcc1d74ce2cc0e58a879ff54e8a8be84d7335af628dce4c19",
+          "english": "Browse for character data created with the benchmark tool."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "14986e16b8394cbe7fd617f88064c249c10860e5bfa442ec2453846db97414b2",
       "uexp_sha256": "5f8aa45cdc49a7cfa41e30e97316943c24f9605435141a0fb7354fea71641ae6",
       "rows": [
@@ -1812,6 +1828,17 @@
           "ordinal": 39,
           "source_sha256": "6b74285e66d6aa855c23b38f896cda19ffb9a730dbff61545fb4e767e05423f6",
           "english": "Ask Before Equipping or Placing an Unused Item"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "24866ca4b31e92e5ef2434b1b6547237baaf5589dca6e2130bd13aabb795640d",
+      "uexp_sha256": "04acfe8cffc55a084ceae8d7af015f131dd6cde14c515f6d527501d779c5ba3a",
+      "rows": [
+        {
+          "ordinal": 30,
+          "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
+          "english": "Return to the previous screen? You’ll lose your progress on this character."
         }
       ]
     },
@@ -4992,6 +5019,17 @@
           "ordinal": 45,
           "source_sha256": "c638011bd0f494c21f8c3bd335d6d0aca1ec97093d5391590d6eb1c63c9551ed",
           "english": "Ha ha ha ha ha!\r\nBy the time they're sorry, it'll be too late!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "71502d34c11b7e6bfad6c7a3cb193af70517c1b01c318818773f0d314ad7887c",
+      "uexp_sha256": "ad909d1a9f0a821494155ded594a4320000aafca82c12792e10c9f2a50f9e3be",
+      "rows": [
+        {
+          "ordinal": 19,
+          "source_sha256": "65d8c6c53614e18d7172c31effcafd51750e7501e971e3fa326340782b1826fa",
+          "english": "Some customization options depend on your selected face type."
         }
       ]
     },
@@ -8266,6 +8304,17 @@
       ]
     },
     {
+      "uasset_sha256": "c52e1519352900d20ad80e1bc66525ef1d0707ea2fcfabdcfd000bc55405421e",
+      "uexp_sha256": "4befe4de8fb0ce51bc21ee28fc22d83b5cf374ee466a80e0909c7511e61d3f52",
+      "rows": [
+        {
+          "ordinal": 30,
+          "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
+          "english": "Return to the previous screen? You’ll lose your progress on this character."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "ca43e79823285f36df8a27eb4ce66fdbae69ade7291047cf5461575415b5f465",
       "uexp_sha256": "85f9dc5c596fed785dddcb01d0592e1827b49f4a32263ffed39993214bb552d4",
       "rows": [
@@ -10402,6 +10451,17 @@
           "ordinal": 24,
           "source_sha256": "659029af53b67270d52315932fb6db30cf01d432b8d050a985536248e35f6741",
           "english": "Hold Facing Direction:"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ebc85b382c2c58a9e9478fed7c5979cf14ee03221753bd899304c5c8e7cf2f33",
+      "uexp_sha256": "98e510d0b82a2a34440db1f03f8782217c682992f30644bd7a0abf0851fbcfc9",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "65d8c6c53614e18d7172c31effcafd51750e7501e971e3fa326340782b1826fa",
+          "english": "Some customization options depend on your selected face type."
         }
       ]
     },
