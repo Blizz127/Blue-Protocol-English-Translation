@@ -62,6 +62,27 @@
       ],
       "uasset_sha256": "f3b1d68730f643d21aab142c941908997c17217ee385e52b3573dc9b7f721531",
       "uexp_sha256": "c21c7f8330950764a35cd1023c8b71d9b3ba37d03a78e2696bfa251fdd4490c4"
+    },
+    {
+      "uasset_sha256": "612caa7e3434a5d64fdcf8eecbfccddc93d2a5b173f4f9473ef5114d562ffd45",
+      "uexp_sha256": "b1faa2b5f3b9beae8c85902803cc7ce8bfac01f64775609efd92793247507929",
+      "rows": [
+        {
+          "ordinal": 25,
+          "source_sha256": "1ec908cab2ab178cf4486bbe972e6f767dfcb0a0f6a25ae784e3300594047b68",
+          "english": "Now then, we're off to the {Word1} {Word2}\r\nto uncover the mystery of the {Word0}s.",
+          "controls": [
+            "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280",
+            "d2824bf781104ac9036b416bfbf389a45e773e10ec25e35be6a0056538718ee8",
+            "a6a58031c9a7547a56c4ba4c923517e35279cb378005fa91881b3085d39e4f7a"
+          ],
+          "word_order": [
+            1,
+            2,
+            0
+          ]
+        }
+      ]
     }
   ],
   "words": [
@@ -76,6 +97,18 @@
       "body_sha256": "f6af8023afdd917ac59ce6add3c81bf64330244bcf755aa3513d3b8fb8e97b59",
       "ruby_sha256": "292197d286730012d4f7e6d992f7225a5f8d96ec0776d6953fb13cc7e0575c63",
       "english": "Visitor"
+    },
+    {
+      "key_sha256": "d2824bf781104ac9036b416bfbf389a45e773e10ec25e35be6a0056538718ee8",
+      "body_sha256": "f56ed3fda64b3f22326add0bc1f92c228d38934417029a739d909ba8abc8ecee",
+      "ruby_sha256": "bc82f46591a2e1d095a5c78443a115ba86153ac19a50e138dc859df561125a03",
+      "english": "Sacred"
+    },
+    {
+      "key_sha256": "a6a58031c9a7547a56c4ba4c923517e35279cb378005fa91881b3085d39e4f7a",
+      "body_sha256": "7cfa2d4637a51fdadf3bd5ac72994de2e503961e88bb27dcb09b53bd23fbad1d",
+      "ruby_sha256": "9fb7fa13b476a041caa30f4cd608787aacd7f39693f9b58ff1c2e5693f8e7256",
+      "english": "Pillar"
     }
   ],
   "word_editions": [

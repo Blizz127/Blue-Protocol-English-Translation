@@ -2,6 +2,7 @@
 
 from hashlib import sha256
 from pathlib import Path
+import json
 import re
 import unicodedata
 
@@ -19,6 +20,12 @@ QUOTES = {
     "CloseQuote": ("b72463c14159de4fb05314bbe87427f188c8e257daa14ceb49223b60b24f5a23", "”"),
 }
 ALIAS_NUMBER = 271828183
+
+# Each reviewed template fingerprints its complete source and output ordering.
+# The labels here follow the original positions of the controls.
+REORDERED_WORD_LABELS = {
+    "74a4f964e9f4deb9becd6800b20e241a3ee4a9f75f694baec30e666611b23bb2": ("Visitor", "Sacred", "Pillar"),
+}
 
 
 def require(condition, message):
@@ -55,8 +62,14 @@ def english_prose(value):
         for c in value)
 
 
+def template_hash(row):
+    return digest(json.dumps(row, ensure_ascii=True, sort_keys=True, separators=(",", ":")).encode("ascii"))
+
+
 def render(original, row):
-    fields(row, ("ordinal", "source_sha256", "english", "controls"))
+    required = ("ordinal", "source_sha256", "english", "controls")
+    reordered = "word_order" in row
+    fields(row, (*required, "word_order") if reordered else required)
     require(digest(original.encode()) == checked_hash(row["source_sha256"]), "Different dialogue source")
     tokens = re.findall(r"\[([^\[\]\r\n]+)\]", original)
     require(len(tokens) == original.count("[") == original.count("]") and
@@ -68,6 +81,15 @@ def render(original, row):
     require(english_prose(literal) and not any(c in literal for c in "[]{}<>") and len(names) == len(tokens),
             "Invalid English dialogue template")
     require(re.findall(r"\r\n|\r|\n", original) == re.findall(r"\r\n|\r|\n", template), "Dialogue line breaks differ")
+    if reordered:
+        order = row["word_order"]
+        require(isinstance(order, list) and all(type(i) is int for i in order)
+                and sorted(order) == list(range(len(tokens)))
+                and names == [f"Word{i}" for i in order]
+                and template_hash(row) in REORDERED_WORD_LABELS, "Unapproved glossary word ordering")
+        # Numbered names bind to the controls in the original, regardless of
+        # where their placeholders occur in the English sentence.
+        names = [f"Word{i}" for i in range(len(tokens))]
     result = template
     words = set()
     word_number = 0
@@ -135,6 +157,9 @@ class DialogueControls:
             require(type(i) is int and 0 <= i < len(rows) and i not in merged, "Unknown or overlapping dialogue row")
             value, words, quoted = render(rows[i][2], entry)
             require(words <= self.words.keys(), "Dialogue depends on an unknown glossary word")
+            if "word_order" in entry:
+                require(tuple(self.words[k][2] for k in entry["controls"]) == REORDERED_WORD_LABELS[template_hash(entry)],
+                        "Glossary labels differ from the reviewed dialogue")
             self.used_words.update(words)
             self.used_quotes |= quoted
             merged[i] = (entry["source_sha256"], value)

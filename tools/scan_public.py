@@ -58,6 +58,18 @@ DIALOGUE_VISITOR_SHA256 = "142d3c0335250993bcd8725fc68c1beae35b695a8dbec5d37b150
 DIALOGUE_VISITOR_PAIR = ("f3b1d68730f643d21aab142c941908997c17217ee385e52b3573dc9b7f721531",
                         "c21c7f8330950764a35cd1023c8b71d9b3ba37d03a78e2696bfa251fdd4490c4")
 VISITOR_KEY = "354fc354cab453cec73548ba7fbc7d1ab3f08cdf5ffbf7955d2038c61c909280"
+DIALOGUE_PILLAR_SHA256 = "12f66e2039cec4c9ac2aaddcb035bc7631cb32002108b16783468d6dddc78366"
+DIALOGUE_PILLAR_RENDERER = "0c3be229720b09edee28d91d303355ac34bab6b05098add60e548a55021aaddb"
+DIALOGUE_PILLAR_PAIR = ("612caa7e3434a5d64fdcf8eecbfccddc93d2a5b173f4f9473ef5114d562ffd45",
+                        "b1faa2b5f3b9beae8c85902803cc7ce8bfac01f64775609efd92793247507929")
+SACRED_KEY = "d2824bf781104ac9036b416bfbf389a45e773e10ec25e35be6a0056538718ee8"
+PILLAR_KEY = "a6a58031c9a7547a56c4ba4c923517e35279cb378005fa91881b3085d39e4f7a"
+DIALOGUE_PILLAR_WORDS = {
+    SACRED_KEY: ("f56ed3fda64b3f22326add0bc1f92c228d38934417029a739d909ba8abc8ecee",
+                 "bc82f46591a2e1d095a5c78443a115ba86153ac19a50e138dc859df561125a03", "Sacred"),
+    PILLAR_KEY: ("7cfa2d4637a51fdadf3bd5ac72994de2e503961e88bb27dcb09b53bd23fbad1d",
+                 "9fb7fa13b476a041caa30f4cd608787aacd7f39693f9b58ff1c2e5693f8e7256", "Pillar"),
+}
 DIALOGUE_TOOLS_SHA256 = {
     "tools/build_patch.py": "cba9fd414f7519bf16079305776f2ce0ee4509f77ee1a4ea6b394ef07b9547c3",
     "tools/overlay_archive.py": "78bd59f76766b3c3035473f0e6b7482a31579316ed249e993c8464c2d9a71bb9",
@@ -201,6 +213,7 @@ class Checks:
         self.dialogue_sources = set()
         self.dialogue_native = set()
         self.visitor_scanners = set()
+        self.pillar_scanners = set()
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -283,7 +296,10 @@ class Checks:
             exact(edition, ("uasset_sha256", "uexp_sha256"), name)
             editions.add(pairs(edition))
         require(len(editions) == 2, name, "duplicate glossary edition")
-        require(isinstance(obj["words"], list) and len(obj["words"]) == 2, name, "expected two glossary terms")
+        tables = obj["tables"]
+        require(isinstance(tables, list) and len(tables) in (1, 2, 3), name, "unexpected dialogue table count")
+        term_count = 4 if len(tables) == 3 else 2
+        require(isinstance(obj["words"], list) and len(obj["words"]) == term_count, name, "unexpected glossary term count")
         words = {}
         for term in obj["words"]:
             exact(term, ("key_sha256", "body_sha256", "ruby_sha256", "english"), name)
@@ -291,13 +307,16 @@ class Checks:
                     name, "invalid glossary binding")
             self.english(term["english"], name)
             require(re.fullmatch(r"[A-Za-z]+(?:[ -][A-Za-z]+)*", term["english"]), name, "unexpected glossary body")
+            if term["key_sha256"] in DIALOGUE_PILLAR_WORDS:
+                require(len(tables) == 3 and (term["body_sha256"], term["ruby_sha256"], term["english"])
+                        == DIALOGUE_PILLAR_WORDS[term["key_sha256"]], name, "unexpected Sacred Pillar glossary binding")
             words[term["key_sha256"]] = term["english"]
-        require(len(words) == 2, name, "duplicate glossary term")
-        tables = obj["tables"]
-        require(isinstance(tables, list) and len(tables) in (1, 2), name, "unexpected dialogue table count")
+        require(len(words) == term_count, name, "duplicate glossary term")
         rosters = [(DIALOGUE_PAIR, DIALOGUE_ORDINALS)]
-        if len(tables) == 2:
+        if len(tables) >= 2:
             rosters.append((DIALOGUE_VISITOR_PAIR, {47, 48}))
+        if len(tables) == 3:
+            rosters.append((DIALOGUE_PILLAR_PAIR, {25}))
         used, positions = set(), set()
         for table, (pair, roster) in zip(tables, rosters):
             exact(table, ("uasset_sha256", "uexp_sha256", "rows"), name)
@@ -305,7 +324,8 @@ class Checks:
                     name, "unexpected dialogue table or roster")
             seen = set()
             for row in table["rows"]:
-                exact(row, ("ordinal", "source_sha256", "english", "controls"), name)
+                fields = {"ordinal", "source_sha256", "english", "controls"}
+                exact(row, fields | {"word_order"} if pair == DIALOGUE_PILLAR_PAIR else fields, name)
                 ordinal = row["ordinal"]
                 require(type(ordinal) is int and ordinal in roster and ordinal not in seen, name, "unexpected dialogue ordinal")
                 require(isinstance(row["source_sha256"], str) and HEX.fullmatch(row["source_sha256"]), name, "invalid source fingerprint")
@@ -321,7 +341,19 @@ class Checks:
                 controls = row["controls"]
                 require(isinstance(controls, list) and all(isinstance(v, str) and HEX.fullmatch(v) for v in controls),
                         name, "invalid dialogue control fingerprints")
-                if ordinal == 107:
+                if pair == DIALOGUE_PILLAR_PAIR:
+                    order = row["word_order"]
+                    require(isinstance(order, list) and all(type(i) is int for i in order) and order == [1, 2, 0]
+                            and slots == ["{Word1}", "{Word2}", "{Word0}"]
+                            and controls == [VISITOR_KEY, SACRED_KEY, PILLAR_KEY] and all(k in words for k in controls)
+                            and row["source_sha256"] == "1ec908cab2ab178cf4486bbe972e6f767dfcb0a0f6a25ae784e3300594047b68"
+                            and template == "Now then, we're off to the {Word1} {Word2}\r\nto uncover the mystery of the {Word0}s.",
+                            name, "unexpected Sacred Pillar dialogue or control order")
+                    used.update(controls)
+                    resolved = template
+                    for i in order:
+                        resolved = resolved.replace("{Word" + str(i) + "}", words[controls[i]])
+                elif ordinal == 107:
                     require(slots == ["{OpenQuote}", "{CloseQuote}"] and tuple(controls) == DIALOGUE_QUOTES,
                             name, "unexpected quotation controls")
                     resolved = template.replace("{OpenQuote}", "“").replace("{CloseQuote}", "”")
@@ -335,6 +367,12 @@ class Checks:
                 self.english(resolved, name)
             positions.update((*pair, ordinal) for ordinal in seen)
         require(used == words.keys(), name, "unused glossary term")
+        if len(tables) == 3:
+            inherited = {**obj, "tables": tables[:2],
+                         "words": [term for term in obj["words"] if term["key_sha256"] not in DIALOGUE_PILLAR_WORDS]}
+            normalized = json.dumps(inherited, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode("utf-8")
+            require(digest(normalized) == "5921f26cc44731dac8afbe55dfd0435d040bec05b43afa839ca8294cbe7f1fc0",
+                    name, "changed inherited dialogue controls")
         return positions
 
     def catalog(self, name, raw):
@@ -427,7 +465,8 @@ class Checks:
                 if name == BOARD_TEMPLATES:
                     require(sha == BOARD_CATALOG_SHA256, name, "unreviewed template catalog digest")
                 if name == DIALOGUE_CATALOG:
-                    require(sha in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256), name, "unreviewed dialogue catalog digest")
+                    require(sha in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256, DIALOGUE_PILLAR_SHA256),
+                            name, "unreviewed dialogue catalog digest")
                 if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES, DIALOGUE_CATALOG}:
                     self.catalog_keys[sha] = keys
                 if name == IMAGE_LABELS:
@@ -441,12 +480,13 @@ class Checks:
                         self.route_sources.add((name, sha))
                     if has_shop_source(name, source):
                         self.shop_sources.add((name, sha))
-                    if name == "tools/scan_public.py" and any(
-                        isinstance(node, ast.Assign) and len(node.targets) == 1 and isinstance(node.targets[0], ast.Name)
-                        and node.targets[0].id == "DIALOGUE_VISITOR_SHA256" and isinstance(node.value, ast.Constant)
-                        and node.value.value == DIALOGUE_VISITOR_SHA256 for node in source.body
-                    ):
-                        self.visitor_scanners.add(sha)
+                    if name == "tools/scan_public.py":
+                        for key, value, seen in (("DIALOGUE_VISITOR_SHA256", DIALOGUE_VISITOR_SHA256, self.visitor_scanners),
+                                                 ("DIALOGUE_PILLAR_SHA256", DIALOGUE_PILLAR_SHA256, self.pillar_scanners)):
+                            if any(isinstance(node, ast.Assign) and len(node.targets) == 1 and isinstance(node.targets[0], ast.Name)
+                                   and node.targets[0].id == key and isinstance(node.value, ast.Constant)
+                                   and node.value.value == value for node in source.body):
+                                seen.add(sha)
                     if has_dialogue_source(name, source):
                         self.dialogue_sources.add((name, sha))
                     for token in tokenize.generate_tokens(io.StringIO(text).readline):
@@ -479,10 +519,15 @@ class Checks:
                         "Dialogue controls", "incomplete withdrawal")
             return
         sidecar = fingerprint(DIALOGUE_CATALOG)
-        six_callers = sidecar == DIALOGUE_VISITOR_SHA256
-        require(new_scanner and sidecar in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256)
-                and (fingerprint(scanner) in self.visitor_scanners) == six_callers
-                and all(fingerprint(n) == h for n, h in DIALOGUE_TOOLS_SHA256.items()),
+        seven_callers = sidecar == DIALOGUE_PILLAR_SHA256
+        has_visitor = sidecar in (DIALOGUE_VISITOR_SHA256, DIALOGUE_PILLAR_SHA256)
+        tools = DIALOGUE_TOOLS_SHA256
+        if seven_callers:
+            tools = {**tools, "tools/dialogue_controls.py": DIALOGUE_PILLAR_RENDERER}
+        require(new_scanner and sidecar in (DIALOGUE_CATALOG_SHA256, DIALOGUE_VISITOR_SHA256, DIALOGUE_PILLAR_SHA256)
+                and (fingerprint(scanner) in self.visitor_scanners) == has_visitor
+                and (fingerprint(scanner) in self.pillar_scanners) == seven_callers
+                and all(fingerprint(n) == h for n, h in tools.items()),
                 "Dialogue controls", "missing or mismatched catalog, builder, glossary writer, archive or scanner")
         require(NATIVE in entries, "Dialogue controls", "missing native translation catalog")
         native = entries[NATIVE]["git_blob"]
