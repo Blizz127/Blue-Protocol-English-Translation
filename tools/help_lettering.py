@@ -21,6 +21,8 @@ _PROFILES = {
                             "274bfe6cd197c01e2459e95d31203284bf2b7bc98126b6a1cc3120f69b88087d"),
     "UI_TutorialHelp00063": ("194ef92848db91790a27b5b248ebff8c072dea7d2220e70252e20d6d0abdc82a",
                             "26d946ad7f78c1a178dd2c2c9f4bb34159ee32867e20ae67feea6878d2e5d488"),
+    "UI_TutorialHelp00064": ("353804956380542e4efd24f5f91a0f9166929506e44ad55b0cc91ce5c5a42a2c",
+                            "0d9320e1c5d35f54d6bad5c6c301080f134baf926cacef29878c6cd8f3b78e4b"),
     "UI_TutorialHelp00065": ("f91cc61051f51fb750c69b8aa843edd3e39f05940aa2894155589bda5af66baf",
                             "fa2b680f599c04768a4f2855ace219ce54a1e645c10eb21bb7bd97876a952611"),
     "UI_TutorialHelp00066": ("8625c95ad2c849b3c4d1265d1cf9e90899e63133a7a6dedba86fa0f3243957f3",

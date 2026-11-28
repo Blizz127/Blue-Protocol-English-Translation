@@ -12,7 +12,7 @@ _LOCALIZED_MEMBER = re.compile(
     r"BLUEPROTOCOL/Content/(?:(?:Text|Script)/(?:[A-Za-z0-9_]+/)*[A-Za-z0-9_]+\.(?:uasset|uexp)"
     r"|UI/Startup/UI_StartupCaution1\.(?:uasset|uexp)"
     r"|UI/Option/HUD/UI_OptionMenuHud(?:Left|Right)\.(?:uasset|uexp)"
-    r"|UI/Image/TutorialHelp/(?:RouteGuide|LiquidMemory_guide_0[6-9]|UI_TutorialHelp0006[2356])\.(?:uasset|uexp)"
+    r"|UI/Image/TutorialHelp/(?:RouteGuide|LiquidMemory_guide_0[6-9]|UI_TutorialHelp0006[2-6])\.(?:uasset|uexp)"
     r"|Localization/Game/ja/Game\.locres)"
 )
 _INT = struct.Struct("<i")

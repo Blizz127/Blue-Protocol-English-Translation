@@ -28,6 +28,19 @@ ROUTE_CODEC = "tools/route_help_texture.py"
 ROUTE_TOOLS = HELP_TOOLS | {ROUTE_CODEC}
 ROUTE_LABEL = ("53b65c6c5b6aa107d5679bfef9b1f64f65115e6d67c81bc1532495233da44878",
                "This tab lists your active and completed quests.")
+SHOP_LABEL = ("d6acac4d272e697c1f954ae7c802b8f3907d4817b0f4d0dc70541e846f31c2b3",
+              "Reduced Shop Costs")
+# The two literal profile maps and the archive member pattern include the original panels.
+SHOP_PROFILES = {
+    "tools/build_help.py": ("PANELS", "3450758da25a367d41fa17d53a4a4bea9b4b86d8a59efa9d72274112f5331af9"),
+    "tools/help_lettering.py": ("_PROFILES", "51d7f080141473face717dc93232c5aa9659120c02dbd91847c3ac307122240d"),
+    "tools/overlay_archive.py": ("_LOCALIZED_MEMBER", "96d06064ef4451890419b4243ce2a44fd00db645544f59c89b041779114860e0"),
+}
+SHOP_PREDECESSOR = {
+    "tools/build_help.py": "9d1df66ee8a111bb4f1990ba6bf32bcbcab0393b2e60c612172efa0a0df0bede",
+    "tools/help_lettering.py": "bfd317bae656381a931dd051a20cdf0a6c48cb766891efbb750c4d4b95e33698",
+    "tools/overlay_archive.py": "152c47fe841452472238ec2ea4d464850da93eb82eadb612d957c5492227b677",
+}
 HELP_LABELS = {
     ("13b5d75d219377e0f64cef4f7fb20effb10e20e92385aa1df313596b577a6c6a", "Increased GC from Mission Rewards"),
     ("38defdcc1d74a1027bd628d5ef59ba3c414795f0ed661b03ce05a68203578f6d", "Weapon Crafting Luno Discount"),
@@ -161,6 +174,7 @@ class Checks:
         self.catalog_keys = {}
         self.image_pairs = {}
         self.route_sources = set()
+        self.shop_sources = set()
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -326,6 +340,8 @@ class Checks:
                     source = ast.parse(text, filename=name)
                     if name in ROUTE_TOOLS and has_route_source(name, source):
                         self.route_sources.add((name, sha))
+                    if has_shop_source(name, source):
+                        self.shop_sources.add((name, sha))
                     for token in tokenize.generate_tokens(io.StringIO(text).readline):
                         if token.type == tokenize.COMMENT:
                             self.text(token.string, f"{name} line {token.start[0]}")
@@ -345,17 +361,58 @@ class Checks:
 
 
     def help_tree(self, entries):
+        pairs = self.image_pairs[entries[IMAGE_LABELS]["sha256"]] if IMAGE_LABELS in entries else set()
+        shop = {name for name, entry in entries.items() if (name, entry["sha256"]) in self.shop_sources}
+        # A withdrawal retains its scanner while restoring the three original source files.
+        mentions_shop = any(key == SHOP_LABEL[0] or text == SHOP_LABEL[1] for key, text in pairs)
+        if shop == {"tools/scan_public.py"} and not mentions_shop:
+            require(all(entries.get(name, {}).get("sha256") == fingerprint
+                        for name, fingerprint in SHOP_PREDECESSOR.items()),
+                    "Shop help", "missing original source after withdrawal")
+        elif shop or mentions_shop:
+            require(shop == set(SHOP_PROFILES) | {"tools/scan_public.py"},
+                    "Shop help", "missing matching builder, lettering, archive or scanner")
+            require(SHOP_LABEL in pairs, IMAGE_LABELS, "missing matching shop help label")
         if not ROUTE_TOOLS.intersection(entries):
             return
         require(HELP_TOOLS.issubset(entries), "Help tools", "missing companion tool")
         require(IMAGE_LABELS in entries, IMAGE_LABELS, "missing help label catalog")
-        pairs = self.image_pairs[entries[IMAGE_LABELS]["sha256"]]
         require(HELP_LABELS <= pairs, IMAGE_LABELS, "missing matching help image label")
         active = {name for name in ROUTE_TOOLS.intersection(entries)
                   if (name, entries[name]["sha256"]) in self.route_sources}
         if active or ROUTE_CODEC in entries:
             require(active == ROUTE_TOOLS, "Route Guide", "missing matching builder, lettering or texture reader")
             require(ROUTE_LABEL in pairs, IMAGE_LABELS, "missing matching Route Guide description")
+
+
+def has_shop_source(name, source):
+    if name not in SHOP_PROFILES and name != "tools/scan_public.py":
+        return False
+    declaration = SHOP_PROFILES[name][0] if name in SHOP_PROFILES else "SHOP_LABEL"
+    values = [node.value for node in source.body if isinstance(node, ast.Assign)
+              and any(isinstance(target, ast.Name) and target.id == declaration for target in node.targets)]
+    if len(values) != 1:
+        return False
+    value = values[0]
+    if name == "tools/overlay_archive.py":
+        if not (isinstance(value, ast.Call) and isinstance(value.func, ast.Attribute)
+                and isinstance(value.func.value, ast.Name) and value.func.value.id == "re"
+                and value.func.attr == "compile" and len(value.args) == 1 and not value.keywords
+                and isinstance(value.args[0], ast.Constant) and isinstance(value.args[0].value, str)):
+            return False
+        return digest(value.args[0].value.encode()) == SHOP_PROFILES[name][1]
+    try:
+        literal = ast.literal_eval(value)
+    except (TypeError, ValueError, SyntaxError):
+        return False
+    if name == "tools/scan_public.py":
+        return literal == SHOP_LABEL
+    if not isinstance(value, ast.Dict) or not isinstance(literal, dict) or "UI_TutorialHelp00064" not in literal:
+        return False
+    require(len(value.keys) == len(literal), name, "duplicate help profile")
+    fingerprint = digest(json.dumps(literal, sort_keys=True, separators=(",", ":")).encode())
+    require(fingerprint == SHOP_PROFILES[name][1], name, "unexpected shop help profile")
+    return True
 
 
 def has_route_source(name, source):

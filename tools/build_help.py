@@ -35,6 +35,12 @@ PANELS = {
         "8c67e7a0607f7cd8e89df9141fec68307ddc0381b1c4fb793236c6472688892f",
         "26d946ad7f78c1a178dd2c2c9f4bb34159ee32867e20ae67feea6878d2e5d488",
     ),
+    "UI_TutorialHelp00064": (
+        "f0c93b7d2ab341843c32256f4c54661a9ca5e5bee05140ac3caccb09c4c74a5d",
+        "d64aa546046a54b9346f5106a1459fa1618d5fe0993f483bd4a11fe011bce454",
+        "d6acac4d272e697c1f954ae7c802b8f3907d4817b0f4d0dc70541e846f31c2b3",
+        "0d9320e1c5d35f54d6bad5c6c301080f134baf926cacef29878c6cd8f3b78e4b",
+    ),
     "UI_TutorialHelp00065": (
         "76d12af1a8890cfc0f9fb21cded6e80d137acf4615f7f060bdd75f97a5b13736",
         "fe2513eca716ff252299292448766641c0e65c313e36541625db909485b45c43",
@@ -83,7 +89,7 @@ def available_panels(root, require_all):
         has_header = os.path.lexists(root / header_name)
         has_export = os.path.lexists(root / export_name)
         if not (has_header or has_export):
-            if require_all and name != "RouteGuide":
+            if require_all and name not in {"RouteGuide", "UI_TutorialHelp00064"}:
                 raise ValueError(f"Missing required original pair for {name}")
             continue
         if not (has_header and has_export):
