@@ -6032,6 +6032,91 @@
           "ordinal": 64,
           "source_sha256": "74669f51731c3faf6101043cad7e1526b9217bcf728a96b8c7e2c8645cc33df4",
           "english": "You've already got one, haven't you?\r\nAn Imagine gives you all sorts of new ways to fight."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "cf30727e3d9ea043e79f35db9e0b579ff274fb912668b6f3d541e345d8bef776",
+          "english": "[――]Yes, that checks out.\r\nYou've passed the first part of the exam."
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "0404657ce68c501fad960f479fa91eaf425b889cb022d10cd1da52823e94ff5c",
+          "english": "Looks like you had no trouble at all.\r\nI can see why Jake recommended you."
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "7a24837c598f22d154bbb12089800ba13de307ebfd96b45da95834268f09b27e",
+          "english": "Quite right, quite right!\r\nAnd who spotted all that talent first? Yours truly!"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "b2ac87a592dbc9ec0812ef349f14ac69589db5cd0d057ca9afbfcc544f5ab7fd",
+          "english": "Ha, you're right.\r\nHow rude of me to give Jake all the credit."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "6d77e9127b86df07554d49c2537dc08782560fb16575afd379ecc3fd2f698807",
+          "english": "Ready for your second assignment?\r\nThis one's a little closer to the work you'll do as an adventurer."
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "d9eb4fad4f874a850e38f05b52dfa881254c734ea4dbbdc57ada32c0a65ab133",
+          "english": "Lakerid Mine, eh?\r\nAn old mine, if memory serves. I hear the name now and again."
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "3e51aa78b445a2870e138fa6d1ebbb0d1d720e534d86142bf9fc8f0e79f8aeec",
+          "english": "The old mine tunnels are what's left, to be precise.\r\nI want you to explore them and reach the far end."
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "542b5a8500626351d1983a5e76a5ecae9abf26b7e2a6be083dee62905b202d73",
+          "english": "You see, monsters moved in after the mine closed.\r\nThey're not all that dangerous, though."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "0a0f3fb6692322925979f4484af875746d7a268f7aefa2f4f7400cfddbef19db",
+          "english": "Oho! That's a rougher trial than I'd have expected from you."
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "8fd6e9903324046fea7aaf9efda56329fb8ec2c24ce211d81b6376a50221061f",
+          "english": "Hehe. Surely an adventurer ought to be able to handle\r\nthat much on their own."
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "46ae2950cb47fd563a18ff2caaae9df615ec729bcb6ee420b9df87bb309a7359",
+          "english": "So for your second assignment,\r\nI'd like you to explore Lakerid Mine."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "a20bcc5dd68bbfe4d5e26f6294e0e1063cd062b3e864300966a4bf7d7f9755ca",
+          "english": "A dungeon's a different story from working out in the field,\r\nso stay sharp in there. Good luck!"
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "24ee662e78070cfd5d8a25c200f88d7704013c8d6c4b528af3fcd6f015da1cf5",
+          "english": "See the Engram gushing up out of the ground over there?\r\nThat's your landmark."
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "8d5826b54117625c20eff5f959050fa1c441102607a7d4d243221f0e6354e81a",
+          "english": "It seems the Star Vein Hole here\r\nleads to Lakerid Mine."
+        },
+        {
+          "ordinal": 84,
+          "source_sha256": "76517600c384efef834c2c143bd82801bd501583b7cb6565a387dd6f26925a6e",
+          "english": "Shall we head in, then? Millie did say\r\nthere was little danger, but..."
+        },
+        {
+          "ordinal": 85,
+          "source_sha256": "6872aeea145900e372c3433c16225063826e3ec2222e7e6e8b7aefcda258a666",
+          "english": "They do test a newcomer's mettle here, after all.\r\nWe'd best be ready for a scrape or two."
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "399c986b7fb4f5e2e206af60fe349453e47760fa359851cd8db55fa7d6a31cab",
+          "english": "Are you ready?\r\nI know you can handle yourself, but keep your wits about you!"
         }
       ]
     },
@@ -6496,6 +6581,31 @@
           "ordinal": 68,
           "source_sha256": "4e4694127f16325f02ff8db23c6966638acb5cab3ec45cb9bc8b38bf9fdcad4e",
           "english": "You've earned Jake's approval, and I've got high hopes for you too.\r\nGood luck out there!"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "24ee662e78070cfd5d8a25c200f88d7704013c8d6c4b528af3fcd6f015da1cf5",
+          "english": "See the Engram gushing up out of the ground over there?\r\nThat's your landmark."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "8d5826b54117625c20eff5f959050fa1c441102607a7d4d243221f0e6354e81a",
+          "english": "It seems the Star Vein Hole here\r\nleads to Lakerid Mine."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "76517600c384efef834c2c143bd82801bd501583b7cb6565a387dd6f26925a6e",
+          "english": "Shall we head in, then? Millie did say\r\nthere was little danger, but..."
+        },
+        {
+          "ordinal": 73,
+          "source_sha256": "6872aeea145900e372c3433c16225063826e3ec2222e7e6e8b7aefcda258a666",
+          "english": "They do test a newcomer's mettle here, after all.\r\nWe'd best be ready for a scrape or two."
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "399c986b7fb4f5e2e206af60fe349453e47760fa359851cd8db55fa7d6a31cab",
+          "english": "Are you ready?\r\nI know you can handle yourself, but keep your wits about you!"
         }
       ]
     },
