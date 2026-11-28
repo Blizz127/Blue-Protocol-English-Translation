@@ -1867,9 +1867,19 @@
           "english": "Failed to create your character."
         },
         {
+          "ordinal": 33,
+          "source_sha256": "fd935faf9d79bf840d279bd8ad3ed603a83edb9767bf5a096c14a4572ea8de7b",
+          "english": "Failed to save your edited outfit as starting gear."
+        },
+        {
           "ordinal": 36,
           "source_sha256": "01a035683cf3b96a2c262c3c22834bc75d5e68c6d0e8af51c2ae941f60562c16",
           "english": "Start as {name}?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "13b954e5a861bed3490dfd6854ad6a4df586fda7f316637023ed08534aa41616",
+          "english": "Do you want to fight at the Cliff Ruins?"
         }
       ]
     },
@@ -8445,9 +8455,19 @@
           "english": "Failed to create your character."
         },
         {
+          "ordinal": 33,
+          "source_sha256": "fd935faf9d79bf840d279bd8ad3ed603a83edb9767bf5a096c14a4572ea8de7b",
+          "english": "Failed to save your edited outfit as starting gear."
+        },
+        {
           "ordinal": 36,
           "source_sha256": "01a035683cf3b96a2c262c3c22834bc75d5e68c6d0e8af51c2ae941f60562c16",
           "english": "Start as {name}?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "13b954e5a861bed3490dfd6854ad6a4df586fda7f316637023ed08534aa41616",
+          "english": "Do you want to fight at the Cliff Ruins?"
         }
       ]
     },
