@@ -4998,6 +4998,116 @@
           "ordinal": 51,
           "source_sha256": "d1e182ffacf650b7056d9aa7b32db89e7a60710de219883e270e5ac89eb784e7",
           "english": "[――]No, never mind!\r\nJust focus on taking it down!"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "03846d3cca5dd448faeaa1286b66f00adf3b3143d6b5740014487f32dcbfa2db",
+          "english": "Look at you go! I knew you had it in you!"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "50636ba61ba17dd97e1d29f818333013de39a66a98d691af2a0a7400df5e347d",
+          "english": "Still... I'm sorry. That thing was tougher than the reports said.\r\nI should've scouted ahead. That's on me."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "4bd22f32d0c3192c2f05ef5ac9e80b23d97b2a4a07a8dfed430932b599878435",
+          "english": "...I thought, surely it couldn't be..."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "567d5f6a7f13f28da91efb4427dfc874bfc0d6e46f6017136545602d6cd1f05d",
+          "english": "...This creature is an Avaritia."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "952e6426898ec2c7ca822bc97cebaa00e277184ca6ecf5dd78f1f3efc07d9dc7",
+          "english": "The one that defied the gods, right? They say it still lives on\r\nbeyond time and space, with that sin hanging over it..."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "7ceed3d90d92582ce00a6dd184307822fcd7e87bc1e1e235e96b6cb7e4346447",
+          "english": "You saw how strong it was. It's an Avaritia, beyond a doubt."
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "e25ed2d4818936a1cda1e2a1418fb9246f1d4aa82c05840325bae10c25a69bdd",
+          "english": "...And you just took that thing down?\r\nWho are you, anyway?"
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "981a92027b29dc6c45c8aab265b2d1775592edcabb69095172de1f040ef4de02",
+          "english": "At this rate, I'll run out of things to teach you.\r\nSure is good to have a rookie I can count on!"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "f2538470868e6e32fc4c44cfb1f6589336c964b31f98f34c0c084272bd3b5459",
+          "english": "Well, I'll head on back ahead of you."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "233752b624049d908be37de57a301c55c095880ff65e1ee3081b7558c1917538",
+          "english": "What was that...? What's going on?"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "502003443ef1e25eedf698b3ae03c969903cbdb988387ea54de88caa857475e8",
+          "english": "Hm? What's the matter?"
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "c6626734bfb5b860dcd1fd81a39e5d7dc577574f2f3f4052b0ed7e6e3fcee41e",
+          "english": "Y-y-you gave me a fright!\r\nWhat in blazes are you?! Didn't you just come flying out of the sky?!"
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "30de9588711d7478502c710a374e0c384fc6fb2a4564208d8c3016769ae819b1",
+          "english": "Visitor? What's that supposed to mean?"
+        },
+        {
+          "ordinal": 74,
+          "source_sha256": "a1c4fe7ec2abdeb4796ccfe2ab801954debee36c40cc7e215d15fa107b9bdd8d",
+          "english": "Do you know something about this?"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "5d080bcd505a20de62a8ca885da4de4134e2b29a5f9baa5ec74e73648ebb852d",
+          "english": "Do you know something about this?"
+        },
+        {
+          "ordinal": 76,
+          "source_sha256": "5461c521ba54b27e4fe5f0c0b60eef12aba70e90a1412a12591b10a6ab86351e",
+          "english": "But if that's the case... Hmm..."
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "54af7074a56a2135ececa0879174e78961ebd35807d98bb533f8c67caee52c61",
+          "english": "I suppose it's too soon to decide."
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "89360ed1d9130b347dd39c5c87e0ee8997414d98aa964365cb5d7895fac820c8",
+          "english": "Fair enough. I can at least tell you my name.\r\nWe may be seeing each other for quite a while."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "0f97f38d93296ff76ca4a7f3d52501a84273e4359bf41beec4db16a0d2168df6",
+          "english": "See you around."
+        },
+        {
+          "ordinal": 82,
+          "source_sha256": "17a6d399b1cadeb9190da8d510e7cb67663160f4d196473b738f25c5f8cba819",
+          "english": "Well, he was an odd one. Now listen.\r\nIf anyone like him comes pestering you, pay them no mind. Understood?"
+        },
+        {
+          "ordinal": 83,
+          "source_sha256": "535aaa1e0f8940d07097d8387f9d8462ea42bf8936b144d31c5a5e54c9235d1f",
+          "english": "Let your guard down just because someone's shown you a little kindness,\r\nand they'll take advantage of you, mark my words."
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "322c5e4274349076e3af084f07eeee6f520a8e458bb3f0d9ec4cd6a3fabc198a",
+          "english": "Anyway, before we forget,\r\nwe must collect our reward from Jake! Come along!"
         }
       ]
     },
