@@ -2811,6 +2811,87 @@
       ]
     },
     {
+      "uasset_sha256": "2a92f62386dc0e84074646554200bae97ab2c450f625704e9e9d7ae134356c9d",
+      "uexp_sha256": "52edf09919707bc498b219da891ca3f13958ad43949c57170257323097384a30",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "e84f752d1fa6f8ccad8026a56778307e658f62a09cf47f6c7efa81964e331d5c",
+          "english": "Turn In"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "8fbf15d93b7566e1b80f39e7964762ab3fbe21e54592fa6bd54d8188b9140df5",
+          "english": "Abandon"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "d267e669efeb2424c6e025fcdd6e8a8cc74f860fd697d297aa1c618501d4293f",
+          "english": "Completion Requirements"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "448f966b6ef6c361147bef3ee0ba979be95c45af16ea7b4f2d6fa9dee9ce2c2f",
+          "english": "Abandon this quest?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "85c5c22f0d6012abf06a73918e40f7edb7f1ef4b3ddc21a278c452c3dcdd0566",
+          "english": "Abandon this quest?\n(You'll also lose any items you've collected specifically for this quest.)"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "40c2764510b645a0a2acea82efb47d1b3a9f81fc540e52a302a35ed23e7fcaec",
+          "english": "You can't accept this quest until you meet its requirements."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "b9e3806b57bb3d6bdc3ad8bf32516f03b4260bfabce1ab37da6f9f6d48e28896",
+          "english": "Unavailable"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "64442e2b72938e2e79118d80561f36c2f344fcce12d66bea8a54e0efbbb2c02a",
+          "english": "Turn In"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "240655dad9bd3190d7ea920bfb9faedb1d667d47795865e624df8b6e6b515513",
+          "english": "You've reached the limit on accepted quests."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "75aa4e4a30163f7a3b7cce621a91f819a272a17b23d4ed1ff5fd71d0c10ec8f5",
+          "english": "Times Accepted"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "0fcda8993a808405a00eed1b3b28e9765c34b14bd21d47d6893c6d49716ed715",
+          "english": "Available again in {RemainTimespan}"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "b4b8d6d414d5b0ae7da9252591db162bd9dbc5c9bb39fed862d47fc65f6a640f",
+          "english": "Bonus Rewards for Repeatable Quests"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "3bdb482a026a0d8d1d5ffad991d542d8ddbdac2f04e7712bda5247acc8a50ce3",
+          "english": "Run {N1}"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "a4cfdbc49d85dd5ab888614d41b36b1fd19f411bc947a15e3dc9d04f78788263",
+          "english": "Earned by completing run {N1}!"
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "6989081185a031575fdd564a5affc6e5e83c867aead2f0cce4921a5729f1519a",
+          "english": "Accepted Quests"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "2c0a1c401eb4aef042fd41cd4df8988b246d59e11baf3cadc5c7074d9cf38fd7",
       "uexp_sha256": "fd3d54596e36ffc4f0e2058dc6a043e0c7202fcf5e14dfcf080f0580163305f3",
       "rows": [
@@ -3951,6 +4032,17 @@
       ]
     },
     {
+      "uasset_sha256": "45a12a8e9302182fd2b16624a2cdd5b0c1e0b62eaf0958c2fab09188b973685f",
+      "uexp_sha256": "0736ac3d8ddc2b78805c8a3466cf885e26b089134ece770f7a9d574499de744d",
+      "rows": [
+        {
+          "ordinal": 4,
+          "source_sha256": "1594bc23cf18a06583dcf2ee7920fdbe11eb9487b99a2c4ed47a62467adce5eb",
+          "english": "Some items could not be received.\nThe process was stopped."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "45ff0354a3506b1d9400c8345c124fe1b920c173c6a98b822b348109a50ead6d",
       "uexp_sha256": "fe73697d615913a3c2790e717815983570e3d44759ffdaf664790ccc938ef086",
       "rows": [
@@ -4226,6 +4318,17 @@
           "ordinal": 30,
           "source_sha256": "6f079f373854f3bda367e6cf5498882e0a15cfc3727362a0b99fa85db4d7cf07",
           "english": "Whatever brought him there,\r\nhe struck me as someone quite out of the ordinary."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "4c9d87a5863411a524ee8c57cdfb9c5464f1b739846968a51dd4c2f953a648f5",
+      "uexp_sha256": "218a9aee12a39640d8f3b51ca99d6ee083e58c7171ab2ba84410eab6a291bf0a",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "74455dc4b71d1bca3b4d4a967fd3191b74d6aea31ae346835ca914971a14d2aa",
+          "english": "Select a quest."
         }
       ]
     },
@@ -5170,6 +5273,37 @@
           "ordinal": 1,
           "source_sha256": "4b155a8074c046da4454f584ab55221650ff1d0979878d648ce86204f6a273f4",
           "english": "Changing classes will block progress on some quests you've accepted because you'll no longer meet their requirements.\nChange classes?"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "5dca6da6b2a73bd916bae196758af6f1c7f051f420d0f6d23cbe39861f62e681",
+      "uexp_sha256": "a4f6e3eac993342ca3bb46707210f8c5d48a68ff0016b80f16510049d2644367",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "74455dc4b71d1bca3b4d4a967fd3191b74d6aea31ae346835ca914971a14d2aa",
+          "english": "Select a quest."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "283c02c10c0b1a879bb0133836b4cd0590fc18e1b36ebae87b36fdaca6ee9c65",
+          "english": "Hunting"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "f6170c2c8fd39ffb92cdbb498e4fc581073ab841f9cb338eefba1840cf5923de",
+          "english": "Assistance"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "59a14f18a88f9ecf6de659e6f4621a37fb7ec6aa7eb26b803b3cda5e01904b74",
+          "english": "Exploration"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "68c6b48bf2b15c72eec9e2d9b65cca74ee97f1ce5d6b2be020855e4a20d65ce3",
+          "english": "Quests you can still accept: {num}"
         }
       ]
     },
@@ -7164,6 +7298,82 @@
       ]
     },
     {
+      "uasset_sha256": "850c3f045423ccee95dbb3fb36d29628c1adf5d6ad2d5c509556755734dae049",
+      "uexp_sha256": "be5abccf95e08f8e50e397e6e375b84065168921b6b93404d3e64e10a37aa552",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "e84f752d1fa6f8ccad8026a56778307e658f62a09cf47f6c7efa81964e331d5c",
+          "english": "Turn In"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "8fbf15d93b7566e1b80f39e7964762ab3fbe21e54592fa6bd54d8188b9140df5",
+          "english": "Abandon"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "d267e669efeb2424c6e025fcdd6e8a8cc74f860fd697d297aa1c618501d4293f",
+          "english": "Completion Requirements"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "448f966b6ef6c361147bef3ee0ba979be95c45af16ea7b4f2d6fa9dee9ce2c2f",
+          "english": "Abandon this quest?"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "85c5c22f0d6012abf06a73918e40f7edb7f1ef4b3ddc21a278c452c3dcdd0566",
+          "english": "Abandon this quest?\n(You'll also lose any items you've collected specifically for this quest.)"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "40c2764510b645a0a2acea82efb47d1b3a9f81fc540e52a302a35ed23e7fcaec",
+          "english": "You can't accept this quest until you meet its requirements."
+        },
+        {
+          "ordinal": 12,
+          "source_sha256": "b9e3806b57bb3d6bdc3ad8bf32516f03b4260bfabce1ab37da6f9f6d48e28896",
+          "english": "Unavailable"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "64442e2b72938e2e79118d80561f36c2f344fcce12d66bea8a54e0efbbb2c02a",
+          "english": "Turn In"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "240655dad9bd3190d7ea920bfb9faedb1d667d47795865e624df8b6e6b515513",
+          "english": "You've reached the limit on accepted quests."
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "75aa4e4a30163f7a3b7cce621a91f819a272a17b23d4ed1ff5fd71d0c10ec8f5",
+          "english": "Times Accepted"
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "0fcda8993a808405a00eed1b3b28e9765c34b14bd21d47d6893c6d49716ed715",
+          "english": "Available again in {RemainTimespan}"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "b4b8d6d414d5b0ae7da9252591db162bd9dbc5c9bb39fed862d47fc65f6a640f",
+          "english": "Bonus Rewards for Repeatable Quests"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "3bdb482a026a0d8d1d5ffad991d542d8ddbdac2f04e7712bda5247acc8a50ce3",
+          "english": "Run {N1}"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "a4cfdbc49d85dd5ab888614d41b36b1fd19f411bc947a15e3dc9d04f78788263",
+          "english": "Earned by completing run {N1}!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "85ba27a266e58488728d06c3fd363cf48f3836e591444233d5041e4659d84038",
       "uexp_sha256": "c9311a547e9a9946f5d3e4cb4d2eb109e64c1b3e6ccafb24810643984047de46",
       "rows": [
@@ -8288,6 +8498,22 @@
       ]
     },
     {
+      "uasset_sha256": "97060b3fd6dc2f9a2b351e908556784fb6727d8107739227cfb6c83e132a33e9",
+      "uexp_sha256": "6ab15e420776964dbebddc3db9effddb8b41a2c738fc5c02d008de2d06b7bfb4",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "6989081185a031575fdd564a5affc6e5e83c867aead2f0cce4921a5729f1519a",
+          "english": "Accepted Quests"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "803cd62752d17c8a42d1215317dc324d78db8d27218bba82ae3c54bf4231829a",
+          "english": "Posted Quests"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "970c8984ead6fb9ed665c0e89e593fd43be70a359c3aff7ffbb966df914deeb6",
       "uexp_sha256": "56941e36fe09ee3ee95c34fc580cefc76873c022f640295c6c2d638ffecfb022",
       "rows": [
@@ -9386,6 +9612,92 @@
       ]
     },
     {
+      "uasset_sha256": "b720c7a7e5c471b148ad7f4316d2704dfe36a363ed2e919782fd1267d5b33605",
+      "uexp_sha256": "f6e1b5058e517c3e48920bc70f2b7bd962b690facccd8d4dfa1691bc4bb840fc",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "69b1a8bbd4b5ff7a792bf32d57ae9f220eea01d42538d587f4bf55d24b05b78e",
+          "english": "Complete every task to earn the completion reward."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "d267e669efeb2424c6e025fcdd6e8a8cc74f860fd697d297aa1c618501d4293f",
+          "english": "Completion Requirements"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "025e62b2e4fa13b9f158e896ed65aa9b12126fb650cc0295d0e693fe52f088af",
+          "english": "Activate Board"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "ec9018f96fb310131bec37e9d1f5343ab56112517fab5535616ed60670707f31",
+          "english": "You couldn't claim the task reward because your inventory is full."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "aa5cae73f47a71377216a96005c7804559176ec36d8c7524d3aec7f728e52e2e",
+          "english": "Show on HUD"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "554748711be64eea244812862e8924f5d1ab97a97389b98431a3ef6b0762dd00",
+          "english": "Tile Reward"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "ffd9347d3c9bc6a64322d1c57dcee6c5c8140b0bfe13295533bdcec7019ab7fc",
+          "english": "Claim All"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "60d5fb39bf9b7a3e7ee1e242acac49545a98a794afdab7a894c0e7a16f5a679c",
+          "english": "Completion period:"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "819c20e3e54ec41554b2558e578988ed95d5a3c643f491299c3b1c5153f897dc",
+          "english": "Claim Rewards"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "3f31aa06d7968d0dab4e96df1728e167f67da4e73aebb65434c33cb6107de0bf",
+          "english": "My Boards"
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "bf3cfa5aa18ec143d8e529a101e378e33641f3f36d794eb35cd10f10501e348a",
+          "english": "Boards left to earn a reward: {count}"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "d884f54f78000e163ba2a9862dfd06d90c6074b5ecaef4d770182bb9b5e7cf84",
+          "english": "Reward Ready to Claim"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "121d10d0dc11ef425a52ca93fecc926ae3a2b4301cf752c885c3d22a3028bbcb",
+          "english": "All rewards claimed"
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "283c02c10c0b1a879bb0133836b4cd0590fc18e1b36ebae87b36fdaca6ee9c65",
+          "english": "Hunting"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "05ae1c2ab86099f64f31541aedecdc9e630352ba04349829a5c6ee89a3f9ce54",
+          "english": "Reward: Outfit"
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "bd660ecf92bdf5fa7186ef80b67ca8e5529d599a2332dad0a3036676a476b889",
+          "english": "Board Status: Unclaimed Rewards"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "b8db99da9a91c152a1fd7e548f07ae751a7cb991925bef8a61e5dd075e4bede9",
       "uexp_sha256": "02767314c31ecce893c1fd1042e369df1fa50d80ea5530348d7b409d073c4d8b",
       "rows": [
@@ -9531,6 +9843,27 @@
           "ordinal": 41,
           "source_sha256": "8f3e8a86711dec4c199c258ff02ec779a0b88671d73335a252e29bdf44c98cce",
           "english": "If we can just destroy it…!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "ba28be8b9cdaa6e7855e025e1dc002467c576e19e676ecaae8daa2dfc1d04108",
+      "uexp_sha256": "aa2d2685ae02510d4fe8f308059eb6535d783d3f82f029bc20574b03996ded97",
+      "rows": [
+        {
+          "ordinal": 6,
+          "source_sha256": "0a30a9d07694e403e4ffe00eed9d65aa745990fded1ddbfe165ce01e9503575c",
+          "english": "Start Exam"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "f4bc9e95e5a0102b1afc1e857c74ef79cd313472e75f9c9e75a79ebf02872ecc",
+          "english": "You've reached the highest Adventurer Rank."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "7598773a6c63e7032fc7fe87654c4639e673d07ba4fb9580d0c5004f5385f08f",
+          "english": "Complete it to rank up!"
         }
       ]
     },
@@ -9994,6 +10327,17 @@
       ]
     },
     {
+      "uasset_sha256": "be1d74070eb8928c3ff81399a3a60150cfa183175202b3351fa461a1cbc2fe21",
+      "uexp_sha256": "8ea37ed25f9837719ac83f8f9e65f228ae5e67c3f1ed81096d36f8b19e751177",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "6989081185a031575fdd564a5affc6e5e83c867aead2f0cce4921a5729f1519a",
+          "english": "Accepted Quests"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "be2d43bdef246c07b15ecf9adff7000166fbca1b5db5e4191da4884f067af73a",
       "uexp_sha256": "abc18d6a220935d6e52b7f18e68a9879478d6dfc7c4733c19a4bc8c3b18de949",
       "rows": [
@@ -10134,6 +10478,17 @@
           "ordinal": 41,
           "source_sha256": "96c6a00805a2f28a8e00d1c4b5dc7b8beaca025fe5ca78c79e8fe66ce84c7c46",
           "english": "Select more items to continue."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "bf8be02d3ed7c595398083967177992e1aa2d35981afc5e874a74d41740e00f9",
+      "uexp_sha256": "c462adc487a3b892057f12157840b64af5cd454fd27288bccd4890205afeb9c3",
+      "rows": [
+        {
+          "ordinal": 7,
+          "source_sha256": "74455dc4b71d1bca3b4d4a967fd3191b74d6aea31ae346835ca914971a14d2aa",
+          "english": "Select a quest."
         }
       ]
     },
@@ -10590,6 +10945,42 @@
           "ordinal": 37,
           "source_sha256": "13b954e5a861bed3490dfd6854ad6a4df586fda7f316637023ed08534aa41616",
           "english": "Do you want to fight at the Cliff Ruins?"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "c8efcde24d16778326fb082f0fd4ff3327827ddf9213fa891763bedb04db6391",
+      "uexp_sha256": "d7ceb5ce01898b363f4ba9530ccb1b5bc2fb3193838de6ab966a6dfc792fc4bb",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "74455dc4b71d1bca3b4d4a967fd3191b74d6aea31ae346835ca914971a14d2aa",
+          "english": "Select a quest."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "283c02c10c0b1a879bb0133836b4cd0590fc18e1b36ebae87b36fdaca6ee9c65",
+          "english": "Hunting"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "f6170c2c8fd39ffb92cdbb498e4fc581073ab841f9cb338eefba1840cf5923de",
+          "english": "Assistance"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "4bd108b2f2b125e872a46a31ccb8eea7e474a18a2b59c9507bad9d2f8f7b9265",
+          "english": "Gathering"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "59a14f18a88f9ecf6de659e6f4621a37fb7ec6aa7eb26b803b3cda5e01904b74",
+          "english": "Exploration"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "68c6b48bf2b15c72eec9e2d9b65cca74ee97f1ce5d6b2be020855e4a20d65ce3",
+          "english": "Quests you can still accept: {num}"
         }
       ]
     },
@@ -12023,6 +12414,67 @@
           "ordinal": 57,
           "source_sha256": "41a12b4be04e36964ba7d824abcc32151d0caf0152fae2c272288871bc359e55",
           "english": "When a rank-up battle becomes available,\ncome talk to me again."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "d710896cb1f6648d9a054b445deea81179351eee49b6f5bbc83b3441d137be60",
+      "uexp_sha256": "6e97e4587565a6180bf826c081e4c4d40c49a9e7f7233df3268a78bc94a025fc",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "69b1a8bbd4b5ff7a792bf32d57ae9f220eea01d42538d587f4bf55d24b05b78e",
+          "english": "Complete every task to earn the completion reward."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "d267e669efeb2424c6e025fcdd6e8a8cc74f860fd697d297aa1c618501d4293f",
+          "english": "Completion Requirements"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "025e62b2e4fa13b9f158e896ed65aa9b12126fb650cc0295d0e693fe52f088af",
+          "english": "Activate Board"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "ec9018f96fb310131bec37e9d1f5343ab56112517fab5535616ed60670707f31",
+          "english": "You couldn't claim the task reward because your inventory is full."
+        },
+        {
+          "ordinal": 10,
+          "source_sha256": "aa5cae73f47a71377216a96005c7804559176ec36d8c7524d3aec7f728e52e2e",
+          "english": "Show on HUD"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "3b4e05e8c7132d22e1e4049533a64c221a7d0f90ea26a0e620261d40f5f24ca2",
+          "english": "Claim All Rewards"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "61a0e52391723fa14549fce064519008b168524c2b28705ed2078c988135e608",
+          "english": "You don't have any Adventure Boards."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "60d5fb39bf9b7a3e7ee1e242acac49545a98a794afdab7a894c0e7a16f5a679c",
+          "english": "Completion period:"
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "283c02c10c0b1a879bb0133836b4cd0590fc18e1b36ebae87b36fdaca6ee9c65",
+          "english": "Hunting"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "05ae1c2ab86099f64f31541aedecdc9e630352ba04349829a5c6ee89a3f9ce54",
+          "english": "Reward: Outfit"
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "bd660ecf92bdf5fa7186ef80b67ca8e5529d599a2332dad0a3036676a476b889",
+          "english": "Board Status: Unclaimed Rewards"
         }
       ]
     },
