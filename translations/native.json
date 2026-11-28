@@ -14461,6 +14461,86 @@
           "ordinal": 43,
           "source_sha256": "afdc728c22a1c785888fab7a80ca52a7fc1a6f8094b46b86a1a31c8c262fd7c4",
           "english": "Well, there's one way to find out. Shall we go?"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "383527368e7501c5670cc062082a3ac1fc61a11b847ee2fe0f51547f372f8f50",
+          "english": "You two are adventurers, aren’t you?"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "e3cfdaee30e98066dd9829b19d35165e52fb945c89d4de5bc1dbf060e28f4c24",
+          "english": "Oh, good! I’m Millene.\r\nCould I hire you for a job?"
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "e4012fd828079f506030069d46b184802d78974055a18232ceb8a5afc5f3ec59",
+          "english": "It’s my teacher I need help with.\r\nCould you find him for me?"
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "94d03cc20db7206f93c30c2dfbf6a4fb019da72b0ccd0072e5b28895935c94ac",
+          "english": "All right. I’ll take the job."
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "2cc8252134c88dfe8f9b0209b80d732307f8c27311f316d78015ed20ad490c7a",
+          "english": "Okay, I’ll do it."
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "da74d101fb52a61384df9902db5f0accb1761cc3e6d72dc11109902c00263eda",
+          "english": "We’ve got questions for him ourselves, so it’s no trouble.\r\nWho is this teacher of yours, anyway?"
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "19cddbfb4e67e74361da97bb02c16143a7c5f481b7d290c845bf1f37ee7c747c",
+          "english": "His name’s Walkin. He’s a third-class Bapharian priest."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "701fface038b0aaeb65b6fa32aef24016c43679aad3df4966ee594c4e76786b5",
+          "english": "Well, he took that research a little too far.\r\nHow do you think he got sent all the way out here?"
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "3fc24ffe3213b93573445e69ee532c4d11ff869a5ad351d26543226112297a71",
+          "english": "Anyway, he and I are alike in one respect.\r\nNeither of us can pass up a chance to dig into history."
+        },
+        {
+          "ordinal": 61,
+          "source_sha256": "4807915cde860219040b630ac8001c6e2b905295de57ebacf190c80558d2539c",
+          "english": "He was supposed to be back by now. I was just about\r\nto put in a request at the Reclamation Bureau."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "5de5c60d8f605392f3205a147b75da561fa533bd2ad201e83a2bad43fce05c08",
+          "english": "Walkin puts all his energy into research.\r\nEven on a good day, you’d never call him athletic."
+        },
+        {
+          "ordinal": 63,
+          "source_sha256": "00f5f8767f6a57ff010305e4dc0d3065956fee39a8ddcdddbae89f750855633a",
+          "english": "What if a monster goes for him\r\nwhile he’s lost in his research? I can’t help worrying…"
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "e46e9e8df0cdf97b5e6fad84fe604d321e3a74a3576b97d79d410dcd8e0fc32a",
+          "english": "You just sit tight. No need to worry!\r\nThe stunningly beautiful Feste will find him!"
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "662a3536c6aaa212896c6a3b581720fe6669443cbebf7fdc7adec722c21cc69c",
+          "english": "You heard her, minion. Come along!\r\nLet’s make short work of this search."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "6b351dfec8215705f652d263a186ee4bac9ba46eda6a358802480bf48f4dd891",
+          "english": "G-God! Please, save me!"
+        },
+        {
+          "ordinal": 69,
+          "source_sha256": "322d5bc46e0feba42cf1050c716071a5c7495bee218d14b696b9beb1761c377f",
+          "english": "Oh no! Come on, we’ve got to help him!"
         }
       ]
     },
