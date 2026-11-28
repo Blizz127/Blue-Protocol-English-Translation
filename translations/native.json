@@ -14430,6 +14430,112 @@
       ]
     },
     {
+      "uasset_sha256": "e41fbd4ae649a35b5105240efbc5f05e903353a44da77c374b98068e32e7e986",
+      "uexp_sha256": "56c2b012edeaabafd3e2597c8e0fa3c4b5cef579e41906c7b6a6655ad4edac00",
+      "rows": [
+        {
+          "ordinal": 14,
+          "source_sha256": "f6c7d94f8b5b0c296ff1b879013cea2b69493b9350026af22e288bd84a3f3676",
+          "english": "Extra Tab 1"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "da90ca879c04bd027cb69affecdceb3a1c77bae741be20d0e3997cbb801f0c36",
+          "english": "Extra Tab 2"
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "da62866918f136af7a6e2ba7f05906e5820ca107a26085573023af710db16356",
+          "english": "Unread Messages"
+        },
+        {
+          "ordinal": 17,
+          "source_sha256": "38c1b9d3d48c1a35b82b51731e3a732d2fb36b8c663fe7c0f8b9d66fb98fa964",
+          "english": "New messages below"
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "962049a19098b61de34a188c852560fcba627ae8b1f1f462de624832dd9ddab7",
+          "english": "Chat Settings"
+        },
+        {
+          "ordinal": 23,
+          "source_sha256": "57ba50692b663af21f2c08024d945258217817a60e9f43ed414cf0a0a38a9649",
+          "english": "That character is offline."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "7d4ca7f48effd6022051d7437696e2a370998f9d899f87ce5309cc1bf701fc98",
+          "english": "Large"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "5b7f26f90dfc9280bc2186e0941e63618eb7f640711d9a48e410702096406b23",
+          "english": "Text Size"
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "c6e9c5469d233a68b9a2413c56ec8ec35e3742f2416dc8d3010470ea1bd995b6",
+          "english": "Key to Open Chat"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "d384f0039498c1329e3a9402301bddcd65a41b734490c263d835a99cb675d12d",
+          "english": "You can't use this right now."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "ed71c4c44438ba44189a5953d50894ec6f4ff0d672310301a2c0aed57dc10967",
+          "english": "Any Key"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "c6491d0c1b7935b4f3fed583466c9fd7d32a5a8805a2103346a6bb1fadd47764",
+          "english": "You can't send messages during this mission."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "89467d0918bf475cb996f79df3e91e01de7c86ab75a4b0ba67c80835a35ed1c0",
+          "english": "You can't use that command right now."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "1d75b827b23dd2e5937311d2b9b9243aa8d8adec610f0ffc30367fd54951f69d",
+          "english": "+Shift to keep chat open after sending"
+        },
+        {
+          "ordinal": 45,
+          "source_sha256": "b3bc5758f942a7e2343365fab57440e2c293988262d925fede974d8ec0034f78",
+          "english": "Choose which windows show chat notifications when you can't open chat."
+        },
+        {
+          "ordinal": 46,
+          "source_sha256": "adc3f8ecdc2bde712c6f673508ae738bcae557a4c4f65ef6d332902533130e0e",
+          "english": "If you play with a controller, choose “Any Key” for the chat key to start typing right away."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "4879ee6c7606b27c35fab6f0c1c37768c837cf6d85ebdcd6aa01a45e05455333",
+          "english": "Enemies Defeated"
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "f4b47018ef9984523c4d9450342de387f46a8b7e583cc095b2499f07c0d2b989",
+          "english": "Items Obtained"
+        },
+        {
+          "ordinal": 55,
+          "source_sha256": "eb1aa6edb21dc5f09c1d9c68aab8150c6a6fa1a41836cefb820b8156606ca94a",
+          "english": "Attacks"
+        },
+        {
+          "ordinal": 60,
+          "source_sha256": "35d4b007288dced094539c1d8c8cbb8355fe7a220d7161c2b7dbcd23961b90d9",
+          "english": "Reconnecting to the chat server.\nYou can't send or receive messages yet."
+        }
+      ]
+    },
+    {
       "uasset_sha256": "e4f65e9c1281df03178e0a1b26489c4d31e2e679f4efc396b2598218c6c917cf",
       "uexp_sha256": "727b8631566650b041b1177ad8bc3bb4ae50afe0ef641dc5526f69da99fba8a4",
       "rows": [
