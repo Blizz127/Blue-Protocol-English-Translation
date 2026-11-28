@@ -93,3 +93,51 @@ def render_body(stock_rgba: Image.Image, english: str, font: Path,
     support = Image.new("L", stock_rgba.size)
     support.paste(ImageChops.lighter(old, new), (left, top))
     return result, support
+
+
+def render_route(stock_rgba: Image.Image, english: str, font: Path) -> tuple[Image.Image, Image.Image]:
+    """Letter the description beneath the quest tabs and return its old/new glyph mask."""
+    if stock_rgba.mode != "RGBA" or stock_rgba.size != (600, 240):
+        raise ValueError("Expected the original quest help picture")
+    dimensions = b"".join(n.to_bytes(8, "little") for n in stock_rgba.size)
+    if sha256(dimensions + stock_rgba.tobytes()).hexdigest() != (
+            "c694970436314c952a88dd5f9bc829ca257b9fa601a85ecdab59673327c25afd"):
+        raise ValueError("Unsupported quest help picture")
+    if sha256(english.encode("utf-8")).hexdigest() != (
+            "6bf104208abb53096cc12451537d7298a60c2c318b41e40d79cdc196ddb9cac5"):
+        raise ValueError("The quest description differs from the reviewed caption")
+    font_data = font.read_bytes()
+    if sha256(font_data).hexdigest() != _FONT:
+        raise ValueError("The local font differs from the supported Liberation Sans Bold")
+
+    # Each column of the dark strip supplies its own backing above and below the line.
+    # Limit the retouch to pixels around the original bright strokes.
+    from PIL import ImageFilter
+    result = stock_rgba.copy()
+    support = Image.new("L", result.size)
+    old_box = (6, 69, 196, 86)
+    crop = stock_rgba.crop(old_box)
+    strokes = crop.getchannel("R").point(lambda value: 255 if value > 85 else 0)
+    old = strokes.filter(ImageFilter.MaxFilter(5))
+    before = stock_rgba.crop((old_box[0], 68, old_box[2], 69))
+    after = stock_rgba.crop((old_box[0], 86, old_box[2], 87))
+    backing = Image.new("RGBA", crop.size)
+    for y in range(crop.height):
+        row = Image.blend(before, after, (y + 1) / (crop.height + 1))
+        backing.paste(row, (0, y))
+    result.paste(backing, old_box, old)
+    support.paste(old, old_box)
+
+    # Draw the new face at four times its final size for subpixel edge coverage.
+    face = ImageFont.truetype(BytesIO(font_data), 44)
+    letters = Image.new("L", (1120, 72))
+    ImageDraw.Draw(letters).text((0, 0), english, fill=255, font=face, anchor="lt")
+    ink = letters.resize((280, 18), Image.Resampling.LANCZOS)
+    if not ink.getbbox() or ink.getbbox()[2] >= ink.width:
+        raise ValueError("English quest description exceeds the photographed text strip")
+    origin = (7, 72)
+    result.paste((255, 251, 239, 255), (origin[0], origin[1], origin[0] + ink.width,
+                                        origin[1] + ink.height), ink)
+    new = Image.new("L", result.size)
+    new.paste(ink.point(_BINARY), origin)
+    return result, ImageChops.lighter(support, new)

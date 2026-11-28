@@ -1,4 +1,4 @@
-"""Translate the effect captions on eight locally supplied Liquid Memory help panels."""
+"""Translate supported help captions on locally supplied original panels."""
 import argparse
 import os
 from pathlib import Path
@@ -6,6 +6,7 @@ from struct import unpack_from
 
 from build_hud import local_member
 from build_notice import load_lines, output_locations, write_members
+from route_help_texture import render_pair
 
 PREFIX = "BLUEPROTOCOL/Content/UI/Image/TutorialHelp/"
 ARCHIVE = "blue_protocol_help_1_P.pak"
@@ -16,6 +17,12 @@ MIP_END = MIP_START + MIP_BYTES
 
 # Original header and export fingerprints, image catalog key and reviewed English digest.
 PANELS = {
+    "RouteGuide": (
+        "3c33c235a6ce33eb6e13170c2b99fc5d33e30393088247313f6d526ad23af6ff",
+        "a066873ee0fc10f631d1a797ab57c0f87f792493dc1ec108c927c93c9a084df0",
+        "53b65c6c5b6aa107d5679bfef9b1f64f65115e6d67c81bc1532495233da44878",
+        "6bf104208abb53096cc12451537d7298a60c2c318b41e40d79cdc196ddb9cac5",
+    ),
     "UI_TutorialHelp00062": (
         "dc7f9cfcbdfaa4cdb1583bdc2740eb4ccada66581e38a0e59b3e1f9c4bf12fd4",
         "6c43be70f97b8d6e4bea883857f4d40bbb19fe57c938129106d4c567488e42b1",
@@ -76,7 +83,7 @@ def available_panels(root, require_all):
         has_header = os.path.lexists(root / header_name)
         has_export = os.path.lexists(root / export_name)
         if not (has_header or has_export):
-            if require_all:
+            if require_all and name != "RouteGuide":
                 raise ValueError(f"Missing required original pair for {name}")
             continue
         if not (has_header and has_export):
@@ -123,10 +130,14 @@ def build(args):
     lines = load_lines([(row[2], row[3]) for row in selected.values()])
     members = {}
     for (name, (header, original, _, _)), line in zip(selected.items(), lines):
+        if name == "RouteGuide":
+            header, export = render_pair(header, original, line, args.font)
+        else:
+            export = render_export(original, name, line, args.font)
         members[PREFIX + name + ".uasset"] = header
-        members[PREFIX + name + ".uexp"] = render_export(original, name, line, args.font)
+        members[PREFIX + name + ".uexp"] = export
     write_members(output, members, ARCHIVE if args.archive else None, "bp-help-")
-    print(f"Translated the effect caption on {len(selected)} of {len(PANELS)} help panels in {output}")
+    print(f"Translated one caption on each of {len(selected)} help panels in {output}")
     if args.archive:
         print(f"Wrote {output / ARCHIVE}")
 
@@ -137,7 +148,7 @@ def main():
     parser.add_argument("--output", type=Path, required=True, help="New output directory")
     parser.add_argument("--font", type=Path, required=True, help="Local Liberation Sans Bold font file")
     parser.add_argument("--archive", action="store_true", help="Also build a local help overlay archive")
-    parser.add_argument("--require-all", action="store_true", help="Require all eight matching original panels")
+    parser.add_argument("--require-all", action="store_true", help="Require all eight Liquid Memory panels")
     try:
         build(parser.parse_args())
     except (ImportError, OSError, ValueError) as error:

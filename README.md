@@ -63,11 +63,11 @@ python3 tools/build_hud.py --input owned-files --output english-hud --font Liber
 
 The command checks the four stock files, draws on their original pixels and writes the translated pairs to a new folder. On a setup that supports local overlays, close the game and copy `english-hud/blue_protocol_hud_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/`. Keep a backup if you replace an older HUD overlay. To undo the change, remove the added archive and restore that backup if you made one.
 
-## Translate Liquid Memory help captions
+## Translate Route Guide and Liquid Memory help captions
 
-The help builder draws the English effect line on eight Liquid Memory panels. Each panel keeps its original Japanese heading and illustration. The early Asterleeds gathering-yield panel reads **Increased Gathering Yield**.
+On page two of the Chapter 1 Route Guide, the translated quest-tab description reads **This tab lists your active and completed quests.** The help builder also draws the English effect line on eight Liquid Memory panels. Each panel keeps its original Japanese heading and illustration. The early Asterleeds gathering-yield panel reads **Increased Gathering Yield**.
 
-From your Japanese 1.08.001 client, extract matching `.uasset` and `.uexp` pairs into `owned-files/BLUEPROTOCOL/Content/UI/Image/TutorialHelp/`. For the gathering-yield panel alone, use `UI_TutorialHelp00062.uasset` and `UI_TutorialHelp00062.uexp`. The tool also recognizes `UI_TutorialHelp00063`, `UI_TutorialHelp00065`, `UI_TutorialHelp00066` and `LiquidMemory_guide_06` through `LiquidMemory_guide_09`.
+From your Japanese 1.08.001 client, extract matching `.uasset` and `.uexp` pairs into `owned-files/BLUEPROTOCOL/Content/UI/Image/TutorialHelp/`. For the Route Guide alone, supply `RouteGuide.uasset` and `RouteGuide.uexp`. For the gathering-yield panel alone, use `UI_TutorialHelp00062.uasset` and `UI_TutorialHelp00062.uexp`. The tool also recognizes `UI_TutorialHelp00063`, `UI_TutorialHelp00065`, `UI_TutorialHelp00066` and `LiquidMemory_guide_06` through `LiquidMemory_guide_09`.
 
 Use Python 3.12, Pillow 13.0.0 and the same local `LiberationSans-Bold.ttf` used for the startup notice. Pass the path to your font file.
 
@@ -76,7 +76,7 @@ python3 -m pip install Pillow==13.0.0
 python3 tools/build_help.py --input owned-files --output english-help --font LiberationSans-Bold.ttf --archive
 ```
 
-The default builds every supported complete pair in the folder. Add `--require-all` to require all eight. An incomplete pair or a mismatched source file stops the build. For a client that supports local overlays, close the game and copy `english-help/blue_protocol_help_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/`. Back up any earlier help archive you replace. To undo the change, remove the added archive and restore that backup if you made one.
+The default builds every supported complete pair in the folder. Add `--require-all` to require all eight Liquid Memory pairs. The Route Guide pair is optional and is translated whenever supplied. An incomplete pair or a mismatched source file stops the build. For a client that supports local overlays, close the game and copy `english-help/blue_protocol_help_1_P.pak` to `BLUEPROTOCOL/Content/Paks/~mods/`. Back up any earlier help archive you replace. To undo the change, remove the added archive and restore that backup if you made one.
 
 ## Build a native text overlay
 
@@ -116,7 +116,7 @@ The tool matches the table, the ID including its type, and the SHA-256 of the or
 
 `translations/native.json` indexes each native table by its two file hashes and each translated row by its ordinal and source hash. `translations/service.json` indexes service text by table, row ID and source hash. A partial input can build an overlay for the matching tables it contains. Text outside the catalogs keeps its existing value.
 
-The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. The notice builder uses the five startup labels in `image-labels.json`, and the HUD builder uses the 24 preset-diagram labels. The help builder uses the eight Liquid Memory effect captions. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
+The menu builder pairs `menu-inline.json` with the engine lookup hashes in `menu-runtime.json`. The dialogue builder pairs `script.json` with the original package fingerprints and line numbers in `script-sources.json`. The notice builder uses the five startup labels in `image-labels.json`, and the HUD builder uses the 24 preset-diagram labels. The help builder uses the Route Guide description and eight Liquid Memory effect captions. The three catalogs below use a SHA-256 lookup key computed from a compact UTF-8 JSON array, with unescaped Unicode, no spaces between fields and no trailing newline. The source hash is the lowercase SHA-256 of the exact original UTF-8 text.
 
 | Catalog | Fields in the lookup array, in order |
 | --- | --- |

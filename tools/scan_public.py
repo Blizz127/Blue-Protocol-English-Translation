@@ -24,6 +24,10 @@ HUD_FPS_KEYS = {
     "70e63a4f698584f24d3daca662bbc0178ca6a3cacf1f16a64bf5e1601a48f401",
 }
 HELP_TOOLS = {"tools/build_help.py", "tools/help_lettering.py"}
+ROUTE_CODEC = "tools/route_help_texture.py"
+ROUTE_TOOLS = HELP_TOOLS | {ROUTE_CODEC}
+ROUTE_LABEL = ("53b65c6c5b6aa107d5679bfef9b1f64f65115e6d67c81bc1532495233da44878",
+               "This tab lists your active and completed quests.")
 HELP_LABELS = {
     ("13b5d75d219377e0f64cef4f7fb20effb10e20e92385aa1df313596b577a6c6a", "Increased GC from Mission Rewards"),
     ("38defdcc1d74a1027bd628d5ef59ba3c414795f0ed661b03ce05a68203578f6d", "Weapon Crafting Luno Discount"),
@@ -34,7 +38,7 @@ HELP_LABELS = {
     ("92165bc5efc48eeac795009f2d155764cd058510652533d2c24b315c33e2167e", "Increased Item Sale Value"),
     ("a8b16d7f433a68bbcff8abac8af76fff6782642ff9f1ef6f9312019c15ec0063", "Increased Enemy Drop Rate"),
 }
-TOOLS = HUD_TOOLS | HELP_TOOLS | {
+TOOLS = HUD_TOOLS | ROUTE_TOOLS | {
     "tools/build_patch.py", "tools/native_tables.py", "tools/overlay_archive.py", "tools/scan_public.py",
     "tools/build_menu.py", "tools/menu_sources.py", "tools/menu_resource.py", "tools/build_script.py",
     "tools/build_notice.py", "tools/notice_lettering.py", "tools/notice_texture.py",
@@ -155,6 +159,8 @@ class Checks:
         self.approved = policy.get("approved_files")
         self.denied = set(policy.get("forbidden_sha256", []))
         self.catalog_keys = {}
+        self.image_pairs = {}
+        self.route_sources = set()
 
     def text(self, value, ctx, *, english=False, python_source=False):
         require(not HIDDEN.search(value), ctx, "hidden control or invalid Unicode")
@@ -311,10 +317,15 @@ class Checks:
                     require(sha == BOARD_CATALOG_SHA256, name, "unreviewed template catalog digest")
                 if name in {MENU, MENU_RUNTIME, SCRIPT, SCRIPT_SOURCES, BOARD_TEMPLATES}:
                     self.catalog_keys[sha] = keys
+                if name == IMAGE_LABELS:
+                    self.image_pairs[sha] = {(row["key_sha256"], row["english"])
+                                             for row in parse_json(raw)["entries"]}
             else:
                 self.text(text, name, python_source=name in TOOLS)
                 if name in TOOLS:
                     source = ast.parse(text, filename=name)
+                    if name in ROUTE_TOOLS and has_route_source(name, source):
+                        self.route_sources.add((name, sha))
                     for token in tokenize.generate_tokens(io.StringIO(text).readline):
                         if token.type == tokenize.COMMENT:
                             self.text(token.string, f"{name} line {token.start[0]}")
@@ -331,6 +342,31 @@ class Checks:
         except (UnicodeError, json.JSONDecodeError, SyntaxError) as error:
             raise ScanError(f"{name}: invalid UTF-8, JSON or Python source") from error
         return {"bytes": len(raw), "sha256": sha}
+
+
+    def help_tree(self, entries):
+        if not ROUTE_TOOLS.intersection(entries):
+            return
+        require(HELP_TOOLS.issubset(entries), "Help tools", "missing companion tool")
+        require(IMAGE_LABELS in entries, IMAGE_LABELS, "missing help label catalog")
+        pairs = self.image_pairs[entries[IMAGE_LABELS]["sha256"]]
+        require(HELP_LABELS <= pairs, IMAGE_LABELS, "missing matching help image label")
+        active = {name for name in ROUTE_TOOLS.intersection(entries)
+                  if (name, entries[name]["sha256"]) in self.route_sources}
+        if active or ROUTE_CODEC in entries:
+            require(active == ROUTE_TOOLS, "Route Guide", "missing matching builder, lettering or texture reader")
+            require(ROUTE_LABEL in pairs, IMAGE_LABELS, "missing matching Route Guide description")
+
+
+def has_route_source(name, source):
+    if name == "tools/build_help.py":
+        return any((isinstance(node, ast.ImportFrom) and node.module == "route_help_texture"
+                    and any(alias.name == "render_pair" for alias in node.names))
+                   or (isinstance(node, ast.Import) and
+                       any(alias.name == "route_help_texture" for alias in node.names))
+                   for node in ast.walk(source))
+    function = "render_pair" if name == ROUTE_CODEC else "render_route"
+    return any(isinstance(node, ast.FunctionDef) and node.name == function for node in source.body)
 
 
 def signature(lines):
@@ -386,7 +422,6 @@ def scan(repo, commit, policy):
     tip_tree = None
     literal_positions = {}
     hud_catalogs = set()
-    help_catalogs = set()
     while pending:
         oid = pending.pop()
         if oid in commits:
@@ -428,15 +463,7 @@ def scan(repo, commit, policy):
                 fps_keys = {row["key_sha256"] for row in catalog["entries"] if row["english"] == "FPS Counter"}
                 require(HUD_FPS_KEYS <= fps_keys, IMAGE_LABELS, "missing matching FPS label for a HUD preset")
                 hud_catalogs.add(image_catalog)
-        if HELP_TOOLS.intersection(entries):
-            require(HELP_TOOLS.issubset(entries), "Help tools", "missing companion tool")
-            require(IMAGE_LABELS in entries, IMAGE_LABELS, "missing help label catalog")
-            image_catalog = entries[IMAGE_LABELS]["git_blob"]
-            if image_catalog not in help_catalogs:
-                catalog = parse_json(git(repo, "cat-file", "blob", image_catalog))
-                pairs = {(row["key_sha256"], row["english"]) for row in catalog["entries"]}
-                require(HELP_LABELS <= pairs, IMAGE_LABELS, "missing matching help image label")
-                help_catalogs.add(image_catalog)
+        checks.help_tree(entries)
         if BOARD_TEMPLATES in entries:
             require(NATIVE in entries, BOARD_TEMPLATES, "missing native catalog")
             native = entries[NATIVE]["git_blob"]
