@@ -6036,6 +6036,22 @@
       ]
     },
     {
+      "uasset_sha256": "612caa7e3434a5d64fdcf8eecbfccddc93d2a5b173f4f9473ef5114d562ffd45",
+      "uexp_sha256": "b1faa2b5f3b9beae8c85902803cc7ce8bfac01f64775609efd92793247507929",
+      "rows": [
+        {
+          "ordinal": 27,
+          "source_sha256": "b14f682ee52d3158acf5500e03b6da135b6188ae0c9658e54a000dc66296aa1e",
+          "english": "Are you ready for what's ahead?"
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "fde1fb115146062207603b2af3d8640a96a6ab37ab22316ae9dbf4fe67a29a5a",
+          "english": "Good! Then let's go!"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "61be01addf5381ad79a1f2f5e89e86af068aa9fafe1fe501bad51d925170dfbc",
       "uexp_sha256": "f44e0e3e446345c348ca53799329ca211a36820925fee9424b3b4fbd79a28cd6",
       "rows": [
@@ -15589,6 +15605,51 @@
           "ordinal": 69,
           "source_sha256": "322d5bc46e0feba42cf1050c716071a5c7495bee218d14b696b9beb1761c377f",
           "english": "Oh no! Come on, we’ve got to help him!"
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "f8e094417be54cf15a5134a29c4b97d26de0d914fceea42afd52ad9a140bc362",
+          "english": "Thank you. You saved me.\r\nThis, too, must be the blessing of Bapharia's god."
+        },
+        {
+          "ordinal": 72,
+          "source_sha256": "2eda20647526a066770d9ac85efc4e37208585b22a0b9ae00a31655dc816e8eb",
+          "english": "Ah, so you've met my apprentice.\r\nI seem to have caused some worry."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "1d3e2361adf01f58db1de08350c2f3cdd3d241eb018b9cc4647a3847e97e9cca",
+          "english": "The word's basic meaning is \"foreigner.\"\r\nThe ancient texts describe foreigners as people with special powers."
+        },
+        {
+          "ordinal": 86,
+          "source_sha256": "776ccfc0f485e71c525c393abc8ac53ee07862ea71f2b033c84118f7b25f4b07",
+          "english": "W-wait a moment. If you start rattling it all off like that,\r\nI can't take in a word of it!"
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "2265f3ed8e9b0a16244356e6794f0d15a80436fd154b54223e6ed81ea42412e7",
+          "english": "I then proposed a new theory!"
+        },
+        {
+          "ordinal": 94,
+          "source_sha256": "71c99dc1615c2606a1fadea06005e84d060401ddef3a44b849f0b89edf000b93",
+          "english": "I have faith in the founder! In God!\r\nThat's why I only want to find the truth!!"
+        },
+        {
+          "ordinal": 100,
+          "source_sha256": "6410399efb9957c9bff854326ed943f4e2aebb967ef3b6048937b21db4da5526",
+          "english": "A-all right, all right. You've made your passion very clear."
+        },
+        {
+          "ordinal": 101,
+          "source_sha256": "6974a9f57837d2f8062e2bf5189088fb3ee6469dbd99e7d0ff538b2796a490f7",
+          "english": "For now, just go home, all right?\r\nYour apprentice is worried about you."
+        },
+        {
+          "ordinal": 102,
+          "source_sha256": "8e88da809e10f29afe4df9c9ce1987d86e24a1b5229968258f99558c81643ec7",
+          "english": "Oh, of course! I promised my apprentice\r\nwe would have a discussion about ancient civilization!"
         }
       ]
     },
