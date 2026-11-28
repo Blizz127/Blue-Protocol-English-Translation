@@ -323,6 +323,37 @@
       ]
     },
     {
+      "uasset_sha256": "0ae3ab8ff0056604443c0fc7bc748ec0bbf80792e8a994cb330219679f500ee8",
+      "uexp_sha256": "43b2bf1f578b6710b3808964baa693b66439082751e6fa329b2e34933df0dbda",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "a8a0c0cae8af3688806e943e1f5aa7117627fdcb436ca598d87711a54bcf6fe5",
+          "english": "Accent"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "2db3fbbf4b91a8039cefecb34511a582c3db3a81982f37f931d87b706278d71d",
+          "english": "Facial Hair"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "a050f8c1be7e4a1f05da2ce72cdcd0db22cda60226d8175178c9d1ea3615a923",
+          "english": "Lip Color"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "910164c5259aad5abb06a1e3d603e46acf8096da2db108cd07b0a98e00cd85f3",
+          "english": "Beauty Marks"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "8d96af62dc7f78deebdd903b1f538e4e0bbd2cc89c0bbe4ba0aab09c24514881",
+          "english": "Beauty Mark {number}"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "0b90bf8cc7bf72fc1f5a73359a3fee9c6b4a74538bd6d6d80b3ce303bc98e80c",
       "uexp_sha256": "0cf1c249676bdc0e96bf56f873ee86006357b27f5c7ad425a4af3371f5da1268",
       "rows": [
@@ -824,6 +855,22 @@
       ]
     },
     {
+      "uasset_sha256": "100e4a096c023fea5e5c0c8be210bb389445045f8e340590a6e848db846b1738",
+      "uexp_sha256": "5a8fb31ea7c1faf08a7da75d467943af1fd1f45dd5b5febda9db0dc2e1f37cac",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "711b6566d80153e343f8776d5d473fb4b77736def035fa92819a1eeeca847e06",
+          "english": "Primary Color"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "702786d0ed66b48bbe7d5c03b93e3c54e121833c90c988c43ce409ce05cdc6c2",
+          "english": "Blend Edges"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "109ff4d52feaa0fc66d82b7b52cdaf809b7271cf91dc2184a14bb056066f8748",
       "uexp_sha256": "ce456fa0064ecd52c37f3fb4dadb0aa457cfac14591c385153cbb1f513ccfafc",
       "rows": [
@@ -1087,6 +1134,11 @@
       "uexp_sha256": "65357f4e109ad14ef53b86bf38a23aba24eb005df30115219a1695d9885f782e",
       "rows": [
         {
+          "ordinal": 2,
+          "source_sha256": "47c22108961df362a4328ead21d99e0317a413d56a8d2144ab6b0b0543f6690d",
+          "english": "Select a Body Type"
+        },
+        {
           "ordinal": 3,
           "source_sha256": "1ecd5322e247ff7546d0dd1c6ebec784ba39bdd0e0da56b6fa12d8113130ccb5",
           "english": "Load Character Data"
@@ -1095,6 +1147,11 @@
           "ordinal": 4,
           "source_sha256": "5765cace972555cfcc1d74ce2cc0e58a879ff54e8a8be84d7335af628dce4c19",
           "english": "Browse for character data created with the benchmark tool."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "b8d3a3b25fc946cb0d10576924a4885110d952d8157c4d19b2fb46e522f8a243",
+          "english": "Couldn't load character data."
         }
       ]
     },
@@ -2272,6 +2329,51 @@
       "uexp_sha256": "04acfe8cffc55a084ceae8d7af015f131dd6cde14c515f6d527501d779c5ba3a",
       "rows": [
         {
+          "ordinal": 1,
+          "source_sha256": "13eaccc557efd965ef0890a32bc936cc83b4489a1e52c7108b71e2da883d67f9",
+          "english": "Show Outfit"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "da0ece225b99b3ade4804a5794767ae54e3e68a6852c329fd763ce49def722b1",
+          "english": "Customize Build"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "2bd7998fa9b62d4d53e8a93e1d90e5e399fb09484926c98635b629768e3e8413",
+          "english": "Select an Outfit"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "49c3689f091ca4dfe12563fe51297305da08cc59334779091b003e0f54ace9c5",
+          "english": "Select a Voice"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "38527c2d45bad0625330122613c461ab86d2c384822dd75c0f47af49b9edb491",
+          "english": "Select a Preset"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "454e09cec62206207d8f1aeec9ddce0451abe8efdcfbe2c8d1d3a8871d175fd4",
+          "english": "Customize Hair"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "aaa3cea123371c8b02921c67e4b54a905fcdb3e404bd67792bfefc1115f914fc",
+          "english": "Customize Eyes"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "09eec2431a15c7baa7b91b8dc8a25ca3a4d7f2200074e2a9aa8793601ab25e03",
+          "english": "Customize Facial Features"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "e88c5108eb1d47efbabce66325c040d60490f427aeadbee413a9d0400ec7f7de",
+          "english": "Customize Makeup"
+        },
+        {
           "ordinal": 30,
           "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
           "english": "Return to the previous screen? You’ll lose your progress on this character."
@@ -2442,6 +2544,27 @@
           "ordinal": 24,
           "source_sha256": "b3813a6419585e6b8bce458cf4a40b654d3b9387084725be6ef3fd42852a1e4a",
           "english": "Unlock this item to use it."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "25bac215394cb2adae98f5a4965c4f5204fec83a1eb501355f5476ea978d439c",
+      "uexp_sha256": "ffe7928f87ee70a49fda6e1a58b89ee34e9a42ec34b3c594e34a46040cbc8cae",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "e75b7ceee1f50d455985c27afb27a593f8ab53563e23e080d77a16c3efde75ad",
+          "english": "Outfit Set"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "3b7098da9ecef26ba09a0ec45db4354d1e9673e414100ce954a813080cc59fdb",
+          "english": "Upper Body"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "9454c5be12d10a31bc0b0bff3364bb8f490eaa3deadddda29b29a5a449ceb06a",
+          "english": "Lower Body"
         }
       ]
     },
@@ -2791,6 +2914,22 @@
           "ordinal": 113,
           "source_sha256": "5d5e9a184ec809160b260033350d65ff1882bf476e6830069b501bf5a806bdc0",
           "english": "Button Binding Required"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "29f1cc37c7543b23d65b0708413dee139efa12050044601f581a9a88bdc7eebf",
+      "uexp_sha256": "e9b5b72e6590b256d294976ec275645c25b2bd0a8ff913075749dc446a62346f",
+      "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "1255068a3a348417324536b53378d365ce195456f37d14da593edb5f5b9dc788",
+          "english": "Body Mass"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "3b3485ab52be105d6f7cf343c26dff0f109f9335350eba6e691a73669be96e07",
+          "english": "Chest Size"
         }
       ]
     },
@@ -6335,6 +6474,11 @@
       "uasset_sha256": "71502d34c11b7e6bfad6c7a3cb193af70517c1b01c318818773f0d314ad7887c",
       "uexp_sha256": "ad909d1a9f0a821494155ded594a4320000aafca82c12792e10c9f2a50f9e3be",
       "rows": [
+        {
+          "ordinal": 12,
+          "source_sha256": "44fae3268b30575140a7660126a18a5085b3b25174b6ea59a34d8d9771d5209e",
+          "english": "Heterochromia"
+        },
         {
           "ordinal": 19,
           "source_sha256": "65d8c6c53614e18d7172c31effcafd51750e7501e971e3fa326340782b1826fa",
@@ -10359,6 +10503,37 @@
       ]
     },
     {
+      "uasset_sha256": "be943de4c7d3b2ef166de3e139c50198a647b23b2b815848fa072d7a18b832f1",
+      "uexp_sha256": "8e5f5d5c96d4456693295e9305cca54aea86b0e8d6c49c2b2793f3ea99cf55e9",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "95094e897863e3a08cb6efbf96742ddcdb7ac759a0ab55ff152554d708626636",
+          "english": "Eyes and Irises"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "c9f1ea16a3b4c6a6cef70d1785b22f9d7ad8c0e68da87e07f0f71fd64c422463",
+          "english": "Iris Color"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "44fae3268b30575140a7660126a18a5085b3b25174b6ea59a34d8d9771d5209e",
+          "english": "Heterochromia"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "a0c6e640080834196ebfdd30307ecd899fec126e28d18e8b9d44fb2a80a562ca",
+          "english": "Advanced Color Settings"
+        },
+        {
+          "ordinal": 20,
+          "source_sha256": "34d36ead4e73e29b3a50160e177763a5c525c74fdf090e67de9f680e05a8ff6d",
+          "english": "Turning off advanced color settings will erase your custom color details. Turn them off?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "bf296ed04f3ddcdb0a906f15c1f029f5f07bbd24e5c2f644ee8dc92ca7112f97",
       "uexp_sha256": "5e64f749c9a6cc807a9e2cc29f1ffe294394567bda15f69daa17ef12840d2168",
       "rows": [
@@ -10916,6 +11091,51 @@
       "uasset_sha256": "c52e1519352900d20ad80e1bc66525ef1d0707ea2fcfabdcfd000bc55405421e",
       "uexp_sha256": "4befe4de8fb0ce51bc21ee28fc22d83b5cf374ee466a80e0909c7511e61d3f52",
       "rows": [
+        {
+          "ordinal": 1,
+          "source_sha256": "13eaccc557efd965ef0890a32bc936cc83b4489a1e52c7108b71e2da883d67f9",
+          "english": "Show Outfit"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "da0ece225b99b3ade4804a5794767ae54e3e68a6852c329fd763ce49def722b1",
+          "english": "Customize Build"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "2bd7998fa9b62d4d53e8a93e1d90e5e399fb09484926c98635b629768e3e8413",
+          "english": "Select an Outfit"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "49c3689f091ca4dfe12563fe51297305da08cc59334779091b003e0f54ace9c5",
+          "english": "Select a Voice"
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "38527c2d45bad0625330122613c461ab86d2c384822dd75c0f47af49b9edb491",
+          "english": "Select a Preset"
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "454e09cec62206207d8f1aeec9ddce0451abe8efdcfbe2c8d1d3a8871d175fd4",
+          "english": "Customize Hair"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "aaa3cea123371c8b02921c67e4b54a905fcdb3e404bd67792bfefc1115f914fc",
+          "english": "Customize Eyes"
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "09eec2431a15c7baa7b91b8dc8a25ca3a4d7f2200074e2a9aa8793601ab25e03",
+          "english": "Customize Facial Features"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "e88c5108eb1d47efbabce66325c040d60490f427aeadbee413a9d0400ec7f7de",
+          "english": "Customize Makeup"
+        },
         {
           "ordinal": 30,
           "source_sha256": "ed00582bab7c76a9d8caa3497031a34af8aeee3e7fed2dbda5ef92525fe94ca2",
@@ -13327,6 +13547,37 @@
       ]
     },
     {
+      "uasset_sha256": "e9442437a3421c9ee85c528faed658441af6ace4196cb63f51ac5704995c220d",
+      "uexp_sha256": "f82b772b9235eedddc92bb5da60c988693ee71bc54ccff09c2826340d9ed3af6",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "b82ac01de2deaa628fd71e43a0d6aaa50522a7e4196b4df36996775471443064",
+          "english": "Choose Body Type"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "7b89b24f269749744164c03b2f09033a3d7517dcfd81daa3fa51f5ba6c67417b",
+          "english": "Detailed Settings"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "96be9913bd3aff4a89433a4b5b12902340bc964d6d8f828fc0841d0bd494f677",
+          "english": "Choose Outfit"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "2a333abde61cfcd14ad7d235c7baa3e24e9be18297ff7393fa25eb3f71a4cb15",
+          "english": "Choose Class"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "fce0bd0b79835a876096c902b75e73e129efd1448996f52dcb1f59c85e87f280",
+          "english": "Enter Name"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "e969b11fa976acd47809b5d8333c7972c7ebec6f32e608aa458925f6ad08201a",
       "uexp_sha256": "fb8c6bd4c6fc32e617bffe8e72195f769320e8893d4cca6632197abe85f08946",
       "rows": [
@@ -13433,6 +13684,11 @@
       "uasset_sha256": "ebc85b382c2c58a9e9478fed7c5979cf14ee03221753bd899304c5c8e7cf2f33",
       "uexp_sha256": "98e510d0b82a2a34440db1f03f8782217c682992f30644bd7a0abf0851fbcfc9",
       "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "5e577d96b65adda16d814e6f7e51db12799389f13a31661f8221b7fe980cb803",
+          "english": "Face Shape"
+        },
         {
           "ordinal": 8,
           "source_sha256": "65d8c6c53614e18d7172c31effcafd51750e7501e971e3fa326340782b1826fa",
