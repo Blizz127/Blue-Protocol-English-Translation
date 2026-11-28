@@ -14193,6 +14193,147 @@
       ]
     },
     {
+      "uasset_sha256": "f3b1d68730f643d21aab142c941908997c17217ee385e52b3573dc9b7f721531",
+      "uexp_sha256": "c21c7f8330950764a35cd1023c8b71d9b3ba37d03a78e2696bfa251fdd4490c4",
+      "rows": [
+        {
+          "ordinal": 0,
+          "source_sha256": "7436156333ae9f5e1d5f5b519f40d5153e4baf8abc34463114679b5874ed6e93",
+          "english": "Hey there. Need something?"
+        },
+        {
+          "ordinal": 1,
+          "source_sha256": "6220451e194414fea837431c9f6fb29985b906c880efbe6977c3a79f5b874c00",
+          "english": "<span size=\"Big\">I heard you were buying, so here we are!</>"
+        },
+        {
+          "ordinal": 2,
+          "source_sha256": "0b58e6306343148e2e1d15be959376dd1a170ec999acd0c77373db8fb1d5d06d",
+          "english": "What's all this about?"
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "053ae917d74137d85cafb57b43538c038903213c9d82ce789e40cda6cd61cbc8",
+          "english": "Come again?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "8e5689057be5f89085eaaa5a45301be3db58f48fa8f34707bcc8218abb2a059e",
+          "english": "I hear your whole reward this time is going\r\nstraight toward your tab. Boy, is that a relief!"
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "a82e6177d909860a4cabc702bdff8e629d2bca3efbdc7f40114def6a6b2a3181",
+          "english": "Wh-who's been filling your ears with such rubbish?!"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "a9bba119ead40684bda6adf9087496aae5ad2c1e2f9d50899ae173f70601fc09",
+          "english": "Jake. Said he'd pay you in full,\r\nand I was welcome to squeeze every last coin out of you."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "e65561d1f49ca089827347e95125b41752a3c01a630fc25ba383cacf80ba1283",
+          "english": "Gah...! The scoundrel set me up!"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "2e1a608b253b9cece6896a2f2f6b6bd047668cc7bd42410b1c484debef0969b0",
+          "english": "Come on, pay up. No more weaseling out of it.\r\nOr do you want me to bar you from the place?"
+        },
+        {
+          "ordinal": 14,
+          "source_sha256": "21c8bba094a9478025015e7dfeb62e369bac24cfccea920ceceaafbbac215a4c",
+          "english": "Wasn't that something to do with the Bapharian faith?"
+        },
+        {
+          "ordinal": 15,
+          "source_sha256": "b16be3df2a7dd70889c75c61aca27642dbb196433bcdc3565d6947dbbf624f80",
+          "english": "The Bapharian faith..."
+        },
+        {
+          "ordinal": 16,
+          "source_sha256": "e2f03e750c9246fd8d2a525dd280f046fd087dc977f51c5e29104d10afc96f8b",
+          "english": "You're in luck. There's a big Bapharian temple right here in town.\r\nYou could go ask there."
+        },
+        {
+          "ordinal": 21,
+          "source_sha256": "7e96c8a6ecf7b601b627e811c177f71ed3cf6bcbeee7262ac5f1fcffe97e9175",
+          "english": "The doors of the Bapharian faith are open to demihumans, too.\r\nIf you'd like to hear more, you're most welcome."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "5e0028f874fd5dbd7d575ed0ad621e113407d704426fa2e53c638b4fb8cd8538",
+          "english": "I do.\r\nBut I hesitate to give you an answer myself."
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "14003de52b5c6ef9b2b145ee2d36411fab2da236636b2d600e1a6a994a79d386",
+          "english": "Whaaat?! Why not? Don't be so <span size=\"Big\">stingy!</>"
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "8d07edd716c51fb14c90c55054a3486ffb601ae938316d6243e243203d83e2cd",
+          "english": "S-stingy? I wouldn't say that..."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "d7e8898cc5e30b6cf7bf7cab438d4c0eb26acf5cc250011200274c52cf8c8443",
+          "english": "I'm sorry, young demihuman.\r\nI have duties to attend to, so if you'll excuse me..."
+        },
+        {
+          "ordinal": 31,
+          "source_sha256": "d290097641cbbcf6a037ca1e8339e0e525035247e85be9029010b29d106cd35a",
+          "english": "Hrrmph..."
+        },
+        {
+          "ordinal": 32,
+          "source_sha256": "4aab0199dafd5e3940fa75771c09167567b82b63f5a9d2b40fd102333941c423",
+          "english": "Well, that got us nowhere. Is it a word even the Order\r\nwould rather we didn't bring up?"
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "fb7a3d0f3e4753092840dd3634d6302439dad22c800757b5bfc6e1cd2b69754f",
+          "english": "I'm still curious about it, though..."
+        },
+        {
+          "ordinal": 34,
+          "source_sha256": "e2bb8fc2a8f84666b1d6dc68cd4b9e321a744f487e54a03c669c6540e1278d02",
+          "english": "Hm? You there, young lady. Did you need us for something?"
+        },
+        {
+          "ordinal": 36,
+          "source_sha256": "b892a592d653968a1d7dfe066f71e4712a366d9683a89e012c68dbb9ee43cd8a",
+          "english": "...Is it you?"
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "8cda9ef8873107227eaf9a2609b83f57f842516ab0589380a55d4f8a59bf722e",
+          "english": "Oh? Do you two know each other?"
+        },
+        {
+          "ordinal": 40,
+          "source_sha256": "053ae917d74137d85cafb57b43538c038903213c9d82ce789e40cda6cd61cbc8",
+          "english": "Come again?"
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "9b19aa978bec54bb53ded36946aa7e2a512dd5966e8c25a9f44b13f5ff4fa340",
+          "english": "If you go to Minsterhorn,\rI think you might find out..."
+        },
+        {
+          "ordinal": 42,
+          "source_sha256": "57f69889920e5ce8f9526d377d43574c12ca3a4ca503aa468ec17e114b6d5851",
+          "english": "Minsterhorn? Was there anything there\r\nthat might give us a clue...?"
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "afdc728c22a1c785888fab7a80ca52a7fc1a6f8094b46b86a1a31c8c262fd7c4",
+          "english": "Well, there's one way to find out. Shall we go?"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "f4413493c7ff002e0a7e837171420876135ea91d9369ba47c3a163033aec3877",
       "uexp_sha256": "4960acf95a08dd828acac7f1087365fc2921931114beaaf8867a9946b8c8d466",
       "rows": [
