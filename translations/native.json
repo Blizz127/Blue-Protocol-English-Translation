@@ -6349,6 +6349,36 @@
           "ordinal": 86,
           "source_sha256": "399c986b7fb4f5e2e206af60fe349453e47760fa359851cd8db55fa7d6a31cab",
           "english": "Are you ready?\r\nI know you can handle yourself, but keep your wits about you!"
+        },
+        {
+          "ordinal": 87,
+          "source_sha256": "fa890ea8fb0e1a34b671b8b99174400a58f28ca3a91f63c340be545180e09a5c",
+          "english": "Well now, it's just ahead...\r\nWe may have a tough fight on our hands, but[――]"
+        },
+        {
+          "ordinal": 89,
+          "source_sha256": "0749a6c50e5591a532139c86b23150a5828c09e8cb4beec77e425272ae6d14a4",
+          "english": "Is that... an Ogre?!\r\nNo one told me there'd be an Ogre down here!"
+        },
+        {
+          "ordinal": 90,
+          "source_sha256": "b8299e07cdaabea67df4af8123e21db6a853e487a1f3469acfbb71104f5e5e95",
+          "english": "Well, I'll be...\r\nThat was an Ogre, wasn't it?"
+        },
+        {
+          "ordinal": 91,
+          "source_sha256": "1dc7cf5d7a91d67ff4d00b88de8da0d4e000e72453b09524efef95501e002837",
+          "english": "Nobody said we'd run into one of those!\r\nI thought a Mook was the worst we'd see..."
+        },
+        {
+          "ordinal": 92,
+          "source_sha256": "d4373804fe79a92a04a3d00d73c2f974c78a38b4e1a853600bfec5970f9205e4",
+          "english": "Even if it was part of the exam,\r\nthat's an awful lot to ask of a beginner."
+        },
+        {
+          "ordinal": 93,
+          "source_sha256": "9f2ff73f31f716d6b9e5b824fa4d7b475c89849a3ee1bc7ce58800d4b5faba12",
+          "english": "Still, you went and beat it, didn't you?\r\nThat's my minion! Consider yourself praised!"
         }
       ]
     },
@@ -6924,6 +6954,36 @@
           "ordinal": 74,
           "source_sha256": "399c986b7fb4f5e2e206af60fe349453e47760fa359851cd8db55fa7d6a31cab",
           "english": "Are you ready?\r\nI know you can handle yourself, but keep your wits about you!"
+        },
+        {
+          "ordinal": 75,
+          "source_sha256": "fa890ea8fb0e1a34b671b8b99174400a58f28ca3a91f63c340be545180e09a5c",
+          "english": "Well now, it's just ahead...\r\nWe may have a tough fight on our hands, but[――]"
+        },
+        {
+          "ordinal": 77,
+          "source_sha256": "0749a6c50e5591a532139c86b23150a5828c09e8cb4beec77e425272ae6d14a4",
+          "english": "Is that... an Ogre?!\r\nNo one told me there'd be an Ogre down here!"
+        },
+        {
+          "ordinal": 78,
+          "source_sha256": "b8299e07cdaabea67df4af8123e21db6a853e487a1f3469acfbb71104f5e5e95",
+          "english": "Well, I'll be...\r\nThat was an Ogre, wasn't it?"
+        },
+        {
+          "ordinal": 79,
+          "source_sha256": "1dc7cf5d7a91d67ff4d00b88de8da0d4e000e72453b09524efef95501e002837",
+          "english": "Nobody said we'd run into one of those!\r\nI thought a Mook was the worst we'd see..."
+        },
+        {
+          "ordinal": 80,
+          "source_sha256": "d4373804fe79a92a04a3d00d73c2f974c78a38b4e1a853600bfec5970f9205e4",
+          "english": "Even if it was part of the exam,\r\nthat's an awful lot to ask of a beginner."
+        },
+        {
+          "ordinal": 81,
+          "source_sha256": "9f2ff73f31f716d6b9e5b824fa4d7b475c89849a3ee1bc7ce58800d4b5faba12",
+          "english": "Still, you went and beat it, didn't you?\r\nThat's my minion! Consider yourself praised!"
         }
       ]
     },
