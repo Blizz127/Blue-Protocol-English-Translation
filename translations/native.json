@@ -6161,6 +6161,16 @@
           "ordinal": 28,
           "source_sha256": "fde1fb115146062207603b2af3d8640a96a6ab37ab22316ae9dbf4fe67a29a5a",
           "english": "Good! Then let's go!"
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "ab6c94c69662cf8627b77e6a3f79b442c0cd00b1450d4c90318450cfc3737858",
+          "english": "Say, my servant...\r\nIsn't it unusually noisy around here?"
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "fdee9f12695742ab1dee2004c9932d0a07d7bb8807a35c0e37e5e533aa1369e6",
+          "english": "Only one thing to do at a time like this. Let's ask around!"
         }
       ]
     },
