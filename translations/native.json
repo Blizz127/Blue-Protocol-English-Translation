@@ -5808,6 +5808,26 @@
           "ordinal": 23,
           "source_sha256": "1135905a5d06b95bb8338334bde42e5a303dc924612f8fdea43d4ab6cd72348c",
           "english": "Well, that's settled. No sense dawdling!\r\nCome along. Let's go find Jake at the Reclamation Bureau."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "331d7628f7512a7ed24d55b71351e4567697126942456b6f8be3a381f277e720",
+          "english": "You activated the Transfer Portal\r\non your way out of town, remember?"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "51173ca9cdace84a5890ff49bfad54cde29bc2c3de3318b4dde89efc884e4c13",
+          "english": "Handy, getting back in a flash like that!\r\nBest get used to it early."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "406049806c6549891e68a6a1b0b6f90be36d528b0f4196bfbfbb8fc93578ad4e",
+          "english": "[――]That sounds a bit stuffy, though.\r\nThink of it as a place to find work."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "c81606e43ecaad0fc9d7958f61a6a9a62a8a9dad5a41847d5f18ec6e6030478c",
+          "english": "Once you're an adventurer yourself,\r\nyou can take on jobs here and earn some coin!"
         }
       ]
     },
@@ -6107,6 +6127,26 @@
           "ordinal": 23,
           "source_sha256": "1135905a5d06b95bb8338334bde42e5a303dc924612f8fdea43d4ab6cd72348c",
           "english": "Well, that's settled. No sense dawdling!\r\nCome along. Let's go find Jake at the Reclamation Bureau."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "331d7628f7512a7ed24d55b71351e4567697126942456b6f8be3a381f277e720",
+          "english": "You activated the Transfer Portal\r\non your way out of town, remember?"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "51173ca9cdace84a5890ff49bfad54cde29bc2c3de3318b4dde89efc884e4c13",
+          "english": "Handy, getting back in a flash like that!\r\nBest get used to it early."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "406049806c6549891e68a6a1b0b6f90be36d528b0f4196bfbfbb8fc93578ad4e",
+          "english": "[――]That sounds a bit stuffy, though.\r\nThink of it as a place to find work."
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "c81606e43ecaad0fc9d7958f61a6a9a62a8a9dad5a41847d5f18ec6e6030478c",
+          "english": "Once you're an adventurer yourself,\r\nyou can take on jobs here and earn some coin!"
         }
       ]
     },
