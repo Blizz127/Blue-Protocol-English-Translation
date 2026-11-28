@@ -2549,9 +2549,29 @@
       "uexp_sha256": "868be1bcd6bed67666cfc76f62c5b5621298bb66ef7cf89b7faac7c5ae8536a1",
       "rows": [
         {
+          "ordinal": 10,
+          "source_sha256": "601e6a1453b0ae104801405e0edca0d8bb3227e3f604b6311c472f97b018fd8c",
+          "english": "(Up to 12 characters)"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "441b81ca25fe147e45f49f61fa78d2eae87ac384b0d9407c0a61f3340e32bb94",
+          "english": "(Up to 10 characters)"
+        },
+        {
           "ordinal": 40,
           "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
           "english": "The new mission\n{MissionName}\nis now available."
+        },
+        {
+          "ordinal": 57,
+          "source_sha256": "4095f00cefcfbf55971ad48aee1f8adbf636e15f352eefd8c4c7391890d4c0cb",
+          "english": "If you change your name, you'll have to wait 30 days to change it again."
+        },
+        {
+          "ordinal": 59,
+          "source_sha256": "6f66ebd9bd4b457f66c1adebe8bf0d8ba1fa6451bec5f86a974f6dcc01115794",
+          "english": "This will open an external website in your browser.\nContinue?"
         }
       ]
     },
@@ -4311,6 +4331,11 @@
       "uexp_sha256": "8cd7024423e0e552f7d457cb8257049019edc04909131bc45a6827dfdd9c236d",
       "rows": [
         {
+          "ordinal": 31,
+          "source_sha256": "e57a7634dfa3537c82dafcfc06a2fe5f9e8fa9d30174545d11142399ebf03976",
+          "english": "Connecting to the server..."
+        },
+        {
           "ordinal": 48,
           "source_sha256": "3099de34d39dfdb8b14dc6544ea43d95c65da8869f660026db3b68c7d57fdcbb",
           "english": "All entries have been marked as read."
@@ -4340,6 +4365,102 @@
           "ordinal": 13,
           "source_sha256": "5dbd6b576604bac6e344a7158a42948233ea9dc42d559da085e1956d7c66a5b7",
           "english": "Wha[――]?!"
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "5a5d137e007d18a513642e1c384165783ddc83ed0c6b38a2612ff164074af3d4",
+      "uexp_sha256": "6523efde5bf3f313512f42375c8b4b3235c0a084d81a74f4cb45a958e029c835",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "40fa2d4984d9754276929e45e639ce19b6acfbc0e3820589ca3b356c330d13c2",
+          "english": "Some of the information you entered is incorrect."
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "8ee0745ac6e67fa8249a2ba06fefc32c93060d7ca6fcbfa33feed1154806af07",
+          "english": "Couldn't connect to the server."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "75313d07e54e13458832f6e3b286fe2835317166ba126ac080f71ce251e9ad19",
+          "english": "Authentication failed."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "fd7393092122282a97b245aa4262b917353cb403bfae11eecab6404ba45c6d1a",
+          "english": "The game couldn't start and will now close."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "f3d5d56035696591f5c52b68bcdf2edcbb66efa5e0f6d0aee24477c65a529ddb",
+          "english": "Lost connection to the game server. The game will now close."
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "c74261d4f6f17161998dcf17b037468f085a60ed7b2124eebdf98b4025f11896",
+          "english": "Lost connection to the party server. The game will now close."
+        },
+        {
+          "ordinal": 22,
+          "source_sha256": "3d8cc99554e3e905a5b92fcea934bf990f47ef33793c9bc99b1f725c47296509",
+          "english": "A new version is available. Please update the game."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "a580f03d028ebd0324d93a4e7781ef1f0db751d421a13c52625415b460b74b4f",
+          "english": "This account was used to log in from another game client. The game will now close."
+        },
+        {
+          "ordinal": 33,
+          "source_sha256": "2454a7e25400d66c7cae8e2ae0d74df5aeb21043a650dc4d65de0ea181f39464",
+          "english": "The server disconnected you due to inactivity."
+        },
+        {
+          "ordinal": 35,
+          "source_sha256": "b9c44c0d1ea53972e2043eb8a6078543d803c3bb427a239126f268952b26fb7f",
+          "english": "All character slots are full."
+        },
+        {
+          "ordinal": 38,
+          "source_sha256": "12c8c959aa2204c14ef390ac498e30c414dadabd34eee4f4d51f67bde7ef636e",
+          "english": "Incorrect secondary password. Please enter it again."
+        },
+        {
+          "ordinal": 41,
+          "source_sha256": "3d8cc99554e3e905a5b92fcea934bf990f47ef33793c9bc99b1f725c47296509",
+          "english": "A new version is available. Please update the game."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "712d0ab6050d85cc3b3beae293a926f80142813e5046e9a56da409afd8707cb3",
+          "english": "Couldn't reset your secondary password."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "b932ea66a9832133b3ddbb26bd8815d0078270af61028b88ca24873fef6aa4ba",
+          "english": "You can't log in with this account right now."
+        },
+        {
+          "ordinal": 49,
+          "source_sha256": "4c9dd21ef4867455c6c7f71da1fc0dfb28c2bb164106e9255fb075dae4a569e7",
+          "english": "Couldn't load your character information. Please log in again."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "6758ab358d58a1967d79b6696846e51ccac1c8ba1b743edd61a755ca6da8235f",
+          "english": "This character has been deleted."
+        },
+        {
+          "ordinal": 51,
+          "source_sha256": "6cc74870324950b00debbd21d568aba2e2ce7c6022d742aa5f2d908763a55b71",
+          "english": "That character name is already taken."
+        },
+        {
+          "ordinal": 52,
+          "source_sha256": "93baadcc213e6e61db24813ec86f7d28fa7ba41b62ea91cc2f3372cc51095fb0",
+          "english": "The game is unavailable during maintenance.\nPlease close the game."
         }
       ]
     },
@@ -5656,6 +5777,162 @@
           "ordinal": 14,
           "source_sha256": "12e88523d4f90c9fa25e6719f7cdcd1079f0e523f54d0acc16fc4b489dcd94c5",
           "english": "I'll wager there's a new adventure waiting for you.\r\nIf I were still the man I used to be, I'd be tempted to join you."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "798ce6261c5d28349d1d8ff5667ee41623325eb863f0d0b0b9764c1c1d1a26ba",
+      "uexp_sha256": "21ccc8db7057912abd031a2edfabe0418dfbb0af3be653b29959b7e6e308d7cf",
+      "rows": [
+        {
+          "ordinal": 3,
+          "source_sha256": "40fa2d4984d9754276929e45e639ce19b6acfbc0e3820589ca3b356c330d13c2",
+          "english": "Some of the information you entered is incorrect."
+        },
+        {
+          "ordinal": 4,
+          "source_sha256": "8ee0745ac6e67fa8249a2ba06fefc32c93060d7ca6fcbfa33feed1154806af07",
+          "english": "Couldn't connect to the server."
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "75313d07e54e13458832f6e3b286fe2835317166ba126ac080f71ce251e9ad19",
+          "english": "Authentication failed."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "fd7393092122282a97b245aa4262b917353cb403bfae11eecab6404ba45c6d1a",
+          "english": "The game couldn't start and will now close."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "f3d5d56035696591f5c52b68bcdf2edcbb66efa5e0f6d0aee24477c65a529ddb",
+          "english": "Lost connection to the game server. The game will now close."
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "c74261d4f6f17161998dcf17b037468f085a60ed7b2124eebdf98b4025f11896",
+          "english": "Lost connection to the party server. The game will now close."
+        },
+        {
+          "ordinal": 18,
+          "source_sha256": "5ee369e529cd8844922cf1ff2f6b77f136c8191c15ec7c3b2cfa559979b9826e",
+          "english": "Maintenance is underway."
+        },
+        {
+          "ordinal": 19,
+          "source_sha256": "0edc156cc53a697bf152308ad7b94086292e4931ac2126a11823f8426deba6cc",
+          "english": "Your BNID is already linked."
+        },
+        {
+          "ordinal": 25,
+          "source_sha256": "25e2db48261ed1888f4df64f2a254f25d3b5e10f6ea5ce5d4e320a8f071d5cb9",
+          "english": "Couldn't connect to the server. Try connecting again?"
+        },
+        {
+          "ordinal": 26,
+          "source_sha256": "ceee1485d9ea3d9512e29a4d1ebe222c857a5cd967dbb87e668cfd0c3dabf121",
+          "english": "Network connection lost.\nPlay can't continue. Returning to the title screen."
+        },
+        {
+          "ordinal": 27,
+          "source_sha256": "dd7318ebfaa9cdf70c311f5283000ef09eaec6ef129a5ba76d8d3768c5505427",
+          "english": "Your network connection is unstable."
+        },
+        {
+          "ordinal": 28,
+          "source_sha256": "49256dcfb635496c8d63f6e40c1ae8f85335b5e5bb4c128260cb0018259b5bf3",
+          "english": "Couldn't connect to the server. Returning to the title screen. "
+        },
+        {
+          "ordinal": 29,
+          "source_sha256": "0588ba3599aded6acb5df99dc85482412ce5125d6e0a95fa9a51a307a0ff4f98",
+          "english": "Couldn't log in to the game. Check that you're signed in and that your network equipment is connected."
+        },
+        {
+          "ordinal": 30,
+          "source_sha256": "c72caaadc77bccb9df57c4d3f50f8fae5044d82e83db358e0d0b79d8599cabb1",
+          "english": "Communication failed. Check that your network equipment is connected and your connection is working."
+        },
+        {
+          "ordinal": 37,
+          "source_sha256": "3d8cc99554e3e905a5b92fcea934bf990f47ef33793c9bc99b1f725c47296509",
+          "english": "A new version is available. Please update the game."
+        },
+        {
+          "ordinal": 43,
+          "source_sha256": "a580f03d028ebd0324d93a4e7781ef1f0db751d421a13c52625415b460b74b4f",
+          "english": "This account was used to log in from another game client. The game will now close."
+        },
+        {
+          "ordinal": 48,
+          "source_sha256": "2454a7e25400d66c7cae8e2ae0d74df5aeb21043a650dc4d65de0ea181f39464",
+          "english": "The server disconnected you due to inactivity."
+        },
+        {
+          "ordinal": 50,
+          "source_sha256": "b9c44c0d1ea53972e2043eb8a6078543d803c3bb427a239126f268952b26fb7f",
+          "english": "All character slots are full."
+        },
+        {
+          "ordinal": 53,
+          "source_sha256": "12c8c959aa2204c14ef390ac498e30c414dadabd34eee4f4d51f67bde7ef636e",
+          "english": "Incorrect secondary password. Please enter it again."
+        },
+        {
+          "ordinal": 56,
+          "source_sha256": "3d8cc99554e3e905a5b92fcea934bf990f47ef33793c9bc99b1f725c47296509",
+          "english": "A new version is available. Please update the game."
+        },
+        {
+          "ordinal": 58,
+          "source_sha256": "712d0ab6050d85cc3b3beae293a926f80142813e5046e9a56da409afd8707cb3",
+          "english": "Couldn't reset your secondary password."
+        },
+        {
+          "ordinal": 62,
+          "source_sha256": "b74c6a3aa3df4839f2b8009be85f8490860f1e7b41d20252b94c47cabc9c4092",
+          "english": "New data is available. The game will download the data again."
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "b932ea66a9832133b3ddbb26bd8815d0078270af61028b88ca24873fef6aa4ba",
+          "english": "You can't log in with this account right now."
+        },
+        {
+          "ordinal": 65,
+          "source_sha256": "4c9dd21ef4867455c6c7f71da1fc0dfb28c2bb164106e9255fb075dae4a569e7",
+          "english": "Couldn't load your character information. Please log in again."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "6758ab358d58a1967d79b6696846e51ccac1c8ba1b743edd61a755ca6da8235f",
+          "english": "This character has been deleted."
+        },
+        {
+          "ordinal": 67,
+          "source_sha256": "6cc74870324950b00debbd21d568aba2e2ce7c6022d742aa5f2d908763a55b71",
+          "english": "That character name is already taken."
+        },
+        {
+          "ordinal": 68,
+          "source_sha256": "b0dc42e6575a79944d46c6a878934859385af41f5617083f442706403a1b4526",
+          "english": "This feature is unavailable because the character is on a different platform."
+        },
+        {
+          "ordinal": 70,
+          "source_sha256": "93baadcc213e6e61db24813ec86f7d28fa7ba41b62ea91cc2f3372cc51095fb0",
+          "english": "The game is unavailable during maintenance.\nPlease close the game."
+        },
+        {
+          "ordinal": 71,
+          "source_sha256": "36b2d74697113ed5c69ffa3171d91b75089088f8e5904e4cee4c7f4dd7945f50",
+          "english": "Maintenance is underway. Returning to the title screen."
+        },
+        {
+          "ordinal": 581,
+          "source_sha256": "3cbc6b36bab316f522f1b2ed10c45384d8ca9761e33cf7a9c61448e4f68df1d8",
+          "english": "An update is available. Returning to the title screen."
         }
       ]
     },
@@ -7350,6 +7627,17 @@
           "ordinal": 37,
           "source_sha256": "b399de3f954a478c6ad9245aac8d4d67f749d0ce3bd47b365ceab9a6f2144c61",
           "english": "The fighting on the Floating Island in the Void is brutal.\r\nThe Reclamation Bureau knows that all too well."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "a7360a3ee09426abdb63dc106c41565caed98569826697abd48288becc63d1bf",
+      "uexp_sha256": "cbb6fdc045287fbdbcafd84872a1b37aa4e5542af84e6cfb70c84138796b0013",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "eb341a595bfdb597bf16444ec29fe2f9b9c61d69ec52c06b5e355cfff1283d67",
+          "english": "Back to Character Select"
         }
       ]
     },
@@ -9886,6 +10174,16 @@
       "uexp_sha256": "f4ac711329a61debb91d76f9d140d817bf34b3aa570f41d31b462de25b947934",
       "rows": [
         {
+          "ordinal": 10,
+          "source_sha256": "601e6a1453b0ae104801405e0edca0d8bb3227e3f604b6311c472f97b018fd8c",
+          "english": "(Up to 12 characters)"
+        },
+        {
+          "ordinal": 11,
+          "source_sha256": "441b81ca25fe147e45f49f61fa78d2eae87ac384b0d9407c0a61f3340e32bb94",
+          "english": "(Up to 10 characters)"
+        },
+        {
           "ordinal": 41,
           "source_sha256": "0d07b780e0ae58bb25609084e86cc4c8de9d3e3624391391d00652ebb90a3261",
           "english": "The new mission\n{MissionName}\nis now available."
@@ -9894,6 +10192,16 @@
           "ordinal": 42,
           "source_sha256": "b3d1a9631d3a7e63723733e685853cea12ad5c0fc50f23114be67f17dcdace05",
           "english": "The new dungeon\n{MissionName}\nis now available."
+        },
+        {
+          "ordinal": 64,
+          "source_sha256": "4095f00cefcfbf55971ad48aee1f8adbf636e15f352eefd8c4c7391890d4c0cb",
+          "english": "If you change your name, you'll have to wait 30 days to change it again."
+        },
+        {
+          "ordinal": 66,
+          "source_sha256": "6f66ebd9bd4b457f66c1adebe8bf0d8ba1fa6451bec5f86a974f6dcc01115794",
+          "english": "This will open an external website in your browser.\nContinue?"
         },
         {
           "ordinal": 80,
@@ -12266,6 +12574,17 @@
           "ordinal": 65,
           "source_sha256": "6c5b674490985e68a26750c635a084b71d4fb937f0ca9da1fbf7e119ba707e0d",
           "english": "Couldn’t add a character slot."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "fe133da7476c58ed0ec5393e26b51c4131cc41ccc0763ff5f536d9edbe54cbf3",
+      "uexp_sha256": "5477127b47003e6fa0e6c6a489a8bce9a9405f1cee82d642aeca8c10d1138795",
+      "rows": [
+        {
+          "ordinal": 8,
+          "source_sha256": "eb341a595bfdb597bf16444ec29fe2f9b9c61d69ec52c06b5e355cfff1283d67",
+          "english": "Back to Character Select"
         }
       ]
     },
