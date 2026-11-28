@@ -3526,6 +3526,47 @@
       ]
     },
     {
+      "uasset_sha256": "356de260d550448927745720458e0ddbc2f884589d24b202c73c2c73cf0663f7",
+      "uexp_sha256": "1422fbac4b331facfdaeb7427893712e82b26b3ef5bcea92fc9462f94737f722",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "a8bae34fedd14db709ccccad61828114cfc8428b27b2023b3857e5fbf2113b31",
+          "english": "Reset your HUD layout to its defaults?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "c661350ef24ee3a7c39784dfc486526ebcbf19801a6b1e7b335dcdcc4f813f08",
+          "english": "Press {Key} to open the menu."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "433a7396c11c0b14ba92745e9a44a26f2d4e175a57cf73d56b19d5638ddac2ee",
+          "english": "HUD layout reset to defaults."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e9b30cb7ef36b1411539e5ef681127d9278a91d8737e6ef701124c41170c3141",
+          "english": "Show Baseplate"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "8302343fa41af4b1919c2b6cd1946ba605eaa3af7d3a8252665a063b5ec762f8",
+          "english": "You can edit your HUD layout on a separate screen."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "5ed962917eba09e665d5a0bc2dfe368c09ae7dfaa862ea1200a9a27e352fa174",
+          "english": "Restore Defaults"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "dbe0ed72476f03f7137730b4ff81d99ce7c66604befb978af9a75f5949dec6cb",
+          "english": "Apply and Exit"
+        }
+      ]
+    },
+    {
       "uasset_sha256": "366a9b6504be5fe31f95849f5ec08693c03f53a514f06861ddc87bc2d2b3a4cd",
       "uexp_sha256": "e004f3f2a79fd9587992eb3f1188d6b7204e0d8e30b79a3632594bbe4161aca9",
       "rows": [
@@ -4055,6 +4096,37 @@
           "ordinal": 449,
           "source_sha256": "eefc9453a3cd7664e1cab69651ef1627467e0eba8c6fd73f285cc1001bf1999b",
           "english": "So they beat Voldigen, did they? How pathetic."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "3bc07858a87a69c2d5ba4bb0725ea9cf2e3e9b9257dee63c0d9e7f0c46d27e57",
+      "uexp_sha256": "b350856df5ba7d626ca6cb314d06b91db88a9a5034da58c6d7f129a34ea7c830",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "46156ad0b766a1c926e593aa80a4cd5cd15703367e0cdb476b5fb991451e09df",
+          "english": "Livestream Style"
+        },
+        {
+          "ordinal": 3,
+          "source_sha256": "c470efe3fd2ef22d1835f5dbdf44c73e7ee57fb4c2ca2fa9006ac0650795bab1",
+          "english": "You can customize your screen layout. Would you like to change it now?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "46156ad0b766a1c926e593aa80a4cd5cd15703367e0cdb476b5fb991451e09df",
+          "english": "Livestream Style"
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "8408f42cb704f5d068e0119f861c5f01f6533e9aac7571397dc9e89ba655ee81",
+          "english": "Keep Current Layout"
+        },
+        {
+          "ordinal": 8,
+          "source_sha256": "84554f3d18dbe1848ba19b3be039138da8b5e2a8d039af525af3683808be8041",
+          "english": "Switch to {LayoutName}?"
         }
       ]
     },
@@ -5033,6 +5105,47 @@
           "ordinal": 26,
           "source_sha256": "69ed375a375321d7422990f406a3fe519c6b35904bd7a4af68048731a200892c",
           "english": "Check the requests filed with the Reclamation Bureau.\r\nYou should find one that offers an Adventure Board as a reward."
+        }
+      ]
+    },
+    {
+      "uasset_sha256": "51e2444fb255e9ebee42a6fccfd8ec8b1cd53c7b4d123ebf13e41deb30af5981",
+      "uexp_sha256": "94ad09c3df3cb0b38b3c02247313ffe33d84f7de82fad6e5f2589e95a342127a",
+      "rows": [
+        {
+          "ordinal": 2,
+          "source_sha256": "a8bae34fedd14db709ccccad61828114cfc8428b27b2023b3857e5fbf2113b31",
+          "english": "Reset your HUD layout to its defaults?"
+        },
+        {
+          "ordinal": 5,
+          "source_sha256": "491d941b29abcfc3d07ebc48012eb7201ebea2d6859dcc2268851374ff73a858",
+          "english": "Use {Key} to open the menu."
+        },
+        {
+          "ordinal": 6,
+          "source_sha256": "433a7396c11c0b14ba92745e9a44a26f2d4e175a57cf73d56b19d5638ddac2ee",
+          "english": "HUD layout reset to defaults."
+        },
+        {
+          "ordinal": 7,
+          "source_sha256": "e9b30cb7ef36b1411539e5ef681127d9278a91d8737e6ef701124c41170c3141",
+          "english": "Show Baseplate"
+        },
+        {
+          "ordinal": 9,
+          "source_sha256": "8302343fa41af4b1919c2b6cd1946ba605eaa3af7d3a8252665a063b5ec762f8",
+          "english": "You can edit your HUD layout on a separate screen."
+        },
+        {
+          "ordinal": 13,
+          "source_sha256": "5ed962917eba09e665d5a0bc2dfe368c09ae7dfaa862ea1200a9a27e352fa174",
+          "english": "Restore Defaults"
+        },
+        {
+          "ordinal": 24,
+          "source_sha256": "dbe0ed72476f03f7137730b4ff81d99ce7c66604befb978af9a75f5949dec6cb",
+          "english": "Apply and Exit"
         }
       ]
     },
